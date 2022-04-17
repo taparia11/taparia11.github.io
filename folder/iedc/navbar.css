@@ -1,0 +1,174 @@
+.hamburger {
+  height: 37px;
+  z-index: 101;
+  position: absolute;
+  left: 93%;
+  transform: translateX(-50%);
+}
+
+.hamburger__inner {
+  display: block;
+  width: 32px;
+  height: 4px;
+  margin-top: 0px;
+  background: #000000;
+  -webkit-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+}
+
+.hamburger__inner::before,
+.hamburger__inner::after {
+  display: block;
+  position: absolute;
+  content: "";
+  z-index: -1;
+  width: 32px;
+  height: 4px;
+  background: #000000;
+  -webkit-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+}
+
+.hamburger__inner2 {
+  background: #ffffff;
+}
+
+.hamburger__inner2::before,
+.hamburger__inner2::after {
+  background: #ffffff;
+}
+
+.kz-headbar-dark .hamburger__inner::before,
+.kz-headbar-dark .hamburger__inner::after {
+  background: #000;
+}
+
+.kz-headbar-dark .hamburger__inner2::before,
+.kz-headbar-dark .hamburger__inner2::after {
+  background: #000;
+}
+
+.kz-headbar-dark .hamburger__inner {
+  background: #000;
+}
+
+.kz-headbar-dark .hamburger__inner2 {
+  background: #000;
+}
+
+.hamburger__inner::before {
+  bottom: 24px;
+}
+
+.hamburger__inner::after {
+  bottom: 15px;
+}
+
+.hamburger--open .hamburger__inner {
+  background: none;
+}
+
+.hamburger--open .hamburger__inner::before,
+.hamburger--open .hamburger__inner::after {
+  bottom: 24px;
+  background: #000;
+}
+
+.hamburger--open .hamburger__inner2::before,
+.hamburger--open .hamburger__inner2::after {
+  bottom: 24px;
+  background: #000;
+}
+
+.hamburger--open .hamburger__inner::before {
+  -webkit-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+
+.hamburger--open .hamburger__inner::after {
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.kz-headbar {
+  align-items: center;
+  color: white;
+  position: relative;
+  padding: 36px 48px;
+}
+
+.kz-headbar-dark {
+  color: black;
+}
+
+.kz-logo2 {
+  object-position: center !important;
+  width: 100px !important;
+  height: 50px !important;
+  border-radius: 0px !important;
+  z-index: 999 !important;
+}
+
+.kz-logo {
+  object-position: center;
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  z-index: 999;
+}
+
+@media (max-width: 576px) {
+  .kz-logo {
+    transform: translate(-30px) !important;
+    width: 100px;
+    height: auto;
+  }
+}
+
+.kz-nav-menu {
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 99;
+  display: none;
+  position: absolute;
+  background: rgba(255, 255, 255, 1);
+
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  background-position: center;
+}
+
+.kz-nav-menu ul {
+  font-size: 1.5rem;
+  color: black;
+  text-transform: uppercase;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  letter-spacing: 3px;
+  list-style: none;
+  font-weight: 300;
+}
+
+.kz-nav-menu ul li {
+  margin-bottom: 8px;
+  padding: 4px 16px;
+  border-radius: 4px;
+  transition: all 0.2s;
+  text-align: center;
+}
+
+.kz-nav-menu ul li:hover {
+  background: black;
+  color: white;
+}
+
+.kz-nav-menu ul li a {
+  text-decoration: none;
+  color: inherit;
+}
