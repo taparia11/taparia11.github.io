@@ -717,7 +717,7 @@ section {
   display: block;
   font-size: 28px;
   font-weight: 700;
-  color: #ffcf88;
+  color: #1e5128;
 }
 .why-us .box h4 {
   font-size: 24px;
@@ -874,7 +874,7 @@ section {
 }
 .events::before {
   content: "";
-  background-color: rgba(12, 11, 10, 0.8);
+  background-color: #112B3C;
   position: absolute;
   top: 0;
   right: 0;
