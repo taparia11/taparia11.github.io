@@ -7,6 +7,7 @@
 
 /*--------------------------------------------------------------
 # General
+
 --------------------------------------------------------------*/
 body {
   font-family: "Poppins", sans-serif;
@@ -940,7 +941,30 @@ section {
 }
 .events .swiper-pagination .swiper-pagination-bullet-active {
   background-color: #ffb03b;
+} 
+#events .btn-book{
+  font-weight: 600;
+  font-size: 13px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  display: inline-block;
+  padding: 12px 30px;
+  border-radius: 50px;
+  transition: 0.5s;
+  line-height: 1;
+  margin: 0 10px;
+  -webkit-animation-delay: 0.8s;
+  animation-delay: 0.8s;
+  color: #fff;
+  border: 2px solid #ffb03b;
+
 }
+#events .btn-menu:hover, #events .btn-book:hover {
+  background: #ffb03b;
+  color: #fff;
+}
+
+
 
 /*--------------------------------------------------------------
 # Book A Table
