@@ -1,0 +1,269 @@
+[
+{
+    "id": "CJ2NPFWR0",
+    "name": "CJ2NPFWR0-intros",
+    "created": 1556926186,
+    "creator": "UJG9WTEKG",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "UJ2ME7HL3",
+        "UJ2MNAS59",
+        "UJ2MPBP7V",
+        "U03DSRZPEF3",
+        "U03DSS09PCH",
+        "U03DSS0L6C9",
+        "U03DSS0RYN5",
+        "U03DSS11WGZ",
+        "U03DSS2GY7K",
+        "U03DSS34FDX",
+        "U03E3U2TPDE",
+        "U03E4059ZH6",
+        "U03E406HS2C",
+        "U03E406P8Q0",
+        "U03E407ASMN",
+        "U03E407FVBJ",
+        "U03E7L58NJU",
+        "U03E8QL4XQQ",
+        "U03E8QMB4N4"
+    ],
+    "pins": [
+        {
+            "id": "1619541259.036300",
+            "type": "C",
+            "created": 1619663220,
+            "user": "U01TB1SDD61",
+            "owner": "U01UH938DQC"
+        },
+        {
+            "id": "1643213932.272600",
+            "type": "C",
+            "created": 1643228576,
+            "user": "U028D815JA0",
+            "owner": "U02VBUQR0E7"
+        }
+    ],
+    "topic": {
+        "value": "superpath directory :point_right::skin-tone-3: <https:\/\/superpath.notion.site\/Superpath-All-the-Links-8c997814496245e0805a2888bd44bcb2>",
+        "creator": "UJG9WTEKG",
+        "last_set": 1633381558
+    },
+    "purpose": {
+        "value": "please say hello!",
+        "creator": "UJG9WTEKG",
+        "last_set": 1556926187
+    }
+},
+{
+    "id": "CJ7QJ4WKB",
+    "name": "CJ7QJ4WKB-career-advice",
+    "created": 1556923430,
+    "creator": "UJG9WTEKG",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "UJ2MPBP7V",
+        "UJ2MQ8SRH",
+        "UJ2N9A3GT",
+        "UJ2NQTCBC",
+        "UJ2QESJ66",
+        "UJ32V555H",
+        "UJ3K7N8GJ",
+        "UJ411MRPU",
+        "UJ420S7MG",
+        "UJ43J7ZEE",
+        "U03E406HS2C",
+        "U03E406P8Q0",
+        "U03E407ASMN",
+        "U03E407FVBJ",
+        "U03E7L58NJU",
+        "U03E8QL4XQQ",
+        "U03E8QMB4N4"
+    ],
+    "pins": [
+        {
+            "id": "1619031176.123200",
+            "type": "C",
+            "created": 1619031611,
+            "user": "U01V7CQF8LC",
+            "owner": "UJG9WTEKG"
+        },
+        {
+            "id": "1646622416.923969",
+            "type": "C",
+            "created": 1646790097,
+            "user": "U02CUMU0PMG",
+            "owner": "U030U5XJG68"
+        }
+    ],
+    "topic": {
+        "value": "ask an anonymous question here → <https:\/\/airtable.com\/shrgX8UCcFDmmnRS5>",
+        "creator": "UJG9WTEKG",
+        "last_set": 1638896106
+    },
+    "purpose": {
+        "value": "Share or solicit career advice.",
+        "creator": "UJG9WTEKG",
+        "last_set": 1557172867
+    }
+},
+{
+    "id": "CJ7QQKJ73",
+    "name": "CJ7QQKJ73-content-strategy-questions",
+    "created": 1556924226,
+    "creator": "UJG9WTEKG",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "UJ2MNAS59",
+        "UJ2MPBP7V",
+        "UJ2MQ8SRH",
+        "UJ2N9A3GT",
+      "U03DK8U2NQ0",
+        "U03DK8U6WGY",
+        "U03DK8WP2QY",
+        "U03DL3XJ4LS",
+        "U03DL880QMS",
+        "U03DNEBHTQU",
+        "U03DRKRTVLG",
+        "U03DRKS6ZDW",
+        "U03DRKTF3KJ",
+        "U03DRKTUBK2",
+        "U03DRKUE0LQ",
+        "U03DSRZ7THP",
+        "U03DSRZHQ8Z",
+        "U03DSRZPEF3",
+        "U03DSS09PCH",
+        "U03DSS0L6C9",
+        "U03DSS0RYN5",
+        "U03DSS11WGZ",
+        "U03DSS2GY7K",
+        "U03DSS34FDX",
+        "U03E3U2TPDE",
+        "U03E4059ZH6",
+        "U03E406HS2C",
+        "U03E406P8Q0",
+        "U03E407ASMN",
+        "U03E407FVBJ",
+        "U03E7L58NJU",
+        "U03E8QL4XQQ",
+        "U03E8QMB4N4"
+    ],
+    "pins": [
+        {
+            "id": "1579003663.024300",
+            "type": "C",
+            "created": 1579019144,
+            "user": "UN3EHV8RK",
+            "owner": "UMQLZTGAE"
+        },
+        {
+            "id": "1579541040.016400",
+            "type": "C",
+            "created": 1579617010,
+            "user": "UN3EHV8RK",
+            "owner": "US3NM8ZHT"
+        },
+        {
+            "id": "1619614970.285100",
+            "type": "C",
+            "created": 1619662475,
+            "user": "U01TB1SDD61",
+            "owner": "U019P0ADPCH"
+        },
+        {
+            "id": "1627121906.151800",
+            "type": "C",
+            "created": 1627127984,
+            "user": "U027KKWUY12",
+            "owner": "U01MVN90X9U"
+        },
+        {
+            "id": "1632231585.368300",
+            "type": "C",
+            "created": 1635156373,
+            "user": "U01704F04QH",
+            "owner": "U0113AV4895"
+        },
+        {
+            "id": "1632241135.379300",
+            "type": "C",
+            "created": 1635156383,
+            "user": "U01704F04QH",
+            "owner": "UJG9WTEKG"
+        },
+        {
+            "id": "1632489331.437200",
+            "type": "C",
+            "created": 1635156403,
+            "user": "U01704F04QH",
+            "owner": "U01CW2WDEEP"
+        },
+        {
+            "id": "1637775636.360000",
+            "type": "C",
+            "created": 1638294237,
+            "user": "U02PA451C3B",
+            "owner": "UUH2ESL66"
+        },
+        {
+            "id": "1643667496.049009",
+            "type": "C",
+            "created": 1643748713,
+            "user": "U02CUMU0PMG",
+            "owner": "U0302RBS7E3"
+        },
+        {
+            "id": "1648150012.455889",
+            "type": "C",
+            "created": 1648633878,
+            "user": "U02CUMU0PMG",
+            "owner": "U032Q4CT9G8"
+        }
+    ],
+    "topic": {
+        "value": ":chart_with_upwards_trend: Sponsored by Casted → <https:\/\/www.casted.us\/>\n\nWelcome to <#CJ7QQKJ73|-content-strategy-questions>! Ask questions in the main channel and use comment threads to offer answers.",
+        "creator": "UJG9WTEKG",
+        "last_set": 1647022147
+    },
+    "purpose": {
+        "value": "Ask anything, literally anything.",
+        "creator": "UJG9WTEKG",
+        "last_set": 1556924227
+    }
+},
+{
+    "id": "CJE3XC0H3",
+    "name": "CJE3XC0H3-announcements",
+    "created": 1556923395,
+    "creator": "UJG9WTEKG",
+    "is_archived": false,
+    "is_general": true,
+    "pins": [
+        {
+            "id": "1587767585.138000",
+            "type": "C",
+            "created": 1591119647,
+            "user": "UJG9WTEKG",
+            "owner": "UJG9WTEKG"
+        },
+        {
+            "id": "1647362588.069399",
+            "type": "C",
+            "created": 1647378653,
+            "user": "UJG9WTEKG",
+            "owner": "UJG9WTEKG"
+        }
+    ],
+    "topic": {
+        "value": "superpath directory: <https:\/\/superpath.notion.site\/Superpath-All-the-Links-8c997814496245e0805a2888bd44bcb2>",
+        "creator": "UJG9WTEKG",
+        "last_set": 1630084541
+    },
+    "purpose": {
+        "value": "This channel is for workspace-wide communication and announcements. All members are in this channel.",
+        "creator": "UJG9WTEKG",
+        "last_set": 1556923395
+    }
+}
+]
