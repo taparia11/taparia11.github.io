@@ -1,0 +1,492 @@
+[
+    {
+        "client_msg_id": "9bac24b6-a3af-4a0c-95f8-3caa9f44a4ea",
+        "type": "message",
+        "text": "<https:\/\/app.rigi.club\/|This product just raised 10 Mn USD. >\n\nQ. What's so unique about this product idea?",
+        "user": "U02PDC6B0HH",
+        "ts": "1650529915.016359",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7ce0a422fcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953759554663_b7ce0a422fcdabf5a771_72.jpg",
+            "first_name": "Shafique",
+            "real_name": "Shafique Gajdhar",
+            "display_name": "Shaf",
+            "team": "T02PFK13YLC",
+            "name": "shafiquegajdhar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/app.rigi.club\/",
+                "image_url": "https:\/\/d16pymai44111.cloudfront.net\/small_meta.jpeg",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 133268,
+                "id": 1,
+                "original_url": "https:\/\/app.rigi.club\/",
+                "fallback": "Rigi - Bharat ka apna broadcast platform",
+                "text": "On Rigi you can join or create your own broadcast channel, groups for unlimited users or do 1 to 1 messaging with your friends &amp; followers!",
+                "title": "Rigi - Bharat ka apna broadcast platform",
+                "title_link": "https:\/\/app.rigi.club\/",
+                "service_name": "app.rigi.club"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pt23m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/app.rigi.club\/",
+                                "text": "This product just raised 10 Mn USD. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nQ. What's so unique about this product idea?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650529915.016359",
+        "reply_count": 8,
+        "reply_users_count": 4,
+        "latest_reply": "1650606165.794389",
+        "reply_users": [
+            "U02UGB8DERY",
+            "U02USELSBRT",
+            "U02PDC6B0HH",
+            "U032AUA6KFV"
+        ],
+        "replies": [
+            {
+                "user": "U02UGB8DERY",
+                "ts": "1650530171.671759"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650531062.220019"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650531160.326409"
+            },
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1650532454.646699"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650532647.137169"
+            },
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1650545208.150519"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650547378.656759"
+            },
+            {
+                "user": "U032AUA6KFV",
+                "ts": "1650606165.794389"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "316c7782-ef65-4b07-98b0-e47b95dd8dcb",
+        "type": "message",
+        "text": "second time founder",
+        "user": "U02UGB8DERY",
+        "ts": "1650530171.671759",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4cda10dd85c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2962250036230_4cda10dd85c264b66a43_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Rajvanshi",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rahulrajvanshi2501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g6Rvm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "second time founder"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650529915.016359",
+        "parent_user_id": "U02PDC6B0HH"
+    },
+    {
+        "client_msg_id": "44db1152-b6e3-4111-9ab4-1ba9791f5ed0",
+        "type": "message",
+        "text": "one word answer: positioning\n\nexplanation: have you heard of <http:\/\/apna.co|apna.co>? it is like linkedin for non-white collar jobs. similarly rigi maybe trying to pitch the platform as an alternative to whatsapp being mostly for an english speaking audience. they may have vernacular as core part of their strategy. idk just theorising what focus on \"bharat\" could mean for a messaging app.",
+        "user": "U02USELSBRT",
+        "ts": "1650531062.220019",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u3na",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "one word answer: positioning\n\nexplanation: have you heard of "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/apna.co",
+                                "text": "apna.co"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? it is like linkedin for non-white collar jobs. similarly rigi maybe trying to pitch the platform as an alternative to whatsapp being mostly for an english speaking audience. they may have vernacular as core part of their strategy. idk just theorising what focus on \"bharat\" could mean for a messaging app."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650529915.016359",
+        "parent_user_id": "U02PDC6B0HH"
+    },
+    {
+        "client_msg_id": "86815cb9-5455-40aa-ad71-99d62cf68095",
+        "type": "message",
+        "text": "as markets grow big and mature, new product innovation comes from positioning existing products to smaller sub-segments looking for specialized features. messaging is behemoth of a market, making it ripe for such disruptions. messaging for bharat, messaging for teenagers, messaging for couples, messaging for businesses, messaging for students etc.",
+        "user": "U02USELSBRT",
+        "ts": "1650531160.326409",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ffXlD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "as markets grow big and mature, new product innovation comes from positioning existing products to smaller sub-segments looking for specialized features. messaging is behemoth of a market, making it ripe for such disruptions. messaging for bharat, messaging for teenagers, messaging for couples, messaging for businesses, messaging for students etc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650529915.016359",
+        "parent_user_id": "U02PDC6B0HH"
+    },
+    {
+        "client_msg_id": "bedf334a-1bac-4c90-92ca-b421771075c7",
+        "type": "message",
+        "text": "Good point. Applies to all industries, markets that grow. Salesforce created CRM category and now there are thousand others.\n\nWhile my question was mostly on the product innovation side and posted in this channel not as a rant but a genuine question for the lack of a better alternate channel.\n\nComing back to Rigi, I looked at their app store listing. It currently has a broadcast feature for content creators, community builders. That's solved by Telegram, WhatsApp. WA is available in 11 Indian languages. So kind of an uphill task for them to acquire users and then keep them engaged via content creators etc. Frankly, the novelty is missing. I maybe off the mark hence the question.",
+        "user": "U02PDC6B0HH",
+        "ts": "1650532454.646699",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7ce0a422fcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953759554663_b7ce0a422fcdabf5a771_72.jpg",
+            "first_name": "Shafique",
+            "real_name": "Shafique Gajdhar",
+            "display_name": "Shaf",
+            "team": "T02PFK13YLC",
+            "name": "shafiquegajdhar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "90w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good point. Applies to all industries, markets that grow. Salesforce created CRM category and now there are thousand others.\n\nWhile my question was mostly on the product innovation side and posted in this channel not as a rant but a genuine question for the lack of a better alternate channel.\n\nComing back to Rigi, I looked at their app store listing. It currently has a broadcast feature for content creators, community builders. That's solved by Telegram, WhatsApp. WA is available in 11 Indian languages. So kind of an uphill task for them to acquire users and then keep them engaged via content creators etc. Frankly, the novelty is missing. I maybe off the mark hence the question."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650529915.016359",
+        "parent_user_id": "U02PDC6B0HH"
+    },
+    {
+        "client_msg_id": "c5fb5dc5-1b0a-4f8a-83c5-408796e8eea0",
+        "type": "message",
+        "text": "Novelty is overrated. Same features packaged differently can sell. You have to make the user care about buying from you.",
+        "user": "U02USELSBRT",
+        "ts": "1650532647.137169",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5xmd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Novelty is overrated. Same features packaged differently can sell. You have to make the user care about buying from you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650529915.016359",
+        "parent_user_id": "U02PDC6B0HH",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U030SDYNX7V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "to your point.\n\nHowever, I was curious to know if there was novelty in their use-case or product itself. I see none.",
+        "files": [
+            {
+                "id": "F03BYA4RDJT",
+                "created": 1650545151,
+                "timestamp": 1650545151,
+                "name": "Screenshot 2022-04-21 at 6.15.47 PM.png",
+                "title": "Screenshot 2022-04-21 at 6.15.47 PM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02PDC6B0HH",
+                "editable": false,
+                "size": 84874,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03BYA4RDJT\/screenshot_2022-04-21_at_6.15.47_pm.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03BYA4RDJT\/download\/screenshot_2022-04-21_at_6.15.47_pm.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BYA4RDJT-ab1ce2467d\/screenshot_2022-04-21_at_6.15.47_pm_64.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BYA4RDJT-ab1ce2467d\/screenshot_2022-04-21_at_6.15.47_pm_80.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BYA4RDJT-ab1ce2467d\/screenshot_2022-04-21_at_6.15.47_pm_360.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 360,
+                "thumb_360_h": 218,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BYA4RDJT-ab1ce2467d\/screenshot_2022-04-21_at_6.15.47_pm_480.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 480,
+                "thumb_480_h": 291,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BYA4RDJT-ab1ce2467d\/screenshot_2022-04-21_at_6.15.47_pm_160.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BYA4RDJT-ab1ce2467d\/screenshot_2022-04-21_at_6.15.47_pm_720.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720_w": 720,
+                "thumb_720_h": 437,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BYA4RDJT-ab1ce2467d\/screenshot_2022-04-21_at_6.15.47_pm_800.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_800_w": 800,
+                "thumb_800_h": 485,
+                "original_w": 880,
+                "original_h": 534,
+                "thumb_tiny": "AwAdADCzHHKLh3ZsIRjAbOff2qcKe5I\/GjjOAi04KMcqM0AIBxjd+tKAR3oAAOQBS0AFFFFAER60oZR0H60pY+1IXI9KAJB06YoqPe3tSlj7UAPopgY7scU+gD\/\/2Q==",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U02PDC6B0HH\/F03BYA4RDJT\/screenshot_2022-04-21_at_6.15.47_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03BYA4RDJT-2722a61770",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02PDC6B0HH",
+        "display_as_bot": false,
+        "ts": "1650545208.150519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ys2Yp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "to your point.\n\nHowever, I was curious to know if there was novelty in their use-case or product itself. I see none."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "77a3ec49-a864-49e8-a7ff-774adceb1950",
+        "thread_ts": "1650529915.016359",
+        "parent_user_id": "U02PDC6B0HH"
+    },
+    {
+        "client_msg_id": "63B5F96F-C13B-43CB-8428-3FBF8C0E8A0C",
+        "type": "message",
+        "text": "As Eric himself pointed out in many interviews that he spoke to many WebEx customers and none were happy. He just went ahead and fixed those issues with Zoom. So maybe a superior product coupled with his understanding of GTM. Having said that both Zoom, WebEx are doing good business today.",
+        "user": "U02USELSBRT",
+        "ts": "1650547378.656759",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NBU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As Eric himself pointed out in many interviews that he spoke to many WebEx customers and none were happy. He just went ahead and fixed those issues with Zoom. So maybe a superior product coupled with his understanding of GTM. Having said that both Zoom, WebEx are doing good business today."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650529915.016359",
+        "parent_user_id": "U02PDC6B0HH"
+    },
+    {
+        "client_msg_id": "90d1929a-0ddd-466d-ad39-863e5c977b59",
+        "type": "message",
+        "text": "What’s your take on Meesho <@U02PDC6B0HH> — any parallels to this?",
+        "user": "U032AUA6KFV",
+        "ts": "1650606165.794389",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9189c1943921",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-17\/3239483991639_9189c1943921bc90d5d9_72.jpg",
+            "first_name": "Sumit",
+            "real_name": "Sumit",
+            "display_name": "Sumit",
+            "team": "T02PFK13YLC",
+            "name": "sumitsuman.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U032AUA6KFV",
+            "ts": "1650606173.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ter",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What’s your take on Meesho "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02PDC6B0HH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " — any parallels to this?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650529915.016359",
+        "parent_user_id": "U02PDC6B0HH"
+    }
+]

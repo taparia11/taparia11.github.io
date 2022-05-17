@@ -1,0 +1,1045 @@
+[
+    {
+        "client_msg_id": "a057782f-b8ef-482e-b796-2681edd3294f",
+        "type": "message",
+        "text": "Can someone summarise this please?\n<https:\/\/www.linkedin.com\/in\/monamohanty\/recent-activity\/shares\/>",
+        "user": "U02PDC6B0HH",
+        "ts": "1649415769.152499",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7ce0a422fcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953759554663_b7ce0a422fcdabf5a771_72.jpg",
+            "first_name": "Shafique",
+            "real_name": "Shafique Gajdhar",
+            "display_name": "Shaf",
+            "team": "T02PFK13YLC",
+            "name": "shafiquegajdhar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PBxBg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can someone summarise this please?\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/monamohanty\/recent-activity\/shares\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649415769.152499",
+        "reply_count": 17,
+        "reply_users_count": 5,
+        "latest_reply": "1649450527.104409",
+        "reply_users": [
+            "U02UZL0FMC1",
+            "U030SDYNX7V",
+            "U02PDC4883V",
+            "U02PDC6B0HH",
+            "U02USELSBRT"
+        ],
+        "replies": [
+            {
+                "user": "U02UZL0FMC1",
+                "ts": "1649418055.467749"
+            },
+            {
+                "user": "U030SDYNX7V",
+                "ts": "1649418358.559709"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649418743.346489"
+            },
+            {
+                "user": "U030SDYNX7V",
+                "ts": "1649419302.048889"
+            },
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1649419372.061979"
+            },
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1649419424.621089"
+            },
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1649419543.591909"
+            },
+            {
+                "user": "U030SDYNX7V",
+                "ts": "1649419591.597529"
+            },
+            {
+                "user": "U02UZL0FMC1",
+                "ts": "1649419593.544379"
+            },
+            {
+                "user": "U030SDYNX7V",
+                "ts": "1649419629.094659"
+            },
+            {
+                "user": "U030SDYNX7V",
+                "ts": "1649420848.010739"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649421222.494389"
+            },
+            {
+                "user": "U02UZL0FMC1",
+                "ts": "1649421571.741519"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649426799.233629"
+            },
+            {
+                "user": "U030SDYNX7V",
+                "ts": "1649430994.510309"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649447162.549799"
+            },
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1649450527.104409"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1649450527.104409"
+    },
+    {
+        "client_msg_id": "898d70b2-2aed-466f-b2cf-ca7de3f41a98",
+        "type": "message",
+        "text": "Honestly, love affair gone wrong. \n\nKinda LinkedIn Swindler of India. \n\n• Mona met Shravan on LinkedIn as professional connection\n• Turned to personal connection \n• He basically looted her off along with 4-5 other women \n• Mona is angry (+4 other women who want to stay confidential) \n• Shravan is f**kd (pardon the language,  it could true\/false - but the allegations are super solid) \nStay tuned for more (until Mona posts an update)",
+        "user": "U02UZL0FMC1",
+        "ts": "1649418055.467749",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "07d1e2d3116d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-28\/3314769628305_07d1e2d3116dd8fa2cb8_72.jpg",
+            "first_name": "Megha",
+            "real_name": "Megha",
+            "display_name": "Megha (CogniSaaS)",
+            "team": "T02PFK13YLC",
+            "name": "hellomeghapoojari",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZwY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Honestly, love affair gone wrong. \n\nKinda LinkedIn Swindler of India. \n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Mona met Shravan on LinkedIn as professional connection"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Turned to personal connection "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "He basically looted her off along with 4-5 other women "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Mona is angry (+4 other women who want to stay confidential) "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Shravan is f**kd (pardon the language,  it could true\/false - but the allegations are super solid) "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nStay tuned for more (until Mona posts an update)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649415769.152499",
+        "parent_user_id": "U02PDC6B0HH"
+    },
+    {
+        "client_msg_id": "7a52c7e6-13b4-4901-987e-ff9fd57b4b85",
+        "type": "message",
+        "text": "profile down?",
+        "user": "U030SDYNX7V",
+        "ts": "1649418358.559709",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "dcaae4952765",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3019783298486_dcaae495276522b44a55_72.png",
+            "first_name": "Niranjan",
+            "real_name": "Niranjan Bala",
+            "display_name": "Niranjan Bala",
+            "team": "T02PFK13YLC",
+            "name": "nb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yuFe0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "profile down?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649415769.152499",
+        "parent_user_id": "U02PDC6B0HH"
+    },
+    {
+        "client_msg_id": "48559cd0-831d-4992-8c51-fa917b438568",
+        "type": "message",
+        "text": "no :(",
+        "user": "U030SDYNX7V",
+        "ts": "1649418373.185499",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "dcaae4952765",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3019783298486_dcaae495276522b44a55_72.png",
+            "first_name": "Niranjan",
+            "real_name": "Niranjan Bala",
+            "display_name": "Niranjan Bala",
+            "team": "T02PFK13YLC",
+            "name": "nb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hz7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no :("
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649395678.037939",
+        "parent_user_id": "U030SDYNX7V"
+    },
+    {
+        "client_msg_id": "faccb7a1-15c1-4193-ad12-c1de962dc6f4",
+        "type": "message",
+        "text": "My God!",
+        "user": "U02PDC4883V",
+        "ts": "1649418743.346489",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t5JJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My God!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649415769.152499",
+        "parent_user_id": "U02PDC6B0HH"
+    },
+    {
+        "client_msg_id": "8bd7cf10-d6ac-419a-9914-f188b4b977dd",
+        "type": "message",
+        "text": "Shravan Tickoo?",
+        "user": "U030SDYNX7V",
+        "ts": "1649419302.048889",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "dcaae4952765",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3019783298486_dcaae495276522b44a55_72.png",
+            "first_name": "Niranjan",
+            "real_name": "Niranjan Bala",
+            "display_name": "Niranjan Bala",
+            "team": "T02PFK13YLC",
+            "name": "nb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9h20H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Shravan Tickoo?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649415769.152499",
+        "parent_user_id": "U02PDC6B0HH"
+    },
+    {
+        "client_msg_id": "328d19e4-0922-4df1-b226-ba9705c27af0",
+        "type": "message",
+        "text": "<@U030SDYNX7V> open link lazy",
+        "user": "U02PDC6B0HH",
+        "ts": "1649419372.061979",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7ce0a422fcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953759554663_b7ce0a422fcdabf5a771_72.jpg",
+            "first_name": "Shafique",
+            "real_name": "Shafique Gajdhar",
+            "display_name": "Shaf",
+            "team": "T02PFK13YLC",
+            "name": "shafiquegajdhar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0nOv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U030SDYNX7V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " open link lazy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649415769.152499",
+        "parent_user_id": "U02PDC6B0HH"
+    },
+    {
+        "client_msg_id": "80e7b2e7-ec90-4993-bf44-85dc064ac92a",
+        "type": "message",
+        "text": "<@U02UZL0FMC1> thanks for the summary. I did read through her super long posts which could've been way shorter.",
+        "user": "U02PDC6B0HH",
+        "ts": "1649419424.621089",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7ce0a422fcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953759554663_b7ce0a422fcdabf5a771_72.jpg",
+            "first_name": "Shafique",
+            "real_name": "Shafique Gajdhar",
+            "display_name": "Shaf",
+            "team": "T02PFK13YLC",
+            "name": "shafiquegajdhar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EFYuz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02UZL0FMC1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thanks for the summary. I did read through her super long posts which could've been way shorter."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649415769.152499",
+        "parent_user_id": "U02PDC6B0HH"
+    },
+    {
+        "client_msg_id": "ef9a124c-204b-489e-a2f9-0d731ea1382a",
+        "type": "message",
+        "text": "Looks like Shravan was running his CBC and brand building on linkedin as a product manager sans conscience or morals.",
+        "user": "U02PDC6B0HH",
+        "ts": "1649419543.591909",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7ce0a422fcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953759554663_b7ce0a422fcdabf5a771_72.jpg",
+            "first_name": "Shafique",
+            "real_name": "Shafique Gajdhar",
+            "display_name": "Shaf",
+            "team": "T02PFK13YLC",
+            "name": "shafiquegajdhar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gFA5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks like Shravan was running his CBC and brand building on linkedin as a product manager sans conscience or morals."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649415769.152499",
+        "parent_user_id": "U02PDC6B0HH"
+    },
+    {
+        "client_msg_id": "57fa7387-78d6-40e2-9f25-962b58470aa4",
+        "type": "message",
+        "text": "my bad link broke on phone :disappointed:",
+        "user": "U030SDYNX7V",
+        "ts": "1649419591.597529",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "dcaae4952765",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3019783298486_dcaae495276522b44a55_72.png",
+            "first_name": "Niranjan",
+            "real_name": "Niranjan Bala",
+            "display_name": "Niranjan Bala",
+            "team": "T02PFK13YLC",
+            "name": "nb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OdGDQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "my bad link broke on phone "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649415769.152499",
+        "parent_user_id": "U02PDC6B0HH"
+    },
+    {
+        "client_msg_id": "687c15cc-8521-4d55-91e7-ca86d2bb41b1",
+        "type": "message",
+        "text": "Yep, most of it could have been crisp, but the amount of efforts and words she's put in, she is ANGRY (obviously) and hurt (maybe).",
+        "user": "U02UZL0FMC1",
+        "ts": "1649419593.544379",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "07d1e2d3116d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-28\/3314769628305_07d1e2d3116dd8fa2cb8_72.jpg",
+            "first_name": "Megha",
+            "real_name": "Megha",
+            "display_name": "Megha (CogniSaaS)",
+            "team": "T02PFK13YLC",
+            "name": "hellomeghapoojari",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02UZL0FMC1",
+            "ts": "1649419648.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ByFS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yep, most of it could have been crisp, but the amount of efforts and words she's put in, she is ANGRY (obviously) and hurt (maybe)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649415769.152499",
+        "parent_user_id": "U02PDC6B0HH"
+    },
+    {
+        "client_msg_id": "cde39d78-e8c4-492e-bb55-ea2287fa31bd",
+        "type": "message",
+        "text": "2 months pehle ka post me shravan has put here name too",
+        "user": "U030SDYNX7V",
+        "ts": "1649419629.094659",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "dcaae4952765",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3019783298486_dcaae495276522b44a55_72.png",
+            "first_name": "Niranjan",
+            "real_name": "Niranjan Bala",
+            "display_name": "Niranjan Bala",
+            "team": "T02PFK13YLC",
+            "name": "nb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X4p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2 months pehle ka post me shravan has put here name too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649415769.152499",
+        "parent_user_id": "U02PDC6B0HH"
+    },
+    {
+        "client_msg_id": "a86086ea-fb51-4064-9758-e4b8d66f30a7",
+        "type": "message",
+        "text": "its not a marketing copy which needs to be crisp :disappointed:",
+        "user": "U030SDYNX7V",
+        "ts": "1649420848.010739",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "dcaae4952765",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3019783298486_dcaae495276522b44a55_72.png",
+            "first_name": "Niranjan",
+            "real_name": "Niranjan Bala",
+            "display_name": "Niranjan Bala",
+            "team": "T02PFK13YLC",
+            "name": "nb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JKx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "its not a marketing copy which needs to be crisp "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649415769.152499",
+        "parent_user_id": "U02PDC6B0HH",
+        "reactions": [
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U02USELSBRT",
+                    "U030N8RHURZ",
+                    "U03560PQ082"
+                ],
+                "count": 3
+            },
+            {
+                "name": "smiling_face_with_tear",
+                "users": [
+                    "U02UZL0FMC1",
+                    "U03560PQ082"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "26985d63-878a-4427-ac3c-3227123d71ac",
+        "type": "message",
+        "text": "I can't believe people do this in today's day and age. :see_no_evil:",
+        "user": "U02PDC4883V",
+        "ts": "1649421222.494389",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U6g0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can't believe people do this in today's day and age. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "see_no_evil"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649415769.152499",
+        "parent_user_id": "U02PDC6B0HH"
+    },
+    {
+        "client_msg_id": "ba75961f-b5e4-403e-ad3e-6bc6d4987904",
+        "type": "message",
+        "text": "<@U030SDYNX7V> well not that she was marketing her story, but it was WAY too long and beating around the bush. She even has version 3.1 &amp; 3.2 in the middle, which could have been just 3. I mean, I am dissecting too much. K BYE.",
+        "user": "U02UZL0FMC1",
+        "ts": "1649421571.741519",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "07d1e2d3116d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-28\/3314769628305_07d1e2d3116dd8fa2cb8_72.jpg",
+            "first_name": "Megha",
+            "real_name": "Megha",
+            "display_name": "Megha (CogniSaaS)",
+            "team": "T02PFK13YLC",
+            "name": "hellomeghapoojari",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wkybT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U030SDYNX7V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " well not that she was marketing her story, but it was WAY too long and beating around the bush. She even has version 3.1 & 3.2 in the middle, which could have been just 3. I mean, I am dissecting too much. K BYE."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649415769.152499",
+        "parent_user_id": "U02PDC6B0HH"
+    },
+    {
+        "client_msg_id": "d3b0f6d5-fa7f-4cb9-b331-5df7a0a48083",
+        "type": "message",
+        "text": "<@U02PDC4883V> bhai price 90% cut kar diye 2x still doesnt cut it na :disappointed: phat rahi hai meri ab",
+        "user": "U030SDYNX7V",
+        "ts": "1649423432.548209",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "dcaae4952765",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3019783298486_dcaae495276522b44a55_72.png",
+            "first_name": "Niranjan",
+            "real_name": "Niranjan Bala",
+            "display_name": "Niranjan Bala",
+            "team": "T02PFK13YLC",
+            "name": "nb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IO6pb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02PDC4883V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " bhai price 90% cut kar diye 2x still doesnt cut it na "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            },
+                            {
+                                "type": "text",
+                                "text": " phat rahi hai meri ab"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649395678.037939",
+        "parent_user_id": "U030SDYNX7V",
+        "reactions": [
+            {
+                "name": "see_no_evil",
+                "users": [
+                    "U02PDC4883V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "474b2fc8-470f-49ed-a90b-903813a645c6",
+        "type": "message",
+        "text": ":sweat_smile:",
+        "user": "U02PDC4883V",
+        "ts": "1649426799.233629",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OrI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649415769.152499",
+        "parent_user_id": "U02PDC6B0HH"
+    },
+    {
+        "client_msg_id": "c08ad769-fd8f-4a38-ad88-6f223941c4cd",
+        "type": "message",
+        "text": "despite all this #shravan is posting non stop on linkedin :confused:",
+        "user": "U030SDYNX7V",
+        "ts": "1649430994.510309",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "dcaae4952765",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3019783298486_dcaae495276522b44a55_72.png",
+            "first_name": "Niranjan",
+            "real_name": "Niranjan Bala",
+            "display_name": "Niranjan Bala",
+            "team": "T02PFK13YLC",
+            "name": "nb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R2fa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "despite all this #shravan is posting non stop on linkedin "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649415769.152499",
+        "parent_user_id": "U02PDC6B0HH"
+    },
+    {
+        "client_msg_id": "FC5A3545-61D6-4E2A-A5AC-CB6A4F53CF6F",
+        "type": "message",
+        "text": "Indians love a good gossip. Kya hi karoge jaan ke <@U02PDC6B0HH> :smile_cat:",
+        "user": "U02USELSBRT",
+        "ts": "1649447162.549799",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EB1zL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Indians love a good gossip. Kya hi karoge jaan ke "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02PDC6B0HH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile_cat"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649415769.152499",
+        "parent_user_id": "U02PDC6B0HH"
+    },
+    {
+        "client_msg_id": "fcb2e1c8-196d-4028-a405-dff8c3525ddb",
+        "type": "message",
+        "text": "Curiosity ko thandak pahuchaunga",
+        "user": "U02PDC6B0HH",
+        "ts": "1649450527.104409",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7ce0a422fcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953759554663_b7ce0a422fcdabf5a771_72.jpg",
+            "first_name": "Shafique",
+            "real_name": "Shafique Gajdhar",
+            "display_name": "Shaf",
+            "team": "T02PFK13YLC",
+            "name": "shafiquegajdhar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E5iEF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Curiosity ko thandak pahuchaunga"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649415769.152499",
+        "parent_user_id": "U02PDC6B0HH",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U030KV8R8RL",
+                    "U0389EB28UR"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

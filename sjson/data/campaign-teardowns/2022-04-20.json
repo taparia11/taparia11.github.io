@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "916fd4d7-27ca-42ef-8cd8-c49bc5e9234c",
+        "type": "message",
+        "text": "Hi everyone! What are your favorite examples of innovatively designed campaigns for a community launch? We are launching our community for our product users soon and would love to see some campaigns for inspiration. Thanks !",
+        "user": "U03BY8AREUE",
+        "ts": "1650497629.810879",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "ga3fe74b16a9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a3fe74b16a99357d533641948a8d9196.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Jeroline",
+            "real_name": "Jeroline Benitkaran",
+            "display_name": "Jeroline Benitkaran",
+            "team": "T02PFK13YLC",
+            "name": "jeroline.benitkaran",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CmSy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone! What are your favorite examples of innovatively designed campaigns for a community launch? We are launching our community for our product users soon and would love to see some campaigns for inspiration. Thanks !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650497629.810879",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1651034709.982499",
+        "reply_users": [
+            "U02VBNKU9T6"
+        ],
+        "replies": [
+            {
+                "user": "U02VBNKU9T6",
+                "ts": "1651034709.982499"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

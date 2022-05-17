@@ -1,0 +1,117 @@
+[
+    {
+        "type": "message",
+        "text": "Here is a template that we built at Chilipiper and it has been very well received by the Sales team.",
+        "files": [
+            {
+                "id": "F03BXDLC74P",
+                "created": 1650532688,
+                "timestamp": 1650532688,
+                "name": "Battle card [Template] (2).pdf",
+                "title": "Battle card [Template] (2).pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U033DB58U9E",
+                "editable": false,
+                "size": 58275,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03BXDLC74P\/battle_card__template___2_.pdf?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03BXDLC74P\/download\/battle_card__template___2_.pdf?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BXDLC74P-26dff29475\/battle_card__template___2__thumb_pdf.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/s11s.slack.com\/files\/U033DB58U9E\/F03BXDLC74P\/battle_card__template___2_.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03BXDLC74P-6d246db5ef",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U033DB58U9E",
+        "display_as_bot": false,
+        "ts": "1650532819.252979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PkAIC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is a template that we built at Chilipiper and it has been very well received by the Sales team."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U033DB58U9E",
+            "ts": "1650532835.000000"
+        },
+        "client_msg_id": "3430fbf4-d1f2-4f72-952a-8a167793e10e",
+        "thread_ts": "1650510724.124989",
+        "parent_user_id": "U02V5Q7DUPJ",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U02V5Q7DUPJ",
+                    "U037UUE6TV3",
+                    "U039HH3LP43"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9D9A43A8-E4AC-4A44-A09C-4152B978E5CF",
+        "type": "message",
+        "text": "Thanks Sushmitha ",
+        "user": "U03A5S0KQMA",
+        "ts": "1650572586.366539",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "88e919ee0538",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3345884762756_88e919ee053802facac0_72.jpg",
+            "first_name": "Sampath",
+            "real_name": "Sampath Putrevu",
+            "display_name": "Sampath Putrevu",
+            "team": "T02PFK13YLC",
+            "name": "sampath",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oz+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Sushmitha "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650352213.523069",
+        "parent_user_id": "U03A5S0KQMA"
+    }
+]

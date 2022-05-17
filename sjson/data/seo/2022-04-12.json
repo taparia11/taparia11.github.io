@@ -1,0 +1,1068 @@
+[
+    {
+        "client_msg_id": "3A272283-E05F-4E41-A3AF-4F70D5E81684",
+        "type": "message",
+        "text": "Hey Folks,\n\nIf you had you to choose between SemRush and Ahref which one would you recommend for keyword research, site audit, content gaps, competitor analysis ",
+        "user": "U02V991KYHZ",
+        "ts": "1649751227.885619",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "f0c4509f3ab9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-16\/3097040294967_f0c4509f3ab980ac4b04_72.png",
+            "first_name": "Swaroop",
+            "real_name": "Swaroop Patil S",
+            "display_name": "Swaroop Patil S",
+            "team": "T02PFK13YLC",
+            "name": "swaroop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j56u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Folks,\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "If you had you to choose between SemRush and Ahref which one would you recommend for keyword research, site audit, content gaps, competitor analysis "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649751227.885619",
+        "reply_count": 12,
+        "reply_users_count": 12,
+        "latest_reply": "1649939478.328289",
+        "reply_users": [
+            "U02PDC6B0HH",
+            "U038F88AS0N",
+            "U02U94HSBV4",
+            "U0363DZU3QF",
+            "U0325QQQALR",
+            "U02PDC4883V",
+            "U03560PQ082",
+            "U030ZBUDAUC",
+            "U02VA7QD8UB",
+            "U02V991KYHZ",
+            "U03B77PCDNY",
+            "U03AQFPP9BL"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1649751544.375789"
+            },
+            {
+                "user": "U038F88AS0N",
+                "ts": "1649752357.756039"
+            },
+            {
+                "user": "U02U94HSBV4",
+                "ts": "1649753039.099719"
+            },
+            {
+                "user": "U0363DZU3QF",
+                "ts": "1649753090.814749"
+            },
+            {
+                "user": "U0325QQQALR",
+                "ts": "1649753818.088979"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649754696.003469"
+            },
+            {
+                "user": "U03560PQ082",
+                "ts": "1649756461.349109"
+            },
+            {
+                "user": "U030ZBUDAUC",
+                "ts": "1649765036.524969"
+            },
+            {
+                "user": "U02VA7QD8UB",
+                "ts": "1649771017.474889"
+            },
+            {
+                "user": "U02V991KYHZ",
+                "ts": "1649776011.523559"
+            },
+            {
+                "user": "U03B77PCDNY",
+                "ts": "1649828897.187209"
+            },
+            {
+                "user": "U03AQFPP9BL",
+                "ts": "1649939478.328289"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1649939478.328289"
+    },
+    {
+        "client_msg_id": "cbfc85ec-2f3a-4b33-a09a-ad6056530b1f",
+        "type": "message",
+        "text": "Ahrefs - usability + their content is really helpful.",
+        "user": "U02PDC6B0HH",
+        "ts": "1649751544.375789",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7ce0a422fcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953759554663_b7ce0a422fcdabf5a771_72.jpg",
+            "first_name": "Shafique",
+            "real_name": "Shafique Gajdhar",
+            "display_name": "Shaf",
+            "team": "T02PFK13YLC",
+            "name": "shafiquegajdhar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4xs7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ahrefs - usability + their content is really helpful."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649751227.885619",
+        "parent_user_id": "U02V991KYHZ",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U031QKGPNRK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "788b7e0a-872e-4b24-b3bd-6424c0d61772",
+        "type": "message",
+        "text": "*SEMrush* - if you want to use it for SEO, Social Media &amp; google ads\n\n*Ahrefs* - if you want to use it for SEO",
+        "user": "U038F88AS0N",
+        "ts": "1649752357.756039",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4d61edd236cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-25\/3293951216915_4d61edd236cc03311be9_72.jpg",
+            "first_name": "Akash",
+            "real_name": "Akash Yadav",
+            "display_name": "Aakash",
+            "team": "T02PFK13YLC",
+            "name": "akash290",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YNC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "SEMrush ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "- if you want to use it for SEO, Social Media & google ads\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Ahrefs ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "- if you want to use it for SEO"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649751227.885619",
+        "parent_user_id": "U02V991KYHZ",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U031KD0PNTX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a9cd2ebb-cce3-45fc-a412-9e671a0e4755",
+        "type": "message",
+        "text": "have used both and i prefer ahrefs because i feel it is more consistent with competitor intelligence\n\nyou can run site audits using screamingfrog as well",
+        "user": "U02U94HSBV4",
+        "ts": "1649753039.099719",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e0f144e6826c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2991564885808_e0f144e6826cc213d921_72.jpg",
+            "first_name": "Pulkit",
+            "real_name": "Pulkit Jain",
+            "display_name": "pulkit",
+            "team": "T02PFK13YLC",
+            "name": "pulkitjain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ODd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "have used both and i prefer ahrefs because i feel it is more consistent with competitor intelligence\n\nyou can run site audits using screamingfrog as well"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649751227.885619",
+        "parent_user_id": "U02V991KYHZ"
+    },
+    {
+        "client_msg_id": "9da1d1a0-866d-4ada-ad28-6f82b773d698",
+        "type": "message",
+        "text": "Thank you guys :raised_hands:",
+        "user": "U0363DZU3QF",
+        "ts": "1649753090.814749",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b6e781296de3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-13\/3381574854021_b6e781296de3cbc53491_72.png",
+            "first_name": "Swaroop",
+            "real_name": "Swaroop Patil",
+            "display_name": "Swaroop Patil",
+            "team": "T02PFK13YLC",
+            "name": "swaroop705",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SHFh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you guys "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649751227.885619",
+        "parent_user_id": "U02V991KYHZ"
+    },
+    {
+        "client_msg_id": "84A9EBB6-1CE5-4C1B-8DBE-06ECAE02F946",
+        "type": "message",
+        "text": "Ahrefs- Link analysis. Both Internal &amp; external. Site Audit. This is possible in the free plan. \nSEMrush- everything else! ",
+        "user": "U0325QQQALR",
+        "ts": "1649753818.088979",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "027715c28842",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-05\/3046616728471_027715c288428653e385_72.png",
+            "first_name": "Aiswarya",
+            "real_name": "Aiswarya Menon",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "aiswaryakaimal95",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BfDs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ahrefs- Link analysis. Both Internal & external. Site Audit. This is possible in the free plan. \nSEMrush- everything else! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649751227.885619",
+        "parent_user_id": "U02V991KYHZ",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U0363DZU3QF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ce02aae1-6332-422d-88db-e2deb7785060",
+        "type": "message",
+        "text": "Ahrefs - By far the best. The only reason I will use semrush is for their paid campaigns data",
+        "user": "U02PDC4883V",
+        "ts": "1649754696.003469",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w1m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ahrefs - By far the best. The only reason I will use semrush is for their paid campaigns data"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649751227.885619",
+        "parent_user_id": "U02V991KYHZ",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U031YH4D36U"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U0363DZU3QF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "466bc991-3576-40ac-b805-590f3191bd7b",
+        "type": "message",
+        "text": "SemRush hands down",
+        "user": "U03560PQ082",
+        "ts": "1649756461.349109",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1db32098d186",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-01\/3176023965474_1db32098d186ac873a3d_72.png",
+            "first_name": "Ahaan",
+            "real_name": "Ahaan Pandit",
+            "display_name": "Ahaan Pandit",
+            "team": "T02PFK13YLC",
+            "name": "ahaan.pandit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rnq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "SemRush hands down"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649751227.885619",
+        "parent_user_id": "U02V991KYHZ",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U0363DZU3QF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7f29bb1a-bf39-48aa-8362-a46591f36f95",
+        "type": "message",
+        "text": "If you have budget for multiple tools then ahrefs. If not then SEMrush ftw",
+        "user": "U030ZBUDAUC",
+        "ts": "1649765036.524969",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "063b5a69fe7c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-01\/3039406922852_063b5a69fe7c36968981_72.png",
+            "first_name": "Ankit",
+            "real_name": "Ankit CK",
+            "display_name": "Ankit CK",
+            "team": "T02PFK13YLC",
+            "name": "ankit994",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "89UK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you have budget for multiple tools then ahrefs. If not then SEMrush ftw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649751227.885619",
+        "parent_user_id": "U02V991KYHZ"
+    },
+    {
+        "client_msg_id": "A467313B-19EA-4D70-8C64-5D3D00695D5D",
+        "type": "message",
+        "text": "Wow, thank you so much",
+        "user": "U030KSSTADU",
+        "ts": "1649765816.199459",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "57b118c1f8b8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-29\/3028881925876_57b118c1f8b864fcd329_72.png",
+            "first_name": "Neha",
+            "real_name": "Neha Pujari",
+            "display_name": "Neha",
+            "team": "T02PFK13YLC",
+            "name": "neha.pujari02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y1vK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wow, thank you so much"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649681801.686159",
+        "parent_user_id": "U02VA7QD8UB",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02VA7QD8UB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f79d4aa4-044c-47e4-af56-e639866ad094",
+        "type": "message",
+        "text": "Ahrefs. I have used both and found SEMrush to be confusing. Plus, someone on the internet conducted a study on the efficacy of the data from 4-5 tools, and Ahrefs came out as the winner.",
+        "user": "U02VA7QD8UB",
+        "ts": "1649771017.474889",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "84e512c8a3fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2999004078388_84e512c8a3feeb8de835_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "T02PFK13YLC",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OLjm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ahrefs. I have used both and found SEMrush to be confusing. Plus, someone on the internet conducted a study on the efficacy of the data from 4-5 tools, and Ahrefs came out as the winner."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649751227.885619",
+        "parent_user_id": "U02V991KYHZ"
+    },
+    {
+        "client_msg_id": "610281AA-7132-453E-ABD1-9C19E0EF54FD",
+        "type": "message",
+        "text": "Thanks guys :pray::skin-tone-2:",
+        "user": "U02V991KYHZ",
+        "ts": "1649776011.523559",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "f0c4509f3ab9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-16\/3097040294967_f0c4509f3ab980ac4b04_72.png",
+            "first_name": "Swaroop",
+            "real_name": "Swaroop Patil S",
+            "display_name": "Swaroop Patil S",
+            "team": "T02PFK13YLC",
+            "name": "swaroop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i1PfX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks guys "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "skin_tone": 2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649751227.885619",
+        "parent_user_id": "U02V991KYHZ"
+    },
+    {
+        "client_msg_id": "e9abcc66-f15e-4e4f-ab93-aa6f1c0ae1b1",
+        "type": "message",
+        "text": "Hello Everyone,\n\nAny advice or tips on How to start with the content Marketing Plan for a new Product. We have now 0 Blog. We are kind of a marketplace that connects Founders &amp; Investors. So I should map 2 Way content marketing strategy.\n\nIf anyone here has any experience on Building a content marketing  strategy for a marketplace kind of a Product.",
+        "user": "U02U9C39MAA",
+        "ts": "1649776801.784799",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "dbdfc2517fe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3030723717859_dbdfc2517fe20d6cd4f1_72.jpg",
+            "first_name": "Nihal",
+            "real_name": "Nihal Ahamed",
+            "display_name": "Nihal Ahamed",
+            "team": "T02PFK13YLC",
+            "name": "reachoutnihal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/PWi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Everyone,\n\nAny advice or tips on How to start with the content Marketing Plan for a new Product. We have now 0 Blog. We are kind of a marketplace that connects Founders & Investors. So I should map 2 Way content marketing strategy.\n\nIf anyone here has any experience on Building a content marketing  strategy for a marketplace kind of a Product."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649776801.784799",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1649924020.423629",
+        "reply_users": [
+            "U02USELSBRT",
+            "U031KD0PNTX",
+            "U03AF2HBZPX",
+            "U02VAPDACUQ",
+            "U03014JNGMQ"
+        ],
+        "replies": [
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649777379.589569"
+            },
+            {
+                "user": "U031KD0PNTX",
+                "ts": "1649778154.959569"
+            },
+            {
+                "user": "U03AF2HBZPX",
+                "ts": "1649815265.869339"
+            },
+            {
+                "user": "U02VAPDACUQ",
+                "ts": "1649835827.903769"
+            },
+            {
+                "user": "U03014JNGMQ",
+                "ts": "1649924020.423629"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2686a708-9712-4a68-a62e-1e3ccc14a747",
+        "type": "message",
+        "text": "why blog? is your goal to write x blogs or is your goal to get more business?",
+        "user": "U02USELSBRT",
+        "ts": "1649777379.589569",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YYV0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "why blog? is your goal to write x blogs or is your goal to get more business?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649776801.784799",
+        "parent_user_id": "U02U9C39MAA"
+    },
+    {
+        "client_msg_id": "bddc8134-009a-4559-a4b4-81cb0c5565a6",
+        "type": "message",
+        "text": "I am assuming it is for SEO purposes because it is not on <#C02UJ1ED951|content-marketing> Build a user persona, identify where your product should come into their radar and then start by researching for good intent topics\/keywords, building the content and ranking them. You can additionally build out in-depth content on current trends in the space depending on your bandwidth to ensure share-ability.",
+        "user": "U031KD0PNTX",
+        "ts": "1649778154.959569",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "d8e3a1cc6ed8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3305635315237_d8e3a1cc6ed88c5c929a_72.jpg",
+            "first_name": "Anand",
+            "real_name": "Anand",
+            "display_name": "theanand",
+            "team": "T02PFK13YLC",
+            "name": "anand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gqNl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am assuming it is for SEO purposes because it is not on "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C02UJ1ED951"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Build a user persona, identify where your product should come into their radar and then start by researching for good intent topics\/keywords, building the content and ranking them. You can additionally build out in-depth content on current trends in the space depending on your bandwidth to ensure share-ability."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649776801.784799",
+        "parent_user_id": "U02U9C39MAA",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U030ZR9D0FK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "441F99FF-9FF1-41F1-B771-CDD9F3F8EF8C",
+        "type": "message",
+        "text": "Good read\n\n<https:\/\/twitter.com\/rahulmarthak\/status\/1513893074287861761?s=21&amp;t=YD3FUCawm0j2IpWPch6Csw|https:\/\/twitter.com\/rahulmarthak\/status\/1513893074287861761?s=21&amp;t=YD3FUCawm0j2IpWPch6Csw>",
+        "user": "U02V991KYHZ",
+        "ts": "1649783857.319329",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "f0c4509f3ab9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-16\/3097040294967_f0c4509f3ab980ac4b04_72.png",
+            "first_name": "Swaroop",
+            "real_name": "Swaroop Patil S",
+            "display_name": "Swaroop Patil S",
+            "team": "T02PFK13YLC",
+            "name": "swaroop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/rahulmarthak\/status\/1513893074287861761?s=21&amp;t=YD3FUCawm0j2IpWPch6Csw",
+                "ts": 1649775210,
+                "image_url": "https:\/\/pbs.twimg.com\/media\/FQJl7fLagAAeNw2.jpg",
+                "image_width": 1200,
+                "image_height": 624,
+                "image_bytes": 57966,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/rahulmarthak\/status\/1513893074287861761?s=21&amp;t=YD3FUCawm0j2IpWPch6Csw",
+                "fallback": "<https:\/\/twitter.com\/RahulMarthak|@RahulMarthak>: How <https:\/\/twitter.com\/mydukaanapp|@mydukaanapp> leverages the power of SEO!\n\nAn Indian Startup valued at around $70M, generates more than 400k monthly organic traffic &amp; crazy 700k Backlinks.\n\nLet’s dive into Dukaan’s #SEO Strategy\n\nA Thread :thread: :point_down: <https:\/\/pbs.twimg.com\/media\/FQJl7fLagAAeNw2.jpg>",
+                "text": "How <https:\/\/twitter.com\/mydukaanapp|@mydukaanapp> leverages the power of SEO!\n\nAn Indian Startup valued at around $70M, generates more than 400k monthly organic traffic &amp; crazy 700k Backlinks.\n\nLet’s dive into Dukaan’s #SEO Strategy\n\nA Thread :thread: :point_down: <https:\/\/pbs.twimg.com\/media\/FQJl7fLagAAeNw2.jpg>",
+                "author_name": "Rahul Marthak",
+                "author_link": "https:\/\/twitter.com\/RahulMarthak\/status\/1513893074287861761",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1491090492850794497\/9ovsiZOT_normal.jpg",
+                "author_subname": "@RahulMarthak",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yF2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good read\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/rahulmarthak\/status\/1513893074287861761?s=21&t=YD3FUCawm0j2IpWPch6Csw",
+                                "text": "https:\/\/twitter.com\/rahulmarthak\/status\/1513893074287861761?s=21&t=YD3FUCawm0j2IpWPch6Csw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649783857.319329",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1649828802.891609",
+        "reply_users": [
+            "U03B77PCDNY"
+        ],
+        "replies": [
+            {
+                "user": "U03B77PCDNY",
+                "ts": "1649828802.891609"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1879ffec-7bed-4ee6-bc28-639202bb6f67",
+        "type": "message",
+        "text": "Yes, 2 personas (in broader terms)\n\nStart with absolutely low volume keywords (long tail). Use zero volume keywords (these convert the most). Find these keywords via reddit, Quora, Google \"search suggestions\", Google \"People also ask\", Google \"related searches\".\n\nFocus on topic clusters. Optimize pages for schema. Internal linking.",
+        "user": "U03AF2HBZPX",
+        "ts": "1649815265.869339",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g282e41117ee",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/282e41117eea26a162917755cabc65f2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Vikas",
+            "real_name": "Vikas Kalwani",
+            "display_name": "Vikas Kalwani",
+            "team": "T02PFK13YLC",
+            "name": "myself",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03AF2HBZPX",
+            "ts": "1649815287.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lnXS4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, 2 personas (in broader terms)\n\nStart with absolutely low volume keywords (long tail). Use zero volume keywords (these convert the most). Find these keywords via reddit, Quora, Google \"search suggestions\", Google \"People also ask\", Google \"related searches\".\n\nFocus on topic clusters. Optimize pages for schema. Internal linking."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649776801.784799",
+        "parent_user_id": "U02U9C39MAA"
+    },
+    {
+        "client_msg_id": "dd64dc55-f0ef-4623-9071-7c34888b69a9",
+        "type": "message",
+        "text": "wow. Loved it.  Even this podcast is very interesting.\n\n<https:\/\/www.youtube.com\/watch?v=zUpSXxGpV7U&amp;t=341s>",
+        "user": "U03B77PCDNY",
+        "ts": "1649828802.891609",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9e5ac69cfeb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-15\/3393119759589_9e5ac69cfeb96a6329a1_72.png",
+            "first_name": "SAURABH",
+            "real_name": "SAURABH WANI",
+            "display_name": "SAURABH WANI",
+            "team": "T02PFK13YLC",
+            "name": "saurabh843",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=zUpSXxGpV7U&amp;t=341s",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/zUpSXxGpV7U\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/zUpSXxGpV7U?feature=oembed&start=341&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=zUpSXxGpV7U&amp;t=341s",
+                "fallback": "YouTube Video: Suumit Shah, Founder & CEO of Dukaan - Building $100M startup during pandemic",
+                "title": "Suumit Shah, Founder &amp; CEO of Dukaan - Building $100M startup during pandemic",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=zUpSXxGpV7U&amp;t=341s",
+                "author_name": "Billion Moonshots",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCnI43tidIWopauEnbl1UVjg",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MU9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wow. Loved it.  Even this podcast is very interesting.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=zUpSXxGpV7U&t=341s"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649783857.319329",
+        "parent_user_id": "U02V991KYHZ",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U0363DZU3QF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0004e332-e6df-47cb-8281-6a473725e387",
+        "type": "message",
+        "text": "Ahrefs is best when it comes to backlinks. Be it content gap to build more links or competitor analysis as well. But for keyword research and content planning, Semrush is better. IMO",
+        "user": "U03B77PCDNY",
+        "ts": "1649828897.187209",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9e5ac69cfeb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-15\/3393119759589_9e5ac69cfeb96a6329a1_72.png",
+            "first_name": "SAURABH",
+            "real_name": "SAURABH WANI",
+            "display_name": "SAURABH WANI",
+            "team": "T02PFK13YLC",
+            "name": "saurabh843",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yo43",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ahrefs is best when it comes to backlinks. Be it content gap to build more links or competitor analysis as well. But for keyword research and content planning, Semrush is better. IMO"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649751227.885619",
+        "parent_user_id": "U02V991KYHZ",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U0363DZU3QF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

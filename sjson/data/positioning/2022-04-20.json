@@ -1,0 +1,1088 @@
+[
+    {
+        "client_msg_id": "5e4c1e9e-b618-4549-add5-c3baca2dd8c4",
+        "type": "message",
+        "text": "Love how Dunford simplifies a layered problem that is positioning, and shows all the little dynamics at play.",
+        "user": "U039HH3LP43",
+        "ts": "1650443212.696759",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1144b026b649",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-31\/3336199201073_1144b026b6497d778b90_72.jpg",
+            "first_name": "Adarsh",
+            "real_name": "Adarsh Srivastava",
+            "display_name": "Adarsh Srivastava",
+            "team": "T02PFK13YLC",
+            "name": "ray.realchamp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VHe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Love how Dunford simplifies a layered problem that is positioning, and shows all the little dynamics at play."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650384478.070889",
+        "parent_user_id": "U02UGB8DERY"
+    },
+    {
+        "client_msg_id": "ea49dd9a-bc9b-4eab-b5fd-d785753bbad7",
+        "type": "message",
+        "text": "• Overcoming Misalignment\n    ◦ It's common that different departments of a company are misaligned on the value the product brings.\n    ◦ Different people can have different understanding of what the product is, the ideal customer. It leads to customer confusion.\n    ◦ *How to overcome misalignment?*\n        ▪︎ Make it a team sport.\n            • No single team should be responsible for positioning a product.\n            • Have representatives available from different departments during discussion. From product management to marketing, sales, and even the top-level executives if possible.\n        ▪︎ Have a shared language.\n            • Start with the basics. Make sure everyone's on the same page about the definitions of the terms you're using.\n        ▪︎ Let go of the past\n            • People who've positioned and worked on the product till now may have a hard time letting go of their idea of what the product is.\n            • Make sure people are ready to think of the product in a newer way.\n        ▪︎ Gain access of customer data\n            • We need sales people in the room who can speak about how a customer makes a purchase decision. The data should be available ahead of time.\n            • What data to look for?\n                ◦ Who are the customers?\n                ◦ What other products do they consider before they buy yours?\n                ◦ Why do they buy your product?\n    ◦ *Key Learnings*\n        ▪︎ Alignment is a hard won prize.\n        ▪︎ What you feed into the process determines what you get out of it.\n        ▪︎ Necessary knowledge may be available within your organization - the right process can extract it from different teams.\n• Your Uniqueness\n    ◦ Strong positioning is centered and makes your product unique.\n    ◦ Mapping out uniqueness\n        ▪︎ *Competitive Alternatives*\n            • We think of competitor alternatives as products customers can choose if not ours. A better way to think of this is by questioning what exactly the customer would do if our product didn't exist. This is a broader way of thinking about competitive alternatives.\n            • To discover the uniqueness of your product, you need to understand what you're positioning yourself against.\n            • You'll discover that there are more competitors than what the media displays. Example: A person could replace a CRM software with an Excel sheet or WhatsApp to take notes, save links.\n        ▪︎ *Unique Attributes*\n            • List your unique attributes.\n            • What have you got that the competitors don't?\n            • It can include features such as different pricing model, patent on some technology.\n            • Start by listing the characteristics of your product and then compare to competitive alternatives.\n            • Focus on differences more than how they're value. Just the features you individually have.\n",
+        "user": "U02UGB8DERY",
+        "ts": "1650497624.499439",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4cda10dd85c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2962250036230_4cda10dd85c264b66a43_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Rajvanshi",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rahulrajvanshi2501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B1Dz",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Overcoming Misalignment"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "It's common that different departments of a company are misaligned on the value the product brings."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Different people can have different understanding of what the product is, the ideal customer. It leads to customer confusion."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "How to overcome misalignment?",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Make it a team sport."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "No single team should be responsible for positioning a product."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Have representatives available from different departments during discussion. From product management to marketing, sales, and even the top-level executives if possible."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Have a shared language."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Start with the basics. Make sure everyone's on the same page about the definitions of the terms you're using."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Let go of the past"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "People who've positioned and worked on the product till now may have a hard time letting go of their idea of what the product is."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Make sure people are ready to think of the product in a newer way."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Gain access of customer data"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "We need sales people in the room who can speak about how a customer makes a purchase decision. The data should be available ahead of time."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What data to look for?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Who are the customers?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What other products do they consider before they buy yours?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Why do they buy your product?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 4,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Key Learnings",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Alignment is a hard won prize."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What you feed into the process determines what you get out of it."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Necessary knowledge may be available within your organization - the right process can extract it from different teams."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Your Uniqueness"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Strong positioning is centered and makes your product unique."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Mapping out uniqueness"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Competitive Alternatives",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "We think of competitor alternatives as products customers can choose if not ours. A better way to think of this is by questioning what exactly the customer would do if our product didn't exist. This is a broader way of thinking about competitive alternatives."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "To discover the uniqueness of your product, you need to understand what you're positioning yourself against."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "You'll discover that there are more competitors than what the media displays. Example: A person could replace a CRM software with an Excel sheet or WhatsApp to take notes, save links."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Unique Attributes",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "List your unique attributes."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What have you got that the competitors don't?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "It can include features such as different pricing model, patent on some technology."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Start by listing the characteristics of your product and then compare to competitive alternatives."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Focus on differences more than how they're value. Just the features you individually have."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U039MLMNSQH",
+                    "U02UU99BCQ2"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5e566294-604c-401a-9d1a-61ace2a60806",
+        "type": "message",
+        "text": "• [[ScreenCloud Case Study on Uniqueness]]\n    ◦ Digital signage has been used since the early 2000s to display promotions, ads, information. ScreenCloud, launched in 2015. It provides software-first approach to distribute and manage content on any screen without specialized hardware. To position itself in the market, the company mapped out the list of competitors. Not just the direct competitors but also things companies would do in absence of ScreenCloud. They grouped the competitors based on their approach to solve the problem. Then they proceeded in mapping out the features, the attributes of their own product to get clarity on the differentiated value they provided in comparison to the competitor alternatives. It led them to understanding how different their product is (they were software-first, cheaper than other solutions and provided low-cost hardware to the ones needing it. To target enterprises, they also had enterprise-grade security) and after collecting all of this data, it was easier for them to position themselves in the market as the unique ones.\n    ◦ *Key Learnings*\n        ▪︎ Organize competitive alternatives by groups rather than individually.\n        ▪︎ List every differentiated feature, no matter how useful or valuable it is.\n        ▪︎ Differentiated features will lead to differentiated value themes. Use the value themes to position the product to best-fit customers.\n",
+        "user": "U02UGB8DERY",
+        "ts": "1650497674.866559",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4cda10dd85c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2962250036230_4cda10dd85c264b66a43_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Rajvanshi",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rahulrajvanshi2501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jAjTm",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "[[ScreenCloud Case Study on Uniqueness]]"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Digital signage has been used since the early 2000s to display promotions, ads, information. ScreenCloud, launched in 2015. It provides software-first approach to distribute and manage content on any screen without specialized hardware. To position itself in the market, the company mapped out the list of competitors. Not just the direct competitors but also things companies would do in absence of ScreenCloud. They grouped the competitors based on their approach to solve the problem. Then they proceeded in mapping out the features, the attributes of their own product to get clarity on the differentiated value they provided in comparison to the competitor alternatives. It led them to understanding how different their product is (they were software-first, cheaper than other solutions and provided low-cost hardware to the ones needing it. To target enterprises, they also had enterprise-grade security) and after collecting all of this data, it was easier for them to position themselves in the market as the unique ones."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Key Learnings",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Organize competitive alternatives by groups rather than individually."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "List every differentiated feature, no matter how useful or valuable it is."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Differentiated features will lead to differentiated value themes. Use the value themes to position the product to best-fit customers."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9fed997c-1599-4363-ac9b-89f06753b24a",
+        "type": "message",
+        "text": "• Differentiated Value\n    ◦ After mapping out the capabilities of a product, it's essential to know the actual value it provides to best-fit customers.\n    ◦ Value is the hardest step.\n    ◦ There's only some amount of attention from customers and the challenge is to use that to convey the differentiated value.\n    ◦ \"My product can run SQL!\" \"So what? How does it help me?\"\n        ▪︎ It conveys a feature without conveying the value it provides and hence it's important to gain clarity on what exactly the feature helps the customers with.\n        ▪︎ Translate features to value.\n    ◦ \"Our product helps you easily manage and store customer data\" \"Great\"\n        ▪︎ This conveys value derived from a feature (In this example, the capability of using SQL)\n    ◦ Question what the product enables for your customer.\n    ◦ For consumer-end businesses, products based on social status and money thrive.\n    ◦ For B2B products, it's good if you can save or make them more money.\n    ◦ How to find differentiated value? (A 4 step guide)\n        ▪︎ Identify a big-deal feature.\n        ▪︎ Translate that feature to value.\n            • You could continuosly question \"So what?\" to each of the propositions.\n        ▪︎ Map features and capabilities to create value theme.\n            • Link and group relevant features and market them to strengthen your perceived value instead of the 10 other features that are for other different things.\n        ▪︎ Cluster groups of value-themes.\n    ◦ Make sure to convey differentiation while conveying value. Don't dilute the purpose of the product to a point where it sounds like it's just another product.\n    ◦ Don't get too hung up on words and copywriting. Begin with conceptual clarity.\n    ◦ Don't use the features that are important and necessary but don't qualify as value differentiators (e.g. security, speed)\n        ▪︎ Don't make it the sole differentiator, use it as a nice-thing-to-have.\n    ◦ *Key Learnings*\n        ▪︎ Make people feel safe and give them the ability to speak up.\n        ▪︎ Differentiated value is a combination of value themes.\n        ▪︎ Differentiated value is rooted in unique attributes.\n",
+        "user": "U02UGB8DERY",
+        "ts": "1650508073.478279",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4cda10dd85c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2962250036230_4cda10dd85c264b66a43_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Rajvanshi",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rahulrajvanshi2501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UeOX",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Differentiated Value"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "After mapping out the capabilities of a product, it's essential to know the actual value it provides to best-fit customers."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Value is the hardest step."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "There's only some amount of attention from customers and the challenge is to use that to convey the differentiated value."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "\"My product can run SQL!\" \"So what? How does it help me?\""
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "It conveys a feature without conveying the value it provides and hence it's important to gain clarity on what exactly the feature helps the customers with."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Translate features to value."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "\"Our product helps you easily manage and store customer data\" \"Great\""
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "This conveys value derived from a feature (In this example, the capability of using SQL)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Question what the product enables for your customer."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "For consumer-end businesses, products based on social status and money thrive."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "For B2B products, it's good if you can save or make them more money."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "How to find differentiated value? (A 4 step guide)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Identify a big-deal feature."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Translate that feature to value."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "You could continuosly question \"So what?\" to each of the propositions."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Map features and capabilities to create value theme."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Link and group relevant features and market them to strengthen your perceived value instead of the 10 other features that are for other different things."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Cluster groups of value-themes."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Make sure to convey differentiation while conveying value. Don't dilute the purpose of the product to a point where it sounds like it's just another product."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Don't get too hung up on words and copywriting. Begin with conceptual clarity."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Don't use the features that are important and necessary but don't qualify as value differentiators (e.g. security, speed)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Don't make it the sole differentiator, use it as a nice-thing-to-have."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Key Learnings",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Make people feel safe and give them the ability to speak up."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Differentiated value is a combination of value themes."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Differentiated value is rooted in unique attributes."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U039MLMNSQH",
+                    "U02USELSBRT",
+                    "U031BVBGHCK"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

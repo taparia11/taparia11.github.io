@@ -1,0 +1,54 @@
+[
+    {
+        "client_msg_id": "DEED886F-1D28-40FE-B14C-C4E45EB2E50C",
+        "type": "message",
+        "text": "I'm glad you liked it <@U039H3ZSRD3>. We loved making it it, thanks for sharing :green_heart:",
+        "user": "U03ANN5FLSX",
+        "ts": "1649498656.227259",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "f795194e6fe6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3365847265781_f795194e6fe6da81f0ac_72.png",
+            "first_name": "Prince",
+            "real_name": "Prince Parihar",
+            "display_name": "Prince Parihar",
+            "team": "T02PFK13YLC",
+            "name": "princeparihar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2tBZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm glad you liked it "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U039H3ZSRD3"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". We loved making it it, thanks for sharing "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "green_heart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649394145.052539",
+        "parent_user_id": "U039H3ZSRD3"
+    }
+]

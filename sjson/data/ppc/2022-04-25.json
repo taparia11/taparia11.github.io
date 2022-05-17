@@ -1,0 +1,235 @@
+[
+    {
+        "client_msg_id": "a96379a6-313d-4c7d-83cd-fb030235d72d",
+        "type": "message",
+        "text": "Thanks Shiyam!",
+        "user": "U02V5HU4EP2",
+        "ts": "1650894040.747399",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "gb6fa30f50de",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b6fa30f50de947886fed88281c7644fe.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Shubham",
+            "real_name": "Shubham",
+            "display_name": "Shubham",
+            "team": "T02PFK13YLC",
+            "name": "shubhamgrover.sg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aX1az",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Shiyam!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650864586.728649",
+        "parent_user_id": "U02V5HU4EP2"
+    },
+    {
+        "client_msg_id": "48e9b736-fcd7-4838-8245-562a8155a773",
+        "type": "message",
+        "text": "We are partners with Primer. I think they are much cheaper and more effective than Metadata on Audience building. They don't do campaign management.",
+        "user": "U03158A1WPK",
+        "ts": "1650895469.333519",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5837aa37daee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3029573541474_5837aa37daee415bd34b_72.jpg",
+            "first_name": "Srikrishna",
+            "real_name": "Srikrishna Factors.ai",
+            "display_name": "Srikrishna Factors.ai",
+            "team": "T02PFK13YLC",
+            "name": "srikrishna",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RuVeR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We are partners with Primer. I think they are much cheaper and more effective than Metadata on Audience building. They don't do campaign management."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650864586.728649",
+        "parent_user_id": "U02V5HU4EP2"
+    },
+    {
+        "client_msg_id": "eb037473-96da-4e61-83f3-67492f653229",
+        "type": "message",
+        "text": "Check 6sense as well",
+        "user": "U03158A1WPK",
+        "ts": "1650895480.654069",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5837aa37daee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3029573541474_5837aa37daee415bd34b_72.jpg",
+            "first_name": "Srikrishna",
+            "real_name": "Srikrishna Factors.ai",
+            "display_name": "Srikrishna Factors.ai",
+            "team": "T02PFK13YLC",
+            "name": "srikrishna",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uvspL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Check 6sense as well"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650864586.728649",
+        "parent_user_id": "U02V5HU4EP2"
+    },
+    {
+        "client_msg_id": "d896ae6e-06af-4669-9910-1f341b7f8609",
+        "type": "message",
+        "text": "Thanks <@U03158A1WPK>",
+        "user": "U02V5HU4EP2",
+        "ts": "1650895984.163259",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "gb6fa30f50de",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b6fa30f50de947886fed88281c7644fe.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Shubham",
+            "real_name": "Shubham",
+            "display_name": "Shubham",
+            "team": "T02PFK13YLC",
+            "name": "shubhamgrover.sg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pkaF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03158A1WPK"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650864586.728649",
+        "parent_user_id": "U02V5HU4EP2"
+    },
+    {
+        "client_msg_id": "70af8b2d-51e1-4b31-8e8c-19ee55c61e40",
+        "type": "message",
+        "text": "Dei Google - <https:\/\/www.linkedin.com\/posts\/ferenczkaszoni_seo-passiveincome-seoinspiration-activity-6919641166946660353-_sno\/>",
+        "user": "U02UMJJJALA",
+        "ts": "1650950632.601389",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9b9817ebeca8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-19\/2973660754755_9b9817ebeca8c211a97a_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Nair",
+            "display_name": "Rahul Nair",
+            "team": "T02PFK13YLC",
+            "name": "rahultheinvader",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/posts\/ferenczkaszoni_seo-passiveincome-seoinspiration-activity-6919641166946660353-_sno\/",
+                "image_url": "https:\/\/media-exp1.licdn.com\/dms\/image\/C4D22AQEISD7ro5JA_A\/feedshare-shrink_800\/0\/1649771012416?e=2147483647&v=beta&t=Q3q8rRXRRYdDeD3dHiFUr65cbz6jhuMFbA_S79zUO1w",
+                "image_width": 313,
+                "image_height": 250,
+                "image_bytes": 79025,
+                "service_icon": "https:\/\/static-exp1.licdn.com\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/posts\/ferenczkaszoni_seo-passiveincome-seoinspiration-activity-6919641166946660353-_sno\/",
+                "fallback": "Fery Kaszoni on LinkedIn: #seo #passiveincome #seoinspiration | 146 comments",
+                "text": "This website makes £50K per month by scraping featured snippets and Also Asked answers, and reposting them on their website. When Google says “don’t post... 146 comments on LinkedIn",
+                "title": "Fery Kaszoni on LinkedIn: #seo #passiveincome #seoinspiration | 146 comments",
+                "title_link": "https:\/\/www.linkedin.com\/posts\/ferenczkaszoni_seo-passiveincome-seoinspiration-activity-6919641166946660353-_sno\/",
+                "service_name": "linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EYVR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dei Google - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/ferenczkaszoni_seo-passiveincome-seoinspiration-activity-6919641166946660353-_sno\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "face_palm",
+                "users": [
+                    "U031KD0PNTX",
+                    "U030SDYNX7V"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

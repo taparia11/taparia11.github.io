@@ -1,0 +1,114 @@
+[
+    {
+        "client_msg_id": "46834D65-2280-4E73-9F7B-0237DCD16C42",
+        "type": "message",
+        "text": "Did a linkedin love session with Bolo live founder (a platform for content creators focusing on rural and tier 2+ cities). Do let me know how i can make these sessions better\n\n<https:\/\/www.linkedin.com\/posts\/activity-6918429940812029952-RRe4|https:\/\/www.linkedin.com\/posts\/activity-6918429940812029952-RRe4>",
+        "user": "U03AJ8BHKNC",
+        "ts": "1649494623.809269",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "2133b8282666",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-06\/3353492600340_2133b828266683f99ee6_72.png",
+            "first_name": "Doulos",
+            "real_name": "Doulos Jose",
+            "display_name": "dj",
+            "team": "T02PFK13YLC",
+            "name": "mail",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/posts\/activity-6918429940812029952-RRe4",
+                "image_url": "https:\/\/media-exp1.licdn.com\/dms\/image\/C4E24AQEg8EkKKfxj9A\/feedshare-live-thumbnail_high\/0\/1649482235572?e=2147483647&v=beta&t=gbeL12AGoUkbnP9ArsjXq8TIPwMUY1bO-oIbIhMBWPk",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 48650,
+                "service_icon": "https:\/\/static-exp1.licdn.com\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/posts\/activity-6918429940812029952-RRe4",
+                "fallback": "Pushkar Singh on LinkedIn: Creator Economy 2.0  Powered by Restream https:\/\/restream.io\/ | 23 comments",
+                "text": "Creator Economy 2.0 Powered by Restream <https:\/\/restream.io\/>... 23 comments on LinkedIn",
+                "title": "Pushkar Singh on LinkedIn: Creator Economy 2.0  Powered by Restream https:\/\/restream.io\/ | 23 comments",
+                "title_link": "https:\/\/www.linkedin.com\/posts\/activity-6918429940812029952-RRe4",
+                "service_name": "linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5CD4c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Did a linkedin love session with Bolo live founder (a platform for content creators focusing on rural and tier 2+ cities). Do let me know how i can make these sessions better\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/activity-6918429940812029952-RRe4",
+                                "text": "https:\/\/www.linkedin.com\/posts\/activity-6918429940812029952-RRe4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "65f9ac4f-0d51-4bd1-8cd7-ec5ecd2ecc97",
+        "type": "message",
+        "text": "Really nicely done. But <@U02PDC6B0HH> ++",
+        "user": "U02TTEFFU6B",
+        "ts": "1649495219.231399",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Zg3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Really nicely done. But "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02PDC6B0HH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ++"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648826605.760009",
+        "parent_user_id": "U030N8RHURZ"
+    }
+]

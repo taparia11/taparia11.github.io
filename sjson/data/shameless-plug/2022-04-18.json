@@ -1,0 +1,178 @@
+[
+    {
+        "client_msg_id": "b3106a2c-6847-4efd-8808-e2fb2075b7a2",
+        "type": "message",
+        "text": "Last week, we launched <https:\/\/s11s.slack.com\/archives\/C0318NH5G3C\/p1649760878779189|our podcast episode with Shafique>.  As promised, the episode with <@U02PDC4883V> is now out: <https:\/\/salespanel.io\/podcasts\/sales-and-marketing-alignment-early-stage\/>\n\n*There are no ads or lead magnets.*\n\nSiddharth is a very down-to-earth guy and I think that this is the most heartfelt conversation we had. He is an open book and it was an absolute blast speaking with him. Here's <https:\/\/www.linkedin.com\/posts\/nilanganray_marketing-saas-b2bmarketing-activity-6921756847230078976-c-P3|my favorite part from the conversation>.",
+        "user": "U036NSXKBPZ",
+        "ts": "1650275659.247569",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "fb6b2eb740c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-06\/3350153326259_fb6b2eb740c9a0d703c2_72.jpg",
+            "first_name": "Nilangan",
+            "real_name": "Nilangan Ray",
+            "display_name": "Nilangan Ray",
+            "team": "T02PFK13YLC",
+            "name": "nilanganray",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rQxkb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last week, we launched "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/s11s.slack.com\/archives\/C0318NH5G3C\/p1649760878779189",
+                                "text": "our podcast episode with Shafique"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".  As promised, the episode with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02PDC4883V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is now out: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/salespanel.io\/podcasts\/sales-and-marketing-alignment-early-stage\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "There are no ads or lead magnets.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nSiddharth is a very down-to-earth guy and I think that this is the most heartfelt conversation we had. He is an open book and it was an absolute blast speaking with him. Here's "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/nilanganray_marketing-saas-b2bmarketing-activity-6921756847230078976-c-P3",
+                                "text": "my favorite part from the conversation"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650275659.247569",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650275806.031509",
+        "reply_users": [
+            "U02PDC6B0HH"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1650275806.031509"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1650275806.031509",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U030SDYNX7V",
+                    "U02VBNKU9T6"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U0362R42317"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f5e3c145-39e6-40b4-bc5b-7731f0cafffa",
+        "type": "message",
+        "text": "<@U02PDC4883V> :heart:",
+        "user": "U02PDC6B0HH",
+        "ts": "1650275806.031509",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7ce0a422fcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953759554663_b7ce0a422fcdabf5a771_72.jpg",
+            "first_name": "Shafique",
+            "real_name": "Shafique Gajdhar",
+            "display_name": "Shaf",
+            "team": "T02PFK13YLC",
+            "name": "shafiquegajdhar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V0LvB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02PDC4883V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650275659.247569",
+        "parent_user_id": "U036NSXKBPZ",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02PDC4883V",
+                    "U02USELSBRT",
+                    "U02ULN6EFNV",
+                    "U02UY3EPQDA"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

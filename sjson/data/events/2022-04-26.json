@@ -1,0 +1,144 @@
+[
+    {
+        "client_msg_id": "e91b42f9-5b36-4512-9ccf-02608f6c0e66",
+        "type": "message",
+        "text": "Would love to collaborate with some event manager folks for running online B2B events",
+        "user": "U0323V4CLRY",
+        "ts": "1650962154.364559",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bda2aafa72dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-22\/3275541779442_bda2aafa72dde9c08430_72.jpg",
+            "first_name": "Samyak",
+            "real_name": "Samyak tripathi",
+            "display_name": "samyak",
+            "team": "T02PFK13YLC",
+            "name": "samyaktripathi060",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Mo\/1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would love to collaborate with some event manager folks for running online B2B events"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650962154.364559",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1650985297.843949",
+        "reply_users": [
+            "U03560PQ082",
+            "U0323V4CLRY"
+        ],
+        "replies": [
+            {
+                "user": "U03560PQ082",
+                "ts": "1650965858.988219"
+            },
+            {
+                "user": "U0323V4CLRY",
+                "ts": "1650985297.843949"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "83ab8cae-341a-4bb6-8947-60b2679f1ad8",
+        "type": "message",
+        "text": "<@U035SR6DNQ6>",
+        "user": "U03560PQ082",
+        "ts": "1650965858.988219",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1db32098d186",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-01\/3176023965474_1db32098d186ac873a3d_72.png",
+            "first_name": "Ahaan",
+            "real_name": "Ahaan Pandit",
+            "display_name": "Ahaan Pandit",
+            "team": "T02PFK13YLC",
+            "name": "ahaan.pandit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VJML",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U035SR6DNQ6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650962154.364559",
+        "parent_user_id": "U0323V4CLRY"
+    },
+    {
+        "client_msg_id": "729b95a5-0d11-4c57-9b7f-fec9e13d0440",
+        "type": "message",
+        "text": "<@U035SR6DNQ6> are you interested",
+        "user": "U0323V4CLRY",
+        "ts": "1650985297.843949",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bda2aafa72dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-22\/3275541779442_bda2aafa72dde9c08430_72.jpg",
+            "first_name": "Samyak",
+            "real_name": "Samyak tripathi",
+            "display_name": "samyak",
+            "team": "T02PFK13YLC",
+            "name": "samyaktripathi060",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ilu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U035SR6DNQ6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " are you interested"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650962154.364559",
+        "parent_user_id": "U0323V4CLRY"
+    }
+]

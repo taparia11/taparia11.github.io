@@ -1,0 +1,46 @@
+[
+    {
+        "client_msg_id": "fdc01398-9fca-4793-ac21-a118e0c00086",
+        "type": "message",
+        "text": "<@U030E27CBB3> would love to catch up for 10-15 mins on your evaluation for martal. DMing you",
+        "user": "U03B6AGE0HE",
+        "ts": "1650433078.447179",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "306c7bd13fbe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-14\/3375621829495_306c7bd13fbe2fbf40e2_72.png",
+            "first_name": "Pritesh",
+            "real_name": "Pritesh Vora",
+            "display_name": "Pritesh Vora",
+            "team": "T02PFK13YLC",
+            "name": "pritesh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RkLg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U030E27CBB3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " would love to catch up for 10-15 mins on your evaluation for martal. DMing you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649911291.939689",
+        "parent_user_id": "U03B6AGE0HE"
+    }
+]

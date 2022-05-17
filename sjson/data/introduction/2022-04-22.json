@@ -1,0 +1,597 @@
+[
+    {
+        "client_msg_id": "a210f145-79a0-411b-9c6e-a33810f72ba1",
+        "type": "message",
+        "text": "Hey folks :blob-wave: <https:\/\/www.linkedin.com\/in\/richiekhandelwal\/|Richie> here. I am a co-founder at <http:\/\/hello.pricelabs.co\/|PriceLabs>, a vertical SaaS startup, that does dynamic pricing for hospitality sector - ie we are the algorithm that raises rates for hotels while you are browsing on travel websites. :grimacing: We are an SMB\/Mid-market focused product with mostly self-serve and some sales assisted motion.\n\nHere to learn more about marketing and building a marketing function. I am also the founder who knows very little about marketing and may show up on <#C02TULUG2QJ|s11s-anonymous> as \"oh no founder asked me how we can go viral!\" :slightly_smiling_face:\n\nIn all earnestness, looking to learn how to build a marketing function that works for PriceLabs - not a copy \/ paste.\n\nPrior to PriceLabs, I ran operations, finance and several other functions at MindTickle. Before that, have done consulting, venture capital and Oil\/Gas field work.",
+        "user": "U03AG3YBVDM",
+        "ts": "1650611917.270269",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g4c5654476f5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4c5654476f5b2a8c4dbd4d6bacda9c96.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Richie",
+            "real_name": "Richie Khandelwal",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "richie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03AG3YBVDM",
+            "ts": "1650616258.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MYf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey folks "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blob-wave"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/richiekhandelwal\/",
+                                "text": "Richie"
+                            },
+                            {
+                                "type": "text",
+                                "text": " here. I am a co-founder at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/hello.pricelabs.co\/",
+                                "text": "PriceLabs"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", a vertical SaaS startup, that does dynamic pricing for hospitality sector - ie we are the algorithm that raises rates for hotels while you are browsing on travel websites. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grimacing"
+                            },
+                            {
+                                "type": "text",
+                                "text": " We are an SMB\/Mid-market focused product with mostly self-serve and some sales assisted motion.\n\nHere to learn more about marketing and building a marketing function. I am also the founder who knows very little about marketing and may show up on "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C02TULUG2QJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " as \"oh no founder asked me how we can go viral!\" "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nIn all earnestness, looking to learn how to build a marketing function that works for PriceLabs - not a copy \/ paste.\n\nPrior to PriceLabs, I ran operations, finance and several other functions at MindTickle. Before that, have done consulting, venture capital and Oil\/Gas field work."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650611917.270269",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1650715496.957929",
+        "reply_users": [
+            "U02TTEFFU6B",
+            "U03560PQ082",
+            "U03AG3YBVDM",
+            "U02PDC4883V",
+            "U031QKGPNRK"
+        ],
+        "replies": [
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1650617621.132089"
+            },
+            {
+                "user": "U03560PQ082",
+                "ts": "1650618948.517969"
+            },
+            {
+                "user": "U03AG3YBVDM",
+                "ts": "1650620078.176009"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650645449.336239"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1650715496.957929"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1650715496.957929",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U02VA7QD8UB",
+                    "U031P3UUGN4",
+                    "U02U6FZRHRV",
+                    "U0303ANJV8R",
+                    "U032NQB0V6X",
+                    "U02V9QUDK1Q",
+                    "U02UUCE1ASD",
+                    "U039MLMNSQH",
+                    "U0325QQQALR",
+                    "U03C4NNJWGK",
+                    "U02UJBHEQVA",
+                    "U03AQFPP9BL",
+                    "U02PDC4883V",
+                    "U02USELSBRT",
+                    "U0380S2BZ9A"
+                ],
+                "count": 15
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02V9QUDK1Q",
+                    "U02PDC4883V",
+                    "U03D78YQQL8"
+                ],
+                "count": 3
+            },
+            {
+                "name": "wave::skin-tone-4",
+                "users": [
+                    "U0362R42317"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4ff6b6d9-bb31-4002-9e34-83fb6c7b1ed5",
+        "type": "message",
+        "text": "Hey Richie. Happy to see you here. :))",
+        "user": "U02TTEFFU6B",
+        "ts": "1650617621.132089",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V\/rvC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Richie. Happy to see you here. :))"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650611917.270269",
+        "parent_user_id": "U03AG3YBVDM",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03AG3YBVDM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5b25eddd-a439-48b9-abb5-7db1daecc789",
+        "type": "message",
+        "text": "Welcome Richie!\nQuick question: How to beat your algorithm? Asking for a friend:laughing:",
+        "user": "U03560PQ082",
+        "ts": "1650618948.517969",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1db32098d186",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-01\/3176023965474_1db32098d186ac873a3d_72.png",
+            "first_name": "Ahaan",
+            "real_name": "Ahaan Pandit",
+            "display_name": "Ahaan Pandit",
+            "team": "T02PFK13YLC",
+            "name": "ahaan.pandit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gT07",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome Richie!\nQuick question: How to beat your algorithm? Asking for a friend"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650611917.270269",
+        "parent_user_id": "U03AG3YBVDM",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U02VD2JL8N8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fa350fea-f8e1-40f7-9922-3452414e3555",
+        "type": "message",
+        "text": "Haha! join us in the journey and maybe get some discounts with our customers :stuck_out_tongue:",
+        "user": "U03AG3YBVDM",
+        "ts": "1650620078.176009",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g4c5654476f5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4c5654476f5b2a8c4dbd4d6bacda9c96.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Richie",
+            "real_name": "Richie Khandelwal",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "richie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mqw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Haha! join us in the journey and maybe get some discounts with our customers "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650611917.270269",
+        "parent_user_id": "U03AG3YBVDM",
+        "reactions": [
+            {
+                "name": "dart",
+                "users": [
+                    "U03A397SJCF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "35064074-cf00-4664-b43c-6375bec43c1a",
+        "type": "message",
+        "text": "Hey Richie - Welcome to the community!",
+        "user": "U02PDC4883V",
+        "ts": "1650645449.336239",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DYN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Richie - Welcome to the community!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650611917.270269",
+        "parent_user_id": "U03AG3YBVDM",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03AG3YBVDM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "125CADA9-B462-4081-AB6B-DE7D4A63D591",
+        "type": "message",
+        "text": "Hello everyone, I am Smita Gaur, currently a marketing student. \nI introduced myself on anonymous channel few weeks back. A lot of people made me feel welcome and <@U02USELSBRT> gave me a friendly reminder that we all start from somewhere.\n\nI was following Rohit and Abhash’s content for a while and got to know about this community. So excited to learn from all of you and make some friends along the way. :)",
+        "user": "U03AW06L9CN",
+        "ts": "1650683406.181229",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "473590606c4f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-11\/3376658291874_473590606c4f0894338e_72.jpg",
+            "first_name": "Smita",
+            "real_name": "Smita Gaur",
+            "display_name": "Smita Gaur",
+            "team": "T02PFK13YLC",
+            "name": "gaur.smita2896",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AOASK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello everyone, I am Smita Gaur, currently a marketing student. \nI introduced myself on anonymous channel few weeks back. A lot of people made me feel welcome and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02USELSBRT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " gave me a friendly reminder that we all start from somewhere.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "I was following Rohit and Abhash’s content for a while and got to know about this community. So excited to learn from all of you and make some friends along the way. :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650683406.181229",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1650716170.917749",
+        "reply_users": [
+            "U02PDC4883V",
+            "U02TTEFFU6B",
+            "U031QKGPNRK",
+            "U030KSSTADU"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650683457.509649"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1650683615.429519"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1650715418.812679"
+            },
+            {
+                "user": "U030KSSTADU",
+                "ts": "1650716170.917749"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1650716170.917749",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            },
+            {
+                "name": "wave::skin-tone-5",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            },
+            {
+                "name": "wave",
+                "users": [
+                    "U031KD0PNTX",
+                    "U02V9QUDK1Q",
+                    "U0342DF74JC",
+                    "U02UJBHEQVA",
+                    "U02U6FZRHRV",
+                    "U03AQFPP9BL",
+                    "U03C4NNJWGK"
+                ],
+                "count": 7
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02V9QUDK1Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5b67d28c-a4d2-40d3-8779-3841e96190dc",
+        "type": "message",
+        "text": "Welcome to the community formally Smita! Like we all said before, we all grow together!",
+        "user": "U02PDC4883V",
+        "ts": "1650683457.509649",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QXDnv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome to the community formally Smita! Like we all said before, we all grow together!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650683406.181229",
+        "parent_user_id": "U03AW06L9CN",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03AW06L9CN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cf5ebd0a-0597-48e6-af7e-fcdfbbab29d2",
+        "type": "message",
+        "text": "Hi Smita. I am so glad that you chose to make a non-anonymous introduction.\n\nWelcome to the community. :raised_hands::skin-tone-4:",
+        "user": "U02TTEFFU6B",
+        "ts": "1650683615.429519",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zVRH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Smita. I am so glad that you chose to make a non-anonymous introduction.\n\nWelcome to the community. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "skin_tone": 4
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650683406.181229",
+        "parent_user_id": "U03AW06L9CN",
+        "reactions": [
+            {
+                "name": "blush",
+                "users": [
+                    "U03AW06L9CN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

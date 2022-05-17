@@ -1,0 +1,1616 @@
+[
+    {
+        "client_msg_id": "1e368534-288d-4446-82ea-dd98925c8354",
+        "type": "message",
+        "text": "Folks in Indiranagar with a boring evening ahead - wanna meetup?",
+        "user": "U031JS3RF0V",
+        "ts": "1649588243.079299",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "f40b91b9cd72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-04\/3050067744806_f40b91b9cd728204ef95_72.jpg",
+            "first_name": "Surbhi",
+            "real_name": "Surbhi Saraf",
+            "display_name": "Surbhi Saraf",
+            "team": "T02PFK13YLC",
+            "name": "ihbrusurbhi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wSA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Folks in Indiranagar with a boring evening ahead - wanna meetup?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649588243.079299",
+        "reply_count": 12,
+        "reply_users_count": 6,
+        "latest_reply": "1649682899.048489",
+        "reply_users": [
+            "U02PDC4883V",
+            "U039FQ2SNNN",
+            "U031JS3RF0V",
+            "U0325QQQALR",
+            "U031KD0PNTX",
+            "U039HVCS1LL"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649588292.951709"
+            },
+            {
+                "user": "U039FQ2SNNN",
+                "ts": "1649588330.124839"
+            },
+            {
+                "user": "U031JS3RF0V",
+                "ts": "1649588476.355959"
+            },
+            {
+                "user": "U039FQ2SNNN",
+                "ts": "1649588540.211779"
+            },
+            {
+                "user": "U031JS3RF0V",
+                "ts": "1649588582.917329"
+            },
+            {
+                "user": "U039FQ2SNNN",
+                "ts": "1649588932.948679"
+            },
+            {
+                "user": "U039FQ2SNNN",
+                "ts": "1649588951.671989"
+            },
+            {
+                "user": "U0325QQQALR",
+                "ts": "1649606444.349959"
+            },
+            {
+                "user": "U031KD0PNTX",
+                "ts": "1649661717.210449"
+            },
+            {
+                "user": "U039HVCS1LL",
+                "ts": "1649681196.041649"
+            },
+            {
+                "user": "U039FQ2SNNN",
+                "ts": "1649682246.717609"
+            },
+            {
+                "user": "U039HVCS1LL",
+                "ts": "1649682899.048489"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1649682899.048489",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039KP64KQQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "028008b9-8bab-4b39-a4ca-6b0550577db9",
+        "type": "message",
+        "text": "If only this was in BG Road",
+        "user": "U02PDC4883V",
+        "ts": "1649588292.951709",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/eVA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If only this was in BG Road"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649588243.079299",
+        "parent_user_id": "U031JS3RF0V",
+        "reactions": [
+            {
+                "name": "slightly_frowning_face",
+                "users": [
+                    "U031JS3RF0V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FBA9DF77-F798-4D6B-81BE-2CDF6D286776",
+        "type": "message",
+        "text": "Yes but my dog’s food isn't going to cook itself ",
+        "user": "U039FQ2SNNN",
+        "ts": "1649588330.124839",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9bb6d1a8280e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-30\/3321818966962_9bb6d1a8280e6c254c07_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rohitguptatoday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uoP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes but my dog’s food isn't going to cook itself "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649588243.079299",
+        "parent_user_id": "U031JS3RF0V",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U031JS3RF0V",
+                    "U030KV8R8RL",
+                    "U031KD0PNTX",
+                    "U030SDYNX7V"
+                ],
+                "count": 4
+            },
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U039HVCS1LL",
+                    "U030SDYNX7V"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d1d0f593-b4d6-42f7-bf2e-a8c35fea55a8",
+        "type": "message",
+        "text": "<@U039FQ2SNNN> How long does that take anyway? I have no clue.",
+        "user": "U031JS3RF0V",
+        "ts": "1649588476.355959",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "f40b91b9cd72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-04\/3050067744806_f40b91b9cd728204ef95_72.jpg",
+            "first_name": "Surbhi",
+            "real_name": "Surbhi Saraf",
+            "display_name": "Surbhi Saraf",
+            "team": "T02PFK13YLC",
+            "name": "ihbrusurbhi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fc07",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039FQ2SNNN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " How long does that take anyway? I have no clue."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649588243.079299",
+        "parent_user_id": "U031JS3RF0V"
+    },
+    {
+        "client_msg_id": "A5A82F7E-D58A-4EF3-8FBF-0943E55BD340",
+        "type": "message",
+        "text": "For the week? Around an hour to cook an hour to bag and divide it up an hour to clean the kitchen and then a few hours to stare at the ceiling wondering where my Sunday went",
+        "user": "U039FQ2SNNN",
+        "ts": "1649588540.211779",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9bb6d1a8280e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-30\/3321818966962_9bb6d1a8280e6c254c07_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rohitguptatoday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7bU7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For the week? Around an hour to cook an hour to bag and divide it up an hour to clean the kitchen and then a few hours to stare at the ceiling wondering where my Sunday went"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649588243.079299",
+        "parent_user_id": "U031JS3RF0V"
+    },
+    {
+        "client_msg_id": "1b997e5b-aa07-4010-a1f0-6299bcbfb918",
+        "type": "message",
+        "text": ":flushed: Damn. All the best!",
+        "user": "U031JS3RF0V",
+        "ts": "1649588582.917329",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "f40b91b9cd72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-04\/3050067744806_f40b91b9cd728204ef95_72.jpg",
+            "first_name": "Surbhi",
+            "real_name": "Surbhi Saraf",
+            "display_name": "Surbhi Saraf",
+            "team": "T02PFK13YLC",
+            "name": "ihbrusurbhi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fNV9I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "flushed"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Damn. All the best!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649588243.079299",
+        "parent_user_id": "U031JS3RF0V"
+    },
+    {
+        "client_msg_id": "a4536f93-2d92-4a5c-8d6c-8dce4ad329b1",
+        "type": "message",
+        "text": "thanks!",
+        "user": "U039FQ2SNNN",
+        "ts": "1649588932.948679",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9bb6d1a8280e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-30\/3321818966962_9bb6d1a8280e6c254c07_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rohitguptatoday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "acR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649588243.079299",
+        "parent_user_id": "U031JS3RF0V"
+    },
+    {
+        "client_msg_id": "1a67566e-faf3-44f3-b47b-aa870281f36c",
+        "type": "message",
+        "text": "A meetup sounds fun though. Hope it happens!",
+        "user": "U039FQ2SNNN",
+        "ts": "1649588951.671989",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9bb6d1a8280e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-30\/3321818966962_9bb6d1a8280e6c254c07_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rohitguptatoday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x5I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A meetup sounds fun though. Hope it happens!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649588243.079299",
+        "parent_user_id": "U031JS3RF0V",
+        "reactions": [
+            {
+                "name": "crossed_fingers",
+                "users": [
+                    "U031JS3RF0V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "459a0470-743c-4950-81b4-14e4edf93e0d",
+        "type": "message",
+        "text": "This would be bloody exciting, Is this on the group?\nFor each week we can have a summary of the best discussions and the major learning and trends one can draw from the threads.\n\nWe can add this feature to the community into for social listening and research that community members can use as research and to be updated  with the trends in the market.\n\nIt's to convert info to relevant insights, much of like exploding topics.",
+        "user": "U0323V4CLRY",
+        "ts": "1649604562.969889",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bda2aafa72dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-22\/3275541779442_bda2aafa72dde9c08430_72.jpg",
+            "first_name": "Samyak",
+            "real_name": "Samyak tripathi",
+            "display_name": "samyak",
+            "team": "T02PFK13YLC",
+            "name": "samyaktripathi060",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0323V4CLRY",
+            "ts": "1649604965.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g+O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This would be bloody exciting, Is this on the group?\nFor each week we can have a summary of the best discussions and the major learning and trends one can draw from the threads.\n\nWe can add this feature to the community into for social listening and research that community members can use as research and to be updated  with the trends in the market.\n\nIt's to convert info to relevant insights, much of like exploding topics."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649604562.969889",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1649607832.165589",
+        "reply_users": [
+            "U02TTEFFU6B",
+            "U02UGB8DERY",
+            "U02PDC6B0HH"
+        ],
+        "replies": [
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649605187.520179"
+            },
+            {
+                "user": "U02UGB8DERY",
+                "ts": "1649606299.153209"
+            },
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1649607832.165589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "64518b30-aefd-4bd0-a936-b23ab6a0f718",
+        "type": "message",
+        "text": "We're working on a newsletter that'll have something very similar. Updates soon.",
+        "user": "U02TTEFFU6B",
+        "ts": "1649605187.520179",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LoPOH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We're working on a newsletter that'll have something very similar. Updates soon."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649604562.969889",
+        "parent_user_id": "U0323V4CLRY",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0323V4CLRY",
+                    "U030ZR9D0FK",
+                    "U03AG8MUECT",
+                    "U033QDFML74",
+                    "U03A397SJCF",
+                    "U02V62L966R",
+                    "U033ASE526S"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cc18aa12-75cf-44e5-b846-8fab13da9905",
+        "type": "message",
+        "text": "Hey Samyak\n\nWe have a lot of initiatives in the works and this being one of the top ones. \n\nLike Rohit said - Updates soon.",
+        "user": "U02UGB8DERY",
+        "ts": "1649606299.153209",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4cda10dd85c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2962250036230_4cda10dd85c264b66a43_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Rajvanshi",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rahulrajvanshi2501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ezc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Samyak\n\nWe have a lot of initiatives in the works and this being one of the top ones. \n\nLike Rohit said - Updates soon."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649604562.969889",
+        "parent_user_id": "U0323V4CLRY",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0323V4CLRY",
+                    "U030ZR9D0FK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BA592EE5-DA7C-49E0-A0EA-64FB07D73F10",
+        "type": "message",
+        "text": "Surbhi, would have loved to if I was in town! :) Next time for sure! :raised_hands:",
+        "user": "U0325QQQALR",
+        "ts": "1649606444.349959",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "027715c28842",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-05\/3046616728471_027715c288428653e385_72.png",
+            "first_name": "Aiswarya",
+            "real_name": "Aiswarya Menon",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "aiswaryakaimal95",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ui\/k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Surbhi, would have loved to if I was in town! :) Next time for sure! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649588243.079299",
+        "parent_user_id": "U031JS3RF0V",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U031JS3RF0V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1a8f3db2-b328-4ca3-bbc4-63efd6d5a28b",
+        "type": "message",
+        "text": "You can use <#C035C8Q7BGX|admin-public> channel for future suggestions",
+        "user": "U02PDC6B0HH",
+        "ts": "1649607832.165589",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7ce0a422fcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953759554663_b7ce0a422fcdabf5a771_72.jpg",
+            "first_name": "Shafique",
+            "real_name": "Shafique Gajdhar",
+            "display_name": "Shaf",
+            "team": "T02PFK13YLC",
+            "name": "shafiquegajdhar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yQO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can use "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C035C8Q7BGX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " channel for future suggestions"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649604562.969889",
+        "parent_user_id": "U0323V4CLRY",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0323V4CLRY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1a356c9f-8bc9-4125-b71b-5110efaab56b",
+        "type": "message",
+        "text": "Hey folks, I'm looking for guidance. What are some of the best platforms to charge recurring revenue from international clients? I run a slack community + want to make it a paid community.\n\nThe platform should have:\n• Lesser fee\n• Payment link option\n• Coupon Code system\nPlease don't say PayPal, they take kidneys as fees.\n\nI've tried Razorpay but it is only allowing me to receive money in INR. I've tried Zoho payments app but it integrates with Razorpay gateway. Same case with Buymeacoffee.",
+        "user": "U03AF2HBZPX",
+        "ts": "1649642161.408839",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g282e41117ee",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/282e41117eea26a162917755cabc65f2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Vikas",
+            "real_name": "Vikas Kalwani",
+            "display_name": "Vikas Kalwani",
+            "team": "T02PFK13YLC",
+            "name": "myself",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03AF2HBZPX",
+            "ts": "1649642423.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "myx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey folks, I'm looking for guidance. What are some of the best platforms to charge recurring revenue from international clients? I run a slack community + want to make it a paid community.\n\nThe platform should have:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Lesser fee"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Payment link option"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Coupon Code system"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nPlease don't say PayPal, they take kidneys as fees.\n\nI've tried Razorpay but it is only allowing me to receive money in INR. I've tried Zoho payments app but it integrates with Razorpay gateway. Same case with Buymeacoffee."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649642161.408839",
+        "reply_count": 14,
+        "reply_users_count": 8,
+        "latest_reply": "1649759702.597759",
+        "reply_users": [
+            "U02VA7QD8UB",
+            "U02UD51HZ9B",
+            "U03560PQ082",
+            "U02USELSBRT",
+            "U03AF2HBZPX",
+            "U02VBQCQ7EG",
+            "U03AQFPP9BL",
+            "U0363DZU3QF"
+        ],
+        "replies": [
+            {
+                "user": "U02VA7QD8UB",
+                "ts": "1649646312.922419"
+            },
+            {
+                "user": "U02UD51HZ9B",
+                "ts": "1649647949.522559"
+            },
+            {
+                "user": "U02UD51HZ9B",
+                "ts": "1649647995.888639"
+            },
+            {
+                "user": "U03560PQ082",
+                "ts": "1649649099.533159"
+            },
+            {
+                "user": "U03560PQ082",
+                "ts": "1649649128.949119"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649650341.558169"
+            },
+            {
+                "user": "U03AF2HBZPX",
+                "ts": "1649651591.400109"
+            },
+            {
+                "user": "U03AF2HBZPX",
+                "ts": "1649651625.403239"
+            },
+            {
+                "user": "U03560PQ082",
+                "ts": "1649651686.143339"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649652625.419209"
+            },
+            {
+                "user": "U02VBQCQ7EG",
+                "ts": "1649653412.895099"
+            },
+            {
+                "user": "U03AQFPP9BL",
+                "ts": "1649657939.577439"
+            },
+            {
+                "user": "U03AQFPP9BL",
+                "ts": "1649657976.204869"
+            },
+            {
+                "user": "U0363DZU3QF",
+                "ts": "1649759702.597759"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "93d534a7-1c55-4da2-a281-eaec4e16dabf",
+        "type": "message",
+        "text": "You can form a sole proprietorship (if not done already) and sign-up for Stripe India. Better fees than PayPal and pretty easy to operate.",
+        "user": "U02VA7QD8UB",
+        "ts": "1649646312.922419",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "84e512c8a3fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2999004078388_84e512c8a3feeb8de835_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "T02PFK13YLC",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FtK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can form a sole proprietorship (if not done already) and sign-up for Stripe India. Better fees than PayPal and pretty easy to operate."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649642161.408839",
+        "parent_user_id": "U03AF2HBZPX",
+        "reactions": [
+            {
+                "name": "gratitude-thank-you",
+                "users": [
+                    "U03AF2HBZPX",
+                    "U03BZJ0KK1R"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "647fee4d-7848-41de-889a-4c8b732e1ca7",
+        "type": "message",
+        "text": "You could also try Paddle but the pricing is a bit higher than Stripe.",
+        "user": "U02UD51HZ9B",
+        "ts": "1649647949.522559",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "eb2b8b9762b9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953678386935_eb2b8b9762b95e3e9d49_72.png",
+            "first_name": "Shraddha",
+            "real_name": "Shraddha Srivastava",
+            "display_name": "Shraddha Srivastava",
+            "team": "T02PFK13YLC",
+            "name": "shraddha.heroteck",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IQs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You could also try Paddle but the pricing is a bit higher than Stripe."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649642161.408839",
+        "parent_user_id": "U03AF2HBZPX",
+        "reactions": [
+            {
+                "name": "gratitude-thank-you",
+                "users": [
+                    "U03AF2HBZPX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f1d41f52-c4ee-4d55-8b0e-ae03fe90e35b",
+        "type": "message",
+        "text": "Also, you can work as a freelancer with Paddle without forming a company.",
+        "user": "U02UD51HZ9B",
+        "ts": "1649647995.888639",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "eb2b8b9762b9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953678386935_eb2b8b9762b95e3e9d49_72.png",
+            "first_name": "Shraddha",
+            "real_name": "Shraddha Srivastava",
+            "display_name": "Shraddha Srivastava",
+            "team": "T02PFK13YLC",
+            "name": "shraddha.heroteck",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0=tP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, you can work as a freelancer with Paddle without forming a company."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649642161.408839",
+        "parent_user_id": "U03AF2HBZPX",
+        "reactions": [
+            {
+                "name": "gratitude-thank-you",
+                "users": [
+                    "U03AF2HBZPX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9951448c-329a-4623-916f-f4547c5f538d",
+        "type": "message",
+        "text": "Stripe works well! Doing the same with my newsletter.",
+        "user": "U03560PQ082",
+        "ts": "1649649099.533159",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1db32098d186",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-01\/3176023965474_1db32098d186ac873a3d_72.png",
+            "first_name": "Ahaan",
+            "real_name": "Ahaan Pandit",
+            "display_name": "Ahaan Pandit",
+            "team": "T02PFK13YLC",
+            "name": "ahaan.pandit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1mJC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Stripe works well! Doing the same with my newsletter."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649642161.408839",
+        "parent_user_id": "U03AF2HBZPX",
+        "reactions": [
+            {
+                "name": "gratitude-thank-you",
+                "users": [
+                    "U03AF2HBZPX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "601b0c4c-f92e-45c3-bd5a-79fb78facc27",
+        "type": "message",
+        "text": "Btw for Stripe as well, you have to set your currency as INR and not $",
+        "user": "U03560PQ082",
+        "ts": "1649649128.949119",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1db32098d186",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-01\/3176023965474_1db32098d186ac873a3d_72.png",
+            "first_name": "Ahaan",
+            "real_name": "Ahaan Pandit",
+            "display_name": "Ahaan Pandit",
+            "team": "T02PFK13YLC",
+            "name": "ahaan.pandit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nzF1S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Btw for Stripe as well, you have to set your currency as INR and not $"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649642161.408839",
+        "parent_user_id": "U03AF2HBZPX",
+        "reactions": [
+            {
+                "name": "gratitude-thank-you",
+                "users": [
+                    "U03AF2HBZPX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D619B66C-7D55-4490-93D7-551B898287AB",
+        "type": "message",
+        "text": "2checkout?",
+        "user": "U02USELSBRT",
+        "ts": "1649650341.558169",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dI6gi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2checkout?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649642161.408839",
+        "parent_user_id": "U03AF2HBZPX",
+        "reactions": [
+            {
+                "name": "gratitude-thank-you",
+                "users": [
+                    "U03AF2HBZPX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "27378e7a-6db8-42e1-bb58-17a656755fce",
+        "type": "message",
+        "text": "Thank you for sharing your thoughts, everyone. \n\nHey <@U03560PQ082> - if we set the currency as INR, can we still accept payments from US, Europe, and other countries? \n\nAlso, can you please share the fees charged? Does it have the option of charging the revenue automatically after every year? What about the payment link and coupon codes? Thank you :blush:",
+        "user": "U03AF2HBZPX",
+        "ts": "1649651591.400109",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g282e41117ee",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/282e41117eea26a162917755cabc65f2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Vikas",
+            "real_name": "Vikas Kalwani",
+            "display_name": "Vikas Kalwani",
+            "team": "T02PFK13YLC",
+            "name": "myself",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03AF2HBZPX",
+            "ts": "1649651645.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4O\/7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you for sharing your thoughts, everyone. \n\nHey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03560PQ082"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - if we set the currency as INR, can we still accept payments from US, Europe, and other countries? \n\nAlso, can you please share the fees charged? Does it have the option of charging the revenue automatically after every year? What about the payment link and coupon codes? Thank you "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649642161.408839",
+        "parent_user_id": "U03AF2HBZPX"
+    },
+    {
+        "client_msg_id": "70b89541-f4ad-4855-b05b-e22c3509f828",
+        "type": "message",
+        "text": "<@U02USELSBRT> Have you used 2checkout? If yes, please share your thoughts on the platform. Thank you.",
+        "user": "U03AF2HBZPX",
+        "ts": "1649651625.403239",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g282e41117ee",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/282e41117eea26a162917755cabc65f2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Vikas",
+            "real_name": "Vikas Kalwani",
+            "display_name": "Vikas Kalwani",
+            "team": "T02PFK13YLC",
+            "name": "myself",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7edcg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02USELSBRT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Have you used 2checkout? If yes, please share your thoughts on the platform. Thank you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649642161.408839",
+        "parent_user_id": "U03AF2HBZPX"
+    },
+    {
+        "client_msg_id": "C3FAF27D-4A38-459B-8CE9-F560372913E2",
+        "type": "message",
+        "text": "Yes you just need to have the base currency set as your one currency. \nYou can create coupon codes, collect recurring subscription and everything. \nLet me check in the fee",
+        "user": "U03560PQ082",
+        "ts": "1649651686.143339",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1db32098d186",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-01\/3176023965474_1db32098d186ac873a3d_72.png",
+            "first_name": "Ahaan",
+            "real_name": "Ahaan Pandit",
+            "display_name": "Ahaan Pandit",
+            "team": "T02PFK13YLC",
+            "name": "ahaan.pandit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03560PQ082",
+            "ts": "1649651690.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N5vP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes you just need to have the base currency set as your one currency. \nYou can create coupon codes, collect recurring subscription and everything. \nLet me check in the fee"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649642161.408839",
+        "parent_user_id": "U03AF2HBZPX",
+        "reactions": [
+            {
+                "name": "gratitude-thank-you",
+                "users": [
+                    "U03AF2HBZPX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03AF2HBZPX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "trophy",
+                "users": [
+                    "U03AF2HBZPX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "18FC03BE-1C28-4380-8831-181DA8C769AF",
+        "type": "message",
+        "text": "Haven't used it directly but a company I know used it for quite sometime before moving to Avangate.",
+        "user": "U02USELSBRT",
+        "ts": "1649652625.419209",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m+RI3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Haven't used it directly but a company I know used it for quite sometime before moving to Avangate."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649642161.408839",
+        "parent_user_id": "U03AF2HBZPX",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03AF2HBZPX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ab8eae10-35f3-4eab-9263-b2cbaeb7f096",
+        "type": "message",
+        "text": "Try Payoneer.",
+        "user": "U02VBQCQ7EG",
+        "ts": "1649653412.895099",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "fa5eb8510b89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2995555726371_fa5eb8510b89c7a7a37d_72.jpg",
+            "first_name": "Karthick",
+            "real_name": "Karthick Raajha",
+            "display_name": "Karthick Raajha",
+            "team": "T02PFK13YLC",
+            "name": "kraajha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s2\/F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Try Payoneer."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649642161.408839",
+        "parent_user_id": "U03AF2HBZPX",
+        "reactions": [
+            {
+                "name": "gratitude-thank-you",
+                "users": [
+                    "U03AF2HBZPX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a1f70d60-e3e4-4869-b73a-ee15dc8fe6df",
+        "type": "message",
+        "text": "Stripe and 2Checkout works well.\nAt EasySendy have been running all payment through Paypal, Stripe and 2Checkout.",
+        "user": "U03AQFPP9BL",
+        "ts": "1649657939.577439",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c9b2329e7c08",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-08\/3377148716193_c9b2329e7c08a95503a8_72.png",
+            "first_name": "Ankit",
+            "real_name": "Ankit Prakash",
+            "display_name": "Ankit Prakash",
+            "team": "T02PFK13YLC",
+            "name": "ankitpr89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qbmxw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Stripe and 2Checkout works well.\nAt EasySendy have been running all payment through Paypal, Stripe and 2Checkout."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649642161.408839",
+        "parent_user_id": "U03AF2HBZPX",
+        "reactions": [
+            {
+                "name": "gratitude-thank-you",
+                "users": [
+                    "U03AF2HBZPX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f4d613dc-8d3e-4838-8cd7-3d0a6b16878c",
+        "type": "message",
+        "text": "Having mrr above 10k; then go ahead with registering a Delaware INC in US.\nAfter this you get more options.",
+        "user": "U03AQFPP9BL",
+        "ts": "1649657976.204869",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c9b2329e7c08",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-08\/3377148716193_c9b2329e7c08a95503a8_72.png",
+            "first_name": "Ankit",
+            "real_name": "Ankit Prakash",
+            "display_name": "Ankit Prakash",
+            "team": "T02PFK13YLC",
+            "name": "ankitpr89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K9yv=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Having mrr above 10k; then go ahead with registering a Delaware INC in US.\nAfter this you get more options."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649642161.408839",
+        "parent_user_id": "U03AF2HBZPX",
+        "reactions": [
+            {
+                "name": "gratitude-thank-you",
+                "users": [
+                    "U03AF2HBZPX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8b8dd30e-d320-480d-8100-0c31a30858a6",
+        "type": "message",
+        "text": "Hey community members and admins, I want to bring value towards upcoming trends in web3 segment- CBDC, DeFi, DAO, Metaverse, NFT, NFT Memberships, etc.\nThis is the major emerging market where a lot of Digital and MarTech evolution are coming in.\nDo we have any discussion happening around these topics?",
+        "user": "U03AQFPP9BL",
+        "ts": "1649660224.349869",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c9b2329e7c08",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-08\/3377148716193_c9b2329e7c08a95503a8_72.png",
+            "first_name": "Ankit",
+            "real_name": "Ankit Prakash",
+            "display_name": "Ankit Prakash",
+            "team": "T02PFK13YLC",
+            "name": "ankitpr89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Ew",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey community members and admins, I want to bring value towards upcoming trends in web3 segment- CBDC, DeFi, DAO, Metaverse, NFT, NFT Memberships, etc.\nThis is the major emerging market where a lot of Digital and MarTech evolution are coming in.\nDo we have any discussion happening around these topics?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649660224.349869",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1649743181.567059",
+        "reply_users": [
+            "U02TTEFFU6B",
+            "U03AQFPP9BL",
+            "U02USELSBRT"
+        ],
+        "replies": [
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649660762.356159"
+            },
+            {
+                "user": "U03AQFPP9BL",
+                "ts": "1649661579.882759"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649661581.412599"
+            },
+            {
+                "user": "U03AQFPP9BL",
+                "ts": "1649742541.074929"
+            },
+            {
+                "user": "U03AQFPP9BL",
+                "ts": "1649742613.962259"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649743181.567059"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

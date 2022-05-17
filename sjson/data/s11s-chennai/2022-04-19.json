@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "7cfbd538-abfb-4fe9-89a1-8d3122ad9627",
+        "type": "message",
+        "text": "I have been part of SaaSBoomi's previous event and going for this Growth event. Yes, it helps in networking. It depends on how you take it forward from there. I met people personally after the event and it helped me.",
+        "user": "U038W1678JX",
+        "ts": "1650422023.820539",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bf1dfec8ff13",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-27\/3302040294627_bf1dfec8ff13695587fa_72.jpg",
+            "first_name": "Anand",
+            "real_name": "Anand Kumar Sengottaiyan",
+            "display_name": "Anand",
+            "team": "T02PFK13YLC",
+            "name": "anand476",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c=t1z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have been part of SaaSBoomi's previous event and going for this Growth event. Yes, it helps in networking. It depends on how you take it forward from there. I met people personally after the event and it helped me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649339445.800309",
+        "parent_user_id": "U038WP8PLUA",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U038WP8PLUA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

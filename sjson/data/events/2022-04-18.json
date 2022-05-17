@@ -1,0 +1,123 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1650269704.923549",
+        "thread_ts": "1650269704.923549",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1650271613.369929",
+        "reply_users": [
+            "U02PDC6B0HH",
+            "U03A2UNJJDD"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1650270246.540839"
+            },
+            {
+                "user": "U03A2UNJJDD",
+                "ts": "1650271613.369929"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "69075d84-84c2-4997-bc72-2aae6497a1ac",
+        "type": "message",
+        "text": "Please post in <#C0318NH5G3C|shameless-plug> <@U03A2UNJJDD>",
+        "user": "U02PDC6B0HH",
+        "ts": "1650270246.540839",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7ce0a422fcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953759554663_b7ce0a422fcdabf5a771_72.jpg",
+            "first_name": "Shafique",
+            "real_name": "Shafique Gajdhar",
+            "display_name": "Shaf",
+            "team": "T02PFK13YLC",
+            "name": "shafiquegajdhar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AKs1M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please post in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0318NH5G3C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03A2UNJJDD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650269704.923549",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "72748788-576b-43f6-b91e-df7ea52d5203",
+        "type": "message",
+        "text": "My bad, got confused with the name of this channel.",
+        "user": "U03A2UNJJDD",
+        "ts": "1650271613.369929",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "91a4f79ca4fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3342983706615_91a4f79ca4fe220decc9_72.jpg",
+            "first_name": "Chirag",
+            "real_name": "Chirag Parmar",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "chiragparmar.marketin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HrR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My bad, got confused with the name of this channel."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650269704.923549",
+        "parent_user_id": "USLACKBOT"
+    }
+]

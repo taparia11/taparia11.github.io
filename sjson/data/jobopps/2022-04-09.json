@@ -1,0 +1,161 @@
+[
+    {
+        "client_msg_id": "fe8a2aaf-261e-4b50-b7f0-b5702ad45a85",
+        "type": "message",
+        "text": "Hi Ankit. I'll DM you",
+        "user": "U02V5F2JFME",
+        "ts": "1649493336.440639",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "700eafca1a01",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-19\/2969566183973_700eafca1a01010efd69_72.jpg",
+            "first_name": "Reza",
+            "real_name": "Reza",
+            "display_name": "Reza",
+            "team": "T02PFK13YLC",
+            "name": "reza",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eEK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Ankit. I'll DM you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649319462.331089",
+        "parent_user_id": "U02UFNZS7NW"
+    },
+    {
+        "client_msg_id": "9C408A7C-A0D8-4859-9B54-6EC2885708A7",
+        "type": "message",
+        "text": "Searching for 2 months now and not finding any decent candidates for frontend website developer. Any leads please? Dont think we're asking for too much. 3+ web delivery experience sufficient. Candidate needs to manage wordpress website CSS, can code \/ automate process as needed to ease work, understand CMS backend and manage measurable monthly outputs from vendor, can quickly pull up or pull down campaign pages, generate reports, can javascript, and maintain code base. Self sustainance is key and wants to grow as a technology leader in a web marketing team. He\/she can call himself\/herself a growth hack web developer if it pleases. Titles will be granted as needed. Urgent need to fill this position. Thanks. Filtering based on : 1) worked in product company and 2) work ethics . Rewards \/ Benefits plenty- he \/ she gets exposure in madhouse working with deeply experienced product professionals and experiences first hand how and why giant indian MNCs originally a services company survives in such a tough marketplace.",
+        "user": "U02UZ4T10PQ",
+        "ts": "1649510078.446579",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "0e693f543f3a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-22\/2977217232247_0e693f543f3a4a1d3fd3_72.jpg",
+            "first_name": "Sagnik",
+            "real_name": "Sagnik IntelliServiceAI",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "sagnik.datta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02UZ4T10PQ",
+            "ts": "1649510379.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u1O6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Searching for 2 months now and not finding any decent candidates for frontend website developer. Any leads please? Dont think we're asking for too much. 3+ web delivery experience sufficient. Candidate needs to manage wordpress website CSS, can code \/ automate process as needed to ease work, understand CMS backend and manage measurable monthly outputs from vendor, can quickly pull up or pull down campaign pages, generate reports, can javascript, and maintain code base. Self sustainance is key and wants to grow as a technology leader in a web marketing team. He\/she can call himself\/herself a growth hack web developer if it pleases. Titles will be granted as needed. Urgent need to fill this position. Thanks. Filtering based on : 1) worked in product company and 2) work ethics . Rewards \/ Benefits plenty- he \/ she gets exposure in madhouse working with deeply experienced product professionals and experiences first hand how and why giant indian MNCs originally a services company survives in such a tough marketplace."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649510078.446579",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1649655336.315289",
+        "reply_users": [
+            "U03A397SJCF",
+            "U02UZ4T10PQ",
+            "U02TTEFFU6B"
+        ],
+        "replies": [
+            {
+                "user": "U03A397SJCF",
+                "ts": "1649563726.023519"
+            },
+            {
+                "user": "U02UZ4T10PQ",
+                "ts": "1649588609.569509"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649655336.315289"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f6adfe18-7eb1-49bf-bbcb-a8aa510975c5",
+        "type": "message",
+        "text": "I think you're looking for very specific skillset, there are people out with this sort of skills but in the long term they might be doing the same thing :thinking_face:. Probably, no one in the market looks for very specific folks at least in development. Try to rethink from candidate point of view as well.",
+        "user": "U03A397SJCF",
+        "ts": "1649563726.023519",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8350509990dc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3357545030005_8350509990dc150e9deb_72.jpg",
+            "first_name": "Anshul",
+            "real_name": "Anshul Bansal",
+            "display_name": "akbansa",
+            "team": "T02PFK13YLC",
+            "name": "bansal.anshul.94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03A397SJCF",
+            "ts": "1649563759.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+vD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think you're looking for very specific skillset, there are people out with this sort of skills but in the long term they might be doing the same thing "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Probably, no one in the market looks for very specific folks at least in development. Try to rethink from candidate point of view as well."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649510078.446579",
+        "parent_user_id": "U02UZ4T10PQ"
+    }
+]

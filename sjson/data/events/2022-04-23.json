@@ -1,0 +1,118 @@
+[
+    {
+        "client_msg_id": "d99a8b60-7096-4499-9668-4f86e9397076",
+        "type": "message",
+        "text": "Yes. Will meet there:) <@U02UUCE1ASD> <@U038W1678JX> <@U039H3ZSRD3> <@U02V9A0470S>",
+        "user": "U02UU8Q5F9R",
+        "ts": "1650699000.323909",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5e5465ba2dff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-02\/3046407119668_5e5465ba2dff251ebc3a_72.png",
+            "first_name": "Rahul",
+            "real_name": "Rahul Muralidharan Nair",
+            "display_name": "Rahul Nair",
+            "team": "T02PFK13YLC",
+            "name": "rahul",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9ADY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes. Will meet there:) "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02UUCE1ASD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U038W1678JX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U039H3ZSRD3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02V9A0470S"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650263416.187479",
+        "parent_user_id": "U02V9A0470S"
+    },
+    {
+        "client_msg_id": "260857BA-7BC0-4660-9C07-F29ABE6D9FF9",
+        "type": "message",
+        "text": "Lovely, will see you guys there on Day 2.",
+        "user": "U039H3ZSRD3",
+        "ts": "1650705766.251449",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c24495f57ceb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-31\/3326012121218_c24495f57cebeec29c94_72.jpg",
+            "first_name": "Bharath",
+            "real_name": "Bharath Vittal",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "bharath",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rh1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lovely, will see you guys there on Day 2."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650263416.187479",
+        "parent_user_id": "U02V9A0470S"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1650783027.839959",
+        "user": "U03C8SYJGCF",
+        "text": "<@U03C8SYJGCF> has joined the channel",
+        "inviter": "U03DD6EGPKJ"
+    }
+]

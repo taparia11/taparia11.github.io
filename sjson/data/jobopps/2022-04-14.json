@@ -1,0 +1,585 @@
+[
+    {
+        "client_msg_id": "314254de-6c7a-4a7c-b8cc-4cabd6cd198b",
+        "type": "message",
+        "text": "Hi Gautham, saw your message in the <#C02S4318139|jobopps> I don't run an agency but I am an independent freelance writer and I write for SaaS brands. Let me know if I can help you in any way. Thank you! Chayanika",
+        "user": "U0389S5NBH7",
+        "ts": "1649921947.284539",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9cfafc9782a1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-21\/3271621659380_9cfafc9782a14d61a63c_72.jpg",
+            "first_name": "Chayanika",
+            "real_name": "Chayanika Sen",
+            "display_name": "Chayanika Sen",
+            "team": "T02PFK13YLC",
+            "name": "s.chayanika",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Gc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Gautham, saw your message in the "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C02S4318139"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I don't run an agency but I am an independent freelance writer and I write for SaaS brands. Let me know if I can help you in any way. Thank you! Chayanika"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649918353.086179",
+        "parent_user_id": "U02V5RTEAA1"
+    },
+    {
+        "client_msg_id": "65cba830-e63e-4205-840d-5d5738cd1bed",
+        "type": "message",
+        "text": "Hey <@U0389S5NBH7>, thanks for the response. We are looking at massive numbers and might need an agency to work on requirement. But I’ll definitely get in touch with you, once the volume of the requirement comes down.",
+        "user": "U02V5RTEAA1",
+        "ts": "1649927551.511459",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "ce001370eae7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-23\/2988116860390_ce001370eae774c724d4_72.png",
+            "first_name": "Gautham",
+            "real_name": "Gautham Ramakrishnan",
+            "display_name": "Gautham Ramakrishnan",
+            "team": "T02PFK13YLC",
+            "name": "gautham211991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yvjd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0389S5NBH7"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", thanks for the response. We are looking at massive numbers and might need an agency to work on requirement. But I’ll definitely get in touch with you, once the volume of the requirement comes down."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649918353.086179",
+        "parent_user_id": "U02V5RTEAA1",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0389S5NBH7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8c81ffa7-031a-487c-905f-2b98e1bac43a",
+        "type": "message",
+        "text": "Hello everyone, if anyone is hiring for program\/project manager in Mumbai, please let me know. An ex colleague of mine is actively looking for a job change.",
+        "user": "U039PF71127",
+        "ts": "1649930865.365129",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "d15748652660",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-11\/3364940015702_d15748652660693916d8_72.jpg",
+            "first_name": "Fatema",
+            "real_name": "Fatema Electricwala",
+            "display_name": "Fatema Electricwala",
+            "team": "T02PFK13YLC",
+            "name": "fatema",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "62ZP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello everyone, if anyone is hiring for program\/project manager in Mumbai, please let me know. An ex colleague of mine is actively looking for a job change."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649930865.365129",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650261349.750619",
+        "reply_users": [
+            "U03B6AGE0HE"
+        ],
+        "replies": [
+            {
+                "user": "U03B6AGE0HE",
+                "ts": "1650261349.750619"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5a09cf2a-d337-4997-8d67-2b2db674f693",
+        "type": "message",
+        "text": "Hey everyone, at <http:\/\/eder.io|Eder Labs> we are building for a future where businesses can partner with one another to gather intelligence in a trustful manner to develop data products and applied AI solutions.\n\nWe're hiring a Product Marketer. If you're interested or know someone else who's interested please reach out. More details can be found in <https:\/\/ederlabs.notion.site\/Role-Card-Product-Marketing-Associate-796a82ee523a47a099cabe4ddec427c1|this role card>! \n\nYou can DM me or <@U0380S2BZ9A>",
+        "user": "U039D6T7U77",
+        "ts": "1649938867.534529",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "d80b15f35951",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-14\/3385200872694_d80b15f359510a1a0ac2_72.jpg",
+            "first_name": "Vishwajit",
+            "real_name": "Vishwajit Sasi",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "vishwajit.s97",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039D6T7U77",
+            "ts": "1649939734.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "http:\/\/eder.io\/",
+                "image_url": "https:\/\/static.wixstatic.com\/media\/2aa7e2_fff7e25244f54c839e2457aedee6507d~mv2.png\/v1\/fill\/w_2500,h_1432,al_c\/2aa7e2_fff7e25244f54c839e2457aedee6507d~mv2.png",
+                "image_width": 436,
+                "image_height": 250,
+                "image_bytes": 343608,
+                "service_icon": "https:\/\/static.wixstatic.com\/media\/2aa7e2_39a180596dc3451b88a27d22764131ef%7Emv2.png\/v1\/fill\/w_16%2Ch_16%2Clg_1%2Cusm_0.66_1.00_0.01\/2aa7e2_39a180596dc3451b88a27d22764131ef%7Emv2.png",
+                "id": 1,
+                "original_url": "http:\/\/eder.io",
+                "fallback": "Eder Labs: Data Collaboration | Eder Labs",
+                "text": "Eder Lab enables data partnerships between the Data Partners on data-science &amp; AI without compromising on Trust, Security, Compliance, Transparency",
+                "title": "Data Collaboration | Eder Labs",
+                "title_link": "http:\/\/eder.io\/",
+                "service_name": "Eder Labs"
+            },
+            {
+                "from_url": "https:\/\/ederlabs.notion.site\/Role-Card-Product-Marketing-Associate-796a82ee523a47a099cabe4ddec427c1",
+                "image_url": "https:\/\/ederlabs.notion.site\/image\/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe1fdd056-8189-4dc5-8f0c-99cdac365bff%2Flinkedin_cover.png?table=block&id=796a82ee-523a-47a0-99ca-be4ddec427c1&spaceId=d67ca280-72ba-4682-b5f3-e18b1d7f8b10&width=2000&userId=&cache=v2",
+                "image_width": 1000,
+                "image_height": 250,
+                "image_bytes": 335355,
+                "id": 2,
+                "original_url": "https:\/\/ederlabs.notion.site\/Role-Card-Product-Marketing-Associate-796a82ee523a47a099cabe4ddec427c1",
+                "fallback": "Eder Labs on Notion: Role Card — Product Marketing Associate",
+                "text": "Note on the organization:",
+                "title": "Role Card — Product Marketing Associate",
+                "title_link": "https:\/\/ederlabs.notion.site\/Role-Card-Product-Marketing-Associate-796a82ee523a47a099cabe4ddec427c1",
+                "service_name": "Eder Labs on Notion"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+aR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone, at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/eder.io",
+                                "text": "Eder Labs"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we are building for a future where businesses can partner with one another to gather intelligence in a trustful manner to develop data products and applied AI solutions.\n\nWe're hiring a Product Marketer. If you're interested or know someone else who's interested please reach out. More details can be found in "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ederlabs.notion.site\/Role-Card-Product-Marketing-Associate-796a82ee523a47a099cabe4ddec427c1",
+                                "text": "this role card"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! \n\nYou can DM me or "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0380S2BZ9A"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U0379TDK6NM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c331cf51-4741-4c6f-a21b-ff4b7641d0f2",
+        "type": "message",
+        "text": "I guess peppercontent can be a fit for this usecase.",
+        "user": "U031KD0PNTX",
+        "ts": "1649939265.653109",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "d8e3a1cc6ed8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3305635315237_d8e3a1cc6ed88c5c929a_72.jpg",
+            "first_name": "Anand",
+            "real_name": "Anand",
+            "display_name": "theanand",
+            "team": "T02PFK13YLC",
+            "name": "anand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "axfLx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I guess peppercontent can be a fit for this usecase."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649918353.086179",
+        "parent_user_id": "U02V5RTEAA1",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02V5RTEAA1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6d6e806b-6b67-4e52-a759-9917a66ecc02",
+        "type": "message",
+        "text": "Any fulltime \/ freelance writers here? There’s a steady long-term project with good pay if someone can conjure magic with the words and deliver on time. Ping me?",
+        "user": "U02UQBQQBPD",
+        "ts": "1649939451.255279",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "83e0eb641124",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-20\/2979253536098_83e0eb641124b44e8910_72.png",
+            "first_name": "Mayank",
+            "real_name": "Mayank Jain",
+            "display_name": "Mayank",
+            "team": "T02PFK13YLC",
+            "name": "mayank",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0sXMC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any fulltime \/ freelance writers here? There’s a steady long-term project with good pay if someone can conjure magic with the words and deliver on time. Ping me?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649939451.255279",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1649940486.358529",
+        "reply_users": [
+            "U02V5RTEAA1",
+            "U0389S5NBH7"
+        ],
+        "replies": [
+            {
+                "user": "U02V5RTEAA1",
+                "ts": "1649940385.307209"
+            },
+            {
+                "user": "U0389S5NBH7",
+                "ts": "1649940486.358529"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "558F9506-D500-480D-85B3-7057F1F4A7F1",
+        "type": "message",
+        "text": "Exploring them as well! ",
+        "user": "U02V5RTEAA1",
+        "ts": "1649940300.732949",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "ce001370eae7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-23\/2988116860390_ce001370eae774c724d4_72.png",
+            "first_name": "Gautham",
+            "real_name": "Gautham Ramakrishnan",
+            "display_name": "Gautham Ramakrishnan",
+            "team": "T02PFK13YLC",
+            "name": "gautham211991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xbg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exploring them as well! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649918353.086179",
+        "parent_user_id": "U02V5RTEAA1",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U031KD0PNTX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "717B89EB-E24B-47CE-AB7D-599EA488AA0A",
+        "type": "message",
+        "text": "<@U0389S5NBH7>  FYI. ",
+        "user": "U02V5RTEAA1",
+        "ts": "1649940385.307209",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "ce001370eae7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-23\/2988116860390_ce001370eae774c724d4_72.png",
+            "first_name": "Gautham",
+            "real_name": "Gautham Ramakrishnan",
+            "display_name": "Gautham Ramakrishnan",
+            "team": "T02PFK13YLC",
+            "name": "gautham211991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9\/F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0389S5NBH7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  FYI. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649939451.255279",
+        "parent_user_id": "U02UQBQQBPD"
+    },
+    {
+        "client_msg_id": "13efee90-14d2-45ff-9146-3d92f35c226f",
+        "type": "message",
+        "text": "Thank you for the tag <@U02V5RTEAA1> let me DM you <@U02UQBQQBPD>",
+        "user": "U0389S5NBH7",
+        "ts": "1649940486.358529",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9cfafc9782a1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-21\/3271621659380_9cfafc9782a14d61a63c_72.jpg",
+            "first_name": "Chayanika",
+            "real_name": "Chayanika Sen",
+            "display_name": "Chayanika Sen",
+            "team": "T02PFK13YLC",
+            "name": "s.chayanika",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yhz2G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you for the tag "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02V5RTEAA1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " let me DM you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02UQBQQBPD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649939451.255279",
+        "parent_user_id": "U02UQBQQBPD"
+    },
+    {
+        "type": "message",
+        "text": "Hi <@U033R6MA1DY>  please find the resume for your reference. Let me know if it fits the requirements",
+        "files": [
+            {
+                "id": "F03BF8RUKGE",
+                "created": 1650005034,
+                "timestamp": 1650005034,
+                "name": "Nikita Resume 2022.docx",
+                "title": "Nikita Resume 2022.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U0362RG67F0",
+                "editable": false,
+                "size": 16984,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03BF8RUKGE\/nikita_resume_2022.docx?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03BF8RUKGE\/download\/nikita_resume_2022.docx?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BF8RUKGE-84d3ac91be\/nikita_resume_2022_converted.pdf?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BF8RUKGE-84d3ac91be\/nikita_resume_2022_thumb_pdf.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/s11s.slack.com\/files\/U0362RG67F0\/F03BF8RUKGE\/nikita_resume_2022.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03BF8RUKGE-6777282817",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0362RG67F0",
+        "display_as_bot": false,
+        "ts": "1650005038.357629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vrvc1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U033R6MA1DY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  please find the resume for your reference. Let me know if it fits the requirements"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "8c6f3cd2-6d1e-4b63-80e4-6243d3538dbb",
+        "thread_ts": "1649309922.971029",
+        "parent_user_id": "U033R6MA1DY"
+    }
+]

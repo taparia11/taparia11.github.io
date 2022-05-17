@@ -1,0 +1,1622 @@
+[
+    {
+        "bot_id": "B030YTVR3C4",
+        "type": "message",
+        "text": "Monthly Leaderboard",
+        "user": "U030WJYN76W",
+        "ts": "1650884700.692679",
+        "app_id": "A012T9P9VQF",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B030YTVR3C4",
+            "app_id": "A012T9P9VQF",
+            "name": "Trivia - Games | Virtual Coffee",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_72.png"
+            },
+            "deleted": false,
+            "updated": 1646662985,
+            "team_id": "T02PFK13YLC"
+        },
+        "edited": {
+            "user": "B030YTVR3C4",
+            "ts": "1650884977.000000"
+        },
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "oOx9",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "We just completed a quiz on Business and Tech, General Knowledge, TV (10 questions). Here are the results:\n\n:tada: Well done <@U031GENLMQ8>! :tada:",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "k6a0",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Podium* :trophy:\n:first_place_medal: <@U031GENLMQ8> (232.15)\n:second_place_medal: <@U03AHQURB98> (213.88)\n:third_place_medal: <@U02ULCHDGB0> (157.91)\n",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "image",
+                "block_id": "mC6",
+                "image_url": "https:\/\/engage-custom-gifs.s3.us-east-1.amazonaws.com\/custom-gifs\/U031GENLMQ8-1650884976.gif",
+                "alt_text": "gif",
+                "image_width": 480,
+                "image_height": 217,
+                "image_bytes": 498835,
+                "is_animated": true,
+                "fallback": "480x217px image"
+            },
+            {
+                "type": "actions",
+                "block_id": "result-footer",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "play_game",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Start Another Game",
+                            "emoji": true
+                        },
+                        "style": "primary",
+                        "value": "all|game-result"
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "global-leaderboard",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "View overall leaderboard ",
+                            "emoji": true
+                        },
+                        "value": "quiz-leaderboard-overall|game-result",
+                        "url": "https:\/\/trivia.springworks.in\/public\/leaderboard\/61f7bf877ac06a0018e5824d"
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "worthymentions",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Worthy Mentions :medal:",
+                            "emoji": true
+                        },
+                        "value": "worthymention-6266805cae1b1d9365930ef3"
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "HgD"
+            },
+            {
+                "type": "context",
+                "block_id": "kFBh",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "*Scheduled By*: <@U02PDC6B0HH> | *Quiz* | *10 Questions* | *Category*: Business and Tech, General Knowledge, TV | *Difficulty*: Easy | *20 seconds* per question | *Total Participants*: 6",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "context",
+                "block_id": "=Aa=a",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "\nNeed help in using Trivia? Want to take full advantage of Trivia’s suite of games? Check out the full user guide <https:\/\/bit.ly\/trivia-user-guide|here>.",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650884700.692679",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650884976.913019",
+        "reply_users": [
+            "U030WJYN76W"
+        ],
+        "replies": [
+            {
+                "user": "U030WJYN76W",
+                "ts": "1650884976.913019"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "bot_id": "B030YTVR3C4",
+        "type": "message",
+        "text": "Quiz history",
+        "user": "U030WJYN76W",
+        "ts": "1650884976.913019",
+        "app_id": "A012T9P9VQF",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B030YTVR3C4",
+            "app_id": "A012T9P9VQF",
+            "name": "Trivia - Games | Virtual Coffee",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_72.png"
+            },
+            "deleted": false,
+            "updated": 1646662985,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "context",
+                "block_id": "f=N",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "1. Which divorcee did Tim Lawrence marry in 1992?\n\n:x: Joan Collins\n:x: Elizabeth Taylor\n:x: Elton John\n:white_check_mark: The Princess Royal\n\n:cricket: No one got it right!",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "HpG"
+            },
+            {
+                "type": "context",
+                "block_id": "1G5",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "2. What job does the gaffer do in the film industry?\n\n:x: Sound Recorder\n:x: Lighting\n:x: Make Up\n:white_check_mark: Electrician\n\n:cricket: No one got it right!",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "Vjk"
+            },
+            {
+                "type": "context",
+                "block_id": "xtB=",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "3. On what moon does the original DOOM game begin?\n\n:x: Deimos\n:x: Dione\n:white_check_mark: Phobos\n:x: Tethys\n\n:cricket: No one got it right!",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "q6Ep"
+            },
+            {
+                "type": "context",
+                "block_id": "Gdy",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "4. Which sitcom was set in Walmington-On-Sea?\n\n:x: Taxi\n:x: Liver Birds\n:x: Porridge\n:white_check_mark: Dad'S Army\n\n:cricket: No one got it right!",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "B6c"
+            },
+            {
+                "type": "context",
+                "block_id": "Iazci",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "5. Who was the special guest on 'Saturday Night Live' when Garth Brooks hosted?\n\n:x: Sean Connery\n:x: Matt Damon\n:x: Ben Affleck\n:white_check_mark: Robert Duvall\n\n:cricket: No one got it right!",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "\/Zup4"
+            },
+            {
+                "type": "context",
+                "block_id": "Mfy",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "6. Whose parents were called Vernon and Gladys?\n\n:white_check_mark: Elvis Presley\n:x: Stevie Wonder\n:x: Dolly Parton\n:x: Michael Jackson\n\n:tada: Nice job! <@U031GENLMQ8> <@U02ULCHDGB0>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "Y=O"
+            },
+            {
+                "type": "context",
+                "block_id": "lWZ",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "7. Finish the title of this popular children's show from 1996? \"Hey ____!\" \n\n:x: Anthony\n:x: Archibald\n:x: Arthur\n:white_check_mark: Arnold\n\n:tada: Nice job! <@U02ULCHDGB0>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "npQN\/"
+            },
+            {
+                "type": "context",
+                "block_id": "FSnXP",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "8. What is said to be caused by babies walking too early?\n\n:x: Sore Feet\n:x: Weak Ankles\n:x: Short Legs\n:white_check_mark: Bandy Legs\n\n:tada: Nice job! <@U03AHQURB98> <@U0310MMGC8Z>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "r38"
+            },
+            {
+                "type": "context",
+                "block_id": "edbzG",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "9. Name the music based mobile game where users have to tap coloured balls when they reach a line at the bottom of the screen.\n\n:x: Tap 2 The Beat\n:x: Beat The Ball\n:x: Tap It To Rap It\n:white_check_mark: Tap Tap Revenge\n\n:tada: Nice job! <@U03AHQURB98> <@U0310MMGC8Z> <@U031GENLMQ8>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "LR9n"
+            },
+            {
+                "type": "context",
+                "block_id": "Q+k6",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "10. Providing a pay as you go service online is?\n\n:x: Notfreelancing\n:x: Neverfreelancing\n:white_check_mark: Freelancing\n:x: Hardlyfreelancing\n\n:tada: Nice job! <@U02UJBHEQVA> <@U031GENLMQ8> <@U03AHQURB98>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "Sk\/NC"
+            }
+        ],
+        "thread_ts": "1650884700.692679",
+        "parent_user_id": "U030WJYN76W"
+    },
+    {
+        "bot_id": "B030YTVR3C4",
+        "type": "message",
+        "text": "Monthly Leaderboard",
+        "user": "U030WJYN76W",
+        "ts": "1650885357.726629",
+        "app_id": "A012T9P9VQF",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B030YTVR3C4",
+            "app_id": "A012T9P9VQF",
+            "name": "Trivia - Games | Virtual Coffee",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_72.png"
+            },
+            "deleted": false,
+            "updated": 1646662985,
+            "team_id": "T02PFK13YLC"
+        },
+        "edited": {
+            "user": "B030YTVR3C4",
+            "ts": "1650885633.000000"
+        },
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "Qxv",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "We just completed a quiz on Business and Tech, General Knowledge, Cricket (10 questions). Here are the results:\n\n:tada: Well done <@U02PDC4883V>! :tada:",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "wqo",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Podium* :trophy:\n:first_place_medal: <@U02PDC4883V> (463.40)\n:second_place_medal: <@U030SHA1S2W> (385.13)\n:third_place_medal: <@U031AUATXA4> (331.31)\n",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "image",
+                "block_id": "4YXYp",
+                "image_url": "https:\/\/engage-custom-gifs.s3.us-east-1.amazonaws.com\/custom-gifs\/U02PDC4883V-1650885633.gif",
+                "alt_text": "gif",
+                "image_width": 480,
+                "image_height": 217,
+                "image_bytes": 502205,
+                "is_animated": true,
+                "fallback": "480x217px image"
+            },
+            {
+                "type": "actions",
+                "block_id": "result-footer",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "play_game",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Start Another Game",
+                            "emoji": true
+                        },
+                        "style": "primary",
+                        "value": "all|game-result"
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "global-leaderboard",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "View overall leaderboard ",
+                            "emoji": true
+                        },
+                        "value": "quiz-leaderboard-overall|game-result",
+                        "url": "https:\/\/trivia.springworks.in\/public\/leaderboard\/61f7bf877ac06a0018e5824d"
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "worthymentions",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Worthy Mentions :medal:",
+                            "emoji": true
+                        },
+                        "value": "worthymention-626682ed349c755328588d76"
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "rxYV"
+            },
+            {
+                "type": "context",
+                "block_id": "VssC",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "*Hosted By*: <@U02PDC4883V> `using \/trivia` | *Quiz* | *10 Questions* | *Category*: Business and Tech, General Knowledge, Cricket | *Difficulty*: Medium | *20 seconds* per question | *Total Participants*: 4",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "context",
+                "block_id": "FJe",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "\nNeed help in using Trivia? Want to take full advantage of Trivia’s suite of games? Check out the full user guide <https:\/\/bit.ly\/trivia-user-guide|here>.",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650885357.726629",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650885633.772279",
+        "reply_users": [
+            "U030WJYN76W"
+        ],
+        "replies": [
+            {
+                "user": "U030WJYN76W",
+                "ts": "1650885633.772279"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1650885633.772279"
+    },
+    {
+        "client_msg_id": "7C6C40C6-79A1-419D-B3FA-0CA70D8ACDF7",
+        "type": "message",
+        "text": "No problem!",
+        "user": "U02UP9LJMSQ",
+        "ts": "1650885375.503129",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "f060571a916c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2966348130454_f060571a916cfb357ff6_72.jpg",
+            "first_name": "Saikrishna",
+            "real_name": "Saikrishna G",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "saikrishnaa.gajula",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uih",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No problem!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B030YTVR3C4",
+        "type": "message",
+        "text": "Quiz history",
+        "user": "U030WJYN76W",
+        "ts": "1650885633.772279",
+        "app_id": "A012T9P9VQF",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B030YTVR3C4",
+            "app_id": "A012T9P9VQF",
+            "name": "Trivia - Games | Virtual Coffee",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_72.png"
+            },
+            "deleted": false,
+            "updated": 1646662985,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "context",
+                "block_id": "onI5",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "1. In which country did English cricketer Tony Greig begin his first-class cricket career?\n\n:white_check_mark: South Africa\n:x: India\n:x: Australia\n:x: West Indies\n\n:tada: Nice job! <@U031AUATXA4> <@U02PDC4883V>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "77nx"
+            },
+            {
+                "type": "context",
+                "block_id": "JZSY",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "2. Which Indian scored a century in Sachin Tendulkar's debut Test?\n\n:x: Vinod Kambli\n:white_check_mark: Sanjay Manjrekar\n:x: Azharuddin\n:x: Navjot Singh Sidhu\n\n:tada: Nice job! <@U030SHA1S2W>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "B1A7"
+            },
+            {
+                "type": "context",
+                "block_id": "7zV\/8",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "3. Which British city's Test match venue is called Sophia Gardens?\n\n:x: Glasgow\n:white_check_mark: Cardiff\n:x: Edinburgh\n:x: Trent Bridge\n\n:tada: Nice job! <@U030SHA1S2W>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "RUmak"
+            },
+            {
+                "type": "context",
+                "block_id": "x+gu7",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "4. Who called Mahatma Gandhi as Mahatma for the first time?\n\n:white_check_mark: Rabindranath Tagore\n:x: Netaji Subhash Chandra Bose\n:x: Vallabhbhai Patel\n:x: Jawaharlal Nehru\n\n:tada: Nice job! <@U02PDC4883V> <@U031AUATXA4> <@U03AF5Y7E6S>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "q3J"
+            },
+            {
+                "type": "context",
+                "block_id": "GFB",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "5. What is the Bill and Melinda Gates Foundation?\n\n:x: Scholarship Programme\n:x: Coffee Supplier\n:x: Sports Aid\n:white_check_mark: Charity\n\n:tada: Nice job! <@U02PDC4883V> <@U03AF5Y7E6S> <@U031AUATXA4>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "iCo6"
+            },
+            {
+                "type": "context",
+                "block_id": "lTO",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "6. What was the first digital graphic game to run on a computer?\n\n:x: Galaga\n:x: Tetris\n:white_check_mark: Oxo\n:x: Tennis For Two\n\n:cricket: No one got it right!",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "2oqLY"
+            },
+            {
+                "type": "context",
+                "block_id": "Cb2",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "7. What have apple called their new television service?\n\n:white_check_mark: Itv\n:x: Apple Watch\n:x: Apple View\n:x: Apple Television\n\n:tada: Nice job! <@U030SHA1S2W> <@U03AF5Y7E6S>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "LNzl"
+            },
+            {
+                "type": "context",
+                "block_id": "KbsM3",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "8. What was Sir Donald Bradman's highest score in Tests?\n\n:x: 365\n:x: 350\n:white_check_mark: 334\n:x: 336\n\n:tada: Nice job! <@U031AUATXA4> <@U02PDC4883V>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "MEFJ"
+            },
+            {
+                "type": "context",
+                "block_id": "PlFc",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "9. In which sea did the Titanic`s sister ship Britannic sink?\n\n:x: Irish\n:x: Baltic\n:white_check_mark: Aegean\n:x: Red\n\n:tada: Nice job! <@U030SHA1S2W> <@U02PDC4883V>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "Ffle"
+            },
+            {
+                "type": "context",
+                "block_id": "cXD",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "10. What was the real name of Birbal?\n\n:x: Shyam Das\n:x: Ramesh Das\n:white_check_mark: Mahesh Das\n:x: Ram Das\n\n:tada: Nice job! <@U02PDC4883V> <@U030SHA1S2W>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "znwL"
+            }
+        ],
+        "thread_ts": "1650885357.726629",
+        "parent_user_id": "U030WJYN76W"
+    },
+    {
+        "client_msg_id": "6d058066-539e-4549-aa97-28831a10d3da",
+        "type": "message",
+        "text": "Thats how I actually feel :smile:",
+        "user": "U02PDC4883V",
+        "ts": "1650885656.635819",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ODc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thats how I actually feel "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1650887394.646809",
+        "thread_ts": "1650887394.646809",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1650887547.005469",
+        "reply_users": [
+            "U02PDC6B0HH",
+            "U038RTW0AF7"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1650887500.364019"
+            },
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1650887513.792039"
+            },
+            {
+                "user": "U038RTW0AF7",
+                "ts": "1650887547.005469"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7b413e9e-05f6-4126-829e-99ce4559474f",
+        "type": "message",
+        "text": "Thanks but put this in <#C0318NH5G3C|shameless-plug>",
+        "user": "U02PDC6B0HH",
+        "ts": "1650887500.364019",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7ce0a422fcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953759554663_b7ce0a422fcdabf5a771_72.jpg",
+            "first_name": "Shafique",
+            "real_name": "Shafique Gajdhar",
+            "display_name": "Shaf",
+            "team": "T02PFK13YLC",
+            "name": "shafiquegajdhar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YUS=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks but put this in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0318NH5G3C"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650887394.646809",
+        "parent_user_id": "USLACKBOT",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U038RTW0AF7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "48b4f73d-45d6-4d1a-b8f4-a71cf9da0f88",
+        "type": "message",
+        "text": "<@U038RTW0AF7>",
+        "user": "U02PDC6B0HH",
+        "ts": "1650887513.792039",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7ce0a422fcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953759554663_b7ce0a422fcdabf5a771_72.jpg",
+            "first_name": "Shafique",
+            "real_name": "Shafique Gajdhar",
+            "display_name": "Shaf",
+            "team": "T02PFK13YLC",
+            "name": "shafiquegajdhar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QM0rG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U038RTW0AF7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650887394.646809",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "757ea416-a7cc-4f9b-b7cf-28d2c72fc656",
+        "type": "message",
+        "text": "Got it",
+        "user": "U038RTW0AF7",
+        "ts": "1650887547.005469",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g740d63d8c6b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/740d63d8c6bc9478be28f9477474a4ab.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Vipul",
+            "real_name": "Vipul",
+            "display_name": "Vipul",
+            "team": "T02PFK13YLC",
+            "name": "vipulkalia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SHEz1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Got it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650887394.646809",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "bot_id": "B030YTVR3C4",
+        "type": "message",
+        "text": "Monthly Leaderboard",
+        "user": "U030WJYN76W",
+        "ts": "1650888724.337199",
+        "app_id": "A012T9P9VQF",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B030YTVR3C4",
+            "app_id": "A012T9P9VQF",
+            "name": "Trivia - Games | Virtual Coffee",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_72.png"
+            },
+            "deleted": false,
+            "updated": 1646662985,
+            "team_id": "T02PFK13YLC"
+        },
+        "edited": {
+            "user": "B030YTVR3C4",
+            "ts": "1650889000.000000"
+        },
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "8BXO",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "We just completed a quiz on Business and Tech, Harry Potter (10 questions). Here are the results:\n\n:tada: Well done <@U030EAA4YA2>! :tada:",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "uBbz",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Podium* :trophy:\n:first_place_medal: <@U030EAA4YA2> (761.02)\n:second_place_medal: <@U03AHQURB98> (745.80)\n:third_place_medal: <@U03A5S0KQMA> (572.06)\n",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "image",
+                "block_id": "nRn",
+                "image_url": "https:\/\/engage-custom-gifs.s3.us-east-1.amazonaws.com\/custom-gifs\/U030EAA4YA2-1650889000.gif",
+                "alt_text": "gif",
+                "image_width": 480,
+                "image_height": 217,
+                "image_bytes": 497272,
+                "is_animated": true,
+                "fallback": "480x217px image"
+            },
+            {
+                "type": "actions",
+                "block_id": "result-footer",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "play_game",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Start Another Game",
+                            "emoji": true
+                        },
+                        "style": "primary",
+                        "value": "all|game-result"
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "global-leaderboard",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "View overall leaderboard ",
+                            "emoji": true
+                        },
+                        "value": "quiz-leaderboard-overall|game-result",
+                        "url": "https:\/\/trivia.springworks.in\/public\/leaderboard\/61f7bf877ac06a0018e5824d"
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "worthymentions",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Worthy Mentions :medal:",
+                            "emoji": true
+                        },
+                        "value": "worthymention-62669014cce2bbed3278326a"
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "UE9"
+            },
+            {
+                "type": "context",
+                "block_id": "6VYv",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "*Hosted By*: <@U02VA7QD8UB> `using \/trivia` | *Quiz* | *10 Questions* | *Category*: Business and Tech, Harry Potter | *Difficulty*: Easy | *20 seconds* per question | *Total Participants*: 9",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "context",
+                "block_id": "LdaF",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "\nNeed help in using Trivia? Want to take full advantage of Trivia’s suite of games? Check out the full user guide <https:\/\/bit.ly\/trivia-user-guide|here>.",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650888724.337199",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650889000.427779",
+        "reply_users": [
+            "U030WJYN76W"
+        ],
+        "replies": [
+            {
+                "user": "U030WJYN76W",
+                "ts": "1650889000.427779"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "bot_id": "B030YTVR3C4",
+        "type": "message",
+        "text": "Quiz history",
+        "user": "U030WJYN76W",
+        "ts": "1650889000.427779",
+        "app_id": "A012T9P9VQF",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B030YTVR3C4",
+            "app_id": "A012T9P9VQF",
+            "name": "Trivia - Games | Virtual Coffee",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_72.png"
+            },
+            "deleted": false,
+            "updated": 1646662985,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "context",
+                "block_id": "aH6jk",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "1. What name was Voldemort known by as a boy?\n\n:white_check_mark: Tom Riddle\n:x: Tom Raddle\n:x: Tom Reddle\n:x: Tom Ruddle\n\n:tada: Nice job! <@U039PF71127> <@U03AHQURB98> <@U02UFNZS7NW> <@U03A5S0KQMA> <@U02VA7QD8UB> <@U031AUATXA4> <@U03A0KL85G8>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "D5s"
+            },
+            {
+                "type": "context",
+                "block_id": "eF0Ee",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "2. One manufacturer that produces iPad displays is?\n\n:white_check_mark: Samsung\n:x: Siemens\n:x: Toyota\n:x: Opel\n\n:tada: Nice job! <@U02VA7QD8UB> <@U02UFNZS7NW> <@U03AHQURB98> <@U030EAA4YA2>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "2J70h"
+            },
+            {
+                "type": "context",
+                "block_id": "6XSrm",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "3. What was Apple's first domestic product?\n\n:x: Iphone\n:x: Ipad\n:white_check_mark: Home Computer\n:x: Ipod\n\n:tada: Nice job! <@U030EAA4YA2> <@U039PF71127> <@U031AUATXA4> <@U03AHQURB98> <@U03A5S0KQMA>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "5my8m"
+            },
+            {
+                "type": "context",
+                "block_id": "S9N4H",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "4. In what year was the Apple OS 'Panther' launched?\n\n:x: 2002\n:x: 2001\n:white_check_mark: 2003\n:x: 2000\n\n:tada: Nice job! <@U02UFNZS7NW> <@U031AUATXA4> <@U030EAA4YA2> <@U03A5S0KQMA>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "PNp"
+            },
+            {
+                "type": "context",
+                "block_id": "NPII",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "5. How many Apps did the Apple App Store initially launch with?\n\n:x: 5\n:x: 50\n:x: 5000\n:white_check_mark: 500\n\n:tada: Nice job! <@U03AHQURB98> <@U030EAA4YA2>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "I=zrF"
+            },
+            {
+                "type": "context",
+                "block_id": "4XDt",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "6. the 6th Harry Potter book was called...?\n\n:x: Prisoner Of Azkaban\n:white_check_mark: Half-Blood Prince\n:x: Chamber Of Secrets\n:x: Deathly Hallows\n\n:tada: Nice job! <@U030EAA4YA2> <@U03A5S0KQMA> <@U02VA7QD8UB> <@U03AHQURB98> <@U039PF71127>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "B=VQ"
+            },
+            {
+                "type": "context",
+                "block_id": "myZh",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "7. Who is killed in the graveyard at the end of the Goblet of Fire?\n\n:white_check_mark: Cedric Diggory\n:x: Colin Creevey\n:x: Fleur Delacour\n:x: Victor Krum\n\n:tada: Nice job! <@U03A5S0KQMA> <@U02VA7QD8UB> <@U030EAA4YA2> <@U03A0KL85G8> <@U03AHQURB98> <@U02UFNZS7NW> <@U03C42RV2GN> <@U039PF71127>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "c4B"
+            },
+            {
+                "type": "context",
+                "block_id": "M5GB",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "8. Which is  the only book in which Voldemort doesn't make an appearance?\n\n:x: Half Blood Prince\n:white_check_mark: Prisoner Of Azkaban\n:x: Deathly Hallows\n:x: Chamber Of Secrets\n\n:tada: Nice job! <@U03AHQURB98> <@U030EAA4YA2> <@U03A0KL85G8> <@U02UFNZS7NW> <@U03C42RV2GN>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "zrx9"
+            },
+            {
+                "type": "context",
+                "block_id": "A5Q",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "9. The Macbook Air was marketed as the _____ laptop ever?\n\n:x: Heaviest\n:white_check_mark: Thinnest\n:x: Quickest\n:x: Largest\n\n:tada: Nice job! <@U030EAA4YA2> <@U03AHQURB98> <@U02VA7QD8UB> <@U03A0KL85G8> <@U03A5S0KQMA> <@U03C42RV2GN> <@U039PF71127>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "a7m0O"
+            },
+            {
+                "type": "context",
+                "block_id": "B2iuu",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "10. Which student returns to Hogwarts to teach Herbology?\n\n:white_check_mark: Neville\n:x: Cho Chang\n:x: Seamus\n:x: Luna\n\n:tada: Nice job! <@U030EAA4YA2> <@U03AHQURB98> <@U03C42RV2GN> <@U03A0KL85G8> <@U03A5S0KQMA> <@U039PF71127>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "IgJ"
+            }
+        ],
+        "thread_ts": "1650888724.337199",
+        "parent_user_id": "U030WJYN76W"
+    },
+    {
+        "client_msg_id": "0d9e99e4-5796-4e1f-9a2b-a6e43ecac645",
+        "type": "message",
+        "text": "Everyone please get your :popcorn: \n\n<https:\/\/www.independent.co.uk\/tech\/twitter-elon-musk-buy-company-b2064819.html|https:\/\/www.independent.co.uk\/tech\/twitter-elon-musk-buy-company-b2064819.html>",
+        "user": "U02PDC4883V",
+        "ts": "1650891667.364069",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.independent.co.uk\/tech\/twitter-elon-musk-buy-company-b2064819.html",
+                "ts": 1650888004,
+                "image_url": "https:\/\/static.independent.co.uk\/2021\/12\/15\/16\/5abdde1b-8d62-415f-8b5b-cef955c2eb70.png?quality=75&width=1200&auto=webp",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 112210,
+                "service_icon": "https:\/\/www.independent.co.uk\/img\/shortcut-icons\/icon-192x192.png",
+                "id": 1,
+                "original_url": "https:\/\/www.independent.co.uk\/tech\/twitter-elon-musk-buy-company-b2064819.html",
+                "fallback": "The Independent: Twitter to accept Elon Musk’s $45 billion bid to buy company",
+                "text": "Twitter is reportedly prepared to accept Elon Musk’s offer to buy the company for $54.20 per share.",
+                "title": "Twitter to accept Elon Musk’s $45 billion bid to buy company",
+                "title_link": "https:\/\/www.independent.co.uk\/tech\/twitter-elon-musk-buy-company-b2064819.html",
+                "service_name": "The Independent"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zfu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Everyone please get your "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "popcorn"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.independent.co.uk\/tech\/twitter-elon-musk-buy-company-b2064819.html",
+                                "text": "https:\/\/www.independent.co.uk\/tech\/twitter-elon-musk-buy-company-b2064819.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650891667.364069",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1650972997.589599",
+        "reply_users": [
+            "U02TTEFFU6B",
+            "U0323V4CLRY",
+            "U030SHA1S2W",
+            "U030KV8R8RL",
+            "U02PDC4883V",
+            "U033KD7GMDJ"
+        ],
+        "replies": [
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1650891871.236509"
+            },
+            {
+                "user": "U0323V4CLRY",
+                "ts": "1650892199.356429"
+            },
+            {
+                "user": "U030SHA1S2W",
+                "ts": "1650900622.897179"
+            },
+            {
+                "user": "U030KV8R8RL",
+                "ts": "1650949090.279939"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650949863.089869"
+            },
+            {
+                "user": "U033KD7GMDJ",
+                "ts": "1650972997.589599"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1650972997.589599",
+        "reactions": [
+            {
+                "name": "scream",
+                "users": [
+                    "U0323V4CLRY",
+                    "U033QDFML74",
+                    "U02VA7QD8UB",
+                    "U030SHA1S2W"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c619b936-e27b-4318-ba25-402fca4d8182",
+        "type": "message",
+        "text": "He left them no option. Literal genious move.\n\nCurious to know what the community thinks about Elon taking over Twitter.",
+        "user": "U02TTEFFU6B",
+        "ts": "1650891871.236509",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4xrV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "He left them no option. Literal genious move.\n\nCurious to know what the community thinks about Elon taking over Twitter."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650891667.364069",
+        "parent_user_id": "U02PDC4883V"
+    },
+    {
+        "client_msg_id": "a6341b24-c38b-4ada-b639-5aea1284ef94",
+        "type": "message",
+        "text": "What:exploding_head:, I read the news that Twitter got Poison pills to ensure safety of its shareholders.\n\nWow, he really made a deal here",
+        "user": "U0323V4CLRY",
+        "ts": "1650892199.356429",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bda2aafa72dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-22\/3275541779442_bda2aafa72dde9c08430_72.jpg",
+            "first_name": "Samyak",
+            "real_name": "Samyak tripathi",
+            "display_name": "samyak",
+            "team": "T02PFK13YLC",
+            "name": "samyaktripathi060",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0323V4CLRY",
+            "ts": "1650892225.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8B5w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "exploding_head"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I read the news that Twitter got Poison pills to ensure safety of its shareholders.\n\nWow, he really made a deal here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650891667.364069",
+        "parent_user_id": "U02PDC4883V"
+    },
+    {
+        "client_msg_id": "18719aa2-5631-4bc5-a555-1f2e4a76fbb1",
+        "type": "message",
+        "text": "Poison pill was just to ensure he does not buy more than 50% shares from the market and get majority holding. It allowed the board to negotiate directly with him. And that's what they are doing. Making moolah till the sun shines. :man-shrugging::skin-tone-2:",
+        "user": "U030SHA1S2W",
+        "ts": "1650900622.897179",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4854b34cf53b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-22\/3163652013408_4854b34cf53b0654333b_72.jpg",
+            "first_name": "Savijeet",
+            "real_name": "Savijeet Singh",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "savijeet-singh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ObWC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Poison pill was just to ensure he does not buy more than 50% shares from the market and get majority holding. It allowed the board to negotiate directly with him. And that's what they are doing. Making moolah till the sun shines. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-shrugging",
+                                "skin_tone": 2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650891667.364069",
+        "parent_user_id": "U02PDC4883V"
+    },
+    {
+        "type": "message",
+        "text": "Brutal :laughing:",
+        "files": [
+            {
+                "id": "F03CZ5FNMHA",
+                "created": 1650944166,
+                "timestamp": 1650944166,
+                "name": "IMG_20220426_090542.jpg",
+                "title": "IMG_20220426_090542.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U02VA7QD8UB",
+                "editable": false,
+                "size": 47317,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03CZ5FNMHA\/img_20220426_090542.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03CZ5FNMHA\/download\/img_20220426_090542.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CZ5FNMHA-186391c5ac\/img_20220426_090542_64.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CZ5FNMHA-186391c5ac\/img_20220426_090542_80.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CZ5FNMHA-186391c5ac\/img_20220426_090542_360.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 326,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CZ5FNMHA-186391c5ac\/img_20220426_090542_480.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 435,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CZ5FNMHA-186391c5ac\/img_20220426_090542_160.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "original_w": 612,
+                "original_h": 675,
+                "thumb_tiny": "AwAwACuKE4LfJu5xipCy7BuhXOKUERIUHLN1NJLjzUXtg0gDzUAVTGDj1pfOQnBjyB2pswHkpIOw\/pVRHIcknqKYFp2TZ9xQ3rUaMdg+ZhUUxxJkdCAaVXAUUAShG5YYAJHeptsTkF92fam27ojsHXOcYIXJqWVfMiYJHJkjsuKBXIt0IhVC7Y4BH86b5dqQdpJPbk0CBt+6WI47AnFIseJCY485HRTnFIdtAdEkPCMQOBgVELaXH3DV6OV402mCX9KPtJ\/54yfpTFcrI22RT6GtMSgID19KyGJGCOxq4rEQjceQKYh07NIMnkjkACo7UupMg\/i9uMVIT8h9cVFa7mgABxg\/pSHcttNuUcYqEtzTdw2nPbnHrVhI4nQMq5BGQcmmI\/\/Z",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U02VA7QD8UB\/F03CZ5FNMHA\/img_20220426_090542.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03CZ5FNMHA-da82c51e63",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02VA7QD8UB",
+        "display_as_bot": false,
+        "ts": "1650944176.698439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aTb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Brutal "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "e220ca46-b398-4bb2-bba6-9791c5452d5b",
+        "reactions": [
+            {
+                "name": "see_no_evil",
+                "users": [
+                    "U030SHA1S2W",
+                    "U02VA7QD8UB"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E314E5DA-1D19-4CCF-92BB-82F5153A64AA",
+        "type": "message",
+        "text": "What’s a Poison pill? ",
+        "user": "U030KV8R8RL",
+        "ts": "1650949090.279939",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1d58fa7deccd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3044063413425_1d58fa7deccd79b3b2d0_72.jpg",
+            "first_name": "Vartika",
+            "real_name": "Vartika Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "vartika.gupta1911",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GG8uZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What’s a Poison pill? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650891667.364069",
+        "parent_user_id": "U02PDC4883V"
+    },
+    {
+        "client_msg_id": "8cb196a9-ae5d-4a98-9873-8b9dd66ec63a",
+        "type": "message",
+        "text": "<https:\/\/www.investopedia.com\/terms\/p\/poisonpill.asp|https:\/\/www.investopedia.com\/terms\/p\/poisonpill.asp>",
+        "user": "U02PDC4883V",
+        "ts": "1650949863.089869",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.investopedia.com\/terms\/p\/poisonpill.asp",
+                "thumb_url": "https:\/\/www.investopedia.com\/thmb\/uyzz0Gf-6Zyd2RmQLZhBAU60Usg=\/2151x1393\/filters:fill(auto,1)\/GettyImages-1175215967-dc6eeac2c8c441f4aebe0db74abdb45f.jpg",
+                "thumb_width": 2151,
+                "thumb_height": 1393,
+                "service_icon": "https:\/\/www.investopedia.com\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.investopedia.com\/terms\/p\/poisonpill.asp",
+                "fallback": "Investopedia: What Is a Poison Pill in Business?",
+                "text": "A poison pill is a defense tactic utilized by a target company to prevent or discourage attempts of a hostile takeover by an acquirer.",
+                "title": "What Is a Poison Pill in Business?",
+                "title_link": "https:\/\/www.investopedia.com\/terms\/p\/poisonpill.asp",
+                "service_name": "Investopedia"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "asuXA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.investopedia.com\/terms\/p\/poisonpill.asp",
+                                "text": "https:\/\/www.investopedia.com\/terms\/p\/poisonpill.asp"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650891667.364069",
+        "parent_user_id": "U02PDC4883V"
+    }
+]

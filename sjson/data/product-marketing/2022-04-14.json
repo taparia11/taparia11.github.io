@@ -1,0 +1,144 @@
+[
+    {
+        "client_msg_id": "2cda57ba-02e7-4483-9b22-7516eac1e63c",
+        "type": "message",
+        "text": "I wanted to know if anyone is using podcast as a medium for lead-gen? or is it mainly branding? Let me know your thoughts.",
+        "user": "U031PUU5Z0U",
+        "ts": "1649943318.935109",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4d85314bb1c8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-03\/3049007994662_4d85314bb1c83972ac58_72.png",
+            "first_name": "Rohit",
+            "real_name": "Rohit Naidu",
+            "display_name": "Rohit Naidu",
+            "team": "T02PFK13YLC",
+            "name": "mr.rohit.naidu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9px",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I wanted to know if anyone is using podcast as a medium for lead-gen? or is it mainly branding? Let me know your thoughts."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649943318.935109",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1650298997.387899",
+        "reply_users": [
+            "U038GCYAUB1",
+            "U031PUU5Z0U"
+        ],
+        "replies": [
+            {
+                "user": "U038GCYAUB1",
+                "ts": "1650285619.035579"
+            },
+            {
+                "user": "U031PUU5Z0U",
+                "ts": "1650298997.387899"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0c438b88-cc36-4bda-9f08-8c7aa8584151",
+        "type": "message",
+        "text": "<@U02VD2JL8N8> What kind of $$$ are we looking at?",
+        "user": "U030PQRLHEH",
+        "ts": "1649960871.553559",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "01a1b05516c5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-15\/3410501334369_01a1b05516c5b272fbfa_72.jpg",
+            "first_name": "Yatharth",
+            "real_name": "Yatharth Jain",
+            "display_name": "Yatharth Jain",
+            "team": "T02PFK13YLC",
+            "name": "yatharth.jain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PGV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02VD2JL8N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " What kind of $$$ are we looking at?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648726552.930589",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "af7220aa-6df9-4823-a83f-6cdf6ddb6b3c",
+        "type": "message",
+        "text": "They do custom pricing basis # of slides and iterations so you'll have to reach out for a quote",
+        "user": "U02VD2JL8N8",
+        "ts": "1649986700.309289",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1f8231d0f5f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3323449503767_1f8231d0f5f43aecb19d_72.jpg",
+            "first_name": "Mayank",
+            "real_name": "Mayank Mujumdar",
+            "display_name": "mayank",
+            "team": "T02PFK13YLC",
+            "name": "mayank13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yy1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "They do custom pricing basis # of slides and iterations so you'll have to reach out for a quote"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648726552.930589",
+        "parent_user_id": "U02TTEFFU6B"
+    }
+]

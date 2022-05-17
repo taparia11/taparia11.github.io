@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "1AA47A0D-70FD-4916-A4B2-8886AFFD152E",
+        "type": "message",
+        "text": "My team evaluated Marketmuse, Clearscope, Surfer and a few more tools for this usecase. We finally settled on Clearscope because of the fluid UI and the results it had the content output. Marketmuse was clunky, but it was functionally equally good. It lacked a Gdoc integration when we were evaluating, not sure if they have it now. It was a major turn off for the team. ",
+        "user": "U02V22EUXM4",
+        "ts": "1650123592.378999",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9f2cfa9248dc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-07\/3075859566289_9f2cfa9248dc9a1dae23_72.jpg",
+            "first_name": "Deepan",
+            "real_name": "Deepan Siddhu",
+            "display_name": "Deepan Siddhu",
+            "team": "T02PFK13YLC",
+            "name": "deepan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DoO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My team evaluated Marketmuse, Clearscope, Surfer and a few more tools for this usecase. We finally settled on Clearscope because of the fluid UI and the results it had the content output. Marketmuse was clunky, but it was functionally equally good. It lacked a Gdoc integration when we were evaluating, not sure if they have it now. It was a major turn off for the team. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649925076.759519",
+        "parent_user_id": "U033R6MA1DY",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U033R6MA1DY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

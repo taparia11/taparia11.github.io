@@ -1,0 +1,46 @@
+[
+    {
+        "client_msg_id": "804F059D-0DF5-4E02-91A3-9AFD47779F2E",
+        "type": "message",
+        "text": "I'd love to learn more about how you're  building the community. Maybe an AMA sometime?",
+        "user": "U02VBNKU9T6",
+        "ts": "1651034709.982499",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "cb0a1d3d83f2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/3008104796193_cb0a1d3d83f2e60942d4_72.jpg",
+            "first_name": "Ketan",
+            "real_name": "Ketan Pandit",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "ketan.pandit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02VBNKU9T6",
+            "ts": "1651034723.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yC1KJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'd love to learn more about how you're  building the community. Maybe an AMA sometime?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650497629.810879",
+        "parent_user_id": "U03BY8AREUE"
+    }
+]

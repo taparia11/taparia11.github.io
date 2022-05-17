@@ -1,0 +1,915 @@
+[
+    {
+        "client_msg_id": "e6d5171d-9151-4f4c-b724-d6085ec704e3",
+        "type": "message",
+        "text": "I'm sure I've seen a tool like this but a name escapes me...\nIt's an a intake form tool that captures responses from otherwise abandoned flows ie\nE.g. if someone answers questions 1-5 out of a total of 10, I would still be able to see those responses rather than nothing or that \"x people abandoned\"\n\nRinging any bells for anyone?",
+        "user": "U032MN1BESJ",
+        "ts": "1650635479.372389",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g8a12888a77b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a12888a77b019e4e11e0df9171feb29.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Anuj",
+            "real_name": "Anuj Adhiya",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "adhiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1gvB0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm sure I've seen a tool like this but a name escapes me...\nIt's an a intake form tool that captures responses from otherwise abandoned flows ie\nE.g. if someone answers questions 1-5 out of a total of 10, I would still be able to see those responses rather than nothing or that \"x people abandoned\"\n\nRinging any bells for anyone?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650635479.372389",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1650729508.039869",
+        "reply_users": [
+            "U03A2UNJJDD",
+            "U032MN1BESJ"
+        ],
+        "replies": [
+            {
+                "user": "U03A2UNJJDD",
+                "ts": "1650689279.894669"
+            },
+            {
+                "user": "U032MN1BESJ",
+                "ts": "1650728961.106569"
+            },
+            {
+                "user": "U03A2UNJJDD",
+                "ts": "1650729508.039869"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "34d44dd7-e68b-4fd3-a9d7-e49320bb95b1",
+        "type": "message",
+        "text": "<https:\/\/www.linkedin.com\/posts\/icanautomate_moderndatalandscape-activity-6923206028310245376-mtRB?utm_source=linkedin_share&amp;utm_medium=member_desktop_web|https:\/\/www.linkedin.com\/posts\/icanautomate_moderndatalandscape-activity-692320602831[…]mtRB?utm_source=linkedin_share&amp;utm_medium=member_desktop_web>\n\nData Activation \/ETL + Reverse ETL and the CDP. Data flow industry is seeing lot of positioning changes.",
+        "user": "U03158A1WPK",
+        "ts": "1650635511.279519",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5837aa37daee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3029573541474_5837aa37daee415bd34b_72.jpg",
+            "first_name": "Srikrishna",
+            "real_name": "Srikrishna Factors.ai",
+            "display_name": "Srikrishna Factors.ai",
+            "team": "T02PFK13YLC",
+            "name": "srikrishna",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/posts\/icanautomate_moderndatalandscape-activity-6923206028310245376-mtRB?utm_source=linkedin_share&utm_medium=member_desktop_web",
+                "image_url": "https:\/\/media-exp1.licdn.com\/dms\/image\/C4D22AQGKJ42SgDqcHw\/feedshare-shrink_800\/0\/1650620943219?e=2147483647&v=beta&t=hGTOQ2QALp-dPBKAyctfP8LW-mXkVhQGtX3Wgb4on1A",
+                "image_width": 448,
+                "image_height": 250,
+                "image_bytes": 18180,
+                "service_icon": "https:\/\/static-exp1.licdn.com\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/posts\/icanautomate_moderndatalandscape-activity-6923206028310245376-mtRB?utm_source=linkedin_share&amp;utm_medium=member_desktop_web",
+                "fallback": "Arpit Choudhury on LinkedIn: #moderndatalandscape",
+                "text": "Data Activation is so hot right now with so much activity and so many companies adopting the term to describe what they do. So I thought I'd share my ...",
+                "title": "Arpit Choudhury on LinkedIn: #moderndatalandscape",
+                "title_link": "https:\/\/www.linkedin.com\/posts\/icanautomate_moderndatalandscape-activity-6923206028310245376-mtRB?utm_source=linkedin_share&utm_medium=member_desktop_web",
+                "service_name": "linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K+Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/icanautomate_moderndatalandscape-activity-6923206028310245376-mtRB?utm_source=linkedin_share&utm_medium=member_desktop_web",
+                                "text": "https:\/\/www.linkedin.com\/posts\/icanautomate_moderndatalandscape-activity-692320602831[…]mtRB?utm_source=linkedin_share&utm_medium=member_desktop_web"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nData Activation \/ETL + Reverse ETL and the CDP. Data flow industry is seeing lot of positioning changes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650635511.279519",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1650866134.539149",
+        "reply_users": [
+            "U02PDC6B0HH",
+            "U034RJQUQK0"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1650636424.229109"
+            },
+            {
+                "user": "U034RJQUQK0",
+                "ts": "1650866134.539149"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ca4882d2-c9da-4fa9-a29f-a69dfca30b6a",
+        "type": "message",
+        "text": "<@U034RJQUQK0> ^",
+        "user": "U02PDC6B0HH",
+        "ts": "1650636424.229109",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7ce0a422fcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953759554663_b7ce0a422fcdabf5a771_72.jpg",
+            "first_name": "Shafique",
+            "real_name": "Shafique Gajdhar",
+            "display_name": "Shaf",
+            "team": "T02PFK13YLC",
+            "name": "shafiquegajdhar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uOx=n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U034RJQUQK0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650635511.279519",
+        "parent_user_id": "U03158A1WPK",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03158A1WPK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cac22180-e36e-40c0-8dfc-914b3e2654ec",
+        "type": "message",
+        "text": "Hello Folks! Needed a bit of help in SFDC reporting. How do I check if a lead has been been in a particular status ever in SFDC?\nHere is the entire context\n1. We have 6 stages\n2. 5 stage is a Demo\n3. After that it either converts or is marked as disqualified\n4. I want to build a report to see how many leads (irrespective of being converted or not) ever reached a Demo stage\nP.S: I tried building the report using Lead History and using ‘Lead Stage’ as a Field Event - but when I enter any conditions into Old Value it shows an error :see_no_evil:",
+        "user": "U02PDC4883V",
+        "ts": "1650681559.920899",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b=gO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Folks! Needed a bit of help in SFDC reporting. How do I check if a lead has been been in a particular status ever in SFDC?\nHere is the entire context\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "We have 6 stages"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "5 stage is a Demo"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "After that it either converts or is marked as disqualified"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I want to build a report to see how many leads (irrespective of being converted or not) ever reached a Demo stage"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nP.S: I tried building the report using Lead History and using ‘Lead Stage’ as a Field Event - but when I enter any conditions into Old Value it shows an error "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "see_no_evil"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650681559.920899",
+        "reply_count": 12,
+        "reply_users_count": 5,
+        "latest_reply": "1651132622.683889",
+        "reply_users": [
+            "U02UZ4T10PQ",
+            "U02PDC4883V",
+            "U02UY3EPQDA",
+            "U02UUCE1ASD",
+            "U03158A1WPK"
+        ],
+        "replies": [
+            {
+                "user": "U02UZ4T10PQ",
+                "ts": "1650681673.404929"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650681882.201859"
+            },
+            {
+                "user": "U02UZ4T10PQ",
+                "ts": "1650682909.495769"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650683292.433609"
+            },
+            {
+                "user": "U02UZ4T10PQ",
+                "ts": "1650683577.475749"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650683666.795889"
+            },
+            {
+                "user": "U02UZ4T10PQ",
+                "ts": "1650683716.747479"
+            },
+            {
+                "user": "U02UY3EPQDA",
+                "ts": "1650684196.641669"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650687539.954959"
+            },
+            {
+                "user": "U02UUCE1ASD",
+                "ts": "1650694016.076269"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650700421.500669"
+            },
+            {
+                "user": "U03158A1WPK",
+                "ts": "1651132622.683889"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1651132622.683889"
+    },
+    {
+        "client_msg_id": "66A4EABC-DEBD-45B5-90B7-88041FA10228",
+        "type": "message",
+        "text": "Is there no lead ‘Created on’ and ‘last modified’ datetime series column in sfdc?",
+        "user": "U02UZ4T10PQ",
+        "ts": "1650681673.404929",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "0e693f543f3a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-22\/2977217232247_0e693f543f3a4a1d3fd3_72.jpg",
+            "first_name": "Sagnik",
+            "real_name": "Sagnik IntelliServiceAI",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "sagnik.datta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fK5Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is there no lead ‘Created on’ and ‘last modified’ datetime series column in sfdc?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650681559.920899",
+        "parent_user_id": "U02PDC4883V"
+    },
+    {
+        "client_msg_id": "9c002398-b252-447c-9de0-e595b7f414f1",
+        "type": "message",
+        "text": "I want to check the Lead Status column - irrespective when it was modified",
+        "user": "U02PDC4883V",
+        "ts": "1650681882.201859",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UOWXX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I want to check the Lead Status column - irrespective when it was modified"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650681559.920899",
+        "parent_user_id": "U02PDC4883V"
+    },
+    {
+        "client_msg_id": "6430B197-BAB2-495D-BF2D-DF671EC0792B",
+        "type": "message",
+        "text": "Right but i am thinking since you want to measure days between statuses, we may need to explore timeline data \/ activity. At least thats the situation in msd365.\n\n Days in stage 4 = today() - 23rd January 2022 = 90 days (this is additional calculated field) \n\nFields \n• Lead status = stage 4\n• Last modified date on lead status = 23rd January 2022\n• Lead Created on = 14th april 2021 (Lead status was new)\nBut never explored sfdc . Looking for feedback",
+        "user": "U02UZ4T10PQ",
+        "ts": "1650682909.495769",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "0e693f543f3a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-22\/2977217232247_0e693f543f3a4a1d3fd3_72.jpg",
+            "first_name": "Sagnik",
+            "real_name": "Sagnik IntelliServiceAI",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "sagnik.datta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+hJvW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Right but i am thinking since you want to measure days between statuses, we may need to explore timeline data \/ activity. At least thats the situation in msd365.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Days in stage 4 = today() - 23rd January 2022 = 90 days (this is additional calculated field) \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Fields \n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Lead status = stage 4"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Last modified date on lead status = 23rd January 2022"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Lead Created on = 14th april 2021 (Lead status was new)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "But never explored sfdc . Looking for feedback"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650681559.920899",
+        "parent_user_id": "U02PDC4883V"
+    },
+    {
+        "client_msg_id": "b83ccce0-d7e9-4ac1-9b3c-f32f6592afaf",
+        "type": "message",
+        "text": "I actually wanted to measure how many leads actually ever reached a particular stage .. irrespective of the stage they are at today\n\nBut your take is also interesting. Let me run some reports.",
+        "user": "U02PDC4883V",
+        "ts": "1650683292.433609",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7xZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I actually wanted to measure how many leads actually ever reached a particular stage .. irrespective of the stage they are at today\n\nBut your take is also interesting. Let me run some reports."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650681559.920899",
+        "parent_user_id": "U02PDC4883V"
+    },
+    {
+        "client_msg_id": "C01837C3-A091-45C7-B5FA-636886340705",
+        "type": "message",
+        "text": "I am sure there's a better way so looking for more feedback from experts here. We silently awarded msd365 the least marketing automation system built in the planet last year :) Do share your findings on sfdc, thanks!",
+        "user": "U02UZ4T10PQ",
+        "ts": "1650683577.475749",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "0e693f543f3a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-22\/2977217232247_0e693f543f3a4a1d3fd3_72.jpg",
+            "first_name": "Sagnik",
+            "real_name": "Sagnik IntelliServiceAI",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "sagnik.datta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ak+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am sure there's a better way so looking for more feedback from experts here. We silently awarded msd365 the least marketing automation system built in the planet last year :) Do share your findings on sfdc, thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650681559.920899",
+        "parent_user_id": "U02PDC4883V",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02PDC4883V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "53e7ff9c-09c6-489c-b112-c97b2634dd0f",
+        "type": "message",
+        "text": "MSD365 is a PAIN! I saw their demo and i really dont get why anyone would go for MSD365 :see_no_evil:",
+        "user": "U02PDC4883V",
+        "ts": "1650683666.795889",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dJJ4x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "MSD365 is a PAIN! I saw their demo and i really dont get why anyone would go for MSD365 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "see_no_evil"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650681559.920899",
+        "parent_user_id": "U02PDC4883V"
+    },
+    {
+        "client_msg_id": "0F4B2B66-FAD7-4A7C-851E-9E811ECA3446",
+        "type": "message",
+        "text": "Hahaha! They’ve a massive Ecosystem and have got the partner playbook extremely well figured out.",
+        "user": "U02UZ4T10PQ",
+        "ts": "1650683716.747479",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "0e693f543f3a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-22\/2977217232247_0e693f543f3a4a1d3fd3_72.jpg",
+            "first_name": "Sagnik",
+            "real_name": "Sagnik IntelliServiceAI",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "sagnik.datta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bP6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hahaha! They’ve a massive Ecosystem and have got the partner playbook extremely well figured out."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650681559.920899",
+        "parent_user_id": "U02PDC4883V"
+    },
+    {
+        "client_msg_id": "639bea05-1e03-413d-9997-f87fc7bfbec8",
+        "type": "message",
+        "text": "<@U02PDC4883V> look at the activity or history logs in SFDC? It should give you the the date and time of the last known lead status?\n\nAlso, for custom fields make sure SFDC is recording change history (it's an option you need to enable for custom fields).",
+        "user": "U02UY3EPQDA",
+        "ts": "1650684196.641669",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "da155664fe94",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-20\/2981844758147_da155664fe9476fbd35b_72.jpg",
+            "first_name": "sv410_",
+            "real_name": "sv410_",
+            "display_name": "sv410_",
+            "team": "T02PFK13YLC",
+            "name": "bravenuworld",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02UY3EPQDA",
+            "ts": "1650684335.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A5o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02PDC4883V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " look at the activity or history logs in SFDC? It should give you the the date and time of the last known lead status?\n\nAlso, for custom fields make sure SFDC is recording change history (it's an option you need to enable for custom fields)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650681559.920899",
+        "parent_user_id": "U02PDC4883V"
+    },
+    {
+        "client_msg_id": "59488e0b-3cf9-4f0f-8be7-3bd1ab315d5f",
+        "type": "message",
+        "text": "Yeah trying to do that somehow the Last Value filter is not working for my value :see_no_evil:",
+        "user": "U02PDC4883V",
+        "ts": "1650687539.954959",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A=jm1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah trying to do that somehow the Last Value filter is not working for my value "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "see_no_evil"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650681559.920899",
+        "parent_user_id": "U02PDC4883V"
+    },
+    {
+        "client_msg_id": "e2054374-f52a-4317-a9a6-13ae0e0d6698",
+        "type": "message",
+        "text": "There are a whole bunch of forms that let you do that. There's typeform, qualtrics, litmusworld, survey monkey, etc.",
+        "user": "U03A2UNJJDD",
+        "ts": "1650689279.894669",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "91a4f79ca4fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3342983706615_91a4f79ca4fe220decc9_72.jpg",
+            "first_name": "Chirag",
+            "real_name": "Chirag Parmar",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "chiragparmar.marketin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jO0Q7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are a whole bunch of forms that let you do that. There's typeform, qualtrics, litmusworld, survey monkey, etc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650635479.372389",
+        "parent_user_id": "U032MN1BESJ"
+    },
+    {
+        "client_msg_id": "9B9D734E-274F-4CC3-9746-E1E0AD4A3F7D",
+        "type": "message",
+        "text": "<@U02PDC4883V> reach out to <https:\/\/www.linkedin.com\/in\/therevopsguy|https:\/\/www.linkedin.com\/in\/therevopsguy>\n\nHe's the best in business when it comes to Salesforce. You can take my reference :grimacing:",
+        "user": "U02UUCE1ASD",
+        "ts": "1650694016.076269",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8fc0ff2b8ed7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-22\/3425444312242_8fc0ff2b8ed7f97f960d_72.jpg",
+            "first_name": "Sunil",
+            "real_name": "Sunil Neurgaonkar",
+            "display_name": "Sunil",
+            "team": "T02PFK13YLC",
+            "name": "sunilneurgaonkar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02UUCE1ASD",
+            "ts": "1650694042.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a=Bh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02PDC4883V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " reach out to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/therevopsguy",
+                                "text": "https:\/\/www.linkedin.com\/in\/therevopsguy"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "He's the best in business when it comes to Salesforce. You can take my reference "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grimacing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650681559.920899",
+        "parent_user_id": "U02PDC4883V"
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "client_msg_id": "d7c28c6e-766d-4cd2-92fb-66b1198833cf",
+        "type": "message",
+        "text": "Will do!",
+        "user": "U02PDC4883V",
+        "ts": "1650700421.500669",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UrF9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will do!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650681559.920899",
+        "parent_user_id": "U02PDC4883V"
+    },
+    {
+        "client_msg_id": "398ae2d9-1a78-4cff-a880-d67d6f618e41",
+        "type": "message",
+        "text": "Should have clarified - forms like those you'd fill out on a site to sign up\/buy\/download etc.",
+        "user": "U032MN1BESJ",
+        "ts": "1650728961.106569",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g8a12888a77b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a12888a77b019e4e11e0df9171feb29.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Anuj",
+            "real_name": "Anuj Adhiya",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "adhiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bbR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Should have clarified - forms like those you'd fill out on a site to sign up\/buy\/download etc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650635479.372389",
+        "parent_user_id": "U032MN1BESJ"
+    },
+    {
+        "client_msg_id": "6c0e2011-ca33-4094-baec-3e0be0a1a844",
+        "type": "message",
+        "text": "hubspot lead forms, contact form 7 lazy load, from the back of my head.",
+        "user": "U03A2UNJJDD",
+        "ts": "1650729508.039869",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "91a4f79ca4fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3342983706615_91a4f79ca4fe220decc9_72.jpg",
+            "first_name": "Chirag",
+            "real_name": "Chirag Parmar",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "chiragparmar.marketin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FKSs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hubspot lead forms, contact form 7 lazy load, from the back of my head."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650635479.372389",
+        "parent_user_id": "U032MN1BESJ",
+        "reactions": [
+            {
+                "name": "tumbler_glass",
+                "users": [
+                    "U032MN1BESJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c8491577-31c1-48d0-bfe3-3f4da8e6cb1d",
+        "type": "message",
+        "text": "Hi - Anyone here has worked with a partner who best understands email nurturing, specifically for personal email ids to work email ids.",
+        "user": "U0398V7RJG1",
+        "ts": "1650778512.229259",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "2a213db0f9b0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-27\/3287777972935_2a213db0f9b0b3e05334_72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Jasuja",
+            "display_name": "Nikhil Jasuja",
+            "team": "T02PFK13YLC",
+            "name": "jasuja1106",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5jpA2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi - Anyone here has worked with a partner who best understands email nurturing, specifically for personal email ids to work email ids."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650778512.229259",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650871739.524439",
+        "reply_users": [
+            "U032QUYKMGV"
+        ],
+        "replies": [
+            {
+                "user": "U032QUYKMGV",
+                "ts": "1650871739.524439"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1650783073.618479",
+        "user": "U03C8SYJGCF",
+        "text": "<@U03C8SYJGCF> has joined the channel",
+        "inviter": "U03DD6EGPKJ"
+    }
+]

@@ -1,0 +1,382 @@
+[
+    {
+        "client_msg_id": "6CB4D607-7801-4D9E-8137-24222ABF1925",
+        "type": "message",
+        "text": "<@U030KV8R8RL> and <@U030KSSTADU> - Do these agencies have presence \/ network in Indonesia specifically? I am looking to do a c-level roundtable… i am still awaiting Ortus’s confirmation",
+        "user": "U030EJQ7NAV",
+        "ts": "1649495923.800329",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "39ad0f3ee87d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-15\/3099176267974_39ad0f3ee87dd8bf30d5_72.png",
+            "first_name": "Tuneer",
+            "real_name": "Tuneer Malik",
+            "display_name": "Tuneer",
+            "team": "T02PFK13YLC",
+            "name": "tuneermalik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Md5z4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U030KV8R8RL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U030KSSTADU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Do these agencies have presence \/ network in Indonesia specifically? I am looking to do a c-level roundtable… i am still awaiting Ortus’s confirmation"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648471320.547149",
+        "parent_user_id": "U02UJ3N39PF"
+    },
+    {
+        "client_msg_id": "B7499360-1D6B-4E81-B4E6-933171DB19A4",
+        "type": "message",
+        "text": "Yeah, it should be. It’s not an agency, just a tool to help you organise the webinar better ",
+        "user": "U030KV8R8RL",
+        "ts": "1649495985.674929",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1d58fa7deccd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3044063413425_1d58fa7deccd79b3b2d0_72.jpg",
+            "first_name": "Vartika",
+            "real_name": "Vartika Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "vartika.gupta1911",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Da6s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, it should be. It’s not an agency, just a tool to help you organise the webinar better "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648471320.547149",
+        "parent_user_id": "U02UJ3N39PF"
+    },
+    {
+        "client_msg_id": "CE281049-79A2-46E8-ACFF-C8D8EC1A15C6",
+        "type": "message",
+        "text": "Folks, any suggestions on Agencies\/Vendors that can help arrange c-level roundtables, specifically in Indonesia? ID is turning out to be a hub of digitalisation of late and I’d like to take a deeper dive",
+        "user": "U030EJQ7NAV",
+        "ts": "1649496016.510399",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "39ad0f3ee87d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-15\/3099176267974_39ad0f3ee87dd8bf30d5_72.png",
+            "first_name": "Tuneer",
+            "real_name": "Tuneer Malik",
+            "display_name": "Tuneer",
+            "team": "T02PFK13YLC",
+            "name": "tuneermalik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U030EJQ7NAV",
+            "ts": "1649496083.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i4Uk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Folks, any suggestions on Agencies\/Vendors that can help arrange c-level roundtables, specifically in Indonesia? ID is turning out to be a hub of digitalisation of late and I’d like to take a deeper dive"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649496016.510399",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1649575648.058019",
+        "reply_users": [
+            "U02USELSBRT",
+            "U030D7DN2DD",
+            "U030EJQ7NAV"
+        ],
+        "replies": [
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649503669.389839"
+            },
+            {
+                "user": "U030D7DN2DD",
+                "ts": "1649512765.950019"
+            },
+            {
+                "user": "U030EJQ7NAV",
+                "ts": "1649514252.977299"
+            },
+            {
+                "user": "U030D7DN2DD",
+                "ts": "1649522591.509419"
+            },
+            {
+                "user": "U030EJQ7NAV",
+                "ts": "1649575648.058019"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5164B76D-0DEB-4354-8A83-20F15AAE339D",
+        "type": "message",
+        "text": "<@U038XFCC598> ",
+        "user": "U02USELSBRT",
+        "ts": "1649503669.389839",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hQ0=x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U038XFCC598"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649496016.510399",
+        "parent_user_id": "U030EJQ7NAV"
+    },
+    {
+        "client_msg_id": "70795120-AAFC-40FD-AF03-D95075139796",
+        "type": "message",
+        "text": "Ortus Club",
+        "user": "U030D7DN2DD",
+        "ts": "1649512765.950019",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "a5d47e1e9b3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-30\/3030222879060_a5d47e1e9b3d96f5d8c5_72.jpg",
+            "first_name": "Srinivas",
+            "real_name": "Srinivas Jakkan",
+            "display_name": "Srini",
+            "team": "T02PFK13YLC",
+            "name": "srinivas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jnTv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ortus Club"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649496016.510399",
+        "parent_user_id": "U030EJQ7NAV"
+    },
+    {
+        "client_msg_id": "CE1B537A-8313-4410-8C13-425F148567F2",
+        "type": "message",
+        "text": "Ortus does ID? I know they do SG, MY and HKG.. I am waiting on a response from them\non ID specifically ",
+        "user": "U030EJQ7NAV",
+        "ts": "1649514252.977299",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "39ad0f3ee87d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-15\/3099176267974_39ad0f3ee87dd8bf30d5_72.png",
+            "first_name": "Tuneer",
+            "real_name": "Tuneer Malik",
+            "display_name": "Tuneer",
+            "team": "T02PFK13YLC",
+            "name": "tuneermalik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kaXtJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ortus does ID? I know they do SG, MY and HKG.. I am waiting on a response from them\non ID specifically "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649496016.510399",
+        "parent_user_id": "U030EJQ7NAV"
+    },
+    {
+        "client_msg_id": "ACBD7659-34B1-44CA-B172-AA799609E59F",
+        "type": "message",
+        "text": "Yes they do. PH, VN as well",
+        "user": "U030D7DN2DD",
+        "ts": "1649522591.509419",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "a5d47e1e9b3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-30\/3030222879060_a5d47e1e9b3d96f5d8c5_72.jpg",
+            "first_name": "Srinivas",
+            "real_name": "Srinivas Jakkan",
+            "display_name": "Srini",
+            "team": "T02PFK13YLC",
+            "name": "srinivas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fHI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes they do. PH, VN as well"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649496016.510399",
+        "parent_user_id": "U030EJQ7NAV"
+    },
+    {
+        "client_msg_id": "E748ADAB-7E71-48FC-89B4-2E5DEEA1A7DF",
+        "type": "message",
+        "text": "Yes Roots does I guess! Let me know if you need an intro?",
+        "user": "U030KSSTADU",
+        "ts": "1649556219.873749",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "57b118c1f8b8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-29\/3028881925876_57b118c1f8b864fcd329_72.png",
+            "first_name": "Neha",
+            "real_name": "Neha Pujari",
+            "display_name": "Neha",
+            "team": "T02PFK13YLC",
+            "name": "neha.pujari02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eW0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes Roots does I guess! Let me know if you need an intro?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648471320.547149",
+        "parent_user_id": "U02UJ3N39PF",
+        "reactions": [
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U030EJQ7NAV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

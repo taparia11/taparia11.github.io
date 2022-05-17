@@ -1,0 +1,2403 @@
+[
+    {
+        "client_msg_id": "72fdc35e-fd74-47f3-b8e2-680c58c995ca",
+        "type": "message",
+        "text": "<https:\/\/themeforest.net\/item\/avada-responsive-multipurpose-theme\/2833226>\n\nsuper easy to customise",
+        "user": "U02U94HSBV4",
+        "ts": "1649746859.555639",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e0f144e6826c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2991564885808_e0f144e6826cc213d921_72.jpg",
+            "first_name": "Pulkit",
+            "real_name": "Pulkit Jain",
+            "display_name": "pulkit",
+            "team": "T02PFK13YLC",
+            "name": "pulkitjain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/themeforest.net\/item\/avada-responsive-multipurpose-theme\/2833226",
+                "thumb_url": "https:\/\/s3.envato.com\/files\/388448441\/screenshots\/00-Preview.__large_preview.jpg",
+                "thumb_width": 590,
+                "thumb_height": 300,
+                "service_icon": "https:\/\/public-assets.envato-static.com\/icons\/themeforest.net\/apple-touch-icon-72x72-precomposed.png",
+                "id": 1,
+                "original_url": "https:\/\/themeforest.net\/item\/avada-responsive-multipurpose-theme\/2833226",
+                "fallback": "ThemeForest: Avada | Website Builder For WordPress &amp; WooCommerce",
+                "text": "The Avada Website Builder version 7.6 is live! Introducing new design and workflow features; The new Off-Canvas Builder, global color palettes, global typography sets, SVG image masks, image aspect...",
+                "title": "Avada | Website Builder For WordPress &amp; WooCommerce",
+                "title_link": "https:\/\/themeforest.net\/item\/avada-responsive-multipurpose-theme\/2833226",
+                "service_name": "ThemeForest",
+                "fields": [
+                    {
+                        "value": "$60 USD",
+                        "title": "Price",
+                        "short": true
+                    },
+                    {
+                        "value": "ThemeForest",
+                        "title": "Marketplace",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C\/+MG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/themeforest.net\/item\/avada-responsive-multipurpose-theme\/2833226"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nsuper easy to customise"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649746551.012589",
+        "parent_user_id": "U02USELSBRT",
+        "reactions": [
+            {
+                "name": "gratitude-thank-you",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e26684cb-3739-4849-b6b8-80af28890ce9",
+        "type": "message",
+        "text": "Kadence I would say.",
+        "user": "U0323V4CLRY",
+        "ts": "1649748423.320459",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bda2aafa72dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-22\/3275541779442_bda2aafa72dde9c08430_72.jpg",
+            "first_name": "Samyak",
+            "real_name": "Samyak tripathi",
+            "display_name": "samyak",
+            "team": "T02PFK13YLC",
+            "name": "samyaktripathi060",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QZP5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Kadence I would say."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649746551.012589",
+        "parent_user_id": "U02USELSBRT",
+        "reactions": [
+            {
+                "name": "gratitude-thank-you",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "140904e1-ce97-4d0b-9f43-904d048cc6c1",
+        "type": "message",
+        "text": "Abhash - aap dude hain! :pray::skin-tone-4:",
+        "user": "U02TTEFFU6B",
+        "ts": "1649749011.096179",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Ixlc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Abhash - aap dude hain! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "skin_tone": 4
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649736950.551829",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "e7a41478-6c40-4c73-a588-8b9bee76ce3e",
+        "type": "message",
+        "text": "I bought this but not using it — take it if you like <https:\/\/sala.uxper.co\/home-saas-subscription\/>",
+        "user": "U032AUA6KFV",
+        "ts": "1649749611.413189",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9189c1943921",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-17\/3239483991639_9189c1943921bc90d5d9_72.jpg",
+            "first_name": "Sumit",
+            "real_name": "Sumit",
+            "display_name": "Sumit",
+            "team": "T02PFK13YLC",
+            "name": "sumitsuman.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xXNE7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I bought this but not using it — take it if you like "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sala.uxper.co\/home-saas-subscription\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649746551.012589",
+        "parent_user_id": "U02USELSBRT",
+        "reactions": [
+            {
+                "name": "gratitude-thank-you",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d9306034-27c5-44a5-a491-d19bbcd30409",
+        "type": "message",
+        "text": "Found this and it is :fire:\n<https:\/\/answerthepublic.com\/>",
+        "user": "U031BVBGHCK",
+        "ts": "1649749832.561839",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5dee7ce106e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-02\/3031358466535_5dee7ce106e9da50a485_72.jpg",
+            "first_name": "chintan",
+            "real_name": "chintan bavishi",
+            "display_name": "chintan bavishi",
+            "team": "T02PFK13YLC",
+            "name": "chintanbavishi596",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/answerthepublic.com\/",
+                "service_icon": "https:\/\/answerthepublic.global.ssl.fastly.net\/assets\/apple-touch-icon-97ce0ac94191a58231b49b6fb472484df429da31c8c6e5e048b16e0f89c5d973.png",
+                "id": 1,
+                "original_url": "https:\/\/answerthepublic.com\/",
+                "fallback": "Search listening tool for market, customer &amp; content research - AnswerThePublic",
+                "text": "Use our free tool to get instant, raw search insights, direct from the minds of your customers. Upgrade to a paid plan to monitor for new ways that people talk &amp; ask questions about your brand, product or topic.",
+                "title": "Search listening tool for market, customer &amp; content research - AnswerThePublic",
+                "title_link": "https:\/\/answerthepublic.com\/",
+                "service_name": "answerthepublic.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z8R4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Found this and it is "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/answerthepublic.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03560PQ082",
+                    "U02USELSBRT",
+                    "U0309B5AYTB",
+                    "U02V62L966R"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "30233fe4-c6cb-4a69-a795-2610497e271b",
+        "type": "message",
+        "text": ":clap: :clap: :clap: :clap: :clap:",
+        "user": "U02UY3EPQDA",
+        "ts": "1649756726.276849",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "da155664fe94",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-20\/2981844758147_da155664fe9476fbd35b_72.jpg",
+            "first_name": "sv410_",
+            "real_name": "sv410_",
+            "display_name": "sv410_",
+            "team": "T02PFK13YLC",
+            "name": "bravenuworld",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qhb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "clap"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clap"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clap"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clap"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clap"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649738835.586709",
+        "parent_user_id": "U03AEBRAQ4D"
+    },
+    {
+        "client_msg_id": "d6397c52-a76e-4204-882c-363afdc5a759",
+        "type": "message",
+        "text": "Vikas, apart from payment gateway\/payment method\/subscription  management, you will also need pay-in and pay-outs\n\nI would recommend payment gateways: <http:\/\/checkout.com|checkout.com> or braintree\n\npayment methods: needs to be local supported which varies  from countries to countries\n\nBetter go with payment orchestrators who will help with all this and offer no-code integration\n<http:\/\/inai.io|inai.io>",
+        "user": "U0363DZU3QF",
+        "ts": "1649759702.597759",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b6e781296de3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-13\/3381574854021_b6e781296de3cbc53491_72.png",
+            "first_name": "Swaroop",
+            "real_name": "Swaroop Patil",
+            "display_name": "Swaroop Patil",
+            "team": "T02PFK13YLC",
+            "name": "swaroop705",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+9S5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vikas, apart from payment gateway\/payment method\/subscription  management, you will also need pay-in and pay-outs\n\nI would recommend payment gateways: "
+                            },
+                            {
+                                "type": "text",
+                                "text": "checkout.com",
+                                "style": {
+                                    "unlink": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " or braintree\n\npayment methods: needs to be local supported which varies  from countries to countries\n\nBetter go with payment orchestrators who will help with all this and offer no-code integration\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/inai.io",
+                                "text": "inai.io"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649642161.408839",
+        "parent_user_id": "U03AF2HBZPX"
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1649759776.238389",
+        "thread_ts": "1649759776.238389",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1649760913.180139",
+        "reply_users": [
+            "U02ULN6EFNV",
+            "U02PDC4883V",
+            "U02TTEFFU6B",
+            "U036NSXKBPZ"
+        ],
+        "replies": [
+            {
+                "user": "U02ULN6EFNV",
+                "ts": "1649760643.072229"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649760646.160779"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649760708.815449"
+            },
+            {
+                "user": "U036NSXKBPZ",
+                "ts": "1649760913.180139"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1649760913.180139",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02U6080NCX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "04554052-3BC4-439B-8467-6BD1190042E7",
+        "type": "message",
+        "text": "Not here.",
+        "user": "U02ULN6EFNV",
+        "ts": "1649760643.072229",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g2796bce497e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2796bce497e03edc08c2719052eaae8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Chirayu",
+            "real_name": "Chirayu (Leena AI)",
+            "display_name": "Chirayu",
+            "team": "T02PFK13YLC",
+            "name": "akotiya.chirayu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k6zX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not here."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649759776.238389",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "ae80e1d8-ec84-47b7-a4df-98eac89b4986",
+        "type": "message",
+        "text": "Hey <@U036NSXKBPZ> - this goes in <#C0318NH5G3C|shameless-plug>",
+        "user": "U02PDC4883V",
+        "ts": "1649760646.160779",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GEEsq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U036NSXKBPZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - this goes in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0318NH5G3C"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649759776.238389",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "96621bfc-3fa3-404b-8a8d-adc53beb435d",
+        "type": "message",
+        "text": "What if he's asking for reviews on the podcast?",
+        "user": "U02TTEFFU6B",
+        "ts": "1649760708.815449",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C70G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What if he's asking for reviews on the podcast?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649759776.238389",
+        "parent_user_id": "USLACKBOT",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U031KD0PNTX",
+                    "U02PDC4883V",
+                    "U02U94HSBV4",
+                    "U031QKGPNRK",
+                    "U02UUCE1ASD"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "deab9de3-bf77-4bd2-8578-5db292f9f343",
+        "type": "message",
+        "text": "I have moved the post.\n\n&gt; What if he's asking for reviews on the podcast?\nUmm, nope :smile:",
+        "user": "U036NSXKBPZ",
+        "ts": "1649760913.180139",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "fb6b2eb740c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-06\/3350153326259_fb6b2eb740c9a0d703c2_72.jpg",
+            "first_name": "Nilangan",
+            "real_name": "Nilangan Ray",
+            "display_name": "Nilangan Ray",
+            "team": "T02PFK13YLC",
+            "name": "nilanganray",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tRv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have moved the post.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What if he's asking for reviews on the podcast?"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Umm, nope "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649759776.238389",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "69cef748-cfcd-4e7e-a67c-9d933e2eb044",
+        "type": "message",
+        "text": "Wondering if that's possible?",
+        "user": "U037VSS964S",
+        "ts": "1649762322.651169",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "gc9611ef10f2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c9611ef10f20ce3a01819dcc2ce0dffc.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Rohit",
+            "real_name": "Rohit Roy",
+            "display_name": "Rohit Roy",
+            "team": "T02PFK13YLC",
+            "name": "rohitroy123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9MWL7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wondering if that's possible?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649738835.586709",
+        "parent_user_id": "U03AEBRAQ4D"
+    },
+    {
+        "client_msg_id": "f854b168-ad45-4b98-b113-a474b828a2c8",
+        "type": "message",
+        "text": "Hi all - we have started a new channel <#C03AYJFH422|good-cause>. Since we now have a large community, this channel will be used share information around a good cause where funds are needed.",
+        "user": "U02PDC4883V",
+        "ts": "1649762816.010849",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aQXAU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all - we have started a new channel "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03AYJFH422"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Since we now have a large community, this channel will be used share information around a good cause where funds are needed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02V9QUDK1Q",
+                    "U02U6080NCX",
+                    "U0390GQBHN2",
+                    "U02UHQYEF70",
+                    "U031BVBGHCK",
+                    "U039PF71127"
+                ],
+                "count": 6
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U02U94HSBV4",
+                    "U02V92UN0Q2",
+                    "U032MN1BESJ",
+                    "U02UHQYEF70",
+                    "U031BVBGHCK"
+                ],
+                "count": 5
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U030L29FSN4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0eb184d9-6223-46cf-b98b-15c3dab81196",
+        "type": "message",
+        "text": "For US only: <http:\/\/amazon.com|amazon.com> US a\/c will also work.\n\nFor multiple countries, you can try these. select the country in their list &amp; check the local gift redeem partners\n<https:\/\/www.tangocard.com\/reward-catalog\/|https:\/\/www.tangocard.com\/reward-catalog\/>\n<https:\/\/www.rybbon.net\/rewards-gifts\/|https:\/\/www.rybbon.net\/rewards-gifts\/>\n\nG2 uses tango and Trustradius uses rybbon for their gift distribution",
+        "user": "U037VSS964S",
+        "ts": "1649763683.292909",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "gc9611ef10f2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c9611ef10f20ce3a01819dcc2ce0dffc.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Rohit",
+            "real_name": "Rohit Roy",
+            "display_name": "Rohit Roy",
+            "team": "T02PFK13YLC",
+            "name": "rohitroy123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U037VSS964S",
+            "ts": "1649775838.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZQQCh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For US only: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/amazon.com",
+                                "text": "amazon.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " US a\/c will also work.\n\nFor multiple countries, you can try these. select the country in their list & check the local gift redeem partners\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.tangocard.com\/reward-catalog\/",
+                                "text": "https:\/\/www.tangocard.com\/reward-catalog\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.rybbon.net\/rewards-gifts\/",
+                                "text": "https:\/\/www.rybbon.net\/rewards-gifts\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nG2 uses tango and Trustradius uses rybbon for their gift distribution"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649671196.125889",
+        "parent_user_id": "U02TTEFFU6B",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U0306HUGT6C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "381df0e5-9b90-47e6-a780-6f219e2e04ab",
+        "type": "message",
+        "text": "Does the best Customer Support wins, or the best Promotion? I buyed Engagebay over Hubspot as they provided the best support even in the free version.\n\nDrift users, please emphasize on why you think it's the best?",
+        "user": "U0323V4CLRY",
+        "ts": "1649767914.026279",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bda2aafa72dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-22\/3275541779442_bda2aafa72dde9c08430_72.jpg",
+            "first_name": "Samyak",
+            "real_name": "Samyak tripathi",
+            "display_name": "samyak",
+            "team": "T02PFK13YLC",
+            "name": "samyaktripathi060",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ghcc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does the best Customer Support wins, or the best Promotion? I buyed Engagebay over Hubspot as they provided the best support even in the free version.\n\nDrift users, please emphasize on why you think it's the best?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649767914.026279",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1650368019.093099",
+        "reply_users": [
+            "U02ULCHDGB0",
+            "U0323V4CLRY",
+            "U03BZJ0KK1R"
+        ],
+        "replies": [
+            {
+                "user": "U02ULCHDGB0",
+                "ts": "1649769517.947999"
+            },
+            {
+                "user": "U0323V4CLRY",
+                "ts": "1649773692.836989"
+            },
+            {
+                "user": "U03BZJ0KK1R",
+                "ts": "1650368019.093099"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U02V9QUDK1Q",
+                    "U03560PQ082"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "863daae4-e11c-4f2b-a434-296bbaf58a1f",
+        "type": "message",
+        "text": "There customer support is good but the email deliverability is very bad. Not even 2% open rate. Switched to SalesHandy for cold emails",
+        "user": "U02ULCHDGB0",
+        "ts": "1649769517.947999",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "0d19402d4d9e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-20\/3416613047252_0d19402d4d9e357ac3e2_72.jpg",
+            "first_name": "Nrusingha",
+            "real_name": "Nrusingha Sahoo",
+            "display_name": "Nrusingha",
+            "team": "T02PFK13YLC",
+            "name": "sahoo.nrusingha87",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4LFO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There customer support is good but the email deliverability is very bad. Not even 2% open rate. Switched to SalesHandy for cold emails"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649767914.026279",
+        "parent_user_id": "U0323V4CLRY"
+    },
+    {
+        "client_msg_id": "aa3c12f2-ddb5-4fe9-acbe-172484ea2e75",
+        "type": "message",
+        "text": "That is something I have not looked at as I use Sendinblue for Email Marketing : )",
+        "user": "U0323V4CLRY",
+        "ts": "1649773692.836989",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bda2aafa72dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-22\/3275541779442_bda2aafa72dde9c08430_72.jpg",
+            "first_name": "Samyak",
+            "real_name": "Samyak tripathi",
+            "display_name": "samyak",
+            "team": "T02PFK13YLC",
+            "name": "samyaktripathi060",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LJHvP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That is something I have not looked at as I use Sendinblue for Email Marketing : )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649767914.026279",
+        "parent_user_id": "U0323V4CLRY"
+    },
+    {
+        "client_msg_id": "530d1eb5-26b4-4a70-8a65-052024a2c515",
+        "type": "message",
+        "text": "Where can I find the CPL and cost per meeting benchmarks for enterprise SaaS businesses for US, APAC, and MEA?",
+        "user": "U02ULN6EFNV",
+        "ts": "1649782536.994289",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g2796bce497e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2796bce497e03edc08c2719052eaae8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Chirayu",
+            "real_name": "Chirayu (Leena AI)",
+            "display_name": "Chirayu",
+            "team": "T02PFK13YLC",
+            "name": "akotiya.chirayu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+H\/N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Where can I find the CPL and cost per meeting benchmarks for enterprise SaaS businesses for US, APAC, and MEA?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649782536.994289",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1649816991.398719",
+        "reply_users": [
+            "U02ULCHDGB0",
+            "U0306HUGT6C"
+        ],
+        "replies": [
+            {
+                "user": "U02ULCHDGB0",
+                "ts": "1649783266.593729"
+            },
+            {
+                "user": "U0306HUGT6C",
+                "ts": "1649816991.398719"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4ce10325-c53e-4fc4-9080-a93e811005cb",
+        "type": "message",
+        "text": "Wordstream",
+        "user": "U02ULCHDGB0",
+        "ts": "1649783266.593729",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "0d19402d4d9e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-20\/3416613047252_0d19402d4d9e357ac3e2_72.jpg",
+            "first_name": "Nrusingha",
+            "real_name": "Nrusingha Sahoo",
+            "display_name": "Nrusingha",
+            "team": "T02PFK13YLC",
+            "name": "sahoo.nrusingha87",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+kzLX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wordstream"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649782536.994289",
+        "parent_user_id": "U02ULN6EFNV"
+    },
+    {
+        "client_msg_id": "f66030af-fbce-4892-96b8-d3593e681b34",
+        "type": "message",
+        "text": "hey! <@U031JS3RF0V> I was part of GX8, finished couple of weeks back. Let me know if you need any help",
+        "user": "U039KP64KQQ",
+        "ts": "1649785572.410839",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7703af39d1d2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-27\/3302028389394_7703af39d1d233e51565_72.png",
+            "first_name": "Gourav",
+            "real_name": "Gourav K",
+            "display_name": "Gourav K",
+            "team": "T02PFK13YLC",
+            "name": "gourav.kalbalia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sz1=6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U031JS3RF0V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I was part of GX8, finished couple of weeks back. Let me know if you need any help"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648709644.682329",
+        "parent_user_id": "U031JS3RF0V"
+    },
+    {
+        "client_msg_id": "c9002e05-d0f2-4362-a786-837ffd2dbafe",
+        "type": "message",
+        "text": "What kind of hosting solutions do I need to have to host LinkedIn live streams as a LinkedIn Events? If I do need one, what are the potential options?",
+        "user": "U0323V4CLRY",
+        "ts": "1649795857.537759",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bda2aafa72dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-22\/3275541779442_bda2aafa72dde9c08430_72.jpg",
+            "first_name": "Samyak",
+            "real_name": "Samyak tripathi",
+            "display_name": "samyak",
+            "team": "T02PFK13YLC",
+            "name": "samyaktripathi060",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0323V4CLRY",
+            "ts": "1649795886.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bja",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What kind of hosting solutions do I need to have to host LinkedIn live streams as a LinkedIn Events? If I do need one, what are the potential options?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649795857.537759",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1650427218.597259",
+        "reply_users": [
+            "U031G83CGCQ",
+            "U03BZJ0KK1R"
+        ],
+        "replies": [
+            {
+                "user": "U031G83CGCQ",
+                "ts": "1649819324.484389"
+            },
+            {
+                "user": "U03BZJ0KK1R",
+                "ts": "1650367845.546419"
+            },
+            {
+                "user": "U03BZJ0KK1R",
+                "ts": "1650367893.462049"
+            },
+            {
+                "user": "U031G83CGCQ",
+                "ts": "1650427218.597259"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "26ee999c-f133-4983-904b-495bc33b4ae9",
+        "type": "message",
+        "text": "following.. would love this as well",
+        "user": "U0306HUGT6C",
+        "ts": "1649816991.398719",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "67b7c6606731",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-21\/2990844434084_67b7c6606731aad40c13_72.jpg",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Mirashi",
+            "display_name": "Nikhil Mirashi",
+            "team": "T02PFK13YLC",
+            "name": "cutenik85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oYzq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "following.. would love this as well"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649782536.994289",
+        "parent_user_id": "U02ULN6EFNV"
+    },
+    {
+        "type": "message",
+        "text": "Just curious, how much it costs to do these advertisements at Times Square?\nFew Indian saas companies also advertise here after closing their funding rounds. What's the goal for these ads or how do you measure success?",
+        "files": [
+            {
+                "id": "F03B6T86FHT",
+                "created": 1649818571,
+                "timestamp": 1649818571,
+                "name": "image_1d243f3d-e407-480f-a297-ef2a4d1b264220220413_082309.jpg",
+                "title": "image_1d243f3d-e407-480f-a297-ef2a4d1b264220220413_082309.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U037VSS964S",
+                "editable": false,
+                "size": 228558,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03B6T86FHT\/image_1d243f3d-e407-480f-a297-ef2a4d1b264220220413_082309.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03B6T86FHT\/download\/image_1d243f3d-e407-480f-a297-ef2a4d1b264220220413_082309.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B6T86FHT-d93e1e9d0a\/image_1d243f3d-e407-480f-a297-ef2a4d1b264220220413_082309_64.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B6T86FHT-d93e1e9d0a\/image_1d243f3d-e407-480f-a297-ef2a4d1b264220220413_082309_80.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B6T86FHT-d93e1e9d0a\/image_1d243f3d-e407-480f-a297-ef2a4d1b264220220413_082309_360.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B6T86FHT-d93e1e9d0a\/image_1d243f3d-e407-480f-a297-ef2a4d1b264220220413_082309_480.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B6T86FHT-d93e1e9d0a\/image_1d243f3d-e407-480f-a297-ef2a4d1b264220220413_082309_160.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B6T86FHT-d93e1e9d0a\/image_1d243f3d-e407-480f-a297-ef2a4d1b264220220413_082309_720.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B6T86FHT-d93e1e9d0a\/image_1d243f3d-e407-480f-a297-ef2a4d1b264220220413_082309_800.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B6T86FHT-d93e1e9d0a\/image_1d243f3d-e407-480f-a297-ef2a4d1b264220220413_082309_960.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B6T86FHT-d93e1e9d0a\/image_1d243f3d-e407-480f-a297-ef2a4d1b264220220413_082309_1024.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 1242,
+                "original_h": 1656,
+                "thumb_tiny": "AwAwACRVcFtuCp9DULhiylixDcjjPepBhcDPAyx96g87MIBYhl4BBqtWKyRLDu8\/YzbsDIb1qcEg1Wtn\/wBIG854xuq2cbyuOlWnbRmU1cbLH5hDe1M8ipQ+BijzDRysSmVmYbThsjZyRUAIxkK2B7VYRWkVsABSMZApjW5VTiQnb6Z\/lWPMtjez3I4ipkG3qcirisN65PWq8cR8wOWyAOMnkUu\/DAY6cZqk77By3LDdTSU9ZDj\/AFW7HcUu9v8Angf0q1URzulIqJJIkJjPCjoaQSHOMY3c9MdqlYkowGQNp\/iqBywiYnh92MjtxUcqOi4uWZAVO4n06fSlaTcSORu4x2zipX2qm0AZHrVZQGk+XJbrj0qU+w7EisyDaJSuO2KXzG\/57n8hRJD5xDp0xjOetN+yP\/k1ZJ\/\/2Q==",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U037VSS964S\/F03B6T86FHT\/image_1d243f3d-e407-480f-a297-ef2a4d1b264220220413_082309.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03B6T86FHT-e22633febd",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F03B9PWA8KV",
+                "created": 1649818572,
+                "timestamp": 1649818572,
+                "name": "image_155a05c0-3598-42d7-a428-7a2a866d4ac820220413_082300.jpg",
+                "title": "image_155a05c0-3598-42d7-a428-7a2a866d4ac820220413_082300.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U037VSS964S",
+                "editable": false,
+                "size": 145785,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03B9PWA8KV\/image_155a05c0-3598-42d7-a428-7a2a866d4ac820220413_082300.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03B9PWA8KV\/download\/image_155a05c0-3598-42d7-a428-7a2a866d4ac820220413_082300.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B9PWA8KV-9d9d6470b3\/image_155a05c0-3598-42d7-a428-7a2a866d4ac820220413_082300_64.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B9PWA8KV-9d9d6470b3\/image_155a05c0-3598-42d7-a428-7a2a866d4ac820220413_082300_80.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B9PWA8KV-9d9d6470b3\/image_155a05c0-3598-42d7-a428-7a2a866d4ac820220413_082300_360.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B9PWA8KV-9d9d6470b3\/image_155a05c0-3598-42d7-a428-7a2a866d4ac820220413_082300_480.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B9PWA8KV-9d9d6470b3\/image_155a05c0-3598-42d7-a428-7a2a866d4ac820220413_082300_160.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B9PWA8KV-9d9d6470b3\/image_155a05c0-3598-42d7-a428-7a2a866d4ac820220413_082300_720.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B9PWA8KV-9d9d6470b3\/image_155a05c0-3598-42d7-a428-7a2a866d4ac820220413_082300_800.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_800_w": 800,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B9PWA8KV-9d9d6470b3\/image_155a05c0-3598-42d7-a428-7a2a866d4ac820220413_082300_960.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_960_w": 960,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B9PWA8KV-9d9d6470b3\/image_155a05c0-3598-42d7-a428-7a2a866d4ac820220413_082300_1024.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 1024,
+                "original_w": 1080,
+                "original_h": 1080,
+                "thumb_tiny": "AwAwADB6fNbLzk1FJkDmrECgxL865x3NV5gcke9F2NpEQG5sZqykUZRchjnk+1QwY80DqDVzPPHBJ7dxTItqVpIlRQQGBPUHtRbvhx71PJgo3vwD7VWiIEind370AVxI5TG\/3qWMtIp3HoanawjXozUi24QEK3X2rL2kTTlbGR\/LMu0E45x61bCMOg+6PlqnGf3wAY8jGatEOB80oFaJEsUqQv3eApP0NUfx\/MVcwypjzAwxVWINsDE\/KRwKTaBI0ST2qMknqKz1eR13GQjtQN38ch5FY+yl3L50hsuTn+dIudo+QNxTjGoI+fII64pSqrhcnp1rcgYwI\/hAwO3erAGF2g8DoCaYqHBKhjxxmnLCckEBcc9f8KBNM\/\/Z",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U037VSS964S\/F03B9PWA8KV\/image_155a05c0-3598-42d7-a428-7a2a866d4ac820220413_082300.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03B9PWA8KV-31386d5f96",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U037VSS964S",
+        "ts": "1649819133.125589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ubbu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just curious, how much it costs to do these advertisements at Times Square?\nFew Indian saas companies also advertise here after closing their funding rounds. What's the goal for these ads or how do you measure success?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "eacfd2ed-0dd3-4349-a844-2efd2b9dc119",
+        "thread_ts": "1649819133.125589",
+        "reply_count": 13,
+        "reply_users_count": 6,
+        "latest_reply": "1649833718.081139",
+        "reply_users": [
+            "U02PDC4883V",
+            "U037VSS964S",
+            "U030EJQ7NAV",
+            "U02USELSBRT",
+            "U039PF71127",
+            "U031QKGPNRK"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649819193.437909"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649819259.847279"
+            },
+            {
+                "user": "U037VSS964S",
+                "ts": "1649820208.419799"
+            },
+            {
+                "user": "U030EJQ7NAV",
+                "ts": "1649820635.312889"
+            },
+            {
+                "user": "U037VSS964S",
+                "ts": "1649820981.280259"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649827248.755559"
+            },
+            {
+                "user": "U039PF71127",
+                "ts": "1649829374.190399"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1649831025.915149"
+            },
+            {
+                "user": "U039PF71127",
+                "ts": "1649831649.164979"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1649832315.188479"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649833027.080459"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1649833505.038559"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649833718.081139"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1649833718.081139"
+    },
+    {
+        "client_msg_id": "36589bb8-31e9-4d83-b73e-b6b1103cb7bc",
+        "type": "message",
+        "text": "Here you go: <https:\/\/www.nasdaq.com\/marketsite\/advertising|https:\/\/www.nasdaq.com\/marketsite\/advertising>",
+        "user": "U02PDC4883V",
+        "ts": "1649819193.437909",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.nasdaq.com\/marketsite\/advertising",
+                "image_url": "https:\/\/www.nasdaq.com\/sites\/acquia.prod\/files\/2019-05\/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1699401301",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 557806,
+                "service_icon": "https:\/\/www.nasdaq.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.nasdaq.com\/marketsite\/advertising",
+                "fallback": "Times Square Advertising",
+                "text": "In the heart of Times Square, create a memorable brand experience with our exclusive advertising opportunities—which include access to the Nasdaq Tower, Nasdaq Marquee as well as several other billboards in Times Square.",
+                "title": "Times Square Advertising",
+                "title_link": "https:\/\/www.nasdaq.com\/marketsite\/advertising",
+                "service_name": "nasdaq.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HfrxF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here you go: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.nasdaq.com\/marketsite\/advertising",
+                                "text": "https:\/\/www.nasdaq.com\/marketsite\/advertising"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649819133.125589",
+        "parent_user_id": "U037VSS964S",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U037VSS964S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0d08736d-d38f-497c-bffd-38ec8b1a9c23",
+        "type": "message",
+        "text": "Nasdaq really loves Indian SaaS, don't they?",
+        "user": "U02PDC4883V",
+        "ts": "1649819259.847279",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2USgK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nasdaq really loves Indian SaaS, don't they?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649819133.125589",
+        "parent_user_id": "U037VSS964S",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U038WP8PLUA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dce0d272-7e2f-4acf-b0d8-df8e81908abd",
+        "type": "message",
+        "text": "I don't think you need any solutions only for Linkedin live. If you want to stream on many platforms together. You can use streamly.",
+        "user": "U031G83CGCQ",
+        "ts": "1649819324.484389",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8c61e5e78079",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-08\/3057153889863_8c61e5e78079a3df1463_72.jpg",
+            "first_name": "Priyanka",
+            "real_name": "Priyanka Factors.AI",
+            "display_name": "Priyanka",
+            "team": "T02PFK13YLC",
+            "name": "priyanka",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7O91B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't think you need any solutions only for Linkedin live. If you want to stream on many platforms together. You can use streamly."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649795857.537759",
+        "parent_user_id": "U0323V4CLRY",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0323V4CLRY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f8b3a267-5247-4ae8-b20f-e92367b911b8",
+        "type": "message",
+        "text": "looks like they offer a variety of ad opportunities and event hosting space as well",
+        "user": "U037VSS964S",
+        "ts": "1649820208.419799",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "gc9611ef10f2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c9611ef10f20ce3a01819dcc2ce0dffc.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Rohit",
+            "real_name": "Rohit Roy",
+            "display_name": "Rohit Roy",
+            "team": "T02PFK13YLC",
+            "name": "rohitroy123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HLX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "looks like they offer a variety of ad opportunities and event hosting space as well"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649819133.125589",
+        "parent_user_id": "U037VSS964S"
+    },
+    {
+        "client_msg_id": "C1A27F0B-2EF8-4F8C-B727-F3C3F1A468E2",
+        "type": "message",
+        "text": "That I think comes as a part of the package.. you get Series A - X$ and I’ll give you one free ad on NASDAQ Tower with it.. everyone’s doing it.. so I guess someone is throwing these in as freebies to ‘sweeten’ the deal.. :joy::joy:",
+        "user": "U030EJQ7NAV",
+        "ts": "1649820635.312889",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "39ad0f3ee87d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-15\/3099176267974_39ad0f3ee87dd8bf30d5_72.png",
+            "first_name": "Tuneer",
+            "real_name": "Tuneer Malik",
+            "display_name": "Tuneer",
+            "team": "T02PFK13YLC",
+            "name": "tuneermalik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p5OD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That I think comes as a part of the package.. you get Series A - X$ and I’ll give you one free ad on NASDAQ Tower with it.. everyone’s doing it.. so I guess someone is throwing these in as freebies to ‘sweeten’ the deal.. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649819133.125589",
+        "parent_user_id": "U037VSS964S",
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U037VSS964S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "50b02903-209b-478d-895f-5de9eb822915",
+        "type": "message",
+        "text": "Yea, most likely. The Nasdaq ad will be a freebie as part of their pr support.",
+        "user": "U037VSS964S",
+        "ts": "1649820981.280259",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "gc9611ef10f2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c9611ef10f20ce3a01819dcc2ce0dffc.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Rohit",
+            "real_name": "Rohit Roy",
+            "display_name": "Rohit Roy",
+            "team": "T02PFK13YLC",
+            "name": "rohitroy123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "11Vt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yea, most likely. The Nasdaq ad will be a freebie as part of their pr support."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649819133.125589",
+        "parent_user_id": "U037VSS964S"
+    },
+    {
+        "client_msg_id": "701eaae7-0a1c-4d38-aecb-d4dad2b9b255",
+        "type": "message",
+        "text": "Since I’ve seen three queries around Product Hunt in the last week or so, sharing here two of my resources:\n\n1. My Product Hunt launch playbook doc: <https:\/\/aabhashk.notion.site\/Product-Hunt-Launch-Playbook-by-AabhashK-306bf17938ee4c28aa1482080b3b0064>\n2. Podcast video which is the high-level thinking required for the launch:  <https:\/\/www.youtube.com\/watch?v=ixnVP6seXFQ>\nI’m happy to hunt your products on PH too - feel free to reach out on DMs :raised_hands::skin-tone-4:\nFeel free to ask Qs in the thread re: PH. Happy to answer them :pray::skin-tone-4:",
+        "user": "U02V9QUDK1Q",
+        "ts": "1649826966.934329",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8140d54c5a70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2981230435879_8140d54c5a7085ca9412_72.jpg",
+            "first_name": "Abhash",
+            "real_name": "Abhash Kumar",
+            "display_name": "Abhash",
+            "team": "T02PFK13YLC",
+            "name": "abhash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MraY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Since I’ve seen three queries around Product Hunt in the last week or so, sharing here two of my resources:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "My Product Hunt launch playbook doc: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/aabhashk.notion.site\/Product-Hunt-Launch-Playbook-by-AabhashK-306bf17938ee4c28aa1482080b3b0064"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Podcast video which is the high-level thinking required for the launch:  "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.youtube.com\/watch?v=ixnVP6seXFQ"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nI’m happy to hunt your products on PH too - feel free to reach out on DMs "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "skin_tone": 4
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nFeel free to ask Qs in the thread re: PH. Happy to answer them "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "skin_tone": 4
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649826966.934329",
+        "reply_count": 6,
+        "reply_users_count": 5,
+        "latest_reply": "1650378835.893679",
+        "reply_users": [
+            "U032AUA6KFV",
+            "U02TTEFFU6B",
+            "U02USELSBRT",
+            "U02V9QUDK1Q",
+            "U02UFNZS7NW"
+        ],
+        "replies": [
+            {
+                "user": "U032AUA6KFV",
+                "ts": "1649828402.299909"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649829323.619349"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649833878.621409"
+            },
+            {
+                "user": "U02V9QUDK1Q",
+                "ts": "1649834415.160239"
+            },
+            {
+                "user": "U02UFNZS7NW",
+                "ts": "1649836410.935619"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1650378835.893679"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U0325QQQALR",
+                    "U02V75V0YBX",
+                    "U030ZBUDAUC",
+                    "U039HH3LP43",
+                    "U02V7TLU5HT",
+                    "U02VADQNUGJ",
+                    "U0380S2BZ9A",
+                    "U032MN1BESJ",
+                    "U035GL741TK",
+                    "U030M1LS1L2",
+                    "U03014JNGMQ",
+                    "U02U9C39MAA"
+                ],
+                "count": 12
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U02U94HSBV4",
+                    "U030ZBUDAUC",
+                    "U031QKGPNRK",
+                    "U02USELSBRT",
+                    "U031ZRAP4BY",
+                    "U02U9C39MAA"
+                ],
+                "count": 6
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U031QKGPNRK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-5",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U02UFNZS7NW",
+                    "U02V22EUXM4",
+                    "U02U9C39MAA"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7373d4bc-bac6-40b9-87d3-7a5d75d21c08",
+        "type": "message",
+        "text": "Marketers are such apes :monkey:! SaaS needs marketers who don't simp for Nasdaq ads after their fund raises",
+        "user": "U02USELSBRT",
+        "ts": "1649827248.755559",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bwl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Marketers are such apes "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "monkey"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! SaaS needs marketers who don't simp for Nasdaq ads after their fund raises"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649819133.125589",
+        "parent_user_id": "U037VSS964S"
+    },
+    {
+        "client_msg_id": "3f327017-afa2-419b-a076-c896cb4b6c10",
+        "type": "message",
+        "text": "I’m amazed how well documented this is. Thanks for sharing!",
+        "user": "U032AUA6KFV",
+        "ts": "1649828402.299909",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9189c1943921",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-17\/3239483991639_9189c1943921bc90d5d9_72.jpg",
+            "first_name": "Sumit",
+            "real_name": "Sumit",
+            "display_name": "Sumit",
+            "team": "T02PFK13YLC",
+            "name": "sumitsuman.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cAW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m amazed how well documented this is. Thanks for sharing!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649826966.934329",
+        "parent_user_id": "U02V9QUDK1Q",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U02V9QUDK1Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03BA5XF4CA",
+                "created": 1649829320,
+                "timestamp": 1649829320,
+                "name": "tenor_gif8536684487232994036.gif",
+                "title": "tenor_gif8536684487232994036.gif",
+                "mimetype": "image\/gif",
+                "filetype": "gif",
+                "pretty_type": "GIF",
+                "user": "U02TTEFFU6B",
+                "editable": false,
+                "size": 331686,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03BA5XF4CA\/tenor_gif8536684487232994036.gif?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03BA5XF4CA\/download\/tenor_gif8536684487232994036.gif?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BA5XF4CA-dbcdef3c29\/tenor_gif8536684487232994036_64.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BA5XF4CA-dbcdef3c29\/tenor_gif8536684487232994036_80.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BA5XF4CA-dbcdef3c29\/tenor_gif8536684487232994036_360.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 220,
+                "thumb_360_h": 166,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BA5XF4CA-dbcdef3c29\/tenor_gif8536684487232994036_160.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_gif": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BA5XF4CA-dbcdef3c29\/tenor_gif8536684487232994036_360.gif?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "original_w": 220,
+                "original_h": 166,
+                "deanimate": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BA5XF4CA-dbcdef3c29\/tenor_gif8536684487232994036_deanimate.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "deanimate_gif": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BA5XF4CA-dbcdef3c29\/tenor_gif8536684487232994036_deanimate_gif.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_tiny": "AwAkADCl5x\/ug\/hU6SDyg3Tiq22nAHpQMl3eY\/JIUenFSSMsblSfzqJF5x1zT5omeQsvIPb0pDF81PWl81OxqttpCKALYtz+uKikXYQK0ScNgdB+tZ8\/M39KBAvWrKkRxGQ5PTiqq9atBCY9xP4dqAF+zJISysAD2pv2MMuVcEeoqxHsCheg9AaflFXC+uaBkLH52+tUbslWBHXAq8332+tULzqPoKAGxMcg1ZE7iRVwMGqkVTD\/AFyUxFlZmJAwvPtU6OW9KqJ1FWY6Qz\/\/2Q==",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U02TTEFFU6B\/F03BA5XF4CA\/tenor_gif8536684487232994036.gif",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03BA5XF4CA-7383f07d00",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02TTEFFU6B",
+        "display_as_bot": false,
+        "ts": "1649829323.619349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Iviht",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "12486724-ee65-40fe-864a-8f43f2b5cad5",
+        "thread_ts": "1649826966.934329",
+        "parent_user_id": "U02V9QUDK1Q",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f1dc1c01-a9ee-4249-8a87-92b5dd2570cc",
+        "type": "message",
+        "text": "but do these ads actually help the company or is it just used as trophy to be on a billboard on times square?",
+        "user": "U039PF71127",
+        "ts": "1649829374.190399",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "d15748652660",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-11\/3364940015702_d15748652660693916d8_72.jpg",
+            "first_name": "Fatema",
+            "real_name": "Fatema Electricwala",
+            "display_name": "Fatema Electricwala",
+            "team": "T02PFK13YLC",
+            "name": "fatema",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+lDBw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but do these ads actually help the company or is it just used as trophy to be on a billboard on times square?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649819133.125589",
+        "parent_user_id": "U037VSS964S"
+    },
+    {
+        "client_msg_id": "e04bf258-077b-4667-a647-66dc86a0fb04",
+        "type": "message",
+        "text": "Such ads are as effective as your pr manager convinces you they are. #humbleopinion",
+        "user": "U031QKGPNRK",
+        "ts": "1649831025.915149",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sxu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Such ads are as effective as your pr manager convinces you they are. #humbleopinion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649819133.125589",
+        "parent_user_id": "U037VSS964S",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U039PF71127"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a8b95cad-5220-4359-9774-cacde5be4b3c",
+        "type": "message",
+        "text": "i am just wondering how do these PR agencies actually measure the effectiveness of these ads? do they use MR agencies or they have some internal mystery research? what gives them the confidence to put in so my $$? #curioustoknow",
+        "user": "U039PF71127",
+        "ts": "1649831649.164979",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "d15748652660",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-11\/3364940015702_d15748652660693916d8_72.jpg",
+            "first_name": "Fatema",
+            "real_name": "Fatema Electricwala",
+            "display_name": "Fatema Electricwala",
+            "team": "T02PFK13YLC",
+            "name": "fatema",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o6x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i am just wondering how do these PR agencies actually measure the effectiveness of these ads? do they use MR agencies or they have some internal mystery research? what gives them the confidence to put in so my $$? #curioustoknow"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649819133.125589",
+        "parent_user_id": "U037VSS964S"
+    },
+    {
+        "client_msg_id": "bab29d90-2edf-4647-99c7-66319fc25964",
+        "type": "message",
+        "text": "Worth a listen. There is a part 2 of the episode as well. <https:\/\/freakonomics.com\/podcast\/does-advertising-actually-work-part-1-tv-ep-440\/|https:\/\/freakonomics.com\/podcast\/does-advertising-actually-work-part-1-tv-ep-440\/>",
+        "user": "U031QKGPNRK",
+        "ts": "1649832315.188479",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/freakonomics.com\/podcast\/does-advertising-actually-work-part-1-tv-ep-440\/",
+                "image_url": "https:\/\/freakonomics.com\/wp-content\/uploads\/2021\/07\/feature_img_1.png",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 39411,
+                "service_icon": "https:\/\/freakonomics.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/freakonomics.com\/podcast\/does-advertising-actually-work-part-1-tv-ep-440\/",
+                "fallback": "Freakonomics: Does Advertising Actually Work? (Part 1: TV) - Freakonomics",
+                "text": "Companies around the world spend more than half-a-trillion dollars each year on ads. The ad industry swears by its efficacy — but a massive new study tells a different story.",
+                "title": "Does Advertising Actually Work? (Part 1: TV) - Freakonomics",
+                "title_link": "https:\/\/freakonomics.com\/podcast\/does-advertising-actually-work-part-1-tv-ep-440\/",
+                "service_name": "Freakonomics"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/ck",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Worth a listen. There is a part 2 of the episode as well. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/freakonomics.com\/podcast\/does-advertising-actually-work-part-1-tv-ep-440\/",
+                                "text": "https:\/\/freakonomics.com\/podcast\/does-advertising-actually-work-part-1-tv-ep-440\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649819133.125589",
+        "parent_user_id": "U037VSS964S",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U039PF71127"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a24eff19-238e-4037-b920-1015d102dd0b",
+        "type": "message",
+        "text": "<@U031QKGPNRK> if you have done the hard work of listening, please share tldr",
+        "user": "U02USELSBRT",
+        "ts": "1649833027.080459",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9CV4G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U031QKGPNRK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if you have done the hard work of listening, please share tldr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649819133.125589",
+        "parent_user_id": "U037VSS964S"
+    }
+]

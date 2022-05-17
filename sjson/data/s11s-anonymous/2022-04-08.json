@@ -1,0 +1,1956 @@
+[
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "Can we please stop sharing this Salary benchmark survey sheet!\n1. I have experience doing 200+ candidate discovery calls and I can dispute atleast 50% of the data.\n2. It has poor data integrity (there are negative values in it!).\n3. And there is no visibility on how representative is this survey, how many participants took this survey or which cohorts are either over-represented or under-represented. \nIt’s a good attempt but the outcome is just poor and misleading.",
+        "user": "U02SXBR28G1",
+        "ts": "1649402219.198099",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XtF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can we please stop sharing this Salary benchmark survey sheet!\n1. I have experience doing 200+ candidate discovery calls and I can dispute atleast 50% of the data.\n2. It has poor data integrity (there are negative values in it!).\n3. And there is no visibility on how representative is this survey, how many participants took this survey or which cohorts are either over-represented or under-represented. \nIt’s a good attempt but the outcome is just poor and misleading."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649402219.198099",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1649402624.571749",
+        "reply_users": [
+            "U02PDC4883V"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649402624.571749"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1649402624.571749",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02VA4JGMH9",
+                    "U0309G5AMC1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "517371f0-4ea4-44e8-b17e-2181362c4571",
+        "type": "message",
+        "text": "Absolutely agreed on the cohort representation. That's why we want as many people to take it to nullify any outliers that have been mis\/under\/over represented\n\nThe more ppl take this survey, the better the output. \n\nRegarding data - would be happy to chat 1-1 but a lot of folks who have taken interviews see this as a decent approximation. Can it be overindexing or underindexing? Maybe - markets and wages in SaaS startups move fast. A Demand Gen expert with 4-5 years of exp in SaaS can make a leadership jump and move from late 20's\/early 30's to 50's while folks who have been on the lower scale for sometime might not see their correction. \nHappy to discuss 1-1 more on this and if you are open (and the form fills are anon) would like you to work with us on the report :slightly_smiling_face:",
+        "user": "U02PDC4883V",
+        "ts": "1649402624.571749",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02PDC4883V",
+            "ts": "1649402710.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7x1g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Absolutely agreed on the cohort representation. That's why we want as many people to take it to nullify any outliers that have been mis\/under\/over represented\n\nThe more ppl take this survey, the better the output. \n\nRegarding data - would be happy to chat 1-1 but a lot of folks who have taken interviews see this as a decent approximation. Can it be overindexing or underindexing? Maybe - markets and wages in SaaS startups move fast. A Demand Gen expert with 4-5 years of exp in SaaS can make a leadership jump and move from late 20's\/early 30's to 50's while folks who have been on the lower scale for sometime might not see their correction. \nHappy to discuss 1-1 more on this and if you are open (and the form fills are anon) would like you to work with us on the report "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649402219.198099",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U031QKGPNRK",
+                    "U031KD0PNTX",
+                    "U030KV8R8RL",
+                    "U0314EYTP4G"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bd216fc8-3772-4a3d-98aa-ada3eb6b0586",
+        "type": "message",
+        "text": "Every pitch will need pawmission",
+        "user": "U02PDC4883V",
+        "ts": "1649402829.494399",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VBnf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Every pitch will need pawmission"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649382139.687569",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "Can we please stop sharing value in this community!\n\n1. I have experience outside this community that is AWESOME and this community doesn’t count in front of that!\n2. Why should I be grateful for people here who are filling their survey to help each other. (there are some errors in the data!) It was conducted by Gallop, and not an open community trying their best to educate and help each other.\n3. And there is no visibility on who is filling the survey so that I can shit post and get insecure when I see someone with lesser experience getting paid more than me\n\nIt’s a good attempt but the outcome is just poor and misleading me to make more errors and continue setting the salary bar and expectations really low in our market.",
+        "user": "U02SXBR28G1",
+        "ts": "1649414118.223489",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "edited": {
+            "user": "B02SM1CFD7W",
+            "ts": "1649417118.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DnLHL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can we please stop sharing value in this community!\n\n1. I have experience outside this community that is AWESOME and this community doesn’t count in front of that!\n2. Why should I be grateful for people here who are filling their survey to help each other. (there are some errors in the data!) It was conducted by Gallop, and not an open community trying their best to educate and help each other.\n3. And there is no visibility on who is filling the survey so that I can shit post and get insecure when I see someone with lesser experience getting paid more than me\n\nIt’s a good attempt but the outcome is just poor and misleading me to make more errors and continue setting the salary bar and expectations really low in our market."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U037UUE6TV3",
+                    "U02U6FZRHRV",
+                    "U033Q4L80CT",
+                    "U02VBNKU9T6",
+                    "U03560PQ082",
+                    "U02V1L48RFH",
+                    "U03208N6E2G"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f3be1b02-9274-4164-b847-86e2a3a9198c",
+        "type": "message",
+        "text": "Knowledge is Pawerful",
+        "user": "U02V8KAHXFD",
+        "ts": "1649417051.485569",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g3df66d6fa25",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3df66d6fa25baf1ed493a44dfdae80ed.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "SOURABH",
+            "real_name": "SOURABH UPRETI",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "sourabhupreti16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yWFWK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Knowledge is Pawerful"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649382139.687569",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "4:32 PM\nShaf Can someone summarise this please?\n<https:\/\/www.linkedin.com\/in\/monamohanty\/recent-activity\/shares\/>\n\n\nGoing anon because I don't want to be harassed by BYJU's cyber cell and ss of my name circulated in Whatsapp and Slack groups.\n\nBut if you see any post about scamming, blackmailing, sexually harassing, mentally abusing, or any other human right violations from BYJU's, you can trust it blindly.\n\nWhy do you think BYJU's sponsored FIFA? They wanted to contribute to the human rights violations in the Middle East.",
+        "user": "U02SXBR28G1",
+        "ts": "1649418040.416899",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E8yas",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "4:32 PM\nShaf Can someone summarise this please?\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/monamohanty\/recent-activity\/shares\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\n\nGoing anon because I don't want to be harassed by BYJU's cyber cell and ss of my name circulated in Whatsapp and Slack groups.\n\nBut if you see any post about scamming, blackmailing, sexually harassing, mentally abusing, or any other human right violations from BYJU's, you can trust it blindly.\n\nWhy do you think BYJU's sponsored FIFA? They wanted to contribute to the human rights violations in the Middle East."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649418040.416899",
+        "reply_count": 7,
+        "reply_users_count": 5,
+        "latest_reply": "1649423967.123869",
+        "reply_users": [
+            "U030SDYNX7V",
+            "U031QKGPNRK",
+            "U02PDC6B0HH",
+            "U02TTEFFU6B",
+            "U02UZL0FMC1"
+        ],
+        "replies": [
+            {
+                "user": "U030SDYNX7V",
+                "ts": "1649418753.975449"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1649419829.232649"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1649420072.485549"
+            },
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1649420842.008359"
+            },
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1649420868.726609"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649423672.186089"
+            },
+            {
+                "user": "U02UZL0FMC1",
+                "ts": "1649423967.123869"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "soccer",
+                "users": [
+                    "U02USELSBRT",
+                    "U031QKGPNRK"
+                ],
+                "count": 2
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U031QKGPNRK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0d656c48-6938-4f02-9ab2-3b4a8512e364",
+        "type": "message",
+        "text": "Did the BYJU powerhouse kill the story already?",
+        "user": "U030SDYNX7V",
+        "ts": "1649418753.975449",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "dcaae4952765",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3019783298486_dcaae495276522b44a55_72.png",
+            "first_name": "Niranjan",
+            "real_name": "Niranjan Bala",
+            "display_name": "Niranjan Bala",
+            "team": "T02PFK13YLC",
+            "name": "nb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s6e9y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Did the BYJU powerhouse kill the story already?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649418040.416899",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "5f5aa705-c7a0-4512-b0fe-38c4108c5521",
+        "type": "message",
+        "text": "I have seen the BYJU’s slack channel in some youtuber video where they discuss how to kill social posts and ban accounts and shizzle like that. pure dystopia",
+        "user": "U031QKGPNRK",
+        "ts": "1649419829.232649",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "416q0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have seen the BYJU’s slack channel in some youtuber video where they discuss how to kill social posts and ban accounts and shizzle like that. pure dystopia"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649418040.416899",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "2868596c-c58d-43f7-96c6-c4f59ff315e2",
+        "type": "message",
+        "text": "this story though, i have no clue what’s happening. very long threads. Waiting for someone to summarize",
+        "user": "U031QKGPNRK",
+        "ts": "1649420072.485549",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Zn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this story though, i have no clue what’s happening. very long threads. Waiting for someone to summarize"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649418040.416899",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "Does anyone know <http:\/\/Richpanel.com|Richpanel.com>? SaaS startup with employees in California and Mumbai. I'm doing a background check on them before I decide to join them or not. Any advice on the same would be truly appreciated, perhaps I'll foot your coffee bill at the next s11s meet-up? :sweat_smile:",
+        "user": "U02SXBR28G1",
+        "ts": "1649420739.450189",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gUW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone know "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Richpanel.com",
+                                "text": "Richpanel.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? SaaS startup with employees in California and Mumbai. I'm doing a background check on them before I decide to join them or not. Any advice on the same would be truly appreciated, perhaps I'll foot your coffee bill at the next s11s meet-up? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649420739.450189",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1650392899.110159",
+        "reply_users": [
+            "U03560PQ082",
+            "U02VBQCQ7EG",
+            "U032MN1BESJ",
+            "U03158A1WPK"
+        ],
+        "replies": [
+            {
+                "user": "U03560PQ082",
+                "ts": "1649423169.381149"
+            },
+            {
+                "user": "U02VBQCQ7EG",
+                "ts": "1649424491.961119"
+            },
+            {
+                "user": "U032MN1BESJ",
+                "ts": "1649426867.205279"
+            },
+            {
+                "user": "U03158A1WPK",
+                "ts": "1650392899.110159"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1246a607-f6b9-445a-99bd-eb12deed9aa0",
+        "type": "message",
+        "text": "<https:\/\/s11s.slack.com\/archives\/C02NYMY18RM\/p1649418055467749?thread_ts=1649415769.152499&amp;cid=C02NYMY18RM|https:\/\/s11s.slack.com\/archives\/C02NYMY18RM\/p1649418055467749?thread_ts=1649415769.152499&amp;cid=C02NYMY18RM>",
+        "user": "U02PDC6B0HH",
+        "ts": "1649420842.008359",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7ce0a422fcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953759554663_b7ce0a422fcdabf5a771_72.jpg",
+            "first_name": "Shafique",
+            "real_name": "Shafique Gajdhar",
+            "display_name": "Shaf",
+            "team": "T02PFK13YLC",
+            "name": "shafiquegajdhar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/s11s.slack.com\/archives\/C02NYMY18RM\/p1649418055467749?thread_ts=1649415769.152499&amp;cid=C02NYMY18RM",
+                "ts": "1649418055.467749",
+                "author_id": "U02UZL0FMC1",
+                "channel_team": "T02PFK13YLC",
+                "channel_id": "C02NYMY18RM",
+                "channel_name": "rants",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T02PFK13YLC",
+                        "channel": "C02NYMY18RM",
+                        "ts": "1649418055.467749",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "ZwY",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Honestly, love affair gone wrong. \n\nKinda LinkedIn Swindler of India. \n\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Mona met Shravan on LinkedIn as professional connection"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Turned to personal connection "
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "He basically looted her off along with 4-5 other women "
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Mona is angry (+4 other women who want to stay confidential) "
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Shravan is f**kd (pardon the language,  it could true\/false - but the allegations are super solid) "
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "bullet",
+                                            "indent": 0,
+                                            "offset": 0,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "\nStay tuned for more (until Mona posts an update)"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/s11s.slack.com\/archives\/C02NYMY18RM\/p1649418055467749?thread_ts=1649415769.152499&amp;cid=C02NYMY18RM",
+                "fallback": "[April 8th, 2022 4:40 AM] hellomeghapoojari: Honestly, love affair gone wrong. \n\nKinda LinkedIn Swindler of India. \n\n• Mona met Shravan on LinkedIn as professional connection\n• Turned to personal connection \n• He basically looted her off along with 4-5 other women \n• Mona is angry (+4 other women who want to stay confidential) \n• Shravan is f**kd (pardon the language,  it could true\/false - but the allegations are super solid) \nStay tuned for more (until Mona posts an update)",
+                "text": "Honestly, love affair gone wrong. \n\nKinda LinkedIn Swindler of India. \n\n• Mona met Shravan on LinkedIn as professional connection\n• Turned to personal connection \n• He basically looted her off along with 4-5 other women \n• Mona is angry (+4 other women who want to stay confidential) \n• Shravan is f**kd (pardon the language,  it could true\/false - but the allegations are super solid) \nStay tuned for more (until Mona posts an update)",
+                "author_name": "Megha",
+                "author_link": "https:\/\/s11s.slack.com\/team\/U02UZL0FMC1",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2022-03-28\/3314769628305_07d1e2d3116dd8fa2cb8_48.jpg",
+                "author_subname": "Megha",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "From a thread in #rants"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q=cuJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/s11s.slack.com\/archives\/C02NYMY18RM\/p1649418055467749?thread_ts=1649415769.152499&cid=C02NYMY18RM",
+                                "text": "https:\/\/s11s.slack.com\/archives\/C02NYMY18RM\/p1649418055467749?thread_ts=1649415769.152499&cid=C02NYMY18RM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649418040.416899",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "42caf827-9b9f-4daa-9445-c3df087f51e3",
+        "type": "message",
+        "text": "Thanks <@U02UZL0FMC1>",
+        "user": "U02PDC6B0HH",
+        "ts": "1649420868.726609",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7ce0a422fcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953759554663_b7ce0a422fcdabf5a771_72.jpg",
+            "first_name": "Shafique",
+            "real_name": "Shafique Gajdhar",
+            "display_name": "Shaf",
+            "team": "T02PFK13YLC",
+            "name": "shafiquegajdhar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mazA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02UZL0FMC1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649418040.416899",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "disguised_face",
+                "users": [
+                    "U02UZL0FMC1",
+                    "U02PDC4883V"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "51c09b46-1e02-411c-8926-8322a5abe5fa",
+        "type": "message",
+        "text": "Good company to join! <@U02UGB8DERY> Any comments?",
+        "user": "U03560PQ082",
+        "ts": "1649423169.381149",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1db32098d186",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-01\/3176023965474_1db32098d186ac873a3d_72.png",
+            "first_name": "Ahaan",
+            "real_name": "Ahaan Pandit",
+            "display_name": "Ahaan Pandit",
+            "team": "T02PFK13YLC",
+            "name": "ahaan.pandit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vgS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good company to join! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02UGB8DERY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Any comments?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649420739.450189",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "24745f5e-b491-4932-ac56-d8104955da98",
+        "type": "message",
+        "text": "<@U02UZL0FMC1> the MVP",
+        "user": "U02TTEFFU6B",
+        "ts": "1649423672.186089",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nyD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02UZL0FMC1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the MVP"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649418040.416899",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02UZL0FMC1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f368a4b9-d875-491a-9e69-6a4727409d4e",
+        "type": "message",
+        "text": "Ae me toh thak gayi bhaishab :yawning_face:",
+        "user": "U02UZL0FMC1",
+        "ts": "1649423967.123869",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "07d1e2d3116d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-28\/3314769628305_07d1e2d3116dd8fa2cb8_72.jpg",
+            "first_name": "Megha",
+            "real_name": "Megha",
+            "display_name": "Megha (CogniSaaS)",
+            "team": "T02PFK13YLC",
+            "name": "hellomeghapoojari",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rS0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ae me toh thak gayi bhaishab "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "yawning_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649418040.416899",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "0a5f8afc-d798-49c4-8b5b-266abe0f35c0",
+        "type": "message",
+        "text": "I personally know Amit, he is a very nice guy.",
+        "user": "U02VBQCQ7EG",
+        "ts": "1649424491.961119",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "fa5eb8510b89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2995555726371_fa5eb8510b89c7a7a37d_72.jpg",
+            "first_name": "Karthick",
+            "real_name": "Karthick Raajha",
+            "display_name": "Karthick Raajha",
+            "team": "T02PFK13YLC",
+            "name": "kraajha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "80xLw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I personally know Amit, he is a very nice guy."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649420739.450189",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "a720aac7-b63b-4e28-ac63-f060875b7179",
+        "type": "message",
+        "text": "I met Amit recently due to a common connection with someone else going thru the Surge Accelerator last year.\nSeems like a decent guy - and the company seems to be doing ok but I would do due diligence on the company from the perspective of competition - its a pretty brutal space",
+        "user": "U032MN1BESJ",
+        "ts": "1649426867.205279",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g8a12888a77b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a12888a77b019e4e11e0df9171feb29.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Anuj",
+            "real_name": "Anuj Adhiya",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "adhiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MxK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I met Amit recently due to a common connection with someone else going thru the Surge Accelerator last year.\nSeems like a decent guy - and the company seems to be doing ok but I would do due diligence on the company from the perspective of competition - its a pretty brutal space"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649420739.450189",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "Friday thoughts. Is it worthwhile to pursue and scale startups (while sacrificing a lot of personal, family and fun time) or quietly live a 9 to 5 while earning 30% lesser but having enough time on hand. I know disproportionate wealth creation is a valid argument but thats hardly for . 01% or . 001% of orgs. In the end does it matter?",
+        "user": "U02SXBR28G1",
+        "ts": "1649429324.769979",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e\/Zll",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Friday thoughts. Is it worthwhile to pursue and scale startups (while sacrificing a lot of personal, family and fun time) or quietly live a 9 to 5 while earning 30% lesser but having enough time on hand. I know disproportionate wealth creation is a valid argument but thats hardly for . 01% or . 001% of orgs. In the end does it matter?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649429324.769979",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1649521802.429019",
+        "reply_users": [
+            "U039VMYGC4B",
+            "U02UY3EPQDA",
+            "U030KV8R8RL"
+        ],
+        "replies": [
+            {
+                "user": "U039VMYGC4B",
+                "ts": "1649430175.727449"
+            },
+            {
+                "user": "U02UY3EPQDA",
+                "ts": "1649446659.020759"
+            },
+            {
+                "user": "U030KV8R8RL",
+                "ts": "1649521802.429019"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02ULN6EFNV",
+                    "U02UHQYEF70"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "87C96179-BD86-404D-9096-B269F85C78C1",
+        "type": "message",
+        "text": "Depends on multiple aspects:\n\n1. If you are getting any stock options, now a days most startups provide that, after a good amount of time spent for the startup those do hold value. \n2. What's your personal goal and your plan for it?\n3. If you are already self-actualised, mentoring and relaxing might be the right answer. ",
+        "user": "U039VMYGC4B",
+        "ts": "1649430175.727449",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c6980829f406",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3359500629584_c6980829f4068f0ae53d_72.png",
+            "first_name": "SidR",
+            "real_name": "SidR",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "hacsid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bx3H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Depends on multiple aspects:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "If you are getting any stock options, now a days most startups provide that, after a good amount of time spent for the startup those do hold value. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What's your personal goal and your plan for it?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "If you are already self-actualised, mentoring and relaxing might be the right answer. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649429324.769979",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "wishing slow wifi upon all 'growth hackers' this weekend.",
+        "user": "U02SXBR28G1",
+        "ts": "1649435339.876179",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=xk5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wishing slow wifi upon all 'growth hackers' this weekend."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U031QKGPNRK",
+                    "U032MN1BESJ",
+                    "U02PDC4883V",
+                    "U02UY3EPQDA",
+                    "U03A2UNJJDD",
+                    "U02URBKGVA7",
+                    "U030ZR9D0FK",
+                    "U030KV8R8RL",
+                    "U03560PQ082",
+                    "U02VD2JL8N8",
+                    "U033QDFML74"
+                ],
+                "count": 11
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "test test test",
+        "user": "U02SXBR28G1",
+        "ts": "1649436292.278379",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I0LGQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "test test test"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649436292.278379",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1649436343.156239",
+        "reply_users": [
+            "U02TTEFFU6B",
+            "U02PDC4883V"
+        ],
+        "replies": [
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649436310.152209"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649436343.156239"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1649436343.156239"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03B501AEE5",
+                "created": 1649436308,
+                "timestamp": 1649436308,
+                "name": "tenor_gif1855892587597573258.gif",
+                "title": "tenor_gif1855892587597573258.gif",
+                "mimetype": "image\/gif",
+                "filetype": "gif",
+                "pretty_type": "GIF",
+                "user": "U02TTEFFU6B",
+                "editable": false,
+                "size": 17971,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03B501AEE5\/tenor_gif1855892587597573258.gif?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03B501AEE5\/download\/tenor_gif1855892587597573258.gif?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B501AEE5-5e14d9dc4c\/tenor_gif1855892587597573258_64.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B501AEE5-5e14d9dc4c\/tenor_gif1855892587597573258_80.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B501AEE5-5e14d9dc4c\/tenor_gif1855892587597573258_360.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 220,
+                "thumb_360_h": 108,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B501AEE5-5e14d9dc4c\/tenor_gif1855892587597573258_160.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_gif": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B501AEE5-5e14d9dc4c\/tenor_gif1855892587597573258_360.gif?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "original_w": 220,
+                "original_h": 108,
+                "deanimate": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B501AEE5-5e14d9dc4c\/tenor_gif1855892587597573258_deanimate.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "deanimate_gif": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B501AEE5-5e14d9dc4c\/tenor_gif1855892587597573258_deanimate_gif.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_tiny": "AwAXADCpsyOaciKcggAdzjpR0weCKcpyGPboKkodlCj+XDuUDlyaHMedskRi44PUVXyx\/d5+UmlZmZgCcqvA+lMQ4oqkhhzQcCllOSCe4piHPXrQMkCjAY805NoQ5zjNJ\/BSfwGgBkhGflGPehCoODzimtQv3zQInlK+WDUDHPTtUsn+rFQjvQB\/\/9k=",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U02TTEFFU6B\/F03B501AEE5\/tenor_gif1855892587597573258.gif",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03B501AEE5-9a2a1324b2",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02TTEFFU6B",
+        "display_as_bot": false,
+        "ts": "1649436310.152209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qVJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "d05b1954-d45f-4872-9954-f003a1e29cd0",
+        "thread_ts": "1649436292.278379",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03ASBEUYDQ",
+                "created": 1649436335,
+                "timestamp": 1649436335,
+                "name": "tenor_gif3953169857846531862.gif",
+                "title": "tenor_gif3953169857846531862.gif",
+                "mimetype": "image\/gif",
+                "filetype": "gif",
+                "pretty_type": "GIF",
+                "user": "U02PDC4883V",
+                "editable": false,
+                "size": 43108,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03ASBEUYDQ\/tenor_gif3953169857846531862.gif?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03ASBEUYDQ\/download\/tenor_gif3953169857846531862.gif?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03ASBEUYDQ-bb0b31f49c\/tenor_gif3953169857846531862_64.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03ASBEUYDQ-bb0b31f49c\/tenor_gif3953169857846531862_80.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03ASBEUYDQ-bb0b31f49c\/tenor_gif3953169857846531862_360.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 220,
+                "thumb_360_h": 229,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03ASBEUYDQ-bb0b31f49c\/tenor_gif3953169857846531862_160.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_gif": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03ASBEUYDQ-bb0b31f49c\/tenor_gif3953169857846531862_360.gif?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "original_w": 220,
+                "original_h": 229,
+                "deanimate": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03ASBEUYDQ-bb0b31f49c\/tenor_gif3953169857846531862_deanimate.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "deanimate_gif": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03ASBEUYDQ-bb0b31f49c\/tenor_gif3953169857846531862_deanimate_gif.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_tiny": "AwAwAC5tJQOaVDtbJ6VBQlJ+Io5ZjjHXODQ\/3eRimIMZ7ijp1pAOmKXmgYkJw\/zZIFSlQ7KFbjriol4bpmnsByQMUXCwoQhsEDnoTSGM9zkg4qEbj\/Fj6mlIYc7v1oCw+RduCrH3zUeW9TQc8AnNOxQAq8MM1I5Xy8KaZ3GfWnSqFXIpARIOKdj1NNQfLTtvvQA0jMgAHSnfj+dNHLmn59aAP\/\/Z",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U02PDC4883V\/F03ASBEUYDQ\/tenor_gif3953169857846531862.gif",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03ASBEUYDQ-a98fe4119f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02PDC4883V",
+        "display_as_bot": false,
+        "ts": "1649436343.156239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nsQv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "b292f4b1-8309-4b97-88b3-541de806f7e0",
+        "thread_ts": "1649436292.278379",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "logon ke *bodh gaye* hei, kuch bhi phaila rahe hei in the name of marketing. lending strength and support to our mods in these challenging times. pls keep the community honest guys.",
+        "user": "U02SXBR28G1",
+        "ts": "1649436542.069359",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D6mvc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "logon ke "
+                            },
+                            {
+                                "type": "text",
+                                "text": "bodh gaye",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " hei, kuch bhi phaila rahe hei in the name of marketing. lending strength and support to our mods in these challenging times. pls keep the community honest guys."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02PDC4883V",
+                    "U02TTEFFU6B",
+                    "U033RUXVCAY",
+                    "U03AG8MUECT",
+                    "U030ZR9D0FK"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "Dearest reader,\n\nWhen you get called out: Breathe in. Breathe out. Maybe try punching a bag? \n\nGetting really worried for you. \n\nWith utmost concern,\nLady Whistledown",
+        "user": "U02SXBR28G1",
+        "ts": "1649436581.008909",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S24H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dearest reader,\n\nWhen you get called out: Breathe in. Breathe out. Maybe try punching a bag? \n\nGetting really worried for you. \n\nWith utmost concern,\nLady Whistledown"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U033QDFML74",
+                    "U02VA7QD8UB"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "16dbabac-9d94-43dd-9fea-56dc3c438a24",
+        "type": "message",
+        "text": "I think growth hacker's on Airtel 5G!\n\nAnd feel you guys have served the purpose!\n\nKaun zyada tez tha Airtel 5g or Growth Hacker?",
+        "user": "U030H7UAV1C",
+        "ts": "1649436840.224719",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "ecba70aae7e5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-31\/3325434984067_ecba70aae7e54fbf20fe_72.jpg",
+            "first_name": "Ansumant",
+            "real_name": "Ansumant Tiwari",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "ansumant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g1T2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think growth hacker's on Airtel 5G!\n\nAnd feel you guys have served the purpose!\n\nKaun zyada tez tha Airtel 5g or Growth Hacker?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "I am kinda worried but it seems AI writing tools will eat up most of  the content writing and copy writing jobs in a decade time. \n\nThoughts?",
+        "user": "U02SXBR28G1",
+        "ts": "1649440936.945579",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L+4Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am kinda worried but it seems AI writing tools will eat up most of  the content writing and copy writing jobs in a decade time. \n\nThoughts?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649440936.945579",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1649567372.454389",
+        "reply_users": [
+            "U03AG8MUECT",
+            "U02PDC4883V",
+            "U03560PQ082"
+        ],
+        "replies": [
+            {
+                "user": "U03AG8MUECT",
+                "ts": "1649441439.910209"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649441986.522919"
+            },
+            {
+                "user": "U03560PQ082",
+                "ts": "1649567372.454389"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1649567372.454389"
+    },
+    {
+        "client_msg_id": "7a1f183c-6674-4b9c-9b20-e46b16a975fb",
+        "type": "message",
+        "text": "This could most likely happen with generic content writers. As far as niche specific articles and opinionated pieces are concerned, they'll always require R&amp;D skills as well as expertise of a real person. \n\nI think the best writers will survive anyway but the competition is gonna be insane in next 5-10 years.",
+        "user": "U03AG8MUECT",
+        "ts": "1649441439.910209",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4fdac4d7a543",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-06\/3353413068949_4fdac4d7a543ccd5c10e_72.jpg",
+            "first_name": "Ratnakar",
+            "real_name": "Ratnakar Shukla",
+            "display_name": "Ratnakar Shukla",
+            "team": "T02PFK13YLC",
+            "name": "shukla.ratnakar7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vXojU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This could most likely happen with generic content writers. As far as niche specific articles and opinionated pieces are concerned, they'll always require R&D skills as well as expertise of a real person. \n\nI think the best writers will survive anyway but the competition is gonna be insane in next 5-10 years."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649440936.945579",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "a0345a03-ad97-4495-8dd7-de04e6c2d9b8",
+        "type": "message",
+        "text": "<https:\/\/www.searchenginejournal.com\/google-says-ai-generated-content-is-against-guidelines\/444916\/|https:\/\/www.searchenginejournal.com\/google-says-ai-generated-content-is-against-guidelines\/444916\/>",
+        "user": "U02PDC4883V",
+        "ts": "1649441986.522919",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.searchenginejournal.com\/google-says-ai-generated-content-is-against-guidelines\/444916\/",
+                "ts": 1649290286,
+                "image_url": "https:\/\/cdn.searchenginejournal.com\/wp-content\/uploads\/2022\/04\/google-ai-generated-content-624e2ae7c061d-sej.png",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 974641,
+                "service_icon": "https:\/\/cdn.searchenginejournal.com\/wp-content\/uploads\/2020\/01\/sej-5e26ffd8aa1d8.png",
+                "id": 1,
+                "original_url": "https:\/\/www.searchenginejournal.com\/google-says-ai-generated-content-is-against-guidelines\/444916\/",
+                "fallback": "Search Engine Journal: Google Says AI Generated Content Is Against Guidelines",
+                "text": "Content generated automatically using AI writing tools is against Google’s Webmaster Guidelines, says Search Advocate John Mueller.",
+                "title": "Google Says AI Generated Content Is Against Guidelines",
+                "title_link": "https:\/\/www.searchenginejournal.com\/google-says-ai-generated-content-is-against-guidelines\/444916\/",
+                "service_name": "Search Engine Journal",
+                "fields": [
+                    {
+                        "value": "Matt G. Southern",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "4 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gttz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.searchenginejournal.com\/google-says-ai-generated-content-is-against-guidelines\/444916\/",
+                                "text": "https:\/\/www.searchenginejournal.com\/google-says-ai-generated-content-is-against-guidelines\/444916\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649440936.945579",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03AG8MUECT",
+                    "U033RUXVCAY",
+                    "U0361UQSKGQ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "woman-tipping-hand",
+                "users": [
+                    "U030KV8R8RL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "Who should own the execution around creating product documentation? \n\nproduct marketing? support? or someone else?",
+        "user": "U02SXBR28G1",
+        "ts": "1649442449.927569",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N\/n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Who should own the execution around creating product documentation? \n\nproduct marketing? support? or someone else?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649442449.927569",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1649570537.860269",
+        "reply_users": [
+            "U03A2UNJJDD",
+            "U033ASE526S",
+            "U02PDC6B0HH",
+            "U02USELSBRT",
+            "U03560PQ082",
+            "U032AUA6KFV"
+        ],
+        "replies": [
+            {
+                "user": "U03A2UNJJDD",
+                "ts": "1649463498.204509"
+            },
+            {
+                "user": "U033ASE526S",
+                "ts": "1649481519.496739"
+            },
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1649495991.562379"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649505609.758599"
+            },
+            {
+                "user": "U03560PQ082",
+                "ts": "1649567404.978829"
+            },
+            {
+                "user": "U032AUA6KFV",
+                "ts": "1649570537.860269"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f3c0232f-ac59-4df6-9fd5-2001bc941e7d",
+        "type": "message",
+        "text": "It doesn’t matter actually!\n\nIt doesn’t matter if you’re slogging away building a company, creating wealth — but loosing the limited time we all get (in this life) to spend with our parents\/spouse\/children\/friends\/pets.\n\nEqually, it doesn’t matter if you take up a very humble job and spend the time you get with your family\/friends\/pet or even a non-paying passion\/hobby.\n\nAnd both these choices have diminishing returns (eventually).\n\nSo, what matters is which choice you’d regret (more!)?",
+        "user": "U02UY3EPQDA",
+        "ts": "1649446659.020759",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "da155664fe94",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-20\/2981844758147_da155664fe9476fbd35b_72.jpg",
+            "first_name": "sv410_",
+            "real_name": "sv410_",
+            "display_name": "sv410_",
+            "team": "T02PFK13YLC",
+            "name": "bravenuworld",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3EuT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It doesn’t matter actually!\n\nIt doesn’t matter if you’re slogging away building a company, creating wealth — but loosing the limited time we all get (in this life) to spend with our parents\/spouse\/children\/friends\/pets.\n\nEqually, it doesn’t matter if you take up a very humble job and spend the time you get with your family\/friends\/pet or even a non-paying passion\/hobby.\n\nAnd both these choices have diminishing returns (eventually).\n\nSo, what matters is which choice you’d regret (more!)?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649429324.769979",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03A2UNJJDD",
+                    "U030KV8R8RL",
+                    "U02USELSBRT"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3bbe25b1-fec2-492a-bf0e-4ba473385539",
+        "type": "message",
+        "text": "the product development team itself. product marketing will then use this document as a base to create marketing briefs. support has nothing to do with product documentation.",
+        "user": "U03A2UNJJDD",
+        "ts": "1649463498.204509",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "91a4f79ca4fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3342983706615_91a4f79ca4fe220decc9_72.jpg",
+            "first_name": "Chirag",
+            "real_name": "Chirag Parmar",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "chiragparmar.marketin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A2K3Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the product development team itself. product marketing will then use this document as a base to create marketing briefs. support has nothing to do with product documentation."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649442449.927569",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02PDC4883V",
+                    "U030SDYNX7V"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "948eb3a0-7c8d-4723-87b1-3978fcce7ce7",
+        "type": "message",
+        "text": "Product teams should own this (maybe tech writers who report into Product).",
+        "user": "U033ASE526S",
+        "ts": "1649481519.496739",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "cf9826152813",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-24\/3289470554068_cf9826152813650e8efe_72.jpg",
+            "first_name": "Tanmay",
+            "real_name": "Tanmay Choudhury",
+            "display_name": "Tanmay Choudhury",
+            "team": "T02PFK13YLC",
+            "name": "tanmay1612",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "csC4P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Product teams should own this (maybe tech writers who report into Product)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649442449.927569",
+        "parent_user_id": "U02SXBR28G1"
+    }
+]

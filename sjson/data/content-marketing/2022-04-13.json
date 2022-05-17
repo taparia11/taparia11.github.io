@@ -1,0 +1,608 @@
+[
+    {
+        "client_msg_id": "265c2b84-893b-42de-83d6-9fb4ec69da4c",
+        "type": "message",
+        "text": "Hey folks,\n\nWe are planning to setup resource page ( which includes whitepaper, reports, case study, ebooks, guides ), can someone please share good design inspirations :pray:\n\nThanks in advance",
+        "user": "U0363DZU3QF",
+        "ts": "1649833212.179489",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b6e781296de3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-13\/3381574854021_b6e781296de3cbc53491_72.png",
+            "first_name": "Swaroop",
+            "real_name": "Swaroop Patil",
+            "display_name": "Swaroop Patil",
+            "team": "T02PFK13YLC",
+            "name": "swaroop705",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0363DZU3QF",
+            "ts": "1649833351.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PJOv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey folks,\n\nWe are planning to setup resource page ( which includes whitepaper, reports, case study, ebooks, guides ), can someone please share good design inspirations "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThanks in advance"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649833212.179489",
+        "reply_count": 7,
+        "reply_users_count": 5,
+        "latest_reply": "1650526248.280519",
+        "reply_users": [
+            "U0326BKDQP8",
+            "U0363DZU3QF",
+            "U030KV8R8RL",
+            "U02USELSBRT",
+            "U030XB8C43Y"
+        ],
+        "replies": [
+            {
+                "user": "U0326BKDQP8",
+                "ts": "1649833846.667669"
+            },
+            {
+                "user": "U0363DZU3QF",
+                "ts": "1649834180.327479"
+            },
+            {
+                "user": "U030KV8R8RL",
+                "ts": "1649850253.041369"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649856322.029649"
+            },
+            {
+                "user": "U030XB8C43Y",
+                "ts": "1650453645.568679"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650455372.965969"
+            },
+            {
+                "user": "U030XB8C43Y",
+                "ts": "1650526248.280519"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "All of these on a single page? Wouldn’t that be too much. You can try out a dropdown menu like this -",
+        "files": [
+            {
+                "id": "F03BP30HQPK",
+                "created": 1649833838,
+                "timestamp": 1649833838,
+                "name": "Screenshot 2022-04-13 at 12.40.35 PM.png",
+                "title": "Screenshot 2022-04-13 at 12.40.35 PM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0326BKDQP8",
+                "editable": false,
+                "size": 171644,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03BP30HQPK\/screenshot_2022-04-13_at_12.40.35_pm.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03BP30HQPK\/download\/screenshot_2022-04-13_at_12.40.35_pm.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BP30HQPK-def8fe868d\/screenshot_2022-04-13_at_12.40.35_pm_64.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BP30HQPK-def8fe868d\/screenshot_2022-04-13_at_12.40.35_pm_80.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BP30HQPK-def8fe868d\/screenshot_2022-04-13_at_12.40.35_pm_360.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 360,
+                "thumb_360_h": 197,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BP30HQPK-def8fe868d\/screenshot_2022-04-13_at_12.40.35_pm_480.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 480,
+                "thumb_480_h": 262,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BP30HQPK-def8fe868d\/screenshot_2022-04-13_at_12.40.35_pm_160.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BP30HQPK-def8fe868d\/screenshot_2022-04-13_at_12.40.35_pm_720.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720_w": 720,
+                "thumb_720_h": 393,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BP30HQPK-def8fe868d\/screenshot_2022-04-13_at_12.40.35_pm_800.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_800_w": 800,
+                "thumb_800_h": 437,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BP30HQPK-def8fe868d\/screenshot_2022-04-13_at_12.40.35_pm_960.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_960_w": 960,
+                "thumb_960_h": 524,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BP30HQPK-def8fe868d\/screenshot_2022-04-13_at_12.40.35_pm_1024.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 559,
+                "original_w": 1108,
+                "original_h": 605,
+                "thumb_tiny": "AwAaADC8oIbOXP1PFPJPt+BpJQ5UeW+0564qJUmH358jjgACgCbIz3pfXmkAyTzS4wKAG7h707PpTSvv+lL0FAFbUiRbDBI+YdKy0ZmcDzG\/M1p6p\/x6j\/fFQwgbYeP4D\/Kq6DNDGWOc\/rS9BVaV2CcMR+NQmR8\/fb86kRfqG7OLWQ5I46iq4kfzAN7du9WnAZSG5B7GgD\/\/2Q==",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U0326BKDQP8\/F03BP30HQPK\/screenshot_2022-04-13_at_12.40.35_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03BP30HQPK-d4724bb51c",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0326BKDQP8",
+        "display_as_bot": false,
+        "ts": "1649833846.667669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5v08",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "All of these on a single page? Wouldn’t that be too much. You can try out a dropdown menu like this -"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "d6d6476f-7557-4bad-b622-f1387ff7898c",
+        "thread_ts": "1649833212.179489",
+        "parent_user_id": "U0363DZU3QF"
+    },
+    {
+        "client_msg_id": "be23e088-d0f1-44af-9e90-4280884c9cd0",
+        "type": "message",
+        "text": "Aditya, I was thinking of adding sub-section .\n\nIdeally my thought was to include different sub-sectors within resource center, once you click on that sub sector you will get a dedicated page for that sector\n\nFor ex: resource center&gt;blog sector&gt;blog page&gt; navigate to blogs you want to read",
+        "user": "U0363DZU3QF",
+        "ts": "1649834180.327479",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b6e781296de3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-13\/3381574854021_b6e781296de3cbc53491_72.png",
+            "first_name": "Swaroop",
+            "real_name": "Swaroop Patil",
+            "display_name": "Swaroop Patil",
+            "team": "T02PFK13YLC",
+            "name": "swaroop705",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4xb2C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Aditya, I was thinking of adding sub-section .\n\nIdeally my thought was to include different sub-sectors within resource center, once you click on that sub sector you will get a dedicated page for that sector\n\nFor ex: resource center>blog sector>blog page> navigate to blogs you want to read"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649833212.179489",
+        "parent_user_id": "U0363DZU3QF"
+    },
+    {
+        "client_msg_id": "7c725b37-e3ef-4497-8c69-96142deea28d",
+        "type": "message",
+        "text": "<@U033KD7GMDJ>, used it for hosting landing pages. You can get a landing page live pretty quickly using templates. However, if you want to customize something, it will be a pain in the neck.. I have a sort of love nd hate relationship with HS. I think they make many simple things really complicated.",
+        "user": "U0389EB28UR",
+        "ts": "1649840457.585619",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "dfd69495b969",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-21\/3268867669139_dfd69495b969b8ebd1f5_72.png",
+            "first_name": "Nitin",
+            "real_name": "Nitin Balodi",
+            "display_name": "Nitin Balodi",
+            "team": "T02PFK13YLC",
+            "name": "nitin1993flanker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rg=R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U033KD7GMDJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", used it for hosting landing pages. You can get a landing page live pretty quickly using templates. However, if you want to customize something, it will be a pain in the neck.. I have a sort of love nd hate relationship with HS. I think they make many simple things really complicated."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649745157.762339",
+        "parent_user_id": "U033KD7GMDJ"
+    },
+    {
+        "client_msg_id": "4df4908d-8916-4ec4-99ae-886e9e888c0d",
+        "type": "message",
+        "text": "More than design, you'd want to focus on easy discoverability. Mapping out a user's experience that cuts through information and  helps them find the next piece of relevant content. Here's where your category building, organi are good ways to build this. I love the layout of Harry's Marketing Examples, VeryGoodCopy, and sometimes Hubspot :stuck_out_tongue:",
+        "user": "U030KV8R8RL",
+        "ts": "1649850253.041369",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1d58fa7deccd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3044063413425_1d58fa7deccd79b3b2d0_72.jpg",
+            "first_name": "Vartika",
+            "real_name": "Vartika Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "vartika.gupta1911",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vbx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "More than design, you'd want to focus on easy discoverability. Mapping out a user's experience that cuts through information and  helps them find the next piece of relevant content. Here's where your category building, organi are good ways to build this. I love the layout of Harry's Marketing Examples, VeryGoodCopy, and sometimes Hubspot "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649833212.179489",
+        "parent_user_id": "U0363DZU3QF",
+        "reactions": [
+            {
+                "name": "gratitude-thank-you",
+                "users": [
+                    "U02V991KYHZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d254e0c3-7398-40a7-aa01-c6748adabea9",
+        "type": "message",
+        "text": "Hey everyone. Any senior content lead here Willing to spend a few minutes to chat with me? I'm Ajay and I'm the First content marketer here at  Spendflo. Looking for guidance on how to come up with long term content strategy.",
+        "user": "U033R6MA1DY",
+        "ts": "1649856073.885179",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g20af302531e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/20af302531ec4b507d247d8c1f8403cb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Ajay",
+            "real_name": "Ajay Ramamoorthy",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "sum.teng.wong",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+=r3L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone. Any senior content lead here Willing to spend a few minutes to chat with me? I'm Ajay and I'm the First content marketer here at  Spendflo. Looking for guidance on how to come up with long term content strategy."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "580c6615-fab4-4e49-a6fe-02964130ac2a",
+        "type": "message",
+        "text": "<@U0326BKDQP8> Most SaaS companies just blindly copy this template of segregating content by content type (blog\/webinar\/ebook..) but rarely as humans we look for content that ways. We typically would look at it by topic or keyword, which I think is a better approach.",
+        "user": "U02USELSBRT",
+        "ts": "1649856322.029649",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jx1n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0326BKDQP8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Most SaaS companies just blindly copy this template of segregating content by content type (blog\/webinar\/ebook..) but rarely as humans we look for content that ways. We typically would look at it by topic or keyword, which I think is a better approach."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649833212.179489",
+        "parent_user_id": "U0363DZU3QF",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U030ZR9D0FK",
+                    "U0304R87GGK",
+                    "U02URS98P9B",
+                    "U030XB8C43Y"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U02V991KYHZ",
+                    "U035UMWEXJM",
+                    "U0326BKDQP8"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D4BB2475-1233-4174-A26E-659B5C726FB8",
+        "type": "message",
+        "text": "Hey everyone - Any recommendations for a good podcast editor. Audio only for the moment. Thanks a ton! ",
+        "user": "U035NH9AL6N",
+        "ts": "1649858783.517149",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "d230f04cb80f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-04\/3178002493239_d230f04cb80f5f08fcc7_72.jpg",
+            "first_name": "Sanjay",
+            "real_name": "Sanjay Krishna",
+            "display_name": "Sanjay Krishna",
+            "team": "T02PFK13YLC",
+            "name": "sanjay.nluj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AqX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone - Any recommendations for a good podcast editor. Audio only for the moment. Thanks a ton! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649858783.517149",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1650308766.204639",
+        "reply_users": [
+            "U030KV8R8RL",
+            "U035NH9AL6N",
+            "U031QKGPNRK",
+            "U030N8RHURZ"
+        ],
+        "replies": [
+            {
+                "user": "U030KV8R8RL",
+                "ts": "1649859750.246729"
+            },
+            {
+                "user": "U035NH9AL6N",
+                "ts": "1649868732.981069"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1650002736.610909"
+            },
+            {
+                "user": "U030N8RHURZ",
+                "ts": "1650308766.204639"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9ac4cd2f-b160-4452-9c0d-06ef99a132bc",
+        "type": "message",
+        "text": "We've used Audiogram. Good work on there.",
+        "user": "U030KV8R8RL",
+        "ts": "1649859750.246729",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1d58fa7deccd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3044063413425_1d58fa7deccd79b3b2d0_72.jpg",
+            "first_name": "Vartika",
+            "real_name": "Vartika Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "vartika.gupta1911",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fl6op",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We've used Audiogram. Good work on there."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649858783.517149",
+        "parent_user_id": "U035NH9AL6N"
+    },
+    {
+        "client_msg_id": "ba4fe995-4e39-4585-ae58-889e47774e96",
+        "type": "message",
+        "text": "Thank you so much!",
+        "user": "U035NH9AL6N",
+        "ts": "1649868732.981069",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "d230f04cb80f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-04\/3178002493239_d230f04cb80f5f08fcc7_72.jpg",
+            "first_name": "Sanjay",
+            "real_name": "Sanjay Krishna",
+            "display_name": "Sanjay Krishna",
+            "team": "T02PFK13YLC",
+            "name": "sanjay.nluj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jof",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you so much!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649858783.517149",
+        "parent_user_id": "U035NH9AL6N"
+    },
+    {
+        "client_msg_id": "e422c789-a6f6-4843-9bc1-13e6c6f615ea",
+        "type": "message",
+        "text": "Thanks for sharing your experience folks, this is super helpful! :raised_hands:",
+        "user": "U033KD7GMDJ",
+        "ts": "1649918980.567279",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "be06fe8acb05",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-17\/3119249088114_be06fe8acb05dc9d906f_72.jpg",
+            "first_name": "Jacob",
+            "real_name": "Jacob Koshy",
+            "display_name": "Jacob Koshy",
+            "team": "T02PFK13YLC",
+            "name": "jacob.koshy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tE1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for sharing your experience folks, this is super helpful! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649745157.762339",
+        "parent_user_id": "U033KD7GMDJ"
+    }
+]

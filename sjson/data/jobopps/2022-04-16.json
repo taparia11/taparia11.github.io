@@ -1,0 +1,299 @@
+[
+    {
+        "client_msg_id": "29361D65-0992-4D8E-AE1F-20EB0893920A",
+        "type": "message",
+        "text": "Looking for an design agency to revamp UI\/UX of our SAAS platform on an urgent Basis. ",
+        "user": "U03A0H0N2LD",
+        "ts": "1650106489.245829",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5231e4af0432",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3336811246726_5231e4af04323d0b1f26_72.png",
+            "first_name": "Saswat",
+            "real_name": "Saswat Panda",
+            "display_name": "Saswat Panda",
+            "team": "T02PFK13YLC",
+            "name": "saswatpanda999",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2IIyF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looking for an design agency to revamp UI\/UX of our SAAS platform on an urgent Basis. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2B19B425-F6BC-4A2E-8838-35A4EC6CD9EA",
+        "type": "message",
+        "text": "Any leads do reach out to me ",
+        "user": "U03A0H0N2LD",
+        "ts": "1650106495.143849",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5231e4af0432",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3336811246726_5231e4af04323d0b1f26_72.png",
+            "first_name": "Saswat",
+            "real_name": "Saswat Panda",
+            "display_name": "Saswat Panda",
+            "team": "T02PFK13YLC",
+            "name": "saswatpanda999",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O70",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any leads do reach out to me "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3fead46e-19ed-48fa-9d53-c89cc67cc418",
+        "type": "message",
+        "text": "Hey folks \n\nWe are looking to outsource some of our tech dev (including UI\/UX) \n\nLooking for some great recommendations from the s11s community \n\nP.S - Have really tight schedule to deliver the project :-)",
+        "user": "U0307C2L78R",
+        "ts": "1650108615.726849",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c96ebeca55d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-01\/3022499239271_c96ebeca55d993ab4593_72.jpg",
+            "first_name": "Sourav",
+            "real_name": "Sourav",
+            "display_name": "Sourav",
+            "team": "T02PFK13YLC",
+            "name": "sourav.ecell.cetb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jz6Bp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey folks \n\nWe are looking to outsource some of our tech dev (including UI\/UX) \n\nLooking for some great recommendations from the s11s community \n\nP.S - Have really tight schedule to deliver the project :-)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650108615.726849",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1650176716.569799",
+        "reply_users": [
+            "U02VD2JL8N8",
+            "U03A397SJCF"
+        ],
+        "replies": [
+            {
+                "user": "U02VD2JL8N8",
+                "ts": "1650176314.279279"
+            },
+            {
+                "user": "U03A397SJCF",
+                "ts": "1650176716.569799"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "Here's the resume.",
+        "files": [
+            {
+                "id": "F03CFDRDQ1E",
+                "created": 1650119653,
+                "timestamp": 1650119653,
+                "name": "Deepak Kumar CV FY23.docx",
+                "title": "Deepak Kumar CV FY23.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U02TTEFFU6B",
+                "editable": false,
+                "size": 19711,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03CFDRDQ1E\/deepak_kumar_cv_fy23.docx?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03CFDRDQ1E\/download\/deepak_kumar_cv_fy23.docx?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CFDRDQ1E-df96d80f4a\/deepak_kumar_cv_fy23_converted.pdf?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CFDRDQ1E-df96d80f4a\/deepak_kumar_cv_fy23_thumb_pdf.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/s11s.slack.com\/files\/U02TTEFFU6B\/F03CFDRDQ1E\/deepak_kumar_cv_fy23.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03CFDRDQ1E-5e662bcff3",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02TTEFFU6B",
+        "display_as_bot": false,
+        "ts": "1650119662.433749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GKA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here's the resume."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "5364e1fb-6418-43fe-80c8-7ba3e915cee7",
+        "thread_ts": "1649859033.519009",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "2c9f3bca-6e98-4e54-b8e6-319029ae3e62",
+        "type": "message",
+        "text": "You can check with Srihari (<mailto:srihari@pacewisdom.com|srihari@pacewisdom.com>) <http:\/\/www.pacewisdom.com\/|http:\/\/www.pacewisdom.com\/>",
+        "user": "U02VD2JL8N8",
+        "ts": "1650176314.279279",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1f8231d0f5f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3323449503767_1f8231d0f5f43aecb19d_72.jpg",
+            "first_name": "Mayank",
+            "real_name": "Mayank Mujumdar",
+            "display_name": "mayank",
+            "team": "T02PFK13YLC",
+            "name": "mayank13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qua3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can check with Srihari ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:srihari@pacewisdom.com",
+                                "text": "srihari@pacewisdom.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.pacewisdom.com\/",
+                                "text": "http:\/\/www.pacewisdom.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650108615.726849",
+        "parent_user_id": "U0307C2L78R"
+    },
+    {
+        "client_msg_id": "67549eb9-baf1-4530-b6ae-16ed1c4a0e9a",
+        "type": "message",
+        "text": "Can connect with <https:\/\/www.vtorlabs.com>, let me know",
+        "user": "U03A397SJCF",
+        "ts": "1650176716.569799",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8350509990dc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3357545030005_8350509990dc150e9deb_72.jpg",
+            "first_name": "Anshul",
+            "real_name": "Anshul Bansal",
+            "display_name": "akbansa",
+            "team": "T02PFK13YLC",
+            "name": "bansal.anshul.94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JAO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can connect with "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.vtorlabs.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", let me know"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650108615.726849",
+        "parent_user_id": "U0307C2L78R"
+    }
+]

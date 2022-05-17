@@ -1,0 +1,432 @@
+[
+    {
+        "client_msg_id": "0b2aef79-de94-4d44-95fd-85a512ff8d72",
+        "type": "message",
+        "text": "People who are heavy users of Scalenut's AI driven products - would you be open to having a virtual coffee and a brief conversation about your experience with the product?\nPS - This is for a personal project I am working on.",
+        "user": "U03BRRG94LV",
+        "ts": "1650637559.913229",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5d72a6d48dc0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-22\/3429771511636_5d72a6d48dc029f59101_72.jpg",
+            "first_name": "Shrikant",
+            "real_name": "Shrikant Damani",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "shrikantdamani.19",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uOvEe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "People who are heavy users of Scalenut's AI driven products - would you be open to having a virtual coffee and a brief conversation about your experience with the product?\nPS - This is for a personal project I am working on."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "789650eb-c681-4ac1-9928-6c34270258bd",
+        "type": "message",
+        "text": "Hey folks! <@U02UUCE1ASD> and I are catching up tomorrow for lunch in Bangalore? Anyone who'd like to join us? meeting IN PERSON :grimacing: not VIRTUAL",
+        "user": "U02UM0VU8MQ",
+        "ts": "1650644705.095039",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "f69526302af1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-19\/2973139800019_f69526302af1e85edb5e_72.jpg",
+            "first_name": "Deeksha",
+            "real_name": "Deeksha Bhargava",
+            "display_name": "Deeksha",
+            "team": "T02PFK13YLC",
+            "name": "deekshabhargava15",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IEz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey folks! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02UUCE1ASD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and I are catching up tomorrow for lunch in Bangalore? Anyone who'd like to join us? meeting IN PERSON "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grimacing"
+                            },
+                            {
+                                "type": "text",
+                                "text": " not VIRTUAL"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650644705.095039",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1650692708.629389",
+        "reply_users": [
+            "U031BVBGHCK",
+            "U02UUCE1ASD",
+            "U030N8RHURZ"
+        ],
+        "replies": [
+            {
+                "user": "U031BVBGHCK",
+                "ts": "1650645782.928909"
+            },
+            {
+                "user": "U02UUCE1ASD",
+                "ts": "1650645976.414219"
+            },
+            {
+                "user": "U02UUCE1ASD",
+                "ts": "1650645982.231819"
+            },
+            {
+                "user": "U031BVBGHCK",
+                "ts": "1650646972.409169"
+            },
+            {
+                "user": "U02UUCE1ASD",
+                "ts": "1650647094.421309"
+            },
+            {
+                "user": "U030N8RHURZ",
+                "ts": "1650691392.112969"
+            },
+            {
+                "user": "U02UUCE1ASD",
+                "ts": "1650692708.629389"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "35dc7840-b119-4ff1-a5c6-422b8e92f1c9",
+        "type": "message",
+        "text": "Where?\nFinalized any location\/area?",
+        "user": "U031BVBGHCK",
+        "ts": "1650645782.928909",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5dee7ce106e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-02\/3031358466535_5dee7ce106e9da50a485_72.jpg",
+            "first_name": "chintan",
+            "real_name": "chintan bavishi",
+            "display_name": "chintan bavishi",
+            "team": "T02PFK13YLC",
+            "name": "chintanbavishi596",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Q=H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Where?\nFinalized any location\/area?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650644705.095039",
+        "parent_user_id": "U02UM0VU8MQ"
+    },
+    {
+        "client_msg_id": "EDF6DBF3-8117-4B89-B187-BD97B5C39E33",
+        "type": "message",
+        "text": "Somewhere in Indiranagar ",
+        "user": "U02UUCE1ASD",
+        "ts": "1650645976.414219",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8fc0ff2b8ed7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-22\/3425444312242_8fc0ff2b8ed7f97f960d_72.jpg",
+            "first_name": "Sunil",
+            "real_name": "Sunil Neurgaonkar",
+            "display_name": "Sunil",
+            "team": "T02PFK13YLC",
+            "name": "sunilneurgaonkar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZyL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Somewhere in Indiranagar "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650644705.095039",
+        "parent_user_id": "U02UM0VU8MQ",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U031BVBGHCK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B903392F-956E-4FEF-85EA-B5671CEEDC4C",
+        "type": "message",
+        "text": "Preferably Bobs :grimacing:",
+        "user": "U02UUCE1ASD",
+        "ts": "1650645982.231819",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8fc0ff2b8ed7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-22\/3425444312242_8fc0ff2b8ed7f97f960d_72.jpg",
+            "first_name": "Sunil",
+            "real_name": "Sunil Neurgaonkar",
+            "display_name": "Sunil",
+            "team": "T02PFK13YLC",
+            "name": "sunilneurgaonkar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ku8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Preferably Bobs "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grimacing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650644705.095039",
+        "parent_user_id": "U02UM0VU8MQ"
+    },
+    {
+        "client_msg_id": "c9a2bf0c-7059-423b-a6cf-b0e81f4637ac",
+        "type": "message",
+        "text": "Perfect.\nI am in:v:",
+        "user": "U031BVBGHCK",
+        "ts": "1650646972.409169",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5dee7ce106e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-02\/3031358466535_5dee7ce106e9da50a485_72.jpg",
+            "first_name": "chintan",
+            "real_name": "chintan bavishi",
+            "display_name": "chintan bavishi",
+            "team": "T02PFK13YLC",
+            "name": "chintanbavishi596",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "07OT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Perfect.\nI am in"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "v"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650644705.095039",
+        "parent_user_id": "U02UM0VU8MQ"
+    },
+    {
+        "client_msg_id": "F4CF76D9-BF57-432F-9F54-C99FB071D1EF",
+        "type": "message",
+        "text": "Awesome. ",
+        "user": "U02UUCE1ASD",
+        "ts": "1650647094.421309",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8fc0ff2b8ed7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-22\/3425444312242_8fc0ff2b8ed7f97f960d_72.jpg",
+            "first_name": "Sunil",
+            "real_name": "Sunil Neurgaonkar",
+            "display_name": "Sunil",
+            "team": "T02PFK13YLC",
+            "name": "sunilneurgaonkar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XnOMl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650644705.095039",
+        "parent_user_id": "U02UM0VU8MQ"
+    },
+    {
+        "client_msg_id": "149cc902-1942-4836-acda-006eb68132a2",
+        "type": "message",
+        "text": "What time, folks?",
+        "user": "U030N8RHURZ",
+        "ts": "1650691392.112969",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b9e697887a24",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-17\/3118359252754_b9e697887a246674f4f1_72.jpg",
+            "first_name": "Murugappan",
+            "real_name": "Murugappan",
+            "display_name": "Muru",
+            "team": "T02PFK13YLC",
+            "name": "nappagurum",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tjr9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What time, folks?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650644705.095039",
+        "parent_user_id": "U02UM0VU8MQ"
+    },
+    {
+        "client_msg_id": "B0193985-9A5F-4895-975F-7BD45B48B663",
+        "type": "message",
+        "text": "Around 1 pm?",
+        "user": "U02UUCE1ASD",
+        "ts": "1650692708.629389",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8fc0ff2b8ed7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-22\/3425444312242_8fc0ff2b8ed7f97f960d_72.jpg",
+            "first_name": "Sunil",
+            "real_name": "Sunil Neurgaonkar",
+            "display_name": "Sunil",
+            "team": "T02PFK13YLC",
+            "name": "sunilneurgaonkar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XwY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Around 1 pm?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650644705.095039",
+        "parent_user_id": "U02UM0VU8MQ"
+    }
+]

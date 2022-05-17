@@ -1,0 +1,147 @@
+[
+    {
+        "client_msg_id": "4884845a-17cb-4e9f-96ec-d61498ba466f",
+        "type": "message",
+        "text": "<@U02USELSBRT> is there a way to undo the poll submission? I do not want to grow my plants instead of meeting this bunch :joy:",
+        "user": "U030M1LS1L2",
+        "ts": "1649943589.008749",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "46fe0b61f0df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-27\/3014387749574_46fe0b61f0df0a7ec710_72.png",
+            "first_name": "Falguni",
+            "real_name": "Falguni Jain",
+            "display_name": "Falguni Jain",
+            "team": "T02PFK13YLC",
+            "name": "falgunijain500",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pm7sO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02USELSBRT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is there a way to undo the poll submission? I do not want to grow my plants instead of meeting this bunch "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649433059.428169",
+        "parent_user_id": "U03030X0DMH"
+    },
+    {
+        "client_msg_id": "46E6C245-15D3-4857-BB40-DDA29956088E",
+        "type": "message",
+        "text": "Hahah <@U030M1LS1L2> it is okay, we know your true intentions now. You go ahead!\nPS: unfortunately no, once a vote is casted, it can't be changed",
+        "user": "U02USELSBRT",
+        "ts": "1649949819.506159",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vXROR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hahah "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U030M1LS1L2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " it is okay, we know your true intentions now. You go ahead!\nPS: unfortunately no, once a vote is casted, it can't be changed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649433059.428169",
+        "parent_user_id": "U03030X0DMH",
+        "reactions": [
+            {
+                "name": "broken_heart",
+                "users": [
+                    "U030M1LS1L2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "84d553c2-0510-4029-9521-80f1aa2c58f4",
+        "type": "message",
+        "text": "Ah shit. I have been caught.",
+        "user": "U030M1LS1L2",
+        "ts": "1649950280.968039",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "46fe0b61f0df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-27\/3014387749574_46fe0b61f0df0a7ec710_72.png",
+            "first_name": "Falguni",
+            "real_name": "Falguni Jain",
+            "display_name": "Falguni Jain",
+            "team": "T02PFK13YLC",
+            "name": "falgunijain500",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uJwa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah shit. I have been caught."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649433059.428169",
+        "parent_user_id": "U03030X0DMH"
+    }
+]

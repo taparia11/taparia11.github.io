@@ -1,0 +1,560 @@
+[
+    {
+        "client_msg_id": "f200a41d-edec-4bd3-ba29-9a330cf8c288",
+        "type": "message",
+        "text": "Hey folks :wave:\n\nI've been working at the intersection of growth and community for most of my career, but over the last 2 years, have found myself obsessing over data tools and technologies. I'm not a data engineer, analyst, or scientist, but have had the chance to work with data extensively and now I'm working on bridging the widening gap between data people and non-data people.\n\nI had created Data-led Academy to foster data literacy amongst product and growth professionals and recently <https:\/\/amplitude.com\/blog\/data-led-academy|sold it to Amplitude>. I'm now building <https:\/\/ask.astorik.com\/|astorik> where anyone can get expert, unbiased, and actionable answers to their data questions, directly from practitioners or vendors.\n\nI typically find myself spending my days thinking, writing in simple terms, hanging out in communities, and answering people's questions -- if you have questions about customer data infrastructure (CDI, CDP, ELT, Reverse ETL, etc), <https:\/\/ask.astorik.com\/c\/ask-arpit-choudhury\/|I'm here> to answer them.\n\nFun fact: I've only worked at an office for 9 months in 9+ years of working!\n\n:beers:",
+        "user": "U034RJQUQK0",
+        "ts": "1649931420.718459",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g4f7643afc47",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4f7643afc47181f56f7ef90c398ce622.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Arpit",
+            "real_name": "Arpit Choudhury",
+            "display_name": "Arpit Choudhury",
+            "team": "T02PFK13YLC",
+            "name": "arpitc0707",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YQde",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey folks "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI've been working at the intersection of growth and community for most of my career, but over the last 2 years, have found myself obsessing over data tools and technologies. I'm not a data engineer, analyst, or scientist, but have had the chance to work with data extensively and now I'm working on bridging the widening gap between data people and non-data people.\n\nI had created Data-led Academy to foster data literacy amongst product and growth professionals and recently "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/amplitude.com\/blog\/data-led-academy",
+                                "text": "sold it to Amplitude"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I'm now building "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ask.astorik.com\/",
+                                "text": "astorik"
+                            },
+                            {
+                                "type": "text",
+                                "text": " where anyone can get expert, unbiased, and actionable answers to their data questions, directly from practitioners or vendors.\n\nI typically find myself spending my days thinking, writing in simple terms, hanging out in communities, and answering people's questions -- if you have questions about customer data infrastructure (CDI, CDP, ELT, Reverse ETL, etc), "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ask.astorik.com\/c\/ask-arpit-choudhury\/",
+                                "text": "I'm here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to answer them.\n\nFun fact: I've only worked at an office for 9 months in 9+ years of working!\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "beers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649931420.718459",
+        "reply_count": 7,
+        "reply_users_count": 6,
+        "latest_reply": "1649940507.647909",
+        "reply_users": [
+            "U02VA7QD8UB",
+            "U02PDC4883V",
+            "U031KD0PNTX",
+            "U03AQFPP9BL",
+            "U034RJQUQK0",
+            "U032MN1BESJ"
+        ],
+        "replies": [
+            {
+                "user": "U02VA7QD8UB",
+                "ts": "1649936503.235999"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649937014.152039"
+            },
+            {
+                "user": "U031KD0PNTX",
+                "ts": "1649939322.506679"
+            },
+            {
+                "user": "U03AQFPP9BL",
+                "ts": "1649940272.685649"
+            },
+            {
+                "user": "U034RJQUQK0",
+                "ts": "1649940341.817539"
+            },
+            {
+                "user": "U032MN1BESJ",
+                "ts": "1649940455.621009"
+            },
+            {
+                "user": "U034RJQUQK0",
+                "ts": "1649940507.647909"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1649940507.647909",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02V9QUDK1Q",
+                    "U02UM0VU8MQ",
+                    "U03560PQ082",
+                    "U037UUE6TV3",
+                    "U02PDC4883V",
+                    "U03AQFPP9BL",
+                    "U02ULCHDGB0",
+                    "U039L895FA4"
+                ],
+                "count": 8
+            },
+            {
+                "name": "wave",
+                "users": [
+                    "U02V9QUDK1Q",
+                    "U039PF71127",
+                    "U02V92UN0Q2",
+                    "U02UHQYEF70",
+                    "U02VA7QD8UB",
+                    "U02PDC4883V",
+                    "U0325QQQALR",
+                    "U0380S2BZ9A",
+                    "U031KD0PNTX",
+                    "U02UJBHEQVA",
+                    "U039HH3LP43",
+                    "U0361UQSKGQ",
+                    "U02U6FZRHRV",
+                    "U039L895FA4"
+                ],
+                "count": 14
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U03A7KXT45S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8a742759-3d7b-4457-a744-3f2d4422dd7a",
+        "type": "message",
+        "text": "Good to see ya here! :raised_hands:",
+        "user": "U02VA7QD8UB",
+        "ts": "1649936503.235999",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "84e512c8a3fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2999004078388_84e512c8a3feeb8de835_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "T02PFK13YLC",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GtcQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good to see ya here! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649931420.718459",
+        "parent_user_id": "U034RJQUQK0",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U034RJQUQK0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6552d93c-c7cb-48b5-9f15-4451c85f6e36",
+        "type": "message",
+        "text": "Welcome Arpit!",
+        "user": "U02PDC4883V",
+        "ts": "1649937014.152039",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uqxQk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome Arpit!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649931420.718459",
+        "parent_user_id": "U034RJQUQK0"
+    },
+    {
+        "client_msg_id": "4d0a4d4b-5db6-46a5-9a48-9eee60fd1d65",
+        "type": "message",
+        "text": "welcome!!",
+        "user": "U031KD0PNTX",
+        "ts": "1649939322.506679",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "d8e3a1cc6ed8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3305635315237_d8e3a1cc6ed88c5c929a_72.jpg",
+            "first_name": "Anand",
+            "real_name": "Anand",
+            "display_name": "theanand",
+            "team": "T02PFK13YLC",
+            "name": "anand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7gTlV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "welcome!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649931420.718459",
+        "parent_user_id": "U034RJQUQK0"
+    },
+    {
+        "client_msg_id": "d878d2b7-8bae-4a46-8348-e9f74ce8067b",
+        "type": "message",
+        "text": "Great to meet you Arpit!",
+        "user": "U03AQFPP9BL",
+        "ts": "1649940272.685649",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c9b2329e7c08",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-08\/3377148716193_c9b2329e7c08a95503a8_72.png",
+            "first_name": "Ankit",
+            "real_name": "Ankit Prakash",
+            "display_name": "Ankit Prakash",
+            "team": "T02PFK13YLC",
+            "name": "ankitpr89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uQqdL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great to meet you Arpit!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649931420.718459",
+        "parent_user_id": "U034RJQUQK0"
+    },
+    {
+        "client_msg_id": "bc50b49d-4f2d-4820-afc8-7643627ac5c5",
+        "type": "message",
+        "text": "That's wesome work!",
+        "user": "U03AQFPP9BL",
+        "ts": "1649940326.205229",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c9b2329e7c08",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-08\/3377148716193_c9b2329e7c08a95503a8_72.png",
+            "first_name": "Ankit",
+            "real_name": "Ankit Prakash",
+            "display_name": "Ankit Prakash",
+            "team": "T02PFK13YLC",
+            "name": "ankitpr89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pHg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's wesome work!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649914575.712979",
+        "parent_user_id": "U039PF71127"
+    },
+    {
+        "client_msg_id": "3dcefe38-458c-4d22-9334-dc33a8775581",
+        "type": "message",
+        "text": "*awesome",
+        "user": "U03AQFPP9BL",
+        "ts": "1649940330.762549",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c9b2329e7c08",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-08\/3377148716193_c9b2329e7c08a95503a8_72.png",
+            "first_name": "Ankit",
+            "real_name": "Ankit Prakash",
+            "display_name": "Ankit Prakash",
+            "team": "T02PFK13YLC",
+            "name": "ankitpr89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2CJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "*awesome"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649914575.712979",
+        "parent_user_id": "U039PF71127"
+    },
+    {
+        "client_msg_id": "0fc07a79-5b28-4532-a8e0-562103aa7d67",
+        "type": "message",
+        "text": "Thank you all, glad to have found this community through one of <@U02V9QUDK1Q>'s post on LinkedIn! :raised_hands:",
+        "user": "U034RJQUQK0",
+        "ts": "1649940341.817539",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g4f7643afc47",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4f7643afc47181f56f7ef90c398ce622.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Arpit",
+            "real_name": "Arpit Choudhury",
+            "display_name": "Arpit Choudhury",
+            "team": "T02PFK13YLC",
+            "name": "arpitc0707",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "An+Do",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you all, glad to have found this community through one of "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02V9QUDK1Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": "'s post on LinkedIn! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649931420.718459",
+        "parent_user_id": "U034RJQUQK0"
+    },
+    {
+        "client_msg_id": "04deb109-b089-4380-9d7e-945895dfb3ed",
+        "type": "message",
+        "text": "Look who's here!",
+        "user": "U032MN1BESJ",
+        "ts": "1649940455.621009",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g8a12888a77b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a12888a77b019e4e11e0df9171feb29.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Anuj",
+            "real_name": "Anuj Adhiya",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "adhiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PQL41",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Look who's here!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649931420.718459",
+        "parent_user_id": "U034RJQUQK0"
+    },
+    {
+        "client_msg_id": "6c28bc02-d548-48f6-b32f-68655bdeab6e",
+        "type": "message",
+        "text": "Oh hello <@U032MN1BESJ>, good to see you here!",
+        "user": "U034RJQUQK0",
+        "ts": "1649940507.647909",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g4f7643afc47",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4f7643afc47181f56f7ef90c398ce622.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Arpit",
+            "real_name": "Arpit Choudhury",
+            "display_name": "Arpit Choudhury",
+            "team": "T02PFK13YLC",
+            "name": "arpitc0707",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gu5f+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U032MN1BESJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", good to see you here!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649931420.718459",
+        "parent_user_id": "U034RJQUQK0"
+    }
+]

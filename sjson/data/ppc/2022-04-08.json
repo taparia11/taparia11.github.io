@@ -1,0 +1,135 @@
+[
+    {
+        "client_msg_id": "3ed9be68-f1aa-4260-80b5-03339c6b2afe",
+        "type": "message",
+        "text": "Are these the people who \"make the world a better place\"?",
+        "user": "U02V22EUXM4",
+        "ts": "1649417869.242329",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9f2cfa9248dc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-07\/3075859566289_9f2cfa9248dc9a1dae23_72.jpg",
+            "first_name": "Deepan",
+            "real_name": "Deepan Siddhu",
+            "display_name": "Deepan Siddhu",
+            "team": "T02PFK13YLC",
+            "name": "deepan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RZjSN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are these the people who \"make the world a better place\"?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649390720.714069",
+        "parent_user_id": "U02USELSBRT"
+    },
+    {
+        "client_msg_id": "209d670a-4574-4c17-a156-caefb37dc69a",
+        "type": "message",
+        "text": "Does he want Marketers to go out  and market in the conventional manner?\n\nPerformance Mktg is the way ahead !!",
+        "user": "U03B4FAM9FT",
+        "ts": "1649436133.907989",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g02b49edec6e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/02b49edec6ea1d6d81d54fe2084497e7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Aniket",
+            "real_name": "Aniket Lade",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "aniket389",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dyrS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does he want Marketers to go out  and market in the conventional manner?\n\nPerformance Mktg is the way ahead !!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649436133.907989",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1649436226.879589",
+        "reply_users": [
+            "U02TTEFFU6B"
+        ],
+        "replies": [
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649436226.879589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2d8b9d7e-d4b7-4b91-ad6a-08393c7456e3",
+        "type": "message",
+        "text": "Hey Aniket, appreciate your views. If you would answer in the thread above, it helps us collate the replies later for archival purpose.\n\nThanks again.",
+        "user": "U02TTEFFU6B",
+        "ts": "1649436226.879589",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jkR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Aniket, appreciate your views. If you would answer in the thread above, it helps us collate the replies later for archival purpose.\n\nThanks again."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649436133.907989",
+        "parent_user_id": "U03B4FAM9FT"
+    }
+]

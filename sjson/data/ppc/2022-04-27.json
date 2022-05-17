@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "fd8eff39-010c-4713-96ed-da3253f04554",
+        "type": "message",
+        "text": "Wsqubetech on YT",
+        "user": "U02ULCHDGB0",
+        "ts": "1651047031.416349",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "0d19402d4d9e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-20\/3416613047252_0d19402d4d9e357ac3e2_72.jpg",
+            "first_name": "Nrusingha",
+            "real_name": "Nrusingha Sahoo",
+            "display_name": "Nrusingha",
+            "team": "T02PFK13YLC",
+            "name": "sahoo.nrusingha87",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SGC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wsqubetech on YT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650986183.880139",
+        "parent_user_id": "U03D78YQQL8",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03D78YQQL8"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

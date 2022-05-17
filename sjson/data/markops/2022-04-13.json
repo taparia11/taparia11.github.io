@@ -1,0 +1,101 @@
+[
+    {
+        "type": "message",
+        "text": "Hi, We are putting together our website's privacy policy and tnc. And we will potentially have visitors and eventually prospects from EU and Canada. So we need to be GDPR and Canadian privacy laws compliant. So while reading this up, I found the below image, which basically states - that if we enrich our contact information from indirect sources like public directories, the internet, etc., we need to notify them within a month.\n\nNot feeling very confident about the feasibility of this, was wondering if anyone has worked around GDPR compliant policies and knows the operational aspect of it.\nWould appreciate any input.",
+        "files": [
+            {
+                "id": "F03BJSW357E",
+                "created": 1649919256,
+                "timestamp": 1649919256,
+                "name": "WhatsApp Image 2022-04-14 at 12.13.50 PM.jpeg",
+                "title": "WhatsApp Image 2022-04-14 at 12.13.50 PM.jpeg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U02UG3G5X8B",
+                "editable": false,
+                "size": 156034,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03BJSW357E\/whatsapp_image_2022-04-14_at_12.13.50_pm.jpeg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03BJSW357E\/download\/whatsapp_image_2022-04-14_at_12.13.50_pm.jpeg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BJSW357E-eac3f1a660\/whatsapp_image_2022-04-14_at_12.13.50_pm_64.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BJSW357E-eac3f1a660\/whatsapp_image_2022-04-14_at_12.13.50_pm_80.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BJSW357E-eac3f1a660\/whatsapp_image_2022-04-14_at_12.13.50_pm_360.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 360,
+                "thumb_360_h": 206,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BJSW357E-eac3f1a660\/whatsapp_image_2022-04-14_at_12.13.50_pm_480.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 480,
+                "thumb_480_h": 275,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BJSW357E-eac3f1a660\/whatsapp_image_2022-04-14_at_12.13.50_pm_160.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BJSW357E-eac3f1a660\/whatsapp_image_2022-04-14_at_12.13.50_pm_720.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720_w": 720,
+                "thumb_720_h": 412,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BJSW357E-eac3f1a660\/whatsapp_image_2022-04-14_at_12.13.50_pm_800.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_800_w": 800,
+                "thumb_800_h": 458,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BJSW357E-eac3f1a660\/whatsapp_image_2022-04-14_at_12.13.50_pm_960.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_960_w": 960,
+                "thumb_960_h": 549,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BJSW357E-eac3f1a660\/whatsapp_image_2022-04-14_at_12.13.50_pm_1024.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 586,
+                "original_w": 1280,
+                "original_h": 732,
+                "thumb_tiny": "AwAbADDR4yct+tGV\/vH86aep+5QCR3SgB2V\/vfrRlf7360m4\/wB5aNx\/vLQA7cvqKUEHoaZuPqtKpJ7j8KAGlhuPHOaN\/wBakwKTAoAb5mPWjzB6U\/AooAZ5ntTgxJ6EUtFAH\/\/Z",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U02UG3G5X8B\/F03BJSW357E\/whatsapp_image_2022-04-14_at_12.13.50_pm.jpeg",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03BJSW357E-50d189c993",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02UG3G5X8B",
+        "display_as_bot": false,
+        "ts": "1649919307.692179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6YVS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, We are putting together our website's privacy policy and tnc. And we will potentially have visitors and eventually prospects from EU and Canada. So we need to be GDPR and Canadian privacy laws compliant. So while reading this up, I found the below image, which basically states - that if we enrich our contact information from indirect sources like public directories, the internet, etc., we need to notify them within a month.\n\nNot feeling very confident about the feasibility of this, was wondering if anyone has worked around GDPR compliant policies and knows the operational aspect of it.\nWould appreciate any input."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "57feb1be-a860-4556-9ed0-4207f35ec583",
+        "thread_ts": "1649919307.692179",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1649935448.977789",
+        "reply_users": [
+            "U03A397SJCF",
+            "U02UG3G5X8B"
+        ],
+        "replies": [
+            {
+                "user": "U03A397SJCF",
+                "ts": "1649921857.731389"
+            },
+            {
+                "user": "U02UG3G5X8B",
+                "ts": "1649935448.977789"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

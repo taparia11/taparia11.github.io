@@ -1,0 +1,166 @@
+[
+    {
+        "type": "message",
+        "text": "Just in case you guys were feeling left out…\n<https:\/\/brandequity.economictimes.indiatimes.com\/news\/marketing\/performance-marketing-is-polluting-the-internet-mullenlowe-global-ceo\/90675546>",
+        "user": "U02USELSBRT",
+        "ts": "1649390720.714069",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/brandequity.economictimes.indiatimes.com\/news\/marketing\/performance-marketing-is-polluting-the-internet-mullenlowe-global-ceo\/90675546",
+                "image_url": "https:\/\/etimg.etb2bimg.com\/thumb\/msid-90675546,imgsize-99760,width-1200,height-628,overlay-etbrandequity\/performance-marketing-is-polluting-the-internet-mullenlowe-global-ceo.jpg",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 503356,
+                "service_icon": "https:\/\/st.etb2bimg.com\/Themes\/Release\/images\/site-logos\/etfavicon-brandequity-2.ico",
+                "id": 1,
+                "original_url": "https:\/\/brandequity.economictimes.indiatimes.com\/news\/marketing\/performance-marketing-is-polluting-the-internet-mullenlowe-global-ceo\/90675546",
+                "fallback": "ETBrandEquity.com: Performance marketing is polluting the Internet: MullenLowe global CEO - ET BrandEquity",
+                "text": "Alex Leikikh, global CEO at MullenLowe Group, speaks on a variety of topics from the dangers of performance marketing, the need for agency groups to b..",
+                "title": "Performance marketing is polluting the Internet: MullenLowe global CEO - ET BrandEquity",
+                "title_link": "https:\/\/brandequity.economictimes.indiatimes.com\/news\/marketing\/performance-marketing-is-polluting-the-internet-mullenlowe-global-ceo\/90675546",
+                "service_name": "ETBrandEquity.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ACS2X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just in case you guys were feeling left out…\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/brandequity.economictimes.indiatimes.com\/news\/marketing\/performance-marketing-is-polluting-the-internet-mullenlowe-global-ceo\/90675546"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649390720.714069",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1649417869.242329",
+        "reply_users": [
+            "U02PDC4883V",
+            "U02V22EUXM4"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649392227.165039"
+            },
+            {
+                "user": "U02V22EUXM4",
+                "ts": "1649417869.242329"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1649417869.242329"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03ANRRT0MQ",
+                "created": 1649392224,
+                "timestamp": 1649392224,
+                "name": "abhishek-upmanyu.gif",
+                "title": "abhishek-upmanyu.gif",
+                "mimetype": "image\/gif",
+                "filetype": "gif",
+                "pretty_type": "GIF",
+                "user": "U02PDC4883V",
+                "editable": false,
+                "size": 807993,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03ANRRT0MQ\/abhishek-upmanyu.gif?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03ANRRT0MQ\/download\/abhishek-upmanyu.gif?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03ANRRT0MQ-8712dde4d5\/abhishek-upmanyu_64.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03ANRRT0MQ-8712dde4d5\/abhishek-upmanyu_80.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03ANRRT0MQ-8712dde4d5\/abhishek-upmanyu_360.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 360,
+                "thumb_360_h": 199,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03ANRRT0MQ-8712dde4d5\/abhishek-upmanyu_480.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 480,
+                "thumb_480_h": 265,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03ANRRT0MQ-8712dde4d5\/abhishek-upmanyu_160.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_gif": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03ANRRT0MQ-8712dde4d5\/abhishek-upmanyu_360.gif?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_gif": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03ANRRT0MQ-8712dde4d5\/abhishek-upmanyu_480.gif?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "original_w": 498,
+                "original_h": 275,
+                "deanimate": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03ANRRT0MQ-8712dde4d5\/abhishek-upmanyu_deanimate.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "deanimate_gif": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03ANRRT0MQ-8712dde4d5\/abhishek-upmanyu_deanimate_gif.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_tiny": "AwAaADCkop4J\/wAimjIp4dvU0hjlJByBnHtThJ8u4Odx7k9ajeRyhG4imq3RSTgnP0NMCZuoIHBHTFMJ9v0p4lcf3vypDIT1J\/KkBEu4jK5x9KPMlB4H6UKT5X4VBk+tAFtDLIQjHaG9qa6tEA6\/eU06InzEqO4Jw3\/XQ\/yovqBMs9ww5\/lTHlkH3jj8KghY78ZOKJj8\/wCFAH\/\/2Q==",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U02PDC4883V\/F03ANRRT0MQ\/abhishek-upmanyu.gif",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03ANRRT0MQ-aecb79b9c7",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02PDC4883V",
+        "display_as_bot": false,
+        "ts": "1649392227.165039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6l9at",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "6da70438-eab3-49ab-b495-83f23188de5f",
+        "thread_ts": "1649390720.714069",
+        "parent_user_id": "U02USELSBRT",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U02UHQYEF70",
+                    "U033QDFML74",
+                    "U02UY3EPQDA",
+                    "U02U6FZRHRV",
+                    "U031YH4D36U",
+                    "U039DHTUVQF",
+                    "U035K8BB0TF",
+                    "U02VBU808H4",
+                    "U02UN0QV0PM"
+                ],
+                "count": 9
+            }
+        ]
+    }
+]

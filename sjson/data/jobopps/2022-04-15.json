@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "67f7411a-fa3e-4ab4-a799-e87e45643076",
+        "type": "message",
+        "text": "Hi everyone, my sister-in-law, who is a doctor by profession (MBBS, DNB (Family Medicine)) got hooked to Data Analysis and has completed online Data Science and Business Analytics from University of Texas, McCombs school of business. She is looking for remote data analytics intern opportunities. Her pivot from being a full time doctor running her own clinic to studying data science part-time shows her deep interest and passion in this field. If your company or you know anyone who is looking to hire Data Science interns, please connect with me. Thanks in advance. \n(Her LinkedIn profile - <https:\/\/www.linkedin.com\/in\/geeta-gangavati-huilgol-33616442|https:\/\/www.linkedin.com\/in\/geeta-gangavati-huilgol-33616442>)",
+        "user": "U03834B6CS0",
+        "ts": "1650072110.742599",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g2135f30d97d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2135f30d97d724d4c9be49d4aa39fc32.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Sanjay",
+            "real_name": "Sanjay Huilgol",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "sanjayhuilgol",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/jV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone, my sister-in-law, who is a doctor by profession (MBBS, DNB (Family Medicine)) got hooked to Data Analysis and has completed online Data Science and Business Analytics from University of Texas, McCombs school of business. She is looking for remote data analytics intern opportunities. Her pivot from being a full time doctor running her own clinic to studying data science part-time shows her deep interest and passion in this field. If your company or you know anyone who is looking to hire Data Science interns, please connect with me. Thanks in advance. \n(Her LinkedIn profile - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/geeta-gangavati-huilgol-33616442",
+                                "text": "https:\/\/www.linkedin.com\/in\/geeta-gangavati-huilgol-33616442"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650072110.742599",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650261381.675699",
+        "reply_users": [
+            "U03B6AGE0HE"
+        ],
+        "replies": [
+            {
+                "user": "U03B6AGE0HE",
+                "ts": "1650261381.675699"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

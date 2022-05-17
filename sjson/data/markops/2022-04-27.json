@@ -1,0 +1,442 @@
+[
+    {
+        "client_msg_id": "299d89ac-5a91-466b-a335-f3927d430ee0",
+        "type": "message",
+        "text": "Hey <@U031BB161J8>                                 If you want to find email addresses and phone numbers from linkedin profiles, then you can use the following Chrome extensions\n<http:\/\/reply.io\/|Salesql >\n<http:\/\/reply.io\/|Lusha >\n<http:\/\/reply.io\/|Slintel >\n<http:\/\/reply.io\/|Signalhire >\n<http:\/\/reply.io\/|Aeroleads>\n<http:\/\/Snov.io|Snov.io><http:\/\/reply.io\/| >\n<http:\/\/reply.io\/|Leadleaper >\n<http:\/\/Reply.io|Reply.io>\nApollo\nMr. E",
+        "user": "U037QSG25PG",
+        "ts": "1651042824.500479",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "gd7d4cb51ee9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d7d4cb51ee9ff12d82e9507ef77c0583.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Manish",
+            "real_name": "Manish Sheokand",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "manish.sheokand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "http:\/\/reply.io\/",
+                "ts": 1611599027,
+                "image_url": "https:\/\/reply.io\/wp-content\/uploads\/02.c.mp4_snapshot_00.00.018.png",
+                "image_width": 313,
+                "image_height": 250,
+                "image_bytes": 35950,
+                "service_icon": "https:\/\/reply.io\/wp-content\/uploads\/cropped-favicon-3-300x300.png",
+                "id": 1,
+                "original_url": "http:\/\/reply.io\/",
+                "fallback": "Reply: Reply - Sales Automation and Sales Engagement Platform",
+                "text": "Reply is a multichannel sales engagement platform that automates email search, LinkedIn outreach, personal emails, SMS and WhatsApp messages, calls, and tasks, while Sales can focus on what really matters - closing deals.",
+                "title": "Reply - Sales Automation and Sales Engagement Platform",
+                "title_link": "http:\/\/reply.io\/",
+                "service_name": "Reply"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eoXZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U031BB161J8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "                                 If you want to find email addresses and phone numbers from linkedin profiles, then you can use the following Chrome extensions\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/reply.io\/",
+                                "text": "Salesql "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/reply.io\/",
+                                "text": "Lusha "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/reply.io\/",
+                                "text": "Slintel "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/reply.io\/",
+                                "text": "Signalhire "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/reply.io\/",
+                                "text": "Aeroleads"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Snov.io",
+                                "text": "Snov.io"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/reply.io\/",
+                                "text": " ",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/reply.io\/",
+                                "text": "Leadleaper "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Reply.io",
+                                "text": "Reply.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nApollo\nMr. E"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650976662.255849",
+        "parent_user_id": "U031BB161J8"
+    },
+    {
+        "client_msg_id": "e89f28ee-d94f-4217-9fe8-aba64a5e7ec9",
+        "type": "message",
+        "text": "Many thanks <@U037QSG25PG> will try to explore this.\nHave you or your team used RocketReach and it's kind.",
+        "user": "U031BB161J8",
+        "ts": "1651043576.771589",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g3477e8bec55",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3477e8bec55550efe3c9b97c75cc13f1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Ishaan",
+            "real_name": "Ishaan Sharma",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "ishaanhksharma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CYl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Many thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U037QSG25PG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " will try to explore this.\nHave you or your team used RocketReach and it's kind."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650976662.255849",
+        "parent_user_id": "U031BB161J8"
+    },
+    {
+        "client_msg_id": "9b1a407e-24b2-4bbb-aaeb-0780da0bd9db",
+        "type": "message",
+        "text": "<@U031BB161J8> Yes, we've been using these chrome extensions",
+        "user": "U037QSG25PG",
+        "ts": "1651050070.163199",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "gd7d4cb51ee9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d7d4cb51ee9ff12d82e9507ef77c0583.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Manish",
+            "real_name": "Manish Sheokand",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "manish.sheokand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NTe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U031BB161J8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Yes, we've been using these chrome extensions"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650976662.255849",
+        "parent_user_id": "U031BB161J8"
+    },
+    {
+        "client_msg_id": "34684801-1d1c-4622-961f-d41751e2876c",
+        "type": "message",
+        "text": "Awesome and what is the hit rate\/accuracy of the info?\n\nAre these free tools or they have enterprise licenses?",
+        "user": "U031BB161J8",
+        "ts": "1651051341.545429",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g3477e8bec55",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3477e8bec55550efe3c9b97c75cc13f1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Ishaan",
+            "real_name": "Ishaan Sharma",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "ishaanhksharma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Ah",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome and what is the hit rate\/accuracy of the info?\n\nAre these free tools or they have enterprise licenses?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650976662.255849",
+        "parent_user_id": "U031BB161J8"
+    },
+    {
+        "client_msg_id": "a0ac363b-5e2f-41f7-9754-a1c0e693f018",
+        "type": "message",
+        "text": "<@U031BB161J8> Consider using validation tools such as neverbounce rather than relying on individual platform accuracy. There are some free credits available.",
+        "user": "U037QSG25PG",
+        "ts": "1651052855.315889",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "gd7d4cb51ee9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d7d4cb51ee9ff12d82e9507ef77c0583.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Manish",
+            "real_name": "Manish Sheokand",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "manish.sheokand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PMc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U031BB161J8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Consider using validation tools such as neverbounce rather than relying on individual platform accuracy. There are some free credits available."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650976662.255849",
+        "parent_user_id": "U031BB161J8"
+    },
+    {
+        "client_msg_id": "080e46d4-69ec-4b7d-90ff-59f0c876cc27",
+        "type": "message",
+        "text": "<@U03CZ7PV5KN> the creative you shared is mostly used in target setting. Typically the sales and finance heads love to go into the details of this slide in the presentation. The marketing strategy is built by covering the details of the plan around meeting these numbers. The strategy answers questions like:\n• which channels will we use to achieve these numbers?\n• what will we do differently?\n• campaigns, geo expansion, competitor displacement campaigns etc.\nI would recommend you listen to the first 40 mins of this podcast to get a sense of how this plays out basis the business's pricing strategy, payback period, ltv, etc. <https:\/\/www.joincolossus.com\/episodes\/10262551\/pujji-a-primer-on-performance-marketing?tab=mentionedcontent&amp;s=08>",
+        "user": "U02PDC6B0HH",
+        "ts": "1651066299.739819",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7ce0a422fcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953759554663_b7ce0a422fcdabf5a771_72.jpg",
+            "first_name": "Shafique",
+            "real_name": "Shafique Gajdhar",
+            "display_name": "Shaf",
+            "team": "T02PFK13YLC",
+            "name": "shafiquegajdhar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.joincolossus.com\/episodes\/10262551\/pujji-a-primer-on-performance-marketing?tab=mentionedcontent&s=08",
+                "id": 1,
+                "original_url": "https:\/\/www.joincolossus.com\/episodes\/10262551\/pujji-a-primer-on-performance-marketing?tab=mentionedcontent&amp;s=08",
+                "fallback": "Jesse Pujji - A Primer on Performance Marketing",
+                "text": "Jesse Pujji is the Founder &amp; CEO of Gateway X. We cover how revenue mechanics affect ad campaigns, why long sales funnels often offer the greatest opportunities for differentiation, and the various channels and strategies available for performance marketing",
+                "title": "Jesse Pujji - A Primer on Performance Marketing",
+                "title_link": "https:\/\/www.joincolossus.com\/episodes\/10262551\/pujji-a-primer-on-performance-marketing?tab=mentionedcontent&s=08",
+                "service_name": "joincolossus.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P8T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CZ7PV5KN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the creative you shared is mostly used in target setting. Typically the sales and finance heads love to go into the details of this slide in the presentation. The marketing strategy is built by covering the details of the plan around meeting these numbers. The strategy answers questions like:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "which channels will we use to achieve these numbers?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "what will we do differently?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "campaigns, geo expansion, competitor displacement campaigns etc."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nI would recommend you listen to the first 40 mins of this podcast to get a sense of how this plays out basis the business's pricing strategy, payback period, ltv, etc. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.joincolossus.com\/episodes\/10262551\/pujji-a-primer-on-performance-marketing?tab=mentionedcontent&s=08"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650955285.442669",
+        "parent_user_id": "U03CZ7PV5KN",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U031KD0PNTX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

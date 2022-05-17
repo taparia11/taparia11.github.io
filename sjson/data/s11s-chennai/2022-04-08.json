@@ -1,0 +1,147 @@
+[
+    {
+        "client_msg_id": "9522b103-f546-4ce8-8638-b194cf60b8da",
+        "type": "message",
+        "text": "<@U038W1678JX> have attended the past meetups. Maybe he could share some of his Insights.",
+        "user": "U02U9C39MAA",
+        "ts": "1649437235.867889",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "dbdfc2517fe2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3030723717859_dbdfc2517fe20d6cd4f1_72.jpg",
+            "first_name": "Nihal",
+            "real_name": "Nihal Ahamed",
+            "display_name": "Nihal Ahamed",
+            "team": "T02PFK13YLC",
+            "name": "reachoutnihal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ojF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U038W1678JX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " have attended the past meetups. Maybe he could share some of his Insights."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649339445.800309",
+        "parent_user_id": "U038WP8PLUA"
+    },
+    {
+        "client_msg_id": "e5e4494b-aed8-4fc5-9d19-7eb6757eaf8c",
+        "type": "message",
+        "text": "Trying to quantify the worth of these. Speaker line up is good but we know what we going for... Are the efforts around networking good?",
+        "user": "U038WP8PLUA",
+        "ts": "1649437571.900569",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5b79b0c594ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-18\/3406932600996_5b79b0c594ac7aefcab5_72.jpg",
+            "first_name": "Guru",
+            "real_name": "Guru Prasanna",
+            "display_name": "guru",
+            "team": "T02PFK13YLC",
+            "name": "guruprasanna.projects",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wzB\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Trying to quantify the worth of these. Speaker line up is good but we know what we going for... Are the efforts around networking good?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649339445.800309",
+        "parent_user_id": "U038WP8PLUA"
+    },
+    {
+        "client_msg_id": "3e819364-de1e-4201-a642-c0488b4b7b27",
+        "type": "message",
+        "text": "Welcome <@U039L0HCSHW> :congratulations:",
+        "user": "U038WP8PLUA",
+        "ts": "1649437587.452969",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5b79b0c594ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-18\/3406932600996_5b79b0c594ac7aefcab5_72.jpg",
+            "first_name": "Guru",
+            "real_name": "Guru Prasanna",
+            "display_name": "guru",
+            "team": "T02PFK13YLC",
+            "name": "guruprasanna.projects",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uY2OU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U039L0HCSHW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "congratulations"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649395842.297539",
+        "parent_user_id": "U039L0HCSHW",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U039L0HCSHW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

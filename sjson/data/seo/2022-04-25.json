@@ -1,0 +1,255 @@
+[
+    {
+        "client_msg_id": "0ad3a6c5-e8b1-462b-803c-1b72607ba2e1",
+        "type": "message",
+        "text": "Hey <@U031QKGPNRK>, there are multiple concerns and also my question was pretty vague.\n\nRe: reservations - I was researching about that on the internet but I was not able to find the case studies. Basically something on the lines how someone implemented and how that pan out for them so was skeptical.\n\nAnother thing that I wanted to understand is how it can get translated to demand generation. I got a detailed feedback on my thought process from OG <@U02USELSBRT>.",
+        "user": "U03208N6E2G",
+        "ts": "1650880105.921359",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bd76f53b10f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-07\/3051373776711_bd76f53b10f5a38172a1_72.jpg",
+            "first_name": "Prasad",
+            "real_name": "Prasad Lingawar",
+            "display_name": "Prasad Lingawar",
+            "team": "T02PFK13YLC",
+            "name": "prasad.lingawar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CPTx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U031QKGPNRK"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", there are multiple concerns and also my question was pretty vague.\n\nRe: reservations - I was researching about that on the internet but I was not able to find the case studies. Basically something on the lines how someone implemented and how that pan out for them so was skeptical.\n\nAnother thing that I wanted to understand is how it can get translated to demand generation. I got a detailed feedback on my thought process from OG "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02USELSBRT"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650448725.671689",
+        "parent_user_id": "U03208N6E2G",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U031QKGPNRK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6df3ca83-f48e-4c9e-825d-83dccfd0f680",
+        "type": "message",
+        "text": "You are on your way then :slightly_smiling_face:. Aniruddh is really good at understand thinking models and helping contextually. Glad you were open to feedback. As you look to try out the model itself with your own content and need feedback on i, feel free to reach out to me. will try my best to help. cheers",
+        "user": "U031QKGPNRK",
+        "ts": "1650880625.520849",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v1y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You are on your way then "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Aniruddh is really good at understand thinking models and helping contextually. Glad you were open to feedback. As you look to try out the model itself with your own content and need feedback on i, feel free to reach out to me. will try my best to help. cheers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650448725.671689",
+        "parent_user_id": "U03208N6E2G"
+    },
+    {
+        "client_msg_id": "69ed06d3-8807-4c4e-910e-cdfdf2dff79e",
+        "type": "message",
+        "text": "Sure thing <@U031QKGPNRK>!",
+        "user": "U03208N6E2G",
+        "ts": "1650880690.572409",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bd76f53b10f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-07\/3051373776711_bd76f53b10f5a38172a1_72.jpg",
+            "first_name": "Prasad",
+            "real_name": "Prasad Lingawar",
+            "display_name": "Prasad Lingawar",
+            "team": "T02PFK13YLC",
+            "name": "prasad.lingawar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U\/KBX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure thing "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U031QKGPNRK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650448725.671689",
+        "parent_user_id": "U03208N6E2G"
+    },
+    {
+        "client_msg_id": "874258f9-c212-41ba-80d1-0feb261517e8",
+        "type": "message",
+        "text": "<@U03C4NNJWGK>, do let me know too if it works.",
+        "user": "U038F88AS0N",
+        "ts": "1650945261.476859",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4d61edd236cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-25\/3293951216915_4d61edd236cc03311be9_72.jpg",
+            "first_name": "Akash",
+            "real_name": "Akash Yadav",
+            "display_name": "Aakash",
+            "team": "T02PFK13YLC",
+            "name": "akash290",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U038F88AS0N",
+            "ts": "1650945270.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zjA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03C4NNJWGK"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", do let me know too if it works."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650689700.804379",
+        "parent_user_id": "U038F88AS0N"
+    },
+    {
+        "client_msg_id": "e6cfabde-67ac-44f4-b299-c271581fa9bb",
+        "type": "message",
+        "text": "<@U038F88AS0N> today in project dashboard it showed me one indexed url with proof. But when I checked via site search in incognito mode, its not indexed. Now waiting to see what happens with other 8 urls.",
+        "user": "U03C4NNJWGK",
+        "ts": "1650948335.267919",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "552a262ea031",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-19\/3436512969744_552a262ea031d186cba3_72.jpg",
+            "first_name": "Tejas",
+            "real_name": "Tejas Rane",
+            "display_name": "Tejas Rane",
+            "team": "T02PFK13YLC",
+            "name": "tejas3732",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OU6Ai",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U038F88AS0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " today in project dashboard it showed me one indexed url with proof. But when I checked via site search in incognito mode, its not indexed. Now waiting to see what happens with other 8 urls."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650689700.804379",
+        "parent_user_id": "U038F88AS0N"
+    }
+]

@@ -1,0 +1,266 @@
+[
+    {
+        "client_msg_id": "b8ba3149-fd49-40d2-ad9a-4d1f82c04b21",
+        "type": "message",
+        "text": "has anyone here used reddit ads successfully?",
+        "user": "U031KD0PNTX",
+        "ts": "1650611507.974679",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "d8e3a1cc6ed8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3305635315237_d8e3a1cc6ed88c5c929a_72.jpg",
+            "first_name": "Anand",
+            "real_name": "Anand",
+            "display_name": "theanand",
+            "team": "T02PFK13YLC",
+            "name": "anand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+TF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "has anyone here used reddit ads successfully?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650611507.974679",
+        "reply_count": 8,
+        "reply_users_count": 4,
+        "latest_reply": "1650815276.661369",
+        "reply_users": [
+            "U02USELSBRT",
+            "U031KD0PNTX",
+            "U031NC9B67L",
+            "U0316K76612"
+        ],
+        "replies": [
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650611620.264179"
+            },
+            {
+                "user": "U031KD0PNTX",
+                "ts": "1650613475.152949"
+            },
+            {
+                "user": "U031NC9B67L",
+                "ts": "1650694810.315829"
+            },
+            {
+                "user": "U0316K76612",
+                "ts": "1650706950.501089"
+            },
+            {
+                "user": "U031NC9B67L",
+                "ts": "1650784083.828799"
+            },
+            {
+                "user": "U0316K76612",
+                "ts": "1650808849.573379"
+            },
+            {
+                "user": "U031NC9B67L",
+                "ts": "1650815085.694109"
+            },
+            {
+                "user": "U0316K76612",
+                "ts": "1650815276.661369"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "3b1a341f-fef6-4415-8ce7-67e04c79771a",
+        "type": "message",
+        "text": "i like the 'successfully' part, you immediately disqualified me from answering :smile:",
+        "user": "U02USELSBRT",
+        "ts": "1650611620.264179",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02USELSBRT",
+            "ts": "1650611631.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uOh4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i like the 'successfully' part, you immediately disqualified me from answering "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650611507.974679",
+        "parent_user_id": "U031KD0PNTX",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U035SL5MWPM",
+                    "U030SDYNX7V",
+                    "U031BVBGHCK",
+                    "U030ZR9D0FK",
+                    "U030N8RHURZ",
+                    "U031KD0PNTX",
+                    "U02VAPDACUQ",
+                    "U0362R42317",
+                    "U038V229WRZ",
+                    "U033QDFML74"
+                ],
+                "count": 10
+            }
+        ]
+    },
+    {
+        "client_msg_id": "97ae4c0f-62ca-4c9f-a784-cf2e4767c3a9",
+        "type": "message",
+        "text": "Glad to have company, I have been trying and failing at Reddit ads everytime I start a new role!",
+        "user": "U031KD0PNTX",
+        "ts": "1650613475.152949",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "d8e3a1cc6ed8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3305635315237_d8e3a1cc6ed88c5c929a_72.jpg",
+            "first_name": "Anand",
+            "real_name": "Anand",
+            "display_name": "theanand",
+            "team": "T02PFK13YLC",
+            "name": "anand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yXL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Glad to have company, I have been trying and failing at Reddit ads everytime I start a new role!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650611507.974679",
+        "parent_user_id": "U031KD0PNTX",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "517F5755-C5B5-4275-B5E0-23D32F7678D0",
+        "type": "message",
+        "text": "Okay here is my experience. I've parallelly tried Reddit ads for 3 personas HRs, Designers, app dev and engineers. \n\nReddit launched a feature to place our ads in between conversations. We picked the right sub topics and served this ads for few months. Engineers and designer personas were working way better than HR. Then went Ahrefs and checked traffic movements for the sub reddits we are targeting. Then based on keywords ranking for these subReddits seperated the adsets and increased budget. \n\nAnd also for one event we ran sub Reddit take over on us and Uk. Which is so cheap compared to Twitter and YouTube take over. Got some really good visits for lesser cpm. \n",
+        "user": "U031NC9B67L",
+        "ts": "1650694810.315829",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c161f35b6650",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-04\/3041804299015_c161f35b665084316187_72.jpg",
+            "first_name": "Shiyam",
+            "real_name": "Shiyam",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "shiyamsunderj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uXYzL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay here is my experience. I've parallelly tried Reddit ads for 3 personas HRs, Designers, app dev and engineers. \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Reddit launched a feature to place our ads in between conversations. We picked the right sub topics and served this ads for few months. Engineers and designer personas were working way better than HR. Then went Ahrefs and checked traffic movements for the sub reddits we are targeting. Then based on keywords ranking for these subReddits seperated the adsets and increased budget. \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "And also for one event we ran sub Reddit take over on us and Uk. Which is so cheap compared to Twitter and YouTube take over. Got some really good visits for lesser cpm. \n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650611507.974679",
+        "parent_user_id": "U031KD0PNTX",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U031KD0PNTX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

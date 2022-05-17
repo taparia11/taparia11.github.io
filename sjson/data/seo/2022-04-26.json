@@ -1,0 +1,338 @@
+[
+    {
+        "client_msg_id": "fdfc7bea-d7e8-44a8-9b5d-b2c24ea1ccf7",
+        "type": "message",
+        "text": "Update <@U02VA7QD8UB> and <@U038F88AS0N>\n\nI would not recommend this tool at all.\n\nCurrently it shows me 3 URLs indexed with some kind of fake proof.\n\nInfact, none of the URLs are indexed. I have contacted their support. Don't buy this tool. $49 would go in vain.\n\n<@U02VA7QD8UB>  I don't know why you recommended, but its not working for me. I will see if I get a refund or not. I knew this indexing tools are a good way to scam people. Any smart SEO marketer can catch that lie. If someone has knowledge on how indexing, crawling works, they won't buy such tools.\n\nYou can read this post -&gt; <https:\/\/www.blackhatworld.com\/seo\/99-of-indexing-services-are-a-scam.1121676\/>\n\nThese services should send Google spider to your sites. But this guy had hosted his own nginx server\/google-spider logs. None of them got it.\n\nIMO, Indexing services stopped working from 2018ish something.",
+        "user": "U03C4NNJWGK",
+        "ts": "1650972965.235909",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "552a262ea031",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-19\/3436512969744_552a262ea031d186cba3_72.jpg",
+            "first_name": "Tejas",
+            "real_name": "Tejas Rane",
+            "display_name": "Tejas Rane",
+            "team": "T02PFK13YLC",
+            "name": "tejas3732",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03C4NNJWGK",
+            "ts": "1650973158.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wW6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Update "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02VA7QD8UB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U038F88AS0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI would not recommend this tool at all.\n\nCurrently it shows me 3 URLs indexed with some kind of fake proof.\n\nInfact, none of the URLs are indexed. I have contacted their support. Don't buy this tool. $49 would go in vain.\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02VA7QD8UB"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  I don't know why you recommended, but its not working for me. I will see if I get a refund or not. I knew this indexing tools are a good way to scam people. Any smart SEO marketer can catch that lie. If someone has knowledge on how indexing, crawling works, they won't buy such tools.\n\nYou can read this post -> "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.blackhatworld.com\/seo\/99-of-indexing-services-are-a-scam.1121676\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThese services should send Google spider to your sites. But this guy had hosted his own nginx server\/google-spider logs. None of them got it.\n\nIMO, Indexing services stopped working from 2018ish something."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650689700.804379",
+        "parent_user_id": "U038F88AS0N"
+    },
+    {
+        "client_msg_id": "01e7f275-8a12-499f-bc1c-4e17bb194b75",
+        "type": "message",
+        "text": "<@U02UTKLHSTW>",
+        "user": "U0316K76612",
+        "ts": "1650977549.814459",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "3d8cd7ed21c1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-02\/3067243283408_3d8cd7ed21c19b96a8fb_72.png",
+            "first_name": "Ishaan",
+            "real_name": "Ishaan Shakunt",
+            "display_name": "Ishaan Shakunt",
+            "team": "T02PFK13YLC",
+            "name": "ishaan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "srWb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02UTKLHSTW"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650689700.804379",
+        "parent_user_id": "U038F88AS0N"
+    },
+    {
+        "client_msg_id": "58d4c208-e12a-403a-97c3-87f0c9c9411f",
+        "type": "message",
+        "text": "Hi <@U03C4NNJWGK>, thank you for your help.",
+        "user": "U038F88AS0N",
+        "ts": "1650997257.695439",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4d61edd236cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-25\/3293951216915_4d61edd236cc03311be9_72.jpg",
+            "first_name": "Akash",
+            "real_name": "Akash Yadav",
+            "display_name": "Aakash",
+            "team": "T02PFK13YLC",
+            "name": "akash290",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3dt0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03C4NNJWGK"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", thank you for your help."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650689700.804379",
+        "parent_user_id": "U038F88AS0N"
+    },
+    {
+        "type": "message",
+        "text": "\"Discovered but not indexed\"~ a lot of folk have been complaining about this indexation issue for quite sometime. We were also facing the same issue but recently we did something that got most of our webpages indexed.\n\nWe were particularly a new website, and this indexation issue got resolved after we made the following changes and maintained the following practises:-\n1. Added our business address, contact details in the footer,\n2. Added a privacy policy page.\n3. Increased the no of webpages.\n4. Consistently created unique content.\n5. Made sure our website is technically healthy(basic tech seo hygiene)\nDoing this not only got most of our webpages indexed but also increased our daily impressions and clicks by 2x.\n\nOur website: <https:\/\/speargrowth.com\/>\n\nP.S- This worked for us given our situation.",
+        "files": [
+            {
+                "id": "F03CP0G3TST",
+                "created": 1651041464,
+                "timestamp": 1651041464,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02UTKLHSTW",
+                "editable": false,
+                "size": 51805,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03CP0G3TST\/image.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03CP0G3TST\/download\/image.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CP0G3TST-5dae226423\/image_64.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CP0G3TST-5dae226423\/image_80.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CP0G3TST-5dae226423\/image_360.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 360,
+                "thumb_360_h": 130,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CP0G3TST-5dae226423\/image_480.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 480,
+                "thumb_480_h": 173,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CP0G3TST-5dae226423\/image_160.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CP0G3TST-5dae226423\/image_720.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720_w": 720,
+                "thumb_720_h": 259,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CP0G3TST-5dae226423\/image_800.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_800_w": 800,
+                "thumb_800_h": 288,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CP0G3TST-5dae226423\/image_960.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_960_w": 960,
+                "thumb_960_h": 345,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CP0G3TST-5dae226423\/image_1024.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 368,
+                "original_w": 2037,
+                "original_h": 733,
+                "thumb_tiny": "AwARADDRxzS4o6DNQmaXtCfxoE3YmIz0OKQKc8tn8KgMtx2j\/Sm77n0P\/fNAuZFo4HU0cHoc1SkE0mN6k46cVJaoyuxZSOKBc2uxZFLSCloLCiiigAooooA\/\/9k=",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U02UTKLHSTW\/F03CP0G3TST\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03CP0G3TST-c4e1b1a8dc",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02UTKLHSTW",
+        "display_as_bot": false,
+        "ts": "1651041855.920119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jwP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Discovered but not indexed\"~ a lot of folk have been complaining about this indexation issue for quite sometime. We were also facing the same issue but recently we did something that got most of our webpages indexed.\n\nWe were particularly a new website, and this indexation issue got resolved after we made the following changes and maintained the following practises:-\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Added our business address, contact details in the footer,"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Added a privacy policy page."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Increased the no of webpages."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Consistently created unique content."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Made sure our website is technically healthy(basic tech seo hygiene)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nDoing this not only got most of our webpages indexed but also increased our daily impressions and clicks by 2x.\n\nOur website: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/speargrowth.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nP.S- This worked for us given our situation."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U02UTKLHSTW",
+            "ts": "1651123011.000000"
+        },
+        "client_msg_id": "ec42fd19-8675-4797-8f8d-c2ccaa472dbc",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U030SDYNX7V",
+                    "U02PDC4883V",
+                    "U032MN1BESJ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U0316K76612",
+                    "U02V991KYHZ"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

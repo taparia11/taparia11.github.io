@@ -1,0 +1,1519 @@
+[
+    {
+        "client_msg_id": "88662695-dcf3-44ff-949b-3fe49d8374e1",
+        "type": "message",
+        "text": "Hello Everyone,\n\nTejas here from Mumbai. Recently I left my SEO Growth lead job at Donorbox (One of the top fundraising platform for nonprofits in the World) to pursue entrepreneurship.\n\nI have published 2 books (Quorific - This one is on Quora Marketing), SaaS SEO Guide. Currently I am building <http:\/\/Affiliatecorner.co|Affiliatecorner.co> (A data-driven solution for affiliate marketers to help eliminate their confusion). Started pre-orders yesterday.\n\nI consider myself T-shaped marketer focused in SEO Growth.\n\nOutside of my profession:\n• I love travelling. Recently visited Kashmir (2nd time). Yet to travel internationally :airplane:\n• Love trekking and mountains. Therefore Mountains over beaches.\n• Like Old bollywood music and I can sing too :smile: \n• You can find me playing chess in the meantime.\nLove to be a part of this group. I can see many familiar faces here already. Rahul Rajvanshi, Abhash, Ankit Prakash and many more.\n\nWould love to connect and learn from you all :slightly_smiling_face:",
+        "user": "U03C4NNJWGK",
+        "ts": "1650461190.068199",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "552a262ea031",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-19\/3436512969744_552a262ea031d186cba3_72.jpg",
+            "first_name": "Tejas",
+            "real_name": "Tejas Rane",
+            "display_name": "Tejas Rane",
+            "team": "T02PFK13YLC",
+            "name": "tejas3732",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q1F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Everyone,\n\nTejas here from Mumbai. Recently I left my SEO Growth lead job at Donorbox (One of the top fundraising platform for nonprofits in the World) to pursue entrepreneurship.\n\nI have published 2 books (Quorific - This one is on Quora Marketing), SaaS SEO Guide. Currently I am building "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Affiliatecorner.co",
+                                "text": "Affiliatecorner.co"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (A data-driven solution for affiliate marketers to help eliminate their confusion). Started pre-orders yesterday.\n\nI consider myself T-shaped marketer focused in SEO Growth.\n\nOutside of my profession:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I love travelling. Recently visited Kashmir (2nd time). Yet to travel internationally "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "airplane"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Love trekking and mountains. Therefore Mountains over beaches."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Like Old bollywood music and I can sing too "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "smile"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "You can find me playing chess in the meantime."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nLove to be a part of this group. I can see many familiar faces here already. Rahul Rajvanshi, Abhash, Ankit Prakash and many more.\n\nWould love to connect and learn from you all "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650461190.068199",
+        "reply_count": 7,
+        "reply_users_count": 5,
+        "latest_reply": "1650550480.052339",
+        "reply_users": [
+            "U02TTEFFU6B",
+            "U02PDC4883V",
+            "U03C4NNJWGK",
+            "U02V9QUDK1Q",
+            "U03AQFPP9BL"
+        ],
+        "replies": [
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1650462529.230089"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650464856.096779"
+            },
+            {
+                "user": "U03C4NNJWGK",
+                "ts": "1650464888.293249"
+            },
+            {
+                "user": "U02V9QUDK1Q",
+                "ts": "1650465134.146959"
+            },
+            {
+                "user": "U03C4NNJWGK",
+                "ts": "1650465531.983449"
+            },
+            {
+                "user": "U03AQFPP9BL",
+                "ts": "1650532729.025419"
+            },
+            {
+                "user": "U03C4NNJWGK",
+                "ts": "1650550480.052339"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1650550480.052339",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U031KD0PNTX",
+                    "U0316818QSH",
+                    "U039FQ2SNNN",
+                    "U02PDC4883V",
+                    "U02V9QUDK1Q",
+                    "U02ULCHDGB0",
+                    "U0380S2BZ9A",
+                    "U02VA7QD8UB",
+                    "U02U6FZRHRV",
+                    "U0325QQQALR",
+                    "U02UJBHEQVA",
+                    "U03AQFPP9BL",
+                    "U038V229WRZ"
+                ],
+                "count": 13
+            },
+            {
+                "name": "wave::skin-tone-4",
+                "users": [
+                    "U02TTEFFU6B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02V9QUDK1Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ca94221e-e185-4193-bf1f-79e8d51a23a5",
+        "type": "message",
+        "text": "Welcome to the happiest place in SaaS, Tejas.",
+        "user": "U02TTEFFU6B",
+        "ts": "1650462529.230089",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vNWUJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome to the happiest place in SaaS, Tejas."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650461190.068199",
+        "parent_user_id": "U03C4NNJWGK",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03C4NNJWGK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e511fd0d-fd3d-4685-b8fe-13a2fdeabc08",
+        "type": "message",
+        "text": "Welcome to the community Tejas!!!",
+        "user": "U02PDC4883V",
+        "ts": "1650464856.096779",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nBu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome to the community Tejas!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650461190.068199",
+        "parent_user_id": "U03C4NNJWGK"
+    },
+    {
+        "client_msg_id": "e3b3fc81-3475-4250-b4d7-ffdb731a1e2e",
+        "type": "message",
+        "text": "Thank you so much.",
+        "user": "U03C4NNJWGK",
+        "ts": "1650464888.293249",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "552a262ea031",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-19\/3436512969744_552a262ea031d186cba3_72.jpg",
+            "first_name": "Tejas",
+            "real_name": "Tejas Rane",
+            "display_name": "Tejas Rane",
+            "team": "T02PFK13YLC",
+            "name": "tejas3732",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kym",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you so much."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650461190.068199",
+        "parent_user_id": "U03C4NNJWGK"
+    },
+    {
+        "client_msg_id": "46da7b9b-b2f2-4136-a8a0-9c34a9602fae",
+        "type": "message",
+        "text": "Good to see you here, Tejas :raised_hands::skin-tone-4:",
+        "user": "U02V9QUDK1Q",
+        "ts": "1650465134.146959",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8140d54c5a70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2981230435879_8140d54c5a7085ca9412_72.jpg",
+            "first_name": "Abhash",
+            "real_name": "Abhash Kumar",
+            "display_name": "Abhash",
+            "team": "T02PFK13YLC",
+            "name": "abhash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g0JiS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good to see you here, Tejas "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "skin_tone": 4
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650461190.068199",
+        "parent_user_id": "U03C4NNJWGK",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03C4NNJWGK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6baf8b29-50b0-4e4e-a05e-b7df99b12ada",
+        "type": "message",
+        "text": "Thanks Abhash",
+        "user": "U03C4NNJWGK",
+        "ts": "1650465531.983449",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "552a262ea031",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-19\/3436512969744_552a262ea031d186cba3_72.jpg",
+            "first_name": "Tejas",
+            "real_name": "Tejas Rane",
+            "display_name": "Tejas Rane",
+            "team": "T02PFK13YLC",
+            "name": "tejas3732",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Be3EL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Abhash"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650461190.068199",
+        "parent_user_id": "U03C4NNJWGK"
+    },
+    {
+        "client_msg_id": "0892DB64-BA6F-4C8F-9A25-1FA7C2DEDA52",
+        "type": "message",
+        "text": "Hello All,\n\nHimanshu here building a No-code platform(B2B SAAS) Grorapid, for Early stage marketers and founders to go live with campaigns or simple use cases via Premade Marketing recipes with no hassle of integrations and stiching things together. \n\nCurrently Platform is in early stages with recipes like Webinar promotion, Starting a newsletter, Festival Email sequences etc.\n\nI have been a Software engineer, Product manager and now founder who loves No-code, Low-code and likes to code too. Struggles have been towards Product marketing and this community seems a best fit to learn from great minds here in SAAS space. \n\nCan contribute in conversations around NoCode tools and integrations, Activecampaign, Hubspot, MarketingOps and engineering problems as well.\n\nHave been following <@U02TTEFFU6B> and <@U02V9QUDK1Q> on Linkedin from long time, looking forward to more awesome content from #s11 community :grin::grin:\n",
+        "user": "U0303ANJV8R",
+        "ts": "1650468315.888919",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7548188dea9d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-21\/2990752921779_7548188dea9dc07b07a0_72.jpg",
+            "first_name": "Himanshu",
+            "real_name": "Himanshu Gupta",
+            "display_name": "Himanshu Gupta",
+            "team": "T02PFK13YLC",
+            "name": "himanshu30.dce",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I4fS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello All,\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Himanshu here building a No-code platform(B2B SAAS) Grorapid, for Early stage marketers and founders to go live with campaigns or simple use cases via Premade Marketing recipes with no hassle of integrations and stiching things together. \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Currently Platform is in early stages with recipes like Webinar promotion, Starting a newsletter, Festival Email sequences etc.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "I have been a Software engineer, Product manager and now founder who loves No-code, Low-code and likes to code too. Struggles have been towards Product marketing and this community seems a best fit to learn from great minds here in SAAS space. \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Can contribute in conversations around NoCode tools and integrations, Activecampaign, Hubspot, MarketingOps and engineering problems as well.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Have been following "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02TTEFFU6B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02V9QUDK1Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on Linkedin from long time, looking forward to more awesome content from #s11 community "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650468315.888919",
+        "reply_count": 9,
+        "reply_users_count": 7,
+        "latest_reply": "1650532752.461179",
+        "reply_users": [
+            "U02TTEFFU6B",
+            "U0303ANJV8R",
+            "U03C4NNJWGK",
+            "U02PDC4883V",
+            "U02UGB8DERY",
+            "U0316818QSH",
+            "U03AQFPP9BL"
+        ],
+        "replies": [
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1650468462.046679"
+            },
+            {
+                "user": "U0303ANJV8R",
+                "ts": "1650468644.971059"
+            },
+            {
+                "user": "U03C4NNJWGK",
+                "ts": "1650469020.744979"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650469789.872579"
+            },
+            {
+                "user": "U02UGB8DERY",
+                "ts": "1650470176.317319"
+            },
+            {
+                "user": "U0303ANJV8R",
+                "ts": "1650471934.396659"
+            },
+            {
+                "user": "U0303ANJV8R",
+                "ts": "1650471967.459269"
+            },
+            {
+                "user": "U0316818QSH",
+                "ts": "1650473785.188579"
+            },
+            {
+                "user": "U03AQFPP9BL",
+                "ts": "1650532752.461179"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1650532752.461179",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U039FQ2SNNN",
+                    "U038W1678JX",
+                    "U02V9QUDK1Q",
+                    "U02PDC4883V",
+                    "U02ULCHDGB0",
+                    "U02USELSBRT",
+                    "U031KD0PNTX",
+                    "U030SDYNX7V",
+                    "U02U6FZRHRV",
+                    "U0380S2BZ9A",
+                    "U0325QQQALR",
+                    "U032AUA6KFV",
+                    "U02UJBHEQVA"
+                ],
+                "count": 13
+            },
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U02TTEFFU6B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02V9QUDK1Q",
+                    "U03C4NNJWGK",
+                    "U02PDC4883V",
+                    "U02ULCHDGB0",
+                    "U03AQFPP9BL"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "09431385-b573-41aa-abf0-5db0ab2d64d1",
+        "type": "message",
+        "text": "Hey Himanshu. Welcome :raised_hands::skin-tone-4:\n\nThe product sounds awesome.",
+        "user": "U02TTEFFU6B",
+        "ts": "1650468462.046679",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tyN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Himanshu. Welcome "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "skin_tone": 4
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThe product sounds awesome."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650468315.888919",
+        "parent_user_id": "U0303ANJV8R"
+    },
+    {
+        "client_msg_id": "8c1c31dc-6d6e-4986-8ed1-ec1c7b43e84c",
+        "type": "message",
+        "text": "Thanks a lot <@U02TTEFFU6B>. Any type of feedback is welcome :raised_hands:",
+        "user": "U0303ANJV8R",
+        "ts": "1650468644.971059",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7548188dea9d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-21\/2990752921779_7548188dea9dc07b07a0_72.jpg",
+            "first_name": "Himanshu",
+            "real_name": "Himanshu Gupta",
+            "display_name": "Himanshu Gupta",
+            "team": "T02PFK13YLC",
+            "name": "himanshu30.dce",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ood=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks a lot "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02TTEFFU6B"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Any type of feedback is welcome "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650468315.888919",
+        "parent_user_id": "U0303ANJV8R"
+    },
+    {
+        "client_msg_id": "a3a0f7d7-a2e4-4aea-b8c6-4e8b5f7d470d",
+        "type": "message",
+        "text": "Welcome Himanshu. Your product idea looks quite interesting.",
+        "user": "U03C4NNJWGK",
+        "ts": "1650469020.744979",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "552a262ea031",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-19\/3436512969744_552a262ea031d186cba3_72.jpg",
+            "first_name": "Tejas",
+            "real_name": "Tejas Rane",
+            "display_name": "Tejas Rane",
+            "team": "T02PFK13YLC",
+            "name": "tejas3732",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cjku",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome Himanshu. Your product idea looks quite interesting."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650468315.888919",
+        "parent_user_id": "U0303ANJV8R"
+    },
+    {
+        "client_msg_id": "8e5c861c-3a95-4d5b-bf1b-791551b5838d",
+        "type": "message",
+        "text": "Welcome Himanshu!",
+        "user": "U02PDC4883V",
+        "ts": "1650469789.872579",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dTCMw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome Himanshu!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650468315.888919",
+        "parent_user_id": "U0303ANJV8R"
+    },
+    {
+        "client_msg_id": "65962a6e-c647-495f-8bd6-a9f93f5112d2",
+        "type": "message",
+        "text": "Hey Himanshi \nI am a venture scout for <http:\/\/CalmFund.com|CalmFund.com> would love to talk",
+        "user": "U02UGB8DERY",
+        "ts": "1650470176.317319",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4cda10dd85c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2962250036230_4cda10dd85c264b66a43_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Rajvanshi",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rahulrajvanshi2501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iH2i8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Himanshi \nI am a venture scout for "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/CalmFund.com",
+                                "text": "CalmFund.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " would love to talk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650468315.888919",
+        "parent_user_id": "U0303ANJV8R"
+    },
+    {
+        "client_msg_id": "678E233A-3954-4035-8B23-75DBE6AFC981",
+        "type": "message",
+        "text": "Thanks Tejas and Siddharth. ",
+        "user": "U0303ANJV8R",
+        "ts": "1650471934.396659",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7548188dea9d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-21\/2990752921779_7548188dea9dc07b07a0_72.jpg",
+            "first_name": "Himanshu",
+            "real_name": "Himanshu Gupta",
+            "display_name": "Himanshu Gupta",
+            "team": "T02PFK13YLC",
+            "name": "himanshu30.dce",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wWuX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Tejas and Siddharth. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650468315.888919",
+        "parent_user_id": "U0303ANJV8R"
+    },
+    {
+        "client_msg_id": "B343DF02-F47C-4CAD-9C87-5AC5A08FA487",
+        "type": "message",
+        "text": "<@U02UGB8DERY> Sounds interesting. DMing you :grin:",
+        "user": "U0303ANJV8R",
+        "ts": "1650471967.459269",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7548188dea9d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-21\/2990752921779_7548188dea9dc07b07a0_72.jpg",
+            "first_name": "Himanshu",
+            "real_name": "Himanshu Gupta",
+            "display_name": "Himanshu Gupta",
+            "team": "T02PFK13YLC",
+            "name": "himanshu30.dce",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2iDz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02UGB8DERY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Sounds interesting. DMing you "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650468315.888919",
+        "parent_user_id": "U0303ANJV8R"
+    },
+    {
+        "client_msg_id": "cda11534-fcd0-4633-931e-32f7876ea2aa",
+        "type": "message",
+        "text": "Welcome <@U0303ANJV8R> :wave:",
+        "user": "U0316818QSH",
+        "ts": "1650473785.188579",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "090938b018e1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-02\/3036528451222_090938b018e15bc75fd7_72.png",
+            "first_name": "Rohit",
+            "real_name": "Rohit",
+            "display_name": "Rohit",
+            "team": "T02PFK13YLC",
+            "name": "intro.rohit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hu8Ow",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0303ANJV8R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650468315.888919",
+        "parent_user_id": "U0303ANJV8R",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U0303ANJV8R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "39893998-2285-4b14-a258-76d5b8b71bba",
+        "type": "message",
+        "text": "Hi all :wave: Dave Rigotti here. <https:\/\/www.linkedin.com\/in\/daverigotti\/> I ran marketing at Bizible and then after we were acquired by Marketo I spent 2 years running marketing teams at Marketo. Our new startup - <http:\/\/inflection.io|inflection.io> - which is marketing automation for product-led companies and we have a great team across India and US. We'll soon be announcing our raise and unveiling the product. If you're interested in learning more, let me know!",
+        "user": "U03CACT0VRR",
+        "ts": "1650501560.422949",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c26e9a075b77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-20\/3411775546246_c26e9a075b7739f3f6ac_72.png",
+            "first_name": "Dave",
+            "real_name": "Dave Rigotti",
+            "display_name": "Dave Rigotti",
+            "team": "T02PFK13YLC",
+            "name": "daverigotti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lpu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Dave Rigotti here. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/daverigotti\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I ran marketing at Bizible and then after we were acquired by Marketo I spent 2 years running marketing teams at Marketo. Our new startup - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/inflection.io",
+                                "text": "inflection.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - which is marketing automation for product-led companies and we have a great team across India and US. We'll soon be announcing our raise and unveiling the product. If you're interested in learning more, let me know!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650501560.422949",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1650518363.196449",
+        "reply_users": [
+            "U02PDC4883V",
+            "U02TTEFFU6B",
+            "U031QKGPNRK",
+            "U02U6FZRHRV"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650504864.919939"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1650506313.898679"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1650510406.875069"
+            },
+            {
+                "user": "U02U6FZRHRV",
+                "ts": "1650518363.196449"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1650518363.196449",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U030E27CBB3",
+                    "U02VA7QD8UB",
+                    "U03CACT0VRR",
+                    "U02UJBHEQVA",
+                    "U03C4NNJWGK",
+                    "U02UHQYEF70",
+                    "U03560PQ082",
+                    "U032AUA6KFV",
+                    "U02U6FZRHRV",
+                    "U02V9QUDK1Q",
+                    "U0380S2BZ9A",
+                    "U0379TDK6NM",
+                    "U031P3UUGN4",
+                    "U02PDC4883V",
+                    "U03AQFPP9BL",
+                    "U02UY3EPQDA",
+                    "U0325QQQALR"
+                ],
+                "count": 17
+            },
+            {
+                "name": "wave::skin-tone-3",
+                "users": [
+                    "U031QKGPNRK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "wave::skin-tone-5",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02UFNZS7NW",
+                    "U02UHQYEF70",
+                    "U03560PQ082",
+                    "U03BJ320MPB",
+                    "U02V9QUDK1Q",
+                    "U03C4NNJWGK",
+                    "U0379TDK6NM",
+                    "U02PDC4883V"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "client_msg_id": "048d9240-5001-42c2-925f-f8f89b45f32d",
+        "type": "message",
+        "text": "Hi Dave! Welcome to the community!",
+        "user": "U02PDC4883V",
+        "ts": "1650504864.919939",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ykx+r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Dave! Welcome to the community!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650501560.422949",
+        "parent_user_id": "U03CACT0VRR",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03CACT0VRR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "334ae1b5-f709-4888-9781-80d90ec33a32",
+        "type": "message",
+        "text": "Hi Dave. Welcome to s11s. Awesome to have you here.",
+        "user": "U02TTEFFU6B",
+        "ts": "1650506313.898679",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SiRk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Dave. Welcome to s11s. Awesome to have you here."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650501560.422949",
+        "parent_user_id": "U03CACT0VRR",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03CACT0VRR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8e5c52d7-1b65-43bb-84ea-e1fa483cf599",
+        "type": "message",
+        "text": "howdy ho <@U03CACT0VRR> Will keenly look forward to the product unveil. Wishing you the best. Welcome to s11s",
+        "user": "U031QKGPNRK",
+        "ts": "1650510406.875069",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wD8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "howdy ho "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CACT0VRR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Will keenly look forward to the product unveil. Wishing you the best. Welcome to s11s"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650501560.422949",
+        "parent_user_id": "U03CACT0VRR",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03CACT0VRR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3a69a06f-f0a3-4892-9ab1-8298de9e1351",
+        "type": "message",
+        "text": "Welcome to s11s <@U03CACT0VRR>. look forward to the product.",
+        "user": "U02U6FZRHRV",
+        "ts": "1650518363.196449",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "51b651e36774",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-19\/2985809793169_51b651e367745f95ba7a_72.png",
+            "first_name": "Nilesh",
+            "real_name": "Nilesh Surana",
+            "display_name": "Nilesh",
+            "team": "T02PFK13YLC",
+            "name": "nileshsurana86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hDXdG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome to s11s "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CACT0VRR"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". look forward to the product."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650501560.422949",
+        "parent_user_id": "U03CACT0VRR",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03CACT0VRR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "358529CE-F9A3-456B-9E8E-FE3EC499CD98",
+        "type": "message",
+        "text": "Hey Guys! My name is Shreya Ananth and I am a content writer and marketer by profession! I am also an Entrepreneur joining hands onto my second startup Prodraft - which is a content agency! I am thrilled to be here today! Have a great day ahead!",
+        "user": "U03CDCJ6W12",
+        "ts": "1650518472.239159",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7edfcf3b60c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-20\/3416201144005_b7edfcf3b60c665cf23a_72.jpg",
+            "first_name": "Shreya",
+            "real_name": "Shreya Ananth",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "shreyaananth77",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jbKC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Guys! My name is Shreya Ananth and I am a content writer and marketer by profession! I am also an Entrepreneur joining hands onto my second startup Prodraft - which is a content agency! I am thrilled to be here today! Have a great day ahead!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650518472.239159",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1650715941.203179",
+        "reply_users": [
+            "U02TTEFFU6B",
+            "U02PDC4883V",
+            "U031QKGPNRK"
+        ],
+        "replies": [
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1650518762.784649"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650529469.698279"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1650715941.203179"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1650715941.203179",
+        "reactions": [
+            {
+                "name": "wave::skin-tone-4",
+                "users": [
+                    "U0362R42317"
+                ],
+                "count": 1
+            },
+            {
+                "name": "wave::skin-tone-5",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02UFNZS7NW",
+                    "U02V9QUDK1Q",
+                    "U02PDC4883V"
+                ],
+                "count": 3
+            },
+            {
+                "name": "wave::skin-tone-3",
+                "users": [
+                    "U03A7KXT45S",
+                    "U031QKGPNRK"
+                ],
+                "count": 2
+            },
+            {
+                "name": "wave",
+                "users": [
+                    "U02UHQYEF70",
+                    "U02V9QUDK1Q",
+                    "U031KD0PNTX",
+                    "U03C4NNJWGK",
+                    "U031P3UUGN4",
+                    "U0380S2BZ9A",
+                    "U02PDC4883V",
+                    "U03AQFPP9BL",
+                    "U02UJBHEQVA",
+                    "U0325QQQALR"
+                ],
+                "count": 10
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cb070585-7522-420f-bb63-5987723d5721",
+        "type": "message",
+        "text": "Welcome here. Content agency! we desperately need a few good ones here.",
+        "user": "U02TTEFFU6B",
+        "ts": "1650518762.784649",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z0\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome here. Content agency! we desperately need a few good ones here."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650518472.239159",
+        "parent_user_id": "U03CDCJ6W12",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CDCJ6W12"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

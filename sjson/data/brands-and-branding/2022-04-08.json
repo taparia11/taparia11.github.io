@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "caeceb37-aa0b-4d38-9c9f-c1764dbd4cf3",
+        "type": "message",
+        "text": "Very nicely done :slightly_smiling_face: Love the authentic feel (with the little Tamil words). It keeps them to the roots yet establishes that they can connect beyond their local boundaries.",
+        "user": "U030ML6FL00",
+        "ts": "1649404685.476219",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "859596675c61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2991355622470_859596675c61a4d1b2c1_72.jpg",
+            "first_name": "Pooja",
+            "real_name": "Pooja Sriram",
+            "display_name": "Pooja Sriram",
+            "team": "T02PFK13YLC",
+            "name": "pooja",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vgt8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Very nicely done "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Love the authentic feel (with the little Tamil words). It keeps them to the roots yet establishes that they can connect beyond their local boundaries."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649394145.052539",
+        "parent_user_id": "U039H3ZSRD3",
+        "reactions": [
+            {
+                "name": "green_heart",
+                "users": [
+                    "U03ANN5FLSX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

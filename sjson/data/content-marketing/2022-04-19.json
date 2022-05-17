@@ -1,0 +1,370 @@
+[
+    {
+        "client_msg_id": "057b01e9-4c63-4ea6-9fa7-4455d3c89f52",
+        "type": "message",
+        "text": "Some great examples of Ungated Interactive\/different ways of presenting an e-book\n\n<https:\/\/hypercontext.com\/state-of-one-on-ones-report>\n\n\n<https:\/\/nurturenow.pathfactory.com\/website-of-the-future\/part-1?utm_source=slack&amp;utm_medium=social-organic&amp;utm_campaign=wotf-ebook&amp;utm_content=wotf-ebook|https:\/\/nurturenow.pathfactory.com\/website-of-the-future\/part-1?utm_source=slack&amp;utm_mediu[…]-organic&amp;utm_campaign=wotf-ebook&amp;utm_content=wotf-ebook>\n\n\nWhat are some similar examples of interactive or different types of content examples you have come across?",
+        "user": "U02UGB8DERY",
+        "ts": "1650416314.332319",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4cda10dd85c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2962250036230_4cda10dd85c264b66a43_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Rajvanshi",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rahulrajvanshi2501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dosvr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Some great examples of Ungated Interactive\/different ways of presenting an e-book\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/hypercontext.com\/state-of-one-on-ones-report"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/nurturenow.pathfactory.com\/website-of-the-future\/part-1?utm_source=slack&utm_medium=social-organic&utm_campaign=wotf-ebook&utm_content=wotf-ebook",
+                                "text": "https:\/\/nurturenow.pathfactory.com\/website-of-the-future\/part-1?utm_source=slack&utm_mediu[…]-organic&utm_campaign=wotf-ebook&utm_content=wotf-ebook"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\nWhat are some similar examples of interactive or different types of content examples you have come across?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650416314.332319",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1650476857.036039",
+        "reply_users": [
+            "U02V5Q7DUPJ",
+            "U02UGB8DERY",
+            "U030E27CBB3",
+            "U03237TNYS3"
+        ],
+        "replies": [
+            {
+                "user": "U02V5Q7DUPJ",
+                "ts": "1650423341.121179"
+            },
+            {
+                "user": "U02UGB8DERY",
+                "ts": "1650423404.250879"
+            },
+            {
+                "user": "U030E27CBB3",
+                "ts": "1650474497.994719"
+            },
+            {
+                "user": "U03237TNYS3",
+                "ts": "1650476857.036039"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02V5Q6P716",
+                    "U03237TNYS3",
+                    "U0361UQSKGQ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7f62ab2b-9a83-47a1-a3c6-2f619ba38ac3",
+        "type": "message",
+        "text": "I wanted to find out something. If you are running a content marketing agency or a content marketing team at an organization where you have to deal with multiple clients or multiple writers or both, how do you manage it? I mean keeping the track of assignments, deadlines, word count, invoices &amp; payouts, reworks, etc. Generally, I have seen people using Excel or Google Sheets and Notion.\n\nDoes anyone do it differently here?",
+        "user": "U039X1ZS1QA",
+        "ts": "1650423179.039629",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "6c0a330ef0bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3334191206165_6c0a330ef0bc71cc5278_72.jpg",
+            "first_name": "Dishant",
+            "real_name": "Dishant Shah",
+            "display_name": "Dishant Shah",
+            "team": "T02PFK13YLC",
+            "name": "adishantshah996",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uce",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I wanted to find out something. If you are running a content marketing agency or a content marketing team at an organization where you have to deal with multiple clients or multiple writers or both, how do you manage it? I mean keeping the track of assignments, deadlines, word count, invoices & payouts, reworks, etc. Generally, I have seen people using Excel or Google Sheets and Notion.\n\nDoes anyone do it differently here?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650423179.039629",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1650474408.443809",
+        "reply_users": [
+            "U03B77PCDNY",
+            "U0318JZUESX",
+            "U033RUXVCAY",
+            "U03BZJ0KK1R",
+            "U030E27CBB3"
+        ],
+        "replies": [
+            {
+                "user": "U03B77PCDNY",
+                "ts": "1650436901.599389"
+            },
+            {
+                "user": "U0318JZUESX",
+                "ts": "1650437695.589839"
+            },
+            {
+                "user": "U033RUXVCAY",
+                "ts": "1650441817.506659"
+            },
+            {
+                "user": "U03BZJ0KK1R",
+                "ts": "1650445759.184399"
+            },
+            {
+                "user": "U030E27CBB3",
+                "ts": "1650474408.443809"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "77A99897-0DC1-4BB1-885C-38A8BCA6E825",
+        "type": "message",
+        "text": "I had created my ebook as an online guide. Hope this helps. But it's gated one. <https:\/\/www.manageengine.com\/log-management\/windows-security-monitoring.html|https:\/\/www.manageengine.com\/log-management\/windows-security-monitoring.html>",
+        "user": "U02V5Q7DUPJ",
+        "ts": "1650423341.121179",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "f5771ec4bf33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2995362345603_f5771ec4bf33479993fa_72.png",
+            "first_name": "Vijay",
+            "real_name": "Vijay Raghav",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "vraghavan009",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02V5Q7DUPJ",
+            "ts": "1650423859.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.manageengine.com\/log-management\/windows-security-monitoring.html",
+                "service_icon": "https:\/\/www.manageengine.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.manageengine.com\/log-management\/windows-security-monitoring.html",
+                "fallback": "Windows auditing 101 - Advanced security and logging usecases for your Windows IT environment",
+                "text": "Since Windows devices can produce vast amounts of data, it is important to first decide on what you need to monitor. So let's take look at the most critical usecases that you need to know in order to protect your network.",
+                "title": "Windows auditing 101 - Advanced security and logging usecases for your Windows IT environment",
+                "title_link": "https:\/\/www.manageengine.com\/log-management\/windows-security-monitoring.html",
+                "service_name": "manageengine.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+QYee",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I had created my ebook as an online guide. Hope this helps. But it's gated one. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.manageengine.com\/log-management\/windows-security-monitoring.html",
+                                "text": "https:\/\/www.manageengine.com\/log-management\/windows-security-monitoring.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650416314.332319",
+        "parent_user_id": "U02UGB8DERY"
+    },
+    {
+        "client_msg_id": "33034f39-194f-407e-9129-d0b2ef49df03",
+        "type": "message",
+        "text": "Nice work <@U02V5Q7DUPJ>",
+        "user": "U02UGB8DERY",
+        "ts": "1650423404.250879",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4cda10dd85c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2962250036230_4cda10dd85c264b66a43_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Rajvanshi",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rahulrajvanshi2501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z\/R8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice work "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02V5Q7DUPJ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650416314.332319",
+        "parent_user_id": "U02UGB8DERY",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02V5Q7DUPJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5629c91d-ed89-4050-af6c-a5098c1ae4b0",
+        "type": "message",
+        "text": "I use google calendar for my tasks. I have used Notion and ClickUp in the past but didnt work well for me. I set a timeline for every task so it is easy to check on the writers.",
+        "user": "U03B77PCDNY",
+        "ts": "1650436901.599389",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9e5ac69cfeb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-15\/3393119759589_9e5ac69cfeb96a6329a1_72.png",
+            "first_name": "SAURABH",
+            "real_name": "SAURABH WANI",
+            "display_name": "SAURABH WANI",
+            "team": "T02PFK13YLC",
+            "name": "saurabh843",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X2Fm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I use google calendar for my tasks. I have used Notion and ClickUp in the past but didnt work well for me. I set a timeline for every task so it is easy to check on the writers."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650423179.039629",
+        "parent_user_id": "U039X1ZS1QA"
+    },
+    {
+        "client_msg_id": "c33e0bb6-73e4-46d4-9bca-77dcd89e9565",
+        "type": "message",
+        "text": "Using Jira in Marketing (too) can help a lot when multiple people are involved. The marketing team at VWO operates in sprints and it's been very smooth",
+        "user": "U0318JZUESX",
+        "ts": "1650437695.589839",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "63c51d4ec23b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-01\/3066368472944_63c51d4ec23bc685fdae_72.png",
+            "first_name": "Siddhartha",
+            "real_name": "Siddhartha Kathpalia",
+            "display_name": "Kattu",
+            "team": "T02PFK13YLC",
+            "name": "siddhartha.kathpalia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0318JZUESX",
+            "ts": "1650437711.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W7i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Using Jira in Marketing (too) can help a lot when multiple people are involved. The marketing team at VWO operates in sprints and it's been very smooth"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650423179.039629",
+        "parent_user_id": "U039X1ZS1QA"
+    }
+]

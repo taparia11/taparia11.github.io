@@ -1,0 +1,117 @@
+[
+    {
+        "type": "message",
+        "text": "Royal Rumble begins:",
+        "files": [
+            {
+                "id": "F03CRQPD27N",
+                "created": 1650776757,
+                "timestamp": 1650776757,
+                "name": "Screenshot_20220424-103546_LinkedIn.jpg",
+                "title": "Screenshot_20220424-103546_LinkedIn.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U02TTEFFU6B",
+                "editable": false,
+                "size": 195662,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03CRQPD27N\/screenshot_20220424-103546_linkedin.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03CRQPD27N\/download\/screenshot_20220424-103546_linkedin.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CRQPD27N-f13c980bda\/screenshot_20220424-103546_linkedin_64.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CRQPD27N-f13c980bda\/screenshot_20220424-103546_linkedin_80.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CRQPD27N-f13c980bda\/screenshot_20220424-103546_linkedin_360.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 168,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CRQPD27N-f13c980bda\/screenshot_20220424-103546_linkedin_480.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 224,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CRQPD27N-f13c980bda\/screenshot_20220424-103546_linkedin_160.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CRQPD27N-f13c980bda\/screenshot_20220424-103546_linkedin_720.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720_w": 336,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CRQPD27N-f13c980bda\/screenshot_20220424-103546_linkedin_800.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1713,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CRQPD27N-f13c980bda\/screenshot_20220424-103546_linkedin_960.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_960_w": 448,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CRQPD27N-f13c980bda\/screenshot_20220424-103546_linkedin_1024.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_1024_w": 478,
+                "thumb_1024_h": 1024,
+                "original_w": 1080,
+                "original_h": 2312,
+                "thumb_tiny": "AwAwABa6hJ3DyyuGPU9ak59Kbg56Gja1ADwO9LSKCBzS0ARnGetHy92NGeegoz7CgBy47GnU1Wyegp1AEZByaAv0\/OnBRk5o2rQAq9OuaWkH0paAP\/\/Z",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U02TTEFFU6B\/F03CRQPD27N\/screenshot_20220424-103546_linkedin.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03CRQPD27N-3bfc232306",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02TTEFFU6B",
+        "display_as_bot": false,
+        "ts": "1650776835.087919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ePeQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Royal Rumble begins:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "683d3134-33f1-42cf-830a-ee71b548af0a",
+        "thread_ts": "1650776835.087919",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650812951.153609",
+        "reply_users": [
+            "U0318JZUESX"
+        ],
+        "replies": [
+            {
+                "user": "U0318JZUESX",
+                "ts": "1650812951.153609"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U033DB58U9E",
+                    "U03560PQ082",
+                    "U039HH3LP43",
+                    "U032NQB0V6X",
+                    "U0323V4CLRY"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1650783084.474229",
+        "user": "U03C8SYJGCF",
+        "text": "<@U03C8SYJGCF> has joined the channel",
+        "inviter": "U03DD6EGPKJ"
+    }
+]

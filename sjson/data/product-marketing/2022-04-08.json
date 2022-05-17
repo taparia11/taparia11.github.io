@@ -1,0 +1,642 @@
+[
+    {
+        "client_msg_id": "5d3418e2-172a-4a95-8dd5-b3d7063e2be9",
+        "type": "message",
+        "text": "<@U039FQ2SNNN> - Great points, thanks. A couple of quick questions. \n\n• How do you go about pre-empting the problems a customer is facing? \n• Any quick examples you can throw in to better explain the 'dashboard-like vs intuitive' apps? ",
+        "user": "U039HH3LP43",
+        "ts": "1649408676.132559",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1144b026b649",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-31\/3336199201073_1144b026b6497d778b90_72.jpg",
+            "first_name": "Adarsh",
+            "real_name": "Adarsh Srivastava",
+            "display_name": "Adarsh Srivastava",
+            "team": "T02PFK13YLC",
+            "name": "ray.realchamp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WPL40",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039FQ2SNNN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Great points, thanks. A couple of quick questions. \n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "How do you go about pre-empting the problems a customer is facing? "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Any quick examples you can throw in to better explain the 'dashboard-like vs intuitive' apps? "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649172552.265139",
+        "parent_user_id": "U039HH3LP43"
+    },
+    {
+        "client_msg_id": "BC7D011F-4758-4041-9C3B-730F31B2463C",
+        "type": "message",
+        "text": "Put yourself in the shoes of your customer. What are they trying to achieve on your app? How fast can they achieve optimum results? Elevate their experience compared to both direct and indirect competition and your app will gain more lovers.",
+        "user": "U039FQ2SNNN",
+        "ts": "1649409151.761199",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9bb6d1a8280e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-30\/3321818966962_9bb6d1a8280e6c254c07_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rohitguptatoday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b9K4I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Put yourself in the shoes of your customer. What are they trying to achieve on your app? How fast can they achieve optimum results? Elevate their experience compared to both direct and indirect competition and your app will gain more lovers."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649172552.265139",
+        "parent_user_id": "U039HH3LP43",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039HH3LP43"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b98c899f-b9e6-43db-b052-7e43c6b18049",
+        "type": "message",
+        "text": "Gotcha. Thanks, <@U039FQ2SNNN>",
+        "user": "U039HH3LP43",
+        "ts": "1649415230.544719",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1144b026b649",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-31\/3336199201073_1144b026b6497d778b90_72.jpg",
+            "first_name": "Adarsh",
+            "real_name": "Adarsh Srivastava",
+            "display_name": "Adarsh Srivastava",
+            "team": "T02PFK13YLC",
+            "name": "ray.realchamp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bytW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gotcha. Thanks, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U039FQ2SNNN"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649172552.265139",
+        "parent_user_id": "U039HH3LP43"
+    },
+    {
+        "client_msg_id": "528fb71e-05cc-4800-be50-be39e9835fad",
+        "type": "message",
+        "text": "Hey guys we are looking for alternatives of GT Metrix for our Website Auditing.\n\nCame across <http:\/\/Auditzy.com|Auditzy.com>, need reviews thanks!",
+        "user": "U030H7UAV1C",
+        "ts": "1649430991.132899",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "ecba70aae7e5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-31\/3325434984067_ecba70aae7e54fbf20fe_72.jpg",
+            "first_name": "Ansumant",
+            "real_name": "Ansumant Tiwari",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "ansumant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U030H7UAV1C",
+            "ts": "1649431003.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qwj4H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey guys we are looking for alternatives of GT Metrix for our Website Auditing.\n\nCame across "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Auditzy.com",
+                                "text": "Auditzy.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", need reviews thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649430991.132899",
+        "reply_count": 7,
+        "reply_users_count": 5,
+        "latest_reply": "1649657441.732559",
+        "reply_users": [
+            "U02TTEFFU6B",
+            "U02PDC6B0HH",
+            "U030H7UAV1C",
+            "U02PDC4883V",
+            "U030SDYNX7V"
+        ],
+        "replies": [
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649434075.280079"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649434914.634589"
+            },
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1649435246.154749"
+            },
+            {
+                "user": "U030H7UAV1C",
+                "ts": "1649435541.665769"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649436129.414309"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649436540.312709"
+            },
+            {
+                "user": "U030SDYNX7V",
+                "ts": "1649657441.732559"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1649657441.732559"
+    },
+    {
+        "type": "message",
+        "text": "Hmmm..",
+        "files": [
+            {
+                "id": "F03BFTAGLDN",
+                "created": 1649434071,
+                "timestamp": 1649434071,
+                "name": "1649434060518.jpg",
+                "title": "1649434060518.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U02TTEFFU6B",
+                "editable": false,
+                "size": 147763,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03BFTAGLDN\/1649434060518.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03BFTAGLDN\/download\/1649434060518.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BFTAGLDN-7b92ff920b\/1649434060518_64.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BFTAGLDN-7b92ff920b\/1649434060518_80.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BFTAGLDN-7b92ff920b\/1649434060518_360.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 168,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BFTAGLDN-7b92ff920b\/1649434060518_480.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 224,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BFTAGLDN-7b92ff920b\/1649434060518_160.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BFTAGLDN-7b92ff920b\/1649434060518_720.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720_w": 336,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BFTAGLDN-7b92ff920b\/1649434060518_800.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1713,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BFTAGLDN-7b92ff920b\/1649434060518_960.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_960_w": 448,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BFTAGLDN-7b92ff920b\/1649434060518_1024.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_1024_w": 478,
+                "thumb_1024_h": 1024,
+                "original_w": 1080,
+                "original_h": 2312,
+                "thumb_tiny": "AwAwABZ\/2uZz8sak4zjJ6Uz+0JP7q\/masG2AuBIrYUdtpqbyoM\/6pP8AvimhtlD+05f+eafnR\/acv\/PNPzrREMXaJP8AvkUeTF\/zzT\/vkU7oBMe1KB64\/GkBzn5SOe4pcH+6KkQ8UUg+mKWgCAxAsfml5PrUqptUDJOO5NLS07hYTFLUbyhOWBAzjPrTftMfv+VID\/\/Z",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U02TTEFFU6B\/F03BFTAGLDN\/1649434060518.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03BFTAGLDN-b956f13c18",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02TTEFFU6B",
+        "display_as_bot": false,
+        "ts": "1649434075.280079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9qq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hmmm.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "6dd60363-ed10-43ca-a265-d6438fdaf12a",
+        "thread_ts": "1649430991.132899",
+        "parent_user_id": "U030H7UAV1C",
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "U03560PQ082",
+                    "U031QKGPNRK",
+                    "U035SR6DNQ6",
+                    "U02V22EUXM4",
+                    "U03834B6CS0",
+                    "U039HH3LP43",
+                    "U03AG8MUECT",
+                    "U035SL5MWPM",
+                    "U0313MZ9HJN",
+                    "U02V4H04XT8",
+                    "U0356KW9T1B",
+                    "U02URBKGVA7",
+                    "U02U94HSBV4",
+                    "U030N8RHURZ",
+                    "U02UY3EPQDA",
+                    "U039A5YC0MQ"
+                ],
+                "count": 16
+            },
+            {
+                "name": "zipper_mouth_face",
+                "users": [
+                    "U0325QQQALR",
+                    "U035SL5MWPM",
+                    "U02VAM808KV",
+                    "U030SDYNX7V"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c895dacc-776d-4cc4-9260-958aa39e5ad2",
+        "type": "message",
+        "text": "Hey Fatema. Awesome of you to share the opp. However, we have a channel for it - <#C02S4318139|jobopps>",
+        "user": "U02TTEFFU6B",
+        "ts": "1649434673.805179",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AAa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Fatema. Awesome of you to share the opp. However, we have a channel for it - "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C02S4318139"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649236701.197009",
+        "parent_user_id": "U039PF71127"
+    },
+    {
+        "client_msg_id": "40021814-d57c-4864-a918-8356dbea38eb",
+        "type": "message",
+        "text": "If you would have asked it like that, the community would have answered earnestly. It didn't seem like that.\n\nHowever, since you're new here and this is the first post, I didn't ban you or the company.\n\nFeel free to edit this question or delete this and post another, honest one.",
+        "user": "U02TTEFFU6B",
+        "ts": "1649434914.634589",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pea03",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you would have asked it like that, the community would have answered earnestly. It didn't seem like that.\n\nHowever, since you're new here and this is the first post, I didn't ban you or the company.\n\nFeel free to edit this question or delete this and post another, honest one."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649430991.132899",
+        "parent_user_id": "U030H7UAV1C"
+    },
+    {
+        "client_msg_id": "deeedab1-8947-411a-8fa1-d3b95e2dbd3e",
+        "type": "message",
+        "text": "<@U030H7UAV1C> there's no defense here. We know you tried to pull a fast one there. Not done. Delete it yourself and come out clean.",
+        "user": "U02PDC6B0HH",
+        "ts": "1649435246.154749",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7ce0a422fcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953759554663_b7ce0a422fcdabf5a771_72.jpg",
+            "first_name": "Shafique",
+            "real_name": "Shafique Gajdhar",
+            "display_name": "Shaf",
+            "team": "T02PFK13YLC",
+            "name": "shafiquegajdhar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GGHqO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U030H7UAV1C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " there's no defense here. We know you tried to pull a fast one there. Not done. Delete it yourself and come out clean."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649430991.132899",
+        "parent_user_id": "U030H7UAV1C"
+    },
+    {
+        "client_msg_id": "339479f9-ccc7-434e-bdbd-e93cfe1df02c",
+        "type": "message",
+        "text": "Hey Rohit,\nThe goal was to understand the what's the trend in the market, and I feel that asking for people view is not marketing. \nBeing a brand manager I felt it's good to go on direct, but after reading all the messages I felt that I do not think to delete this. It's not about banning it's about understanding the mindset, I was not selling just asking to understand market trend and there is nothing wrong with that",
+        "user": "U030H7UAV1C",
+        "ts": "1649435541.665769",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "ecba70aae7e5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-31\/3325434984067_ecba70aae7e54fbf20fe_72.jpg",
+            "first_name": "Ansumant",
+            "real_name": "Ansumant Tiwari",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "ansumant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2wax",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Rohit,\nThe goal was to understand the what's the trend in the market, and I feel that asking for people view is not marketing. \nBeing a brand manager I felt it's good to go on direct, but after reading all the messages I felt that I do not think to delete this. It's not about banning it's about understanding the mindset, I was not selling just asking to understand market trend and there is nothing wrong with that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649430991.132899",
+        "parent_user_id": "U030H7UAV1C"
+    },
+    {
+        "client_msg_id": "4430bb88-a65d-4338-ab73-60eef9cd9a4d",
+        "type": "message",
+        "text": "If you were Steve Jobs, would you post - Hey guys found a great alternative to Blackberry to send emails and talk and more. Let me know what your reviews?\n\nWould you?",
+        "user": "U02TTEFFU6B",
+        "ts": "1649436129.414309",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V\/I0M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you were Steve Jobs, would you post - Hey guys found a great alternative to Blackberry to send emails and talk and more. Let me know what your reviews?\n\nWould you?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649430991.132899",
+        "parent_user_id": "U030H7UAV1C"
+    },
+    {
+        "client_msg_id": "769589a0-31d3-4163-adec-96956bb94750",
+        "type": "message",
+        "text": "Did you come across or are you working at Auditzy?",
+        "user": "U02PDC4883V",
+        "ts": "1649436540.312709",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a\/YE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Did you come across or are you working at Auditzy?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649430991.132899",
+        "parent_user_id": "U030H7UAV1C"
+    }
+]

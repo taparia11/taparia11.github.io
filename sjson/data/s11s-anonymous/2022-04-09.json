@@ -1,0 +1,910 @@
+[
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "I am surprised by the lengths people will go to promote themselves on the general channel or elsewhere. Tooting their horn. Marketers are broken from within. We don't know better anymore. Facepalm.",
+        "user": "U02SXBR28G1",
+        "ts": "1649495327.254149",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FuBR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am surprised by the lengths people will go to promote themselves on the general channel or elsewhere. Tooting their horn. Marketers are broken from within. We don't know better anymore. Facepalm."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649495327.254149",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1649517122.768749",
+        "reply_users": [
+            "U030EJQ7NAV",
+            "U02USELSBRT"
+        ],
+        "replies": [
+            {
+                "user": "U030EJQ7NAV",
+                "ts": "1649495645.144649"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649517122.768749"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02TTEFFU6B",
+                    "U02PDC6B0HH",
+                    "U033RUXVCAY",
+                    "U030ZR9D0FK",
+                    "U03560PQ082"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4B5F5EE2-99B7-4816-8E41-1E3BF67F69BA",
+        "type": "message",
+        "text": "Agreed, I don't know if thats with everyone - but some of us have been mentored this way when we started our careers, that we need to make noise (superficially) about stuff we do and how we’re making an impact, either to convince the other side or at least ourselves for sanity sakes! Art of subtlety is kinda important… :pray::skin-tone-3:",
+        "user": "U030EJQ7NAV",
+        "ts": "1649495645.144649",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "39ad0f3ee87d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-15\/3099176267974_39ad0f3ee87dd8bf30d5_72.png",
+            "first_name": "Tuneer",
+            "real_name": "Tuneer Malik",
+            "display_name": "Tuneer",
+            "team": "T02PFK13YLC",
+            "name": "tuneermalik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ud4q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agreed, I don't know if thats with everyone - but some of us have been mentored this way when we started our careers, that we need to make noise (superficially) about stuff we do and how we’re making an impact, either to convince the other side or at least ourselves for sanity sakes! Art of subtlety is kinda important… "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "skin_tone": 3
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649495327.254149",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "ad97d5f9-96d4-4acf-8fb0-3d5cb609836d",
+        "type": "message",
+        "text": "Tech writers part of the product\/engineering teams own documentation. Product team vets it and ensures it is in line",
+        "user": "U02PDC6B0HH",
+        "ts": "1649495991.562379",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7ce0a422fcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953759554663_b7ce0a422fcdabf5a771_72.jpg",
+            "first_name": "Shafique",
+            "real_name": "Shafique Gajdhar",
+            "display_name": "Shaf",
+            "team": "T02PFK13YLC",
+            "name": "shafiquegajdhar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uyerH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tech writers part of the product\/engineering teams own documentation. Product team vets it and ensures it is in line"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649442449.927569",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U033ASE526S",
+                    "U032AUA6KFV"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "What's with people with less than a couple of years experience &amp; calling themselves trailbrazers, trend creators, purveyors of all things Marketing :man-shrugging::skin-tone-4:",
+        "user": "U02SXBR28G1",
+        "ts": "1649505194.656049",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jyn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What's with people with less than a couple of years experience & calling themselves trailbrazers, trend creators, purveyors of all things Marketing "
+                            },
+                            {
+                                "type": "emoji",
+                                "skin_tone": 4,
+                                "name": "man-shrugging"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649505194.656049",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1649659523.205839",
+        "reply_users": [
+            "U032MN1BESJ",
+            "U02TTEFFU6B",
+            "U03AQFPP9BL"
+        ],
+        "replies": [
+            {
+                "user": "U032MN1BESJ",
+                "ts": "1649514990.606249"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649518251.412319"
+            },
+            {
+                "user": "U032MN1BESJ",
+                "ts": "1649519901.552659"
+            },
+            {
+                "user": "U03AQFPP9BL",
+                "ts": "1649659523.205839"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "E6EFA110-1B2D-4D55-B1EF-8761863201B0",
+        "type": "message",
+        "text": "I disagree. This documentation should be created by the product marketing team, with the guidance of product team.\n\nTwo benefits:\n• product marketing teams are just better and more efficient at content production, it will just take focus away from product teams from their core focus\n• more importantly, this new feature documentation should not die with the product team itself. this information needs to be updated across multiple collaterals like battlecards, sales deck, product site, email newsletters etc that the entire effort will get repeated anyways. better to have one team be good at doing it.",
+        "user": "U02USELSBRT",
+        "ts": "1649505609.758599",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gTz=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I disagree. This documentation should be created by the product marketing team, with the guidance of product team.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Two benefits:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "product marketing teams are just better and more efficient at content production, it will just take focus away from product teams from their core focus"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "more importantly, this new feature documentation should not die with the product team itself. this information needs to be updated across multiple collaterals like battlecards, sales deck, product site, email newsletters etc that the entire effort will get repeated anyways. better to have one team be good at doing it."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649442449.927569",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02VD2JL8N8",
+                    "U03A2UNJJDD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "mic test 1 2 3",
+        "user": "U02SXBR28G1",
+        "ts": "1649506656.555239",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/byXV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mic test 1 2 3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "It's so that you can then legitimately call yourself ninja, maven, guru etc in another year - it's all about logical progression...",
+        "files": [
+            {
+                "id": "F03AEC28E6B",
+                "created": 1649514935,
+                "timestamp": 1649514935,
+                "name": "tenor_gif9032867093987754741.gif",
+                "title": "tenor_gif9032867093987754741.gif",
+                "mimetype": "image\/gif",
+                "filetype": "gif",
+                "pretty_type": "GIF",
+                "user": "U032MN1BESJ",
+                "editable": false,
+                "size": 314003,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03AEC28E6B\/tenor_gif9032867093987754741.gif?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03AEC28E6B\/download\/tenor_gif9032867093987754741.gif?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AEC28E6B-3c044be9c2\/tenor_gif9032867093987754741_64.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AEC28E6B-3c044be9c2\/tenor_gif9032867093987754741_80.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AEC28E6B-3c044be9c2\/tenor_gif9032867093987754741_360.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 220,
+                "thumb_360_h": 108,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AEC28E6B-3c044be9c2\/tenor_gif9032867093987754741_160.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_gif": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AEC28E6B-3c044be9c2\/tenor_gif9032867093987754741_360.gif?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "original_w": 220,
+                "original_h": 108,
+                "deanimate": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AEC28E6B-3c044be9c2\/tenor_gif9032867093987754741_deanimate.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "deanimate_gif": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AEC28E6B-3c044be9c2\/tenor_gif9032867093987754741_deanimate_gif.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_tiny": "AwAXADCIwrIyvlgT1z7U5Z2OLZY9w6Ej0qUK5wuOOcn0qSFBCW28u\/U+gFMdiE2oaVXCfu93zD2xUMluGk+QKo2g81pB+QpwVI55pHhDqDHge4pB1MxYpHXdtzjjhaVICxbAOOucda1liWNRsABAqrLcMkuJVAGMjBpgVvOYjlwAeoxSicqo+Yf981AaG\/1a\/wC9UNATfaW3MQyjjP3anS7dVAG0ge1Z4\/i+lTr0pgTS3Lu8fIHJ6A1FPJ5gXcwBAwMA00\/fT60yT+H60agf\/9k=",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U032MN1BESJ\/F03AEC28E6B\/tenor_gif9032867093987754741.gif",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03AEC28E6B-c3568414b7",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U032MN1BESJ",
+        "display_as_bot": false,
+        "ts": "1649514990.606249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s0k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's so that you can then legitimately call yourself ninja, maven, guru etc in another year - it's all about logical progression..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "cf272184-7eda-47d4-8877-a12a269788c1",
+        "thread_ts": "1649505194.656049",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "continuing \"What's with the people\" series\nWhat's with people who reach are in 30s to be influencers (trying hard) using filler content mostly \"Mistakes in my 20s\" \"Three things you should do before you reach 30s\"\nlike that too sharing general stuff\n\nsir mera mid 20s aa chuka hai aur ye check list bas 'too many things to achieve' ka pressure badha rahi h",
+        "user": "U02SXBR28G1",
+        "ts": "1649516620.737609",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lKN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "continuing \"What's with the people\" series\nWhat's with people who reach are in 30s to be influencers (trying hard) using filler content mostly \"Mistakes in my 20s\" \"Three things you should do before you reach 30s\"\nlike that too sharing general stuff\n\nsir mera mid 20s aa chuka hai aur ye check list bas 'too many things to achieve' ka pressure badha rahi h"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649516620.737609",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1649583982.404009",
+        "reply_users": [
+            "U02VD2JL8N8"
+        ],
+        "replies": [
+            {
+                "user": "U02VD2JL8N8",
+                "ts": "1649583982.404009"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U030ZR9D0FK",
+                    "U030H7UAV1C"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E6F68EEF-70D6-43A8-896A-288705E9A7DD",
+        "type": "message",
+        "text": "Too much psychoanalysis.",
+        "user": "U02USELSBRT",
+        "ts": "1649517122.768749",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TpQHg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Too much psychoanalysis."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649495327.254149",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "type": "message",
+        "text": ":trophy: for the Raja Babu meme.",
+        "files": [
+            {
+                "id": "F03BJQDNMNC",
+                "created": 1649518248,
+                "timestamp": 1649518248,
+                "name": "tenor_gif8940897931627171027.gif",
+                "title": "tenor_gif8940897931627171027.gif",
+                "mimetype": "image\/gif",
+                "filetype": "gif",
+                "pretty_type": "GIF",
+                "user": "U02TTEFFU6B",
+                "editable": false,
+                "size": 53489,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03BJQDNMNC\/tenor_gif8940897931627171027.gif?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03BJQDNMNC\/download\/tenor_gif8940897931627171027.gif?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BJQDNMNC-6e4ee14890\/tenor_gif8940897931627171027_64.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BJQDNMNC-6e4ee14890\/tenor_gif8940897931627171027_80.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BJQDNMNC-6e4ee14890\/tenor_gif8940897931627171027_360.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 220,
+                "thumb_360_h": 123,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BJQDNMNC-6e4ee14890\/tenor_gif8940897931627171027_160.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_gif": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BJQDNMNC-6e4ee14890\/tenor_gif8940897931627171027_360.gif?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "original_w": 220,
+                "original_h": 123,
+                "deanimate": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BJQDNMNC-6e4ee14890\/tenor_gif8940897931627171027_deanimate.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "deanimate_gif": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BJQDNMNC-6e4ee14890\/tenor_gif8940897931627171027_deanimate_gif.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_tiny": "AwAaADBthCyFmfhscA1Ym+UZedk9wOKf0ZSPpUmAwwQD9aksps9zGwCyCQf7QxVlZXEJeZNrDsOc1KeevNNkjEgAJI78HFAhiySP\/wAsio9zSneakXAJFL8tWiWyBDuRTT9wHUiq9r\/qRVgAegrMsXev94fnSCVe5A\/Gm\/xGjA8scd6GJ6K4xn54IyaNxpuBk0HpUczOa5\/\/2Q==",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U02TTEFFU6B\/F03BJQDNMNC\/tenor_gif8940897931627171027.gif",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03BJQDNMNC-a3d3d3e221",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02TTEFFU6B",
+        "display_as_bot": false,
+        "ts": "1649518251.412319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cl8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "trophy"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for the Raja Babu meme."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "1f62a0d1-cf60-401e-a0d7-02447f73a883",
+        "thread_ts": "1649505194.656049",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U032MN1BESJ",
+                    "U02VD2JL8N8",
+                    "U033QDFML74"
+                ],
+                "count": 3
+            },
+            {
+                "name": "tumbler_glass",
+                "users": [
+                    "U032MN1BESJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a339a0b8-6078-4d44-bce7-054b336aaee1",
+        "type": "message",
+        "text": "It's a classic and no shade at the Golden age of Govinda will ever be tolerated.",
+        "user": "U032MN1BESJ",
+        "ts": "1649519901.552659",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g8a12888a77b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a12888a77b019e4e11e0df9171feb29.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Anuj",
+            "real_name": "Anuj Adhiya",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "adhiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fl=B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's a classic and no shade at the Golden age of Govinda will ever be tolerated."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649505194.656049",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "2fd57efb-b124-42a1-9a0d-a77d9568dcea",
+        "type": "message",
+        "text": "Both have diminishing returns— very well put!",
+        "user": "U030KV8R8RL",
+        "ts": "1649521802.429019",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1d58fa7deccd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3044063413425_1d58fa7deccd79b3b2d0_72.jpg",
+            "first_name": "Vartika",
+            "real_name": "Vartika Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "vartika.gupta1911",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+S5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Both have diminishing returns— very well put!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649429324.769979",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "e436a3f2-6898-4756-811b-2ab22eed1a38",
+        "type": "message",
+        "text": "Short Answer is No, it won't.\n\nLong answer: No matter what you do, AI will not be able to replicate emotions and write in a manner that would connect with different audiences.\n\nTo some point, it can used as a way to get a skeleton, cutting down on your research time perhaps. But writing entire web copy and content writing, AI can't handle.",
+        "user": "U03560PQ082",
+        "ts": "1649567372.454389",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1db32098d186",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-01\/3176023965474_1db32098d186ac873a3d_72.png",
+            "first_name": "Ahaan",
+            "real_name": "Ahaan Pandit",
+            "display_name": "Ahaan Pandit",
+            "team": "T02PFK13YLC",
+            "name": "ahaan.pandit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b74",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Short Answer is No, it won't.\n\nLong answer: No matter what you do, AI will not be able to replicate emotions and write in a manner that would connect with different audiences.\n\nTo some point, it can used as a way to get a skeleton, cutting down on your research time perhaps. But writing entire web copy and content writing, AI can't handle."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649440936.945579",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "29b294c1-f06f-473b-b491-c386aa01e8f9",
+        "type": "message",
+        "text": "Product+Product Marketing Team.",
+        "user": "U03560PQ082",
+        "ts": "1649567404.978829",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1db32098d186",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-01\/3176023965474_1db32098d186ac873a3d_72.png",
+            "first_name": "Ahaan",
+            "real_name": "Ahaan Pandit",
+            "display_name": "Ahaan Pandit",
+            "team": "T02PFK13YLC",
+            "name": "ahaan.pandit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YCU1l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Product+Product Marketing Team."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649442449.927569",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "73a0b219-62f1-4f2a-a0d6-9a2e91ed59f1",
+        "type": "message",
+        "text": "Documentation &gt; Tech writers (e.g. for dev tools, we made a mistake of giving it to product marketing and got beaten up by the users)\nSales \/ Marketing collateral &gt; Product marketing teams\n\nEmpower Support to check-in edits, clarifications, additions based on what they are hearing",
+        "user": "U032AUA6KFV",
+        "ts": "1649570537.860269",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9189c1943921",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-17\/3239483991639_9189c1943921bc90d5d9_72.jpg",
+            "first_name": "Sumit",
+            "real_name": "Sumit",
+            "display_name": "Sumit",
+            "team": "T02PFK13YLC",
+            "name": "sumitsuman.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p1DK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Documentation > Tech writers (e.g. for dev tools, we made a mistake of giving it to product marketing and got beaten up by the users)\nSales \/ Marketing collateral > Product marketing teams\n\nEmpower Support to check-in edits, clarifications, additions based on what they are hearing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649442449.927569",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "tired of all the hustle i just wanna sleep or go out with my friends in the evenings \/ weekend like a normal person :sob:",
+        "user": "U02SXBR28G1",
+        "ts": "1649573808.495749",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XIuo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tired of all the hustle i just wanna sleep or go out with my friends in the evenings \/ weekend like a normal person "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649573808.495749",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1649660489.129449",
+        "reply_users": [
+            "U039FQ2SNNN",
+            "U02VBNKU9T6"
+        ],
+        "replies": [
+            {
+                "user": "U039FQ2SNNN",
+                "ts": "1649575931.468969"
+            },
+            {
+                "user": "U02VBNKU9T6",
+                "ts": "1649660489.129449"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02PDC4883V",
+                    "U02ULN6EFNV",
+                    "U030ZR9D0FK",
+                    "U0325QQQALR",
+                    "U02V92UN0Q2",
+                    "U030D7DN2DD",
+                    "U02UHQYEF70",
+                    "U031QKGPNRK",
+                    "U031GENLMQ8",
+                    "U0362R42317",
+                    "U031YH4D36U",
+                    "U02URS98P9B",
+                    "U02U94HSBV4",
+                    "U03A3MDQTD3"
+                ],
+                "count": 14
+            }
+        ]
+    }
+]

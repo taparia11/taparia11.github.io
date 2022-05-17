@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "f5119629-0af5-40b4-8a84-b81813ab811f",
+        "type": "message",
+        "text": "Best, peaceful Royal Rumble. My take:\nProduct Marketing can report into either Product or Marketing (or even Revenue). I know a few (Indian) organizations where Product Marketing reports into Product, a few where it reports into Marketing, none (afaik) that reports into Sales, but it's likely.\nIt's a matter of focus area - what's the current challenge that needs to be solved. For some, it may be product\/feature adoption in which case Product Marketing owns the corresponding KPIs and DAU, MAU, etc., therefore reporting into Product. For some, it may be a Lead Generation focus which will make the team own MQLs, therefore reporting into Marketing. Lead to Customer conversion rate is another area that Product Marketing can own, which may lie with either Marketing or Sales.\nUltimately, there are no rules, orgs. have to figure out what model\/team structure and ownership works best for them, which is derived from current benchmarks, levers, and focus areas.",
+        "user": "U0318JZUESX",
+        "ts": "1650812951.153609",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "63c51d4ec23b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-01\/3066368472944_63c51d4ec23bc685fdae_72.png",
+            "first_name": "Siddhartha",
+            "real_name": "Siddhartha Kathpalia",
+            "display_name": "Kattu",
+            "team": "T02PFK13YLC",
+            "name": "siddhartha.kathpalia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LbkzP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Best, peaceful Royal Rumble. My take:\nProduct Marketing can report into either Product or Marketing (or even Revenue). I know a few (Indian) organizations where Product Marketing reports into Product, a few where it reports into Marketing, none (afaik) that reports into Sales, but it's likely.\nIt's a matter of focus area - what's the current challenge that needs to be solved. For some, it may be product\/feature adoption in which case Product Marketing owns the corresponding KPIs and DAU, MAU, etc., therefore reporting into Product. For some, it may be a Lead Generation focus which will make the team own MQLs, therefore reporting into Marketing. Lead to Customer conversion rate is another area that Product Marketing can own, which may lie with either Marketing or Sales.\nUltimately, there are no rules, orgs. have to figure out what model\/team structure and ownership works best for them, which is derived from current benchmarks, levers, and focus areas."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650776835.087919",
+        "parent_user_id": "U02TTEFFU6B"
+    }
+]

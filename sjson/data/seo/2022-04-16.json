@@ -1,0 +1,46 @@
+[
+    {
+        "client_msg_id": "2EF1BBB2-EFA1-4B51-90BB-6BCFCC0F5FBC",
+        "type": "message",
+        "text": "This is very useful. \nThank you everyone! ",
+        "user": "U033RUXVCAY",
+        "ts": "1650100915.504719",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "eecae6570a19",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-18\/3149477154304_eecae6570a19ea1b9b9d_72.jpg",
+            "first_name": "Divyank",
+            "real_name": "Divyank Jain",
+            "display_name": "Divyank Jain",
+            "team": "T02PFK13YLC",
+            "name": "divyankjn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vrst",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is very useful. \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Thank you everyone! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650022239.554179",
+        "parent_user_id": "U033RUXVCAY"
+    }
+]

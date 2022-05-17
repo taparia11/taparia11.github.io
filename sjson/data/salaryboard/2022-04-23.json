@@ -1,0 +1,138 @@
+[
+    {
+        "client_msg_id": "1c8cc7fe-8287-4f9c-ba1c-6d07d1cc4402",
+        "type": "message",
+        "text": "No",
+        "user": "U034DCQFTA4",
+        "ts": "1650708586.176599",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8b7ae35cab96",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-18\/3138295692257_8b7ae35cab965a4b3840_72.png",
+            "first_name": "Sanchita",
+            "real_name": "Sanchita Chakraborti",
+            "display_name": "Sanchita Chakraborti",
+            "team": "T02PFK13YLC",
+            "name": "sanchitachakraborti18",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fVt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650690177.679099",
+        "parent_user_id": "U02U9C2UTRC"
+    },
+    {
+        "client_msg_id": "5154fac9-03d7-47b2-b8a2-c44d8fb489e4",
+        "type": "message",
+        "text": "It's always below market standards. But, there are other positives if we are not too hung up on the pay. In IBM, the training provided is excellent plus the opportunity to switch roles. The other plus is getting to learn from industry veterans. It's a rich experience.",
+        "user": "U034DCQFTA4",
+        "ts": "1650708779.441629",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8b7ae35cab96",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-18\/3138295692257_8b7ae35cab965a4b3840_72.png",
+            "first_name": "Sanchita",
+            "real_name": "Sanchita Chakraborti",
+            "display_name": "Sanchita Chakraborti",
+            "team": "T02PFK13YLC",
+            "name": "sanchitachakraborti18",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "px9u4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's always below market standards. But, there are other positives if we are not too hung up on the pay. In IBM, the training provided is excellent plus the opportunity to switch roles. The other plus is getting to learn from industry veterans. It's a rich experience."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650690177.679099",
+        "parent_user_id": "U02U9C2UTRC"
+    },
+    {
+        "client_msg_id": "BCD1B45A-29B0-4EBB-8DC5-681DAD6E00F3",
+        "type": "message",
+        "text": "Ok adding context to my comment since we are quick to judge \/ bash a indian service mnc company. I work for hcl for two years and have moved after working for citrix - Citrix is not a FANG nor a SaaS startup but definitely not a bad paymaster and i was well incentivised to join hcl.\n\nNot selling hcl here but breaking some myths because i believe it is important as an Indian. There are many other challenges workings for this organisation but getting paid for your talent is not one.",
+        "user": "U02UZ4T10PQ",
+        "ts": "1650709794.593419",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "0e693f543f3a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-22\/2977217232247_0e693f543f3a4a1d3fd3_72.jpg",
+            "first_name": "Sagnik",
+            "real_name": "Sagnik IntelliServiceAI",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "sagnik.datta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d6BQe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok adding context to my comment since we are quick to judge \/ bash a indian service mnc company. I work for hcl for two years and have moved after working for citrix - Citrix is not a FANG nor a SaaS startup but definitely not a bad paymaster and i was well incentivised to join hcl.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Not selling hcl here but breaking some myths because i believe it is important as an Indian. There are many other challenges workings for this organisation but getting paid for your talent is not one."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650690177.679099",
+        "parent_user_id": "U02U9C2UTRC"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1650783105.207639",
+        "user": "U03C8SYJGCF",
+        "text": "<@U03C8SYJGCF> has joined the channel",
+        "inviter": "U03DD6EGPKJ"
+    }
+]

@@ -1,0 +1,790 @@
+[
+    {
+        "client_msg_id": "2158bdf5-37a7-43f5-90c0-dc34b32e7ac7",
+        "type": "message",
+        "text": "Rohit has covered everything, amazing. We did quite a few of this and saw a slight increase in the traffic from US.",
+        "user": "U03208N6E2G",
+        "ts": "1650442965.022019",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bd76f53b10f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-07\/3051373776711_bd76f53b10f5a38172a1_72.jpg",
+            "first_name": "Prasad",
+            "real_name": "Prasad Lingawar",
+            "display_name": "Prasad Lingawar",
+            "team": "T02PFK13YLC",
+            "name": "prasad.lingawar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03208N6E2G",
+            "ts": "1650880723.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sfToH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Rohit has covered everything, amazing. We did quite a few of this and saw a slight increase in the traffic from US."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648638640.730449",
+        "parent_user_id": "U030SH0HR6X",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U037VSS964S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6fbb696e-31dc-4144-a205-aa5ab9055d7a",
+        "type": "message",
+        "text": "Worth it!  once you start focusing on the content (i.e. after product and setting up basics, like website, tracking, emails, etc) you should invest in SEO and content research",
+        "user": "U03BZJ0KK1R",
+        "ts": "1650445702.400419",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "043af8ffe832",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-19\/3431356209440_043af8ffe832522f4bd9_72.png",
+            "first_name": "kinjal",
+            "real_name": "kinjal vora",
+            "display_name": "kinjal vora",
+            "team": "T02PFK13YLC",
+            "name": "kinj28",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hZp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Worth it!  once you start focusing on the content (i.e. after product and setting up basics, like website, tracking, emails, etc) you should invest in SEO and content research"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650422200.189719",
+        "parent_user_id": "U038W1678JX"
+    },
+    {
+        "client_msg_id": "1e9d5123-aa59-4e14-94cb-6a5c9092b789",
+        "type": "message",
+        "text": "Has anyone found the topic cluster ( or pilllar ) strategy successful for a service based business? I am thinking to implement this and would love to know more about your experience.\n\nI was not getting enough confidence after reading articles on the website hence the question.",
+        "user": "U03208N6E2G",
+        "ts": "1650448725.671689",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bd76f53b10f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-07\/3051373776711_bd76f53b10f5a38172a1_72.jpg",
+            "first_name": "Prasad",
+            "real_name": "Prasad Lingawar",
+            "display_name": "Prasad Lingawar",
+            "team": "T02PFK13YLC",
+            "name": "prasad.lingawar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SZdvW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Has anyone found the topic cluster ( or pilllar ) strategy successful for a service based business? I am thinking to implement this and would love to know more about your experience.\n\nI was not getting enough confidence after reading articles on the website hence the question."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650448725.671689",
+        "reply_count": 8,
+        "reply_users_count": 3,
+        "latest_reply": "1650880690.572409",
+        "reply_users": [
+            "U02USELSBRT",
+            "U03208N6E2G",
+            "U031QKGPNRK"
+        ],
+        "replies": [
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650448869.727499"
+            },
+            {
+                "user": "U03208N6E2G",
+                "ts": "1650450400.548039"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650450510.756629"
+            },
+            {
+                "user": "U03208N6E2G",
+                "ts": "1650453527.143449"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1650518408.529809"
+            },
+            {
+                "user": "U03208N6E2G",
+                "ts": "1650880105.921359"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1650880625.520849"
+            },
+            {
+                "user": "U03208N6E2G",
+                "ts": "1650880690.572409"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5885a102-8c77-4fd8-b125-5a42fc71fbf7",
+        "type": "message",
+        "text": "nothing to do with product\/service business, pillar page strategy is successful regardless. more so if you're in a competitive space",
+        "user": "U02USELSBRT",
+        "ts": "1650448869.727499",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g8lqb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nothing to do with product\/service business, pillar page strategy is successful regardless. more so if you're in a competitive space"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650448725.671689",
+        "parent_user_id": "U03208N6E2G"
+    },
+    {
+        "client_msg_id": "62ff345e-5880-43dc-bb07-21177f0f2a13",
+        "type": "message",
+        "text": "Have you implemented?",
+        "user": "U03208N6E2G",
+        "ts": "1650450400.548039",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bd76f53b10f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-07\/3051373776711_bd76f53b10f5a38172a1_72.jpg",
+            "first_name": "Prasad",
+            "real_name": "Prasad Lingawar",
+            "display_name": "Prasad Lingawar",
+            "team": "T02PFK13YLC",
+            "name": "prasad.lingawar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mify",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Have you implemented?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650448725.671689",
+        "parent_user_id": "U03208N6E2G"
+    },
+    {
+        "client_msg_id": "7a13b059-2896-4581-bd5b-64621a1bde60",
+        "type": "message",
+        "text": "yes, twice. worked both times",
+        "user": "U02USELSBRT",
+        "ts": "1650450510.756629",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BKi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, twice. worked both times"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650448725.671689",
+        "parent_user_id": "U03208N6E2G"
+    },
+    {
+        "client_msg_id": "cd75aaff-270b-425e-aa18-9f16ac92f420",
+        "type": "message",
+        "text": "Amazing. I would love to pick your brain on this, can we connect for a quick call sometime tomorrow?",
+        "user": "U03208N6E2G",
+        "ts": "1650453527.143449",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bd76f53b10f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-07\/3051373776711_bd76f53b10f5a38172a1_72.jpg",
+            "first_name": "Prasad",
+            "real_name": "Prasad Lingawar",
+            "display_name": "Prasad Lingawar",
+            "team": "T02PFK13YLC",
+            "name": "prasad.lingawar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zg+3o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Amazing. I would love to pick your brain on this, can we connect for a quick call sometime tomorrow?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650448725.671689",
+        "parent_user_id": "U03208N6E2G"
+    },
+    {
+        "client_msg_id": "7D401E14-A88E-43F1-977A-86DE54E4ACF7",
+        "type": "message",
+        "text": "Given it's all SaaS + content folks here, can we help each other by link exchanges or guest posts? Will help boost DR for the domain if rightly done, let me know if anyone's interested\n\nAdmins - there are a lot of Slack communities meant for this. If we can create a channel, that'd be great (only contextual guest posts and link exchanges, no paid links or ads)",
+        "user": "U02V4H04XT8",
+        "ts": "1650467511.620789",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8d3b18d46964",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2990578301974_8d3b18d46964229ea4a5_72.jpg",
+            "first_name": "Anirudh",
+            "real_name": "Anirudh",
+            "display_name": "Anirudh",
+            "team": "T02PFK13YLC",
+            "name": "anirudh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ERh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Given it's all SaaS + content folks here, can we help each other by link exchanges or guest posts? Will help boost DR for the domain if rightly done, let me know if anyone's interested\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Admins - there are a lot of Slack communities meant for this. If we can create a channel, that'd be great (only contextual guest posts and link exchanges, no paid links or ads)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650467511.620789",
+        "reply_count": 6,
+        "reply_users_count": 5,
+        "latest_reply": "1650520938.840099",
+        "reply_users": [
+            "U03C4NNJWGK",
+            "U03AF2HBZPX",
+            "U02USELSBRT",
+            "U031QKGPNRK",
+            "U02V4H04XT8"
+        ],
+        "replies": [
+            {
+                "user": "U03C4NNJWGK",
+                "ts": "1650467952.749119"
+            },
+            {
+                "user": "U03AF2HBZPX",
+                "ts": "1650507239.567939"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650513171.455139"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1650518172.087829"
+            },
+            {
+                "user": "U02V4H04XT8",
+                "ts": "1650520450.510419"
+            },
+            {
+                "user": "U03AF2HBZPX",
+                "ts": "1650520938.840099"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "man-gesturing-no",
+                "users": [
+                    "U02U94HSBV4",
+                    "U0325QQQALR",
+                    "U03C4NNJWGK",
+                    "U03AF2HBZPX"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "05f4976b-ba7b-49f3-b844-31e6ccf226e0",
+        "type": "message",
+        "text": "Separate channel makes sense. But this channel could take a turn for the worse too. Needs good moderation.\n\nAlso, link exchanges would work if the sites and blog posts are quite relevant. Relevancy matters a lot in acquiring a good link.\n\nSo may be this channel could be based on link building discussion.",
+        "user": "U03C4NNJWGK",
+        "ts": "1650467952.749119",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "552a262ea031",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-19\/3436512969744_552a262ea031d186cba3_72.jpg",
+            "first_name": "Tejas",
+            "real_name": "Tejas Rane",
+            "display_name": "Tejas Rane",
+            "team": "T02PFK13YLC",
+            "name": "tejas3732",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2D\/K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Separate channel makes sense. But this channel could take a turn for the worse too. Needs good moderation.\n\nAlso, link exchanges would work if the sites and blog posts are quite relevant. Relevancy matters a lot in acquiring a good link.\n\nSo may be this channel could be based on link building discussion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650467511.620789",
+        "parent_user_id": "U02V4H04XT8",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02USELSBRT",
+                    "U030ZR9D0FK",
+                    "U031YH4D36U",
+                    "U031QKGPNRK"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6fca16e9-3725-45a3-8b26-47d41f95480d",
+        "type": "message",
+        "text": "Be careful while creating a new channel for link exchanges and guest post exchanges. You don't want all that shitty crowd from Backlinks Slack coming here and spamming all the channels making s11s a fish market. \n\nJoin my slack community - <https:\/\/linkbuilding.community|https:\/\/linkbuilding.community> to collaborate with folks from Semrush, Cloudways, Envato, ClickUp, and more.\n\n<@U02USELSBRT> - I guess you've filled the form to join. I'll keep you posted.",
+        "user": "U03AF2HBZPX",
+        "ts": "1650507239.567939",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g282e41117ee",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/282e41117eea26a162917755cabc65f2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Vikas",
+            "real_name": "Vikas Kalwani",
+            "display_name": "Vikas Kalwani",
+            "team": "T02PFK13YLC",
+            "name": "myself",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/linkbuilding.community\/",
+                "image_url": "https:\/\/linkbuilding.community\/img\/og-homepage.png",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 18908,
+                "service_icon": "https:\/\/linkbuilding.community\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/linkbuilding.community",
+                "fallback": "Link Building HQ Slack Community",
+                "text": "Trusted by 1000+ Companies! Exchange backlinks from Authority sites, Find guest posting opportunities, and more.",
+                "title": "Link Building HQ Slack Community",
+                "title_link": "https:\/\/linkbuilding.community\/",
+                "service_name": "linkbuilding.community"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2EZL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Be careful while creating a new channel for link exchanges and guest post exchanges. You don't want all that shitty crowd from Backlinks Slack coming here and spamming all the channels making s11s a fish market. \n\nJoin my slack community - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/linkbuilding.community",
+                                "text": "https:\/\/linkbuilding.community"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to collaborate with folks from Semrush, Cloudways, Envato, ClickUp, and more.\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02USELSBRT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I guess you've filled the form to join. I'll keep you posted."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650467511.620789",
+        "parent_user_id": "U02V4H04XT8"
+    },
+    {
+        "client_msg_id": "41CE4DC0-9179-4A04-8C70-09DB33203F16",
+        "type": "message",
+        "text": "Sorry which form? To join what?",
+        "user": "U02USELSBRT",
+        "ts": "1650513171.455139",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q2el",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry which form? To join what?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650467511.620789",
+        "parent_user_id": "U02V4H04XT8"
+    },
+    {
+        "client_msg_id": "70327e78-6780-4f3d-8728-139c998662cb",
+        "type": "message",
+        "text": "Sharing my sincere request. Ofcourse open to other opinions as well. Please please don't make any channels dedicated to link building in whatever context. There is no dearth of such platforms and for the most sincere intent people who want to partner\/build links there are better ways without exposing a fault\/spam point for such an amazing community here. I can imagine people joining\/reaching out with intent only to do link exchange. From my limited experiences and observation, link exchange channels\/groups are like Mysore Paak sweet for short sighted, lazy marketers. Nothing against sincere and hard working link builders who i think can find way more active and nurturing niche communities for the purpose.",
+        "user": "U031QKGPNRK",
+        "ts": "1650518172.087829",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "78XM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sharing my sincere request. Ofcourse open to other opinions as well. Please please don't make any channels dedicated to link building in whatever context. There is no dearth of such platforms and for the most sincere intent people who want to partner\/build links there are better ways without exposing a fault\/spam point for such an amazing community here. I can imagine people joining\/reaching out with intent only to do link exchange. From my limited experiences and observation, link exchange channels\/groups are like Mysore Paak sweet for short sighted, lazy marketers. Nothing against sincere and hard working link builders who i think can find way more active and nurturing niche communities for the purpose."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650467511.620789",
+        "parent_user_id": "U02V4H04XT8",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02USELSBRT",
+                    "U03A7KXT45S",
+                    "U033RUXVCAY",
+                    "U03C4NNJWGK",
+                    "U030N8RHURZ"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "70736e5a-8323-4343-b69f-6864a4e08eb8",
+        "type": "message",
+        "text": "<@U03208N6E2G> can you please share what are your specific reservation against the literature\/framework. From what i have seen first hand and observed amazing seo marketers do, this looks like a tried and tested and proven model. Is it concern on how much seo can you build around service keywords? Hope you had fruitful discussion on dm but for others who are interested to learn from your exp, would love to learn more about what's causing concern\/lack of confidence. Feel free to ignore my request but your sincere question got me thinking",
+        "user": "U031QKGPNRK",
+        "ts": "1650518408.529809",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U031QKGPNRK",
+            "ts": "1650518439.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5yKgD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03208N6E2G"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you please share what are your specific reservation against the literature\/framework. From what i have seen first hand and observed amazing seo marketers do, this looks like a tried and tested and proven model. Is it concern on how much seo can you build around service keywords? Hope you had fruitful discussion on dm but for others who are interested to learn from your exp, would love to learn more about what's causing concern\/lack of confidence. Feel free to ignore my request but your sincere question got me thinking"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650448725.671689",
+        "parent_user_id": "U03208N6E2G"
+    },
+    {
+        "client_msg_id": "DBA5F93D-A679-459F-9930-305A611FFC8E",
+        "type": "message",
+        "text": "Got it - thanks for your suggestions folks!",
+        "user": "U02V4H04XT8",
+        "ts": "1650520450.510419",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8d3b18d46964",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2990578301974_8d3b18d46964229ea4a5_72.jpg",
+            "first_name": "Anirudh",
+            "real_name": "Anirudh",
+            "display_name": "Anirudh",
+            "team": "T02PFK13YLC",
+            "name": "anirudh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0cbD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Got it - thanks for your suggestions folks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650467511.620789",
+        "parent_user_id": "U02V4H04XT8"
+    },
+    {
+        "client_msg_id": "57d25035-5474-4f18-965e-4c40bf03435b",
+        "type": "message",
+        "text": "<@U02USELSBRT> - tagged you by mistake.\n\nI wanted to tag <@U02V4H04XT8>",
+        "user": "U03AF2HBZPX",
+        "ts": "1650520938.840099",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g282e41117ee",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/282e41117eea26a162917755cabc65f2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Vikas",
+            "real_name": "Vikas Kalwani",
+            "display_name": "Vikas Kalwani",
+            "team": "T02PFK13YLC",
+            "name": "myself",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fT9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02USELSBRT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - tagged you by mistake.\n\nI wanted to tag "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02V4H04XT8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650467511.620789",
+        "parent_user_id": "U02V4H04XT8"
+    }
+]

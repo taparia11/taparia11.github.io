@@ -1,0 +1,67 @@
+[
+    {
+        "client_msg_id": "3278ba9c-db3b-4436-836c-af41f3941b22",
+        "type": "message",
+        "text": "Hey! Anyone up for a virtual coffee this weekend to discuss ideas, inspirations, and outputs for social media in the B2B SAAS space? DM, if possible especially from Coimbatore\nP.s I am rookie to B2B Marketing willing to learn more",
+        "user": "U03ACCJ4CVC",
+        "ts": "1650081951.348509",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "6b7467482751",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3352426387814_6b7467482751582a4046_72.jpg",
+            "first_name": "Sowndharrajan",
+            "real_name": "Sowndharrajan Radhakrishnan",
+            "display_name": "Sowndharrajan Radhakrishnan",
+            "team": "T02PFK13YLC",
+            "name": "sowndharrajanradhakri",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oh3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey! Anyone up for a virtual coffee this weekend to discuss ideas, inspirations, and outputs for social media in the B2B SAAS space? DM, if possible especially from Coimbatore\nP.s I am rookie to B2B Marketing willing to learn more"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650081951.348509",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650278867.771429",
+        "reply_users": [
+            "U030ML6FL00"
+        ],
+        "replies": [
+            {
+                "user": "U030ML6FL00",
+                "ts": "1650278867.771429"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039FQ2SNNN",
+                    "U03560PQ082",
+                    "U038PKL6VQE",
+                    "U030ML6FL00"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

@@ -1,0 +1,205 @@
+[
+    {
+        "client_msg_id": "56DDD8F9-72F4-4AEA-9D8D-70F795D985F6",
+        "type": "message",
+        "text": "I am reaching blr in about 5 hrs :sweat_smile: and will be here till sunday. Anyone up for a kaapi near Mg road later in the evening? Also trying to do the last century thing called tweet-up :see_no_evil:this Saturday evening. Let me know if anyone is interested. Thread for the tweetup -&gt; <https:\/\/twitter.com\/doulosjose\/status\/1517338576039837696?s=21&amp;t=OAx2in3dUMx0GMqAVJYP5A|https:\/\/twitter.com\/doulosjose\/status\/1517338576039837696?s=21&amp;t=OAx2in3dUMx0GMqAVJYP5A>",
+        "user": "U03AJ8BHKNC",
+        "ts": "1650597734.397769",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "2133b8282666",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-06\/3353492600340_2133b828266683f99ee6_72.png",
+            "first_name": "Doulos",
+            "real_name": "Doulos Jose",
+            "display_name": "dj",
+            "team": "T02PFK13YLC",
+            "name": "mail",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/doulosjose\/status\/1517338576039837696?s=21&amp;t=OAx2in3dUMx0GMqAVJYP5A",
+                "ts": 1650596681,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/doulosjose\/status\/1517338576039837696?s=21&amp;t=OAx2in3dUMx0GMqAVJYP5A",
+                "fallback": "<https:\/\/twitter.com\/doulosjose|@doulosjose>: #bangalore twitterati, reaching in about 4-5 hrs. Let me know if anyone is interested in a good, old fashioned #tweetup :) <https:\/\/twitter.com\/doulosjose\/status\/1514548802299961358>",
+                "text": "#bangalore twitterati, reaching in about 4-5 hrs. Let me know if anyone is interested in a good, old fashioned #tweetup :) <https:\/\/twitter.com\/doulosjose\/status\/1514548802299961358>",
+                "author_name": "doulos jose",
+                "author_link": "https:\/\/twitter.com\/doulosjose\/status\/1517338576039837696",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1509567456557379591\/nEegtulq_normal.jpg",
+                "author_subname": "@doulosjose",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            },
+            {
+                "from_url": "https:\/\/twitter.com\/doulosjose\/status\/1514548802299961358",
+                "ts": 1649931548,
+                "indent": true,
+                "color": "32BBF3",
+                "id": 2,
+                "fallback": "<https:\/\/twitter.com\/doulosjose|@doulosjose>: Hey Twitter, tomorrow <https:\/\/twitter.com\/sumandoogar1|@sumandoogar1> &amp; I are off on an what we hope will be an epic trip - starting with a road trip. We will be touching Gwalior-Nagpur-Hyderabad- Bangalore and places in between. Let me know if you are around and know a dog-friendly place for a cup of tea :)",
+                "text": "Hey Twitter, tomorrow <https:\/\/twitter.com\/sumandoogar1|@sumandoogar1> &amp; I are off on an what we hope will be an epic trip - starting with a road trip. We will be touching Gwalior-Nagpur-Hyderabad- Bangalore and places in between. Let me know if you are around and know a dog-friendly place for a cup of tea :)",
+                "author_name": "doulos jose",
+                "author_link": "https:\/\/twitter.com\/doulosjose\/status\/1514548802299961358",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1509567456557379591\/nEegtulq_normal.jpg",
+                "author_subname": "@doulosjose",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5ht9H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am reaching blr in about 5 hrs "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and will be here till sunday. Anyone up for a kaapi near Mg road later in the evening? Also trying to do the last century thing called tweet-up "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "see_no_evil"
+                            },
+                            {
+                                "type": "text",
+                                "text": "this Saturday evening. Let me know if anyone is interested. Thread for the tweetup -> "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/doulosjose\/status\/1517338576039837696?s=21&t=OAx2in3dUMx0GMqAVJYP5A",
+                                "text": "https:\/\/twitter.com\/doulosjose\/status\/1517338576039837696?s=21&t=OAx2in3dUMx0GMqAVJYP5A"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650597734.397769",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1650598415.492269",
+        "reply_users": [
+            "U039FQ2SNNN",
+            "U03AJ8BHKNC"
+        ],
+        "replies": [
+            {
+                "user": "U039FQ2SNNN",
+                "ts": "1650598219.015199"
+            },
+            {
+                "user": "U03AJ8BHKNC",
+                "ts": "1650598415.492269"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "55454CBD-D455-4A49-B75B-EC9844B4D0A7",
+        "type": "message",
+        "text": "Happy to connect tmrw. I'll be at Church street tmrw between 3 and 8 . We can grab a cups then.",
+        "user": "U039FQ2SNNN",
+        "ts": "1650598219.015199",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9bb6d1a8280e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-30\/3321818966962_9bb6d1a8280e6c254c07_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rohitguptatoday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ssMa5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy to connect tmrw. I'll be at Church street tmrw between 3 and 8 . We can grab a cups then."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650597734.397769",
+        "parent_user_id": "U03AJ8BHKNC"
+    },
+    {
+        "client_msg_id": "E49516EF-1ADD-49F0-B763-50E95A70EF71",
+        "type": "message",
+        "text": "Wonderful, let me settle in and ll then coordinate. Works?",
+        "user": "U03AJ8BHKNC",
+        "ts": "1650598415.492269",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "2133b8282666",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-06\/3353492600340_2133b828266683f99ee6_72.png",
+            "first_name": "Doulos",
+            "real_name": "Doulos Jose",
+            "display_name": "dj",
+            "team": "T02PFK13YLC",
+            "name": "mail",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d5Maq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wonderful, let me settle in and ll then coordinate. Works?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650597734.397769",
+        "parent_user_id": "U03AJ8BHKNC",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039FQ2SNNN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

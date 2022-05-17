@@ -1,0 +1,1030 @@
+[
+    {
+        "client_msg_id": "191ebcf8-95b2-4100-8a32-3898524323dc",
+        "type": "message",
+        "text": "Companies operate to maximize profits. Let's all accept that fact. The pay grades are changing and will change only by the skewing supply and demand. There no other levers. If you get a US based company offering you a role and salary - take it. Exploit that arbitrage. The entire of India SaaS did it, high time the employees do it too.",
+        "user": "U02TTEFFU6B",
+        "ts": "1650179357.096899",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KmjGf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Companies operate to maximize profits. Let's all accept that fact. The pay grades are changing and will change only by the skewing supply and demand. There no other levers. If you get a US based company offering you a role and salary - take it. Exploit that arbitrage. The entire of India SaaS did it, high time the employees do it too."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650175284.894219",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02V9QUDK1Q",
+                    "U030ZR9D0FK",
+                    "U031QKGPNRK",
+                    "U0362R42317",
+                    "U03A7KXT45S",
+                    "U02V2SRR9J9",
+                    "U02VDPB8CGH"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Screw marketing, become a Faang engineer!",
+        "files": [
+            {
+                "id": "F03BURY6E2G",
+                "created": 1650180681,
+                "timestamp": 1650180681,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U02USELSBRT",
+                "editable": false,
+                "size": 83114,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03BURY6E2G\/image_from_ios.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03BURY6E2G\/download\/image_from_ios.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BURY6E2G-ba82cfc077\/image_from_ios_64.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BURY6E2G-ba82cfc077\/image_from_ios_80.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BURY6E2G-ba82cfc077\/image_from_ios_360.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 167,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BURY6E2G-ba82cfc077\/image_from_ios_480.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 222,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BURY6E2G-ba82cfc077\/image_from_ios_160.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BURY6E2G-ba82cfc077\/image_from_ios_720.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720_w": 333,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BURY6E2G-ba82cfc077\/image_from_ios_800.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1729,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BURY6E2G-ba82cfc077\/image_from_ios_960.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_960_w": 444,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BURY6E2G-ba82cfc077\/image_from_ios_1024.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_1024_w": 474,
+                "thumb_1024_h": 1024,
+                "original_w": 800,
+                "original_h": 1729,
+                "thumb_tiny": "AwAwABajxgYNJTvSkbrQAmaKKKAHelI3WjHTpQeOwoASiiigBx6CkbrS+goKt1INADaKMUYoA\/\/Z",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U02USELSBRT\/F03BURY6E2G\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03BURY6E2G-b80add8e2b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02USELSBRT",
+        "display_as_bot": false,
+        "ts": "1650180719.847649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IKuX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Screw marketing, become a Faang engineer!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "F299CF07-CE02-499A-87D5-314950F8CD91",
+        "thread_ts": "1650175284.894219",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "boom",
+                "users": [
+                    "U02V9QUDK1Q",
+                    "U030ZR9D0FK",
+                    "U030KV8R8RL"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "EFFFDBBC-C817-434C-9CDC-CE366DBC970D",
+        "type": "message",
+        "text": "I guess it goes both ways. There’s definitely a mindset shift towards Indian SaaS marketers.\n\n1. Most companies fail to see the value-add of marketing. Most founders I consult, just want content marketing without understanding the real, long term RoI. “We need a blog”. Lol. Which in turn means they’ll DEFINITELY NOT budget 50 lakh CTC for a mere “blogger”. \n2. Another reason is Indian marketers settling for less. But I can sense a shift. Hiring marketers in SaaS is becoming tougher. A recruiter recently reached out and after our CTC conversation she expressed her frustration. “I’ve been searching for this role for over 2 months now. A content marketer with 5+ years of work ex AND catering to the US audience is already a small pool and you folks are asking for a standard 40-50% hike, which is still way more than the maximum budget set for this role.” (Shoutout to my peers who didn’t settle!) She’s gone back to the management for a budget increase.\n3. It’s a slow shift, but if you refuse to settle for less, automatically you give other marketers a chance to aim higher and force companies to eventually increase their hiring budgets.",
+        "user": "U030KV8R8RL",
+        "ts": "1650187241.459759",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1d58fa7deccd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3044063413425_1d58fa7deccd79b3b2d0_72.jpg",
+            "first_name": "Vartika",
+            "real_name": "Vartika Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "vartika.gupta1911",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U030KV8R8RL",
+            "ts": "1650187338.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aKKg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I guess it goes both ways. There’s definitely a mindset shift towards Indian SaaS marketers.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Most companies fail to see the value-add of marketing. Most founders I consult, just want content marketing without understanding the real, long term RoI. “We need a blog”. Lol. Which in turn means they’ll "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "DEFINITELY NOT"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " budget 50 lakh"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " CTC"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " for a "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "mere “"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "blogger”."
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Another reason is Indian marketers settling for less. But I can sense a shift. Hiring marketers in SaaS is becoming tougher. A recruiter recently reached out and after our CTC conversation she expressed her frustration. “I’ve been searching for this role for over 2 months now. A content marketer with 5+ years of work ex AND catering to the US audience is already a small pool and you folks are asking for a standard 40-50% hike, which is still way more than the maximum budget set for this role.” (Shoutout to my peers who didn’t settle!) She’s gone back to the management for a budget increase."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "It’s a slow shift, but if you refuse to settle for less, automatically you give other marketers a chance to aim higher and force companies to eventually increase their hiring budgets."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650175284.894219",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02VA7QD8UB",
+                    "U030SDYNX7V"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U03A7KXT45S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5585887B-7F1F-47DC-8670-D1E75EB8E340",
+        "type": "message",
+        "text": "We do that <@U02PDC4883V>   Boston\/Bengaluru in our datelines. ",
+        "user": "U02VBNKU9T6",
+        "ts": "1650203757.317049",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "cb0a1d3d83f2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/3008104796193_cb0a1d3d83f2e60942d4_72.jpg",
+            "first_name": "Ketan",
+            "real_name": "Ketan Pandit",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "ketan.pandit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yWFr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We do that "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02PDC4883V"
+                            },
+                            {
+                                "type": "text",
+                                "text": "   Boston\/Bengaluru in our datelines. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649902680.473199",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02PDC4883V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c6849d88-cfa1-46a1-b2bf-82bb333dc555",
+        "type": "message",
+        "text": "I've seen this blind screenshot in LinkedIn but from the comment section it looks like all the figures are not perfect!",
+        "user": "U03AHQURB98",
+        "ts": "1650207592.394379",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1e75ac50be49",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3354970724517_1e75ac50be49acccd7cf_72.jpg",
+            "first_name": "Anindya",
+            "real_name": "Anindya Chakraborty",
+            "display_name": "Anindya Chakraborty",
+            "team": "T02PFK13YLC",
+            "name": "anindya.8336010281",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UtZVv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've seen this blind screenshot in LinkedIn but from the comment section it looks like all the figures are not perfect!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650175284.894219",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "I have been approached by my company's direct competitor. Both are US based companies. Can someone help me in driving this decision? Context: \n\nCurrent company\nPay is less (around 26 LPA). Not sure about a promotion. Good leadership. Amazing work life balance. Vested around 1.5 years worth of esops and they are at 3x value right now. Hoping for a unicorn in the next round which will happen any time now.\n\nCompetitor\nScope hai to negotiate a good hike since they're poaching and in $$ (&gt;&gt;50LPA) hehe. Not sure about culture or leadership. Not sure about esops but it's already a Unicorn so jump in $$ value zyaada nahi hai. \n\n- I want to continue in my current company but the pay is definitely tempting.\n- I'm skeptical about the competitor reaching out for strategic information in the name of \"assignments\".\n- Should I go ahead with all the rounds and then go back to my company and ask for a bigger hike? My CEO gets super anxious about this company lol. This competitor hired 30 Google devs and my CEO was all over the place about the massive spend on talent. I can play to his ego but it can as easily backfire if he gets offended. \n- There's no clause as such in my offer letter, around joining competitors.  \n\nAny help here would be great",
+        "user": "U02SXBR28G1",
+        "ts": "1650221289.562739",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hen",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have been approached by my company's direct competitor. Both are US based companies. Can someone help me in driving this decision? Context: \n\nCurrent company\nPay is less (around 26 LPA). Not sure about a promotion. Good leadership. Amazing work life balance. Vested around 1.5 years worth of esops and they are at 3x value right now. Hoping for a unicorn in the next round which will happen any time now.\n\nCompetitor\nScope hai to negotiate a good hike since they're poaching and in $$ (>>50LPA) hehe. Not sure about culture or leadership. Not sure about esops but it's already a Unicorn so jump in $$ value zyaada nahi hai. \n\n- I want to continue in my current company but the pay is definitely tempting.\n- I'm skeptical about the competitor reaching out for strategic information in the name of \"assignments\".\n- Should I go ahead with all the rounds and then go back to my company and ask for a bigger hike? My CEO gets super anxious about this company lol. This competitor hired 30 Google devs and my CEO was all over the place about the massive spend on talent. I can play to his ego but it can as easily backfire if he gets offended. \n- There's no clause as such in my offer letter, around joining competitors.  \n\nAny help here would be great"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650221289.562739",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650255137.763939",
+        "reply_users": [
+            "U02PDC4883V"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650255137.763939"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1650255137.763939"
+    },
+    {
+        "client_msg_id": "b20b4a49-9075-4c38-8078-59069b77ae11",
+        "type": "message",
+        "text": "The Indian SaaS ecosystem will NEVER pay ₹60L for any marketing role whatsoever in the 5-7 years experience range. If you're getting a package in that range, switch without thinking twice. Plus, the culture in US\/EU based companies are different (and better for most parts).",
+        "user": "U02VA7QD8UB",
+        "ts": "1650237328.118039",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "84e512c8a3fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2999004078388_84e512c8a3feeb8de835_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "T02PFK13YLC",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02VA7QD8UB",
+            "ts": "1650252205.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WR7e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The Indian SaaS ecosystem will NEVER pay ₹60L for any marketing role whatsoever in the 5-7 years experience range. If you're getting a package in that range, switch without thinking twice. Plus, the culture in US\/EU based companies are different (and better for most parts)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650175284.894219",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U0325QQQALR",
+                    "U02VA7QD8UB"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U03A7KXT45S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aaf9e77a-a4e3-42da-9195-03af78c19b2d",
+        "type": "message",
+        "text": "From a purely money point of view - if you are 100% sure of diluting your shares when the company reaches it’s unicorn status then it’s worthwhile to stay there. If you cannot sell your stake, then you have to understand when will you see the wealth coming in (IPO etc.)\n\nIf you are unable to see a way to build your wealth through ESOP’s then you can definitely look at other orgs.\n\nStrategic Information is confidential - unless it is public knowledge would recommend not sharing\n\nLooking from an overall perspective - have a chat with former employees, glassdoor reviews or anon reviews about your competition. If you feel the culture suits you, then it’s your call.",
+        "user": "U02PDC4883V",
+        "ts": "1650255137.763939",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "==RT4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "From a purely money point of view - if you are 100% sure of diluting your shares when the company reaches it’s unicorn status then it’s worthwhile to stay there. If you cannot sell your stake, then you have to understand when will you see the wealth coming in (IPO etc.)\n\nIf you are unable to see a way to build your wealth through ESOP’s then you can definitely look at other orgs.\n\nStrategic Information is confidential - unless it is public knowledge would recommend not sharing\n\nLooking from an overall perspective - have a chat with former employees, glassdoor reviews or anon reviews about your competition. If you feel the culture suits you, then it’s your call."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650221289.562739",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "<https:\/\/www.linkedin.com\/posts\/anujnarang_mondaygreens-activity-6921676414286999552-Vbns?utm_source=linkedin_share&amp;utm_medium=ios_app> Wannabe thought leadership 101. Talk random shit about random topic with random hashtag.",
+        "user": "U02SXBR28G1",
+        "ts": "1650257752.554739",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/posts\/anujnarang_mondaygreens-activity-6921676414286999552-Vbns?utm_source=linkedin_share&utm_medium=ios_app",
+                "image_url": "https:\/\/static-exp1.licdn.com\/sc\/h\/c45fy346jw096z9pbphyyhdz7",
+                "image_width": 438,
+                "image_height": 250,
+                "image_bytes": 34857,
+                "service_icon": "https:\/\/static-exp1.licdn.com\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/posts\/anujnarang_mondaygreens-activity-6921676414286999552-Vbns?utm_source=linkedin_share&amp;utm_medium=ios_app",
+                "fallback": "Anuj Narang on LinkedIn: #MondayGreens",
+                "text": "𝗗𝗲𝗮𝗿 𝗽𝗮𝘀𝘀𝗲𝗻𝗴𝗲𝗿𝘀 𝘄𝗵𝗼'𝗱 𝗯𝗲 𝗯𝗼𝗮𝗿𝗱𝗶𝗻𝗴 𝗮 𝗳𝗹𝗶𝗴𝗵𝘁 𝘁𝗼𝗱𝗮𝘆: Before complaining about your flight being delayed for 20 minutes...",
+                "title": "Anuj Narang on LinkedIn: #MondayGreens",
+                "title_link": "https:\/\/www.linkedin.com\/posts\/anujnarang_mondaygreens-activity-6921676414286999552-Vbns?utm_source=linkedin_share&utm_medium=ios_app",
+                "service_name": "linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MhHD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/anujnarang_mondaygreens-activity-6921676414286999552-Vbns?utm_source=linkedin_share&amp;utm_medium=ios_app",
+                                "text": "https:\/\/www.linkedin.com\/posts\/anujnarang_mondaygreens-activity-6921676414286999552-Vbns?utm_source=linkedin_share&utm_medium=ios_app"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Wannabe thought leadership 101. Talk random shit about random topic with random hashtag."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "unamused",
+                "users": [
+                    "U0325QQQALR",
+                    "U02USELSBRT",
+                    "U03560PQ082"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U0325QQQALR",
+                    "U03560PQ082"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "I found a unicorn <https:\/\/www.linkedin.com\/in\/sanjay-manchanda-11623a\/>",
+        "user": "U02SXBR28G1",
+        "ts": "1650260424.870889",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RxE3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I found a unicorn "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/sanjay-manchanda-11623a\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "NEED ADVICE\n\nGuys, I'm desperately in need of advice. I have 1+ years of experience and my current company pays me well, approx ~$100 per annum but this new company approached me sometime back and I have gotten through their 27 rounds of interview and they're ready to offer me $100 million but I like working with the current team, the manager is nice but I see no growth and I have $1 billion in ESOPS. Should I re-negotiate with existing company or play russian roulette with my career choices based on few extra dollars without really having a plan in place and not having any educated opinions? The new pay is definitely tempting.",
+        "user": "U02SXBR28G1",
+        "ts": "1650260953.284779",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bJP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "NEED ADVICE\n\nGuys, I'm desperately in need of advice. I have 1+ years of experience and my current company pays me well, approx ~$100 per annum but this new company approached me sometime back and I have gotten through their 27 rounds of interview and they're ready to offer me $100 million but I like working with the current team, the manager is nice but I see no growth and I have $1 billion in ESOPS. Should I re-negotiate with existing company or play russian roulette with my career choices based on few extra dollars without really having a plan in place and not having any educated opinions? The new pay is definitely tempting."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02UUMH06BT",
+                    "U03560PQ082",
+                    "U03A5S0KQMA"
+                ],
+                "count": 3
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U02UGB8DERY",
+                    "U030FPEG8R4",
+                    "U030ZR9D0FK",
+                    "U030KV8R8RL",
+                    "U02UJBF2Y4C",
+                    "U03560PQ082",
+                    "U0316NH4FQV",
+                    "U02VAPDACUQ",
+                    "U03A7KXT45S",
+                    "U02PDC6B0HH",
+                    "U03BJ320MPB",
+                    "U02TTEFFU6B",
+                    "U02UJ3N39PF",
+                    "U02V2SRR9J9",
+                    "U02VDPB8CGH",
+                    "U030QT8S084",
+                    "U0362R42317",
+                    "U0302EPHFC6",
+                    "U0313MZ9HJN",
+                    "U038WP8PLUA",
+                    "U039VSWJ85V",
+                    "U033QDFML74",
+                    "U03996E48LB"
+                ],
+                "count": 23
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "I am 28yo and am looking to get married. But being a remote content marketer makes it so difficult to explain to people what I exactly do. \n\nHow do you explain your job to people when they have only heard names like TCS and Infosys.",
+        "user": "U02SXBR28G1",
+        "ts": "1650261289.705569",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EpO4U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am 28yo and am looking to get married. But being a remote content marketer makes it so difficult to explain to people what I exactly do. \n\nHow do you explain your job to people when they have only heard names like TCS and Infosys."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650261289.705569",
+        "reply_count": 17,
+        "reply_users_count": 10,
+        "latest_reply": "1650348915.548799",
+        "reply_users": [
+            "U02VA7QD8UB",
+            "U030KV8R8RL",
+            "U02USELSBRT",
+            "U031KD0PNTX",
+            "U03560PQ082",
+            "U02UGB8DERY",
+            "U032MN1BESJ",
+            "U030EJQ7NAV",
+            "U02V22EUXM4",
+            "U02VC7G2RHS"
+        ],
+        "replies": [
+            {
+                "user": "U02VA7QD8UB",
+                "ts": "1650262187.973169"
+            },
+            {
+                "user": "U030KV8R8RL",
+                "ts": "1650262876.777549"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650267763.610219"
+            },
+            {
+                "user": "U031KD0PNTX",
+                "ts": "1650271745.523049"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650282140.060329"
+            },
+            {
+                "user": "U03560PQ082",
+                "ts": "1650284609.375009"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650285224.755539"
+            },
+            {
+                "user": "U02UGB8DERY",
+                "ts": "1650285412.713349"
+            },
+            {
+                "user": "U03560PQ082",
+                "ts": "1650285513.854799"
+            },
+            {
+                "user": "U02UGB8DERY",
+                "ts": "1650285638.495009"
+            },
+            {
+                "user": "U03560PQ082",
+                "ts": "1650285687.456749"
+            },
+            {
+                "user": "U032MN1BESJ",
+                "ts": "1650285802.255459"
+            },
+            {
+                "user": "U030EJQ7NAV",
+                "ts": "1650287869.543019"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650298671.081269"
+            },
+            {
+                "user": "U031KD0PNTX",
+                "ts": "1650299308.453389"
+            },
+            {
+                "user": "U02V22EUXM4",
+                "ts": "1650332721.678819"
+            },
+            {
+                "user": "U02VC7G2RHS",
+                "ts": "1650348915.548799"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a1e614da-68eb-49d8-9147-9d4c61419129",
+        "type": "message",
+        "text": "Tell them to mind their own business! :sweat_smile::man-shrugging:",
+        "user": "U02VA7QD8UB",
+        "ts": "1650262187.973169",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "84e512c8a3fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2999004078388_84e512c8a3feeb8de835_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "T02PFK13YLC",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "40Dz4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tell them to mind their own business! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-shrugging"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650261289.705569",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "33e83ec3-7df3-49ff-b52a-0d4318c37ff6",
+        "type": "message",
+        "text": "hahahaa welcome to the club. Just say marketing for now.",
+        "user": "U030KV8R8RL",
+        "ts": "1650262876.777549",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1d58fa7deccd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3044063413425_1d58fa7deccd79b3b2d0_72.jpg",
+            "first_name": "Vartika",
+            "real_name": "Vartika Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "vartika.gupta1911",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U030KV8R8RL",
+            "ts": "1650263252.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kdkn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hahahaa welcome to the club. Just say marketing for now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650261289.705569",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02UY3EPQDA",
+                    "U0316NH4FQV",
+                    "U03B77PCDNY"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "I work in the insurtech space. Not in the marketing \/ growth team, but as an arbitrary extension of it. We're a fairly new company, atleast compared to the competition. The way folks in my marketing team think about growth \/ their work \/ new ideas or the lack thereof is absolutely horrendous. In my previous gigs, have worked with absolutely solid folks who keep pushing boundaries and looking at these guys makes me sad.\n\nI see them posting videos of them dancing and sharing pet videos on our LI, while the competition is doing some seriously engaging stuff around insurance. I've tried giving these guys a sense of where we're losing out but they're happy in their own mirage. I'm done poking my nose where it doesn't belong now.",
+        "user": "U02SXBR28G1",
+        "ts": "1650265193.540589",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nx5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I work in the insurtech space. Not in the marketing \/ growth team, but as an arbitrary extension of it. We're a fairly new company, atleast compared to the competition. The way folks in my marketing team think about growth \/ their work \/ new ideas or the lack thereof is absolutely horrendous. In my previous gigs, have worked with absolutely solid folks who keep pushing boundaries and looking at these guys makes me sad.\n\nI see them posting videos of them dancing and sharing pet videos on our LI, while the competition is doing some seriously engaging stuff around insurance. I've tried giving these guys a sense of where we're losing out but they're happy in their own mirage. I'm done poking my nose where it doesn't belong now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650265193.540589",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650270802.016199",
+        "reply_users": [
+            "U030N8RHURZ"
+        ],
+        "replies": [
+            {
+                "user": "U030N8RHURZ",
+                "ts": "1650270802.016199"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U030N8RHURZ",
+                    "U030ZR9D0FK",
+                    "U02UMJJJALA",
+                    "U02PDC4883V",
+                    "U02URBKGVA7",
+                    "U034DCQFTA4",
+                    "U030KV8R8RL",
+                    "U0313MZ9HJN",
+                    "U03996E48LB"
+                ],
+                "count": 9
+            }
+        ]
+    }
+]

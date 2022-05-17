@@ -1,0 +1,559 @@
+[
+    {
+        "client_msg_id": "b40a11e6-75c6-43e7-8c9f-0b315fd86c62",
+        "type": "message",
+        "text": "Anyone has some great consumer-facing product marketing case studies\/roadmaps that have been super successful in the past?",
+        "user": "U03A5S0KQMA",
+        "ts": "1649671229.493509",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "88e919ee0538",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3345884762756_88e919ee053802facac0_72.jpg",
+            "first_name": "Sampath",
+            "real_name": "Sampath Putrevu",
+            "display_name": "Sampath Putrevu",
+            "team": "T02PFK13YLC",
+            "name": "sampath",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8YeUS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone has some great consumer-facing product marketing case studies\/roadmaps that have been super successful in the past?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649671229.493509",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1649697374.520199",
+        "reply_users": [
+            "U02VD2JL8N8"
+        ],
+        "replies": [
+            {
+                "user": "U02VD2JL8N8",
+                "ts": "1649697374.520199"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02V5Q6P716"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4b5ea027-9c9b-4e1f-8c21-770cadf1a053",
+        "type": "message",
+        "text": "Can someone point me to\/share their winback email campaigns that worked well?\n\nI looking for subtle re-engagement emails for unresponsive leads.",
+        "user": "U02URS98P9B",
+        "ts": "1649697245.953439",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g520bba92d58",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/520bba92d58d6cb3dac10ecae3515971.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Parth",
+            "real_name": "Parth",
+            "display_name": "Parth Shrivastava",
+            "team": "T02PFK13YLC",
+            "name": "parthshrivastava123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bm8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can someone point me to\/share their winback email campaigns that worked well?\n\nI looking for subtle re-engagement emails for unresponsive leads."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649697245.953439",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1649730930.547279",
+        "reply_users": [
+            "U0306HUGT6C"
+        ],
+        "replies": [
+            {
+                "user": "U0306HUGT6C",
+                "ts": "1649730930.547279"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U038GCYAUB1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3068de3a-8e90-471d-8fc9-8bcd0cb9822c",
+        "type": "message",
+        "text": "Slack did a pretty good launch video and surround communication on the use cases <https:\/\/youtu.be\/B6zVzWU95Sw|https:\/\/youtu.be\/B6zVzWU95Sw>",
+        "user": "U02VD2JL8N8",
+        "ts": "1649697374.520199",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1f8231d0f5f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3323449503767_1f8231d0f5f43aecb19d_72.jpg",
+            "first_name": "Mayank",
+            "real_name": "Mayank Mujumdar",
+            "display_name": "mayank",
+            "team": "T02PFK13YLC",
+            "name": "mayank13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/B6zVzWU95Sw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/B6zVzWU95Sw\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/B6zVzWU95Sw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/B6zVzWU95Sw",
+                "fallback": "YouTube Video: \"So Yeah, We Tried Slack …\"",
+                "title": "\"So Yeah, We Tried Slack …\"",
+                "title_link": "https:\/\/youtu.be\/B6zVzWU95Sw",
+                "author_name": "Slack",
+                "author_link": "https:\/\/www.youtube.com\/c\/Slackhq",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cnX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Slack did a pretty good launch video and surround communication on the use cases "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/B6zVzWU95Sw",
+                                "text": "https:\/\/youtu.be\/B6zVzWU95Sw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649671229.493509",
+        "parent_user_id": "U03A5S0KQMA"
+    },
+    {
+        "client_msg_id": "90a38e44-92b3-4b87-832e-2c8e92133287",
+        "type": "message",
+        "text": "<http:\/\/blog.chetnetwork.com\/2021\/07\/22\/the-top-ten-product-marketers-to-follow-on-linkedin\/> Do we have something similar for folks based out of India?",
+        "user": "U02VBJDHX28",
+        "ts": "1649698046.329979",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "3077c4c4c1f1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2980700295639_3077c4c4c1f15083f6f3_72.png",
+            "first_name": "Divesh",
+            "real_name": "Divesh Dhawan",
+            "display_name": "Divesh Dhawan",
+            "team": "T02PFK13YLC",
+            "name": "divesh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "http:\/\/blog.chetnetwork.com\/2021\/07\/22\/the-top-ten-product-marketers-to-follow-on-linkedin\/",
+                "ts": 1626977864,
+                "image_url": "https:\/\/lh4.googleusercontent.com\/K1QjVAvh8KVu95KspQ2g0WpxKa6HCy1IOB6FmGiXE83hEOU-Sd9KvExCBbxdZamJ4Dlm5UFdXo8p38eIhsfEwDBydu8qA6t1fiHwZISgZeBleatfF3syNT8XpJvUXwl24nuao-u8",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 216630,
+                "service_icon": "http:\/\/blog.chetnetwork.com\/wp-content\/uploads\/2021\/05\/cropped-Frame-1-180x180.png",
+                "id": 1,
+                "original_url": "http:\/\/blog.chetnetwork.com\/2021\/07\/22\/the-top-ten-product-marketers-to-follow-on-linkedin\/",
+                "fallback": "Chet: The Top Ten Product Marketers to Follow On LinkedIn - Chet",
+                "text": "Keeping up with influencers on social media has become as important as doing the job itself. Here is a list of 1o Product Marketers to follow on LinkedIn.",
+                "title": "The Top Ten Product Marketers to Follow On LinkedIn - Chet",
+                "title_link": "http:\/\/blog.chetnetwork.com\/2021\/07\/22\/the-top-ten-product-marketers-to-follow-on-linkedin\/",
+                "service_name": "Chet",
+                "fields": [
+                    {
+                        "value": "Anurita Majumdar",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "6 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WLS=X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/blog.chetnetwork.com\/2021\/07\/22\/the-top-ten-product-marketers-to-follow-on-linkedin\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Do we have something similar for folks based out of India?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "854486b8-edf6-4fdf-b9cd-30168532487e",
+        "type": "message",
+        "text": "following",
+        "user": "U0306HUGT6C",
+        "ts": "1649730930.547279",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "67b7c6606731",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-21\/2990844434084_67b7c6606731aad40c13_72.jpg",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Mirashi",
+            "display_name": "Nikhil Mirashi",
+            "team": "T02PFK13YLC",
+            "name": "cutenik85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q6l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "following"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649697245.953439",
+        "parent_user_id": "U02URS98P9B"
+    },
+    {
+        "client_msg_id": "928e94a3-8afb-4800-8799-775e7c13981b",
+        "type": "message",
+        "text": ":rotating_light:Product Marketing folks with experience in *events* - looking for some advice:rotating_light:\n\n_Context_: I work with a SaaS co building an operating system for vineyards. We help them take data-backed decisions while saving time &amp; money.\n\nI'm attending a few large scale wine trade events in the coming 45-60 days and the audience is going to be made up of our ICPs (vineyard owners, operators, viticulturists &amp; winemakers). As you can imagine, this lot is different from the conventional digital-native audience from SaaS\/consumer-tech cos we're accustomed with. As a first time participant, we've decided to not invest in booths at the events this year &amp; deploy this $ elsewhere.\n\nI was wondering if you have references\/suggestions based on experience (<https:\/\/www.freshworks.com\/live-chat-software\/business-hack-90-percent-response-rate-blog\/|example>) on how we can best use trade events for generating awareness &amp; making meaningful conversations for qualifying leads.",
+        "user": "U02VD2JL8N8",
+        "ts": "1649742018.729629",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1f8231d0f5f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3323449503767_1f8231d0f5f43aecb19d_72.jpg",
+            "first_name": "Mayank",
+            "real_name": "Mayank Mujumdar",
+            "display_name": "mayank",
+            "team": "T02PFK13YLC",
+            "name": "mayank13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.freshworks.com\/live-chat-software\/business-hack-90-percent-response-rate-blog\/",
+                "ts": 1529913883,
+                "service_icon": "https:\/\/www.freshworks.com\/live-chat-software\/wp-content\/themes\/twenty18-child\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.freshworks.com\/live-chat-software\/business-hack-90-percent-response-rate-blog\/",
+                "fallback": "Freshchat Blog: How we hacked events to get a 90% response rate",
+                "text": "From crafting personalized swags to writing great post-event emails, here are 3 things that we at Freshchat did to get a 90% response rate from people we met across the three startup events.",
+                "title": "How we hacked events to get a 90% response rate",
+                "title_link": "https:\/\/www.freshworks.com\/live-chat-software\/business-hack-90-percent-response-rate-blog\/",
+                "service_name": "Freshchat Blog"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C6D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Product Marketing folks with experience in "
+                            },
+                            {
+                                "type": "text",
+                                "text": "events",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " - looking for some advice"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Context",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": I work with a SaaS co building an operating system for vineyards. We help them take data-backed decisions while saving time & money.\n\nI'm attending a few large scale wine trade events in the coming 45-60 days and the audience is going to be made up of our ICPs (vineyard owners, operators, viticulturists & winemakers). As you can imagine, this lot is different from the conventional digital-native audience from SaaS\/consumer-tech cos we're accustomed with. As a first time participant, we've decided to not invest in booths at the events this year & deploy this $ elsewhere.\n\nI was wondering if you have references\/suggestions based on experience ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.freshworks.com\/live-chat-software\/business-hack-90-percent-response-rate-blog\/",
+                                "text": "example"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") on how we can best use trade events for generating awareness & making meaningful conversations for qualifying leads."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2be92083-daa2-4355-bf92-dee269bf3062",
+        "type": "message",
+        "text": "<@U030PQRLHEH> try <https:\/\/www.deckrooster.com\/|https:\/\/www.deckrooster.com\/>",
+        "user": "U02VD2JL8N8",
+        "ts": "1649742744.909839",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1f8231d0f5f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3323449503767_1f8231d0f5f43aecb19d_72.jpg",
+            "first_name": "Mayank",
+            "real_name": "Mayank Mujumdar",
+            "display_name": "mayank",
+            "team": "T02PFK13YLC",
+            "name": "mayank13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.deckrooster.com\/",
+                "image_url": "https:\/\/static.wixstatic.com\/media\/acff36_63c9b331b22345e9b0659690c7f8fd02~mv2.png\/v1\/fill\/w_2526,h_842,al_c\/acff36_63c9b331b22345e9b0659690c7f8fd02~mv2.png",
+                "image_width": 750,
+                "image_height": 250,
+                "image_bytes": 539227,
+                "service_icon": "https:\/\/static.parastorage.com\/client\/pfavico.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.deckrooster.com\/",
+                "fallback": "deckrooster: Deck Rooster|Sales &amp; Investor Presentations",
+                "text": "Deck Rooster helps you discover your unique narrative and communicate it through beautiful presentations.",
+                "title": "Deck Rooster|Sales &amp; Investor Presentations",
+                "title_link": "https:\/\/www.deckrooster.com\/",
+                "service_name": "deckrooster"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fUlai",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U030PQRLHEH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " try "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.deckrooster.com\/",
+                                "text": "https:\/\/www.deckrooster.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648726552.930589",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "a517b910-8399-482a-b1f9-cf721539ff1a",
+        "type": "message",
+        "text": "For your platform products, PMMs, have you figured what is the *repeatable interactions* (the one thing) on which you expect your platform to grow its user base? say 3 years from now? Please leave your comments. For MS teams, it is probably the more than 700 apps and xx users using per month using it to enable unified communication. For clearbit it is the 500 million records accessed \/ month for enrichment and give 1000s businesses deeper understanding of their customers. What’s yours? <https:\/\/www.youtube.com\/watch?v=EonUssZIY_o|Clearbit: The rocket fuel 'enriching' PLG sales - YouTube> this video led me to enquire (probably I am re-sharing as i cant find who first shared but so inspirational…..",
+        "user": "U02UZ4T10PQ",
+        "ts": "1649743460.860869",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "0e693f543f3a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-22\/2977217232247_0e693f543f3a4a1d3fd3_72.jpg",
+            "first_name": "Sagnik",
+            "real_name": "Sagnik IntelliServiceAI",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "sagnik.datta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=EonUssZIY_o",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/EonUssZIY_o\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/EonUssZIY_o?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=EonUssZIY_o",
+                "fallback": "YouTube Video: Clearbit: The rocket fuel 'enriching' PLG sales",
+                "title": "Clearbit: The rocket fuel 'enriching' PLG sales",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=EonUssZIY_o",
+                "author_name": "Top of the Lyne",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCHxEq1sQrLsQbmXEmMMNJ4A",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mn1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For your platform products, PMMs, have you figured what is the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "repeatable interactions",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (the one thing) on which you expect your platform to grow its user base? say 3 years from now? Please leave your comments. For MS teams, it is probably the more than 700 apps and xx users using per month using it to enable unified communication. For clearbit it is the 500 million records accessed \/ month for enrichment and give 1000s businesses deeper understanding of their customers. What’s yours? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=EonUssZIY_o",
+                                "text": "Clearbit: The rocket fuel 'enriching' PLG sales - YouTube"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this video led me to enquire (probably I am re-sharing as i cant find who first shared but so inspirational….."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649743460.860869",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1649747259.775639",
+        "reply_users": [
+            "U02USELSBRT"
+        ],
+        "replies": [
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649747259.775639"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

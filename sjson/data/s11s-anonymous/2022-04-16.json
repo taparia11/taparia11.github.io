@@ -1,0 +1,623 @@
+[
+    {
+        "client_msg_id": "331e4702-9fc3-4bd0-8570-80ece82c8d3e",
+        "type": "message",
+        "text": "Just adding to the above:\n\nYou say you don’t have ESOPs — you should! And if you’re the 1st employee it should be no less than 3%.  Have a chat w\/ the founder to understand if they have an ESOP pool or planning in the immediate future.\n\nDon’t stay decide to stay because of the following:\n• Good relationship w\/ founder\/manager at the current\n• learning opportunity (you’ll and can learn from anywhere if you have the appetite)\n• It’s awkward to say you want to move out\nEnd of the day, it’s a bet.  Listen you gut.  Knowing what I know today, I’d move on (purely because the opportunity cost here is so high at ~8LPA).",
+        "user": "U02UY3EPQDA",
+        "ts": "1650097182.326409",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "da155664fe94",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-20\/2981844758147_da155664fe9476fbd35b_72.jpg",
+            "first_name": "sv410_",
+            "real_name": "sv410_",
+            "display_name": "sv410_",
+            "team": "T02PFK13YLC",
+            "name": "bravenuworld",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zeat",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just adding to the above:\n\nYou say you don’t have ESOPs — you should! And if you’re the 1st employee it should be no less than 3%.  Have a chat w\/ the founder to understand if they have an ESOP pool or planning in the immediate future.\n\nDon’t stay decide to stay because of the following:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Good relationship w\/ founder\/manager at the current"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "learning opportunity (you’ll and can learn from anywhere if you have the appetite)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "It’s awkward to say you want to move out"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nEnd of the day, it’s a bet.  Listen you gut.  Knowing what I know today, I’d move on (purely because the opportunity cost here is so high at ~8LPA)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650039406.860229",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "NEED ADVICE GUYS!! I have been working for almost 10 years now and feel I haven't been able to unlock my true potential. I come from a Tier-1 arts college but somehow it has been always tough get likeable roles at top companies (strategy,ops and business roles). There have been a lot of CBC in the market in the areas of SaaS marketing, performance marketing and micro MBAs (Stoa) but I'm skeptical if they will be able to unlock the true value. I already have 720 in GMAT and I'm tempted to apply to the ISB and IIMs. Should I go ahead and get that validation and be a part of the peer group I always wanted to be? Or should I save 40 lacs and keep navigating through identity-crisis and rely on these CBC to upskill? ",
+        "user": "U02SXBR28G1",
+        "ts": "1650102129.279989",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EdkZo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "NEED ADVICE GUYS!! I have been working for almost 10 years now and feel I haven't been able to unlock my true potential. I come from a Tier-1 arts college but somehow it has been always tough get likeable roles at top companies (strategy,ops and business roles). There have been a lot of CBC in the market in the areas of SaaS marketing, performance marketing and micro MBAs (Stoa) but I'm skeptical if they will be able to unlock the true value. I already have 720 in GMAT and I'm tempted to apply to the ISB and IIMs. Should I go ahead and get that validation and be a part of the peer group I always wanted to be? Or should I save 40 lacs and keep navigating through identity-crisis and rely on these CBC to upskill?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650102129.279989",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650164653.273289",
+        "reply_users": [
+            "U02PDC4883V"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650164653.273289"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1650164653.273289"
+    },
+    {
+        "client_msg_id": "f37040f0-5c4b-45ed-9376-736be0208706",
+        "type": "message",
+        "text": "Have a transparent chat with your current company and see if they can match the hike. If not, you should take up the new offer. It's a massive hike and at the stage are in, you'll very likely be learning in your new role as well. The only thing you need to ensure if your new company will let you experiment &amp; learn without sitting on your shoulders all the time. A chat with your reporting manager and an ex.  employee of the company will help you get a perspective on this. P.S. Learning happens at all the levels. Even if you are VP\/Head with 15+ yrs of exp.",
+        "user": "U02V22EUXM4",
+        "ts": "1650117067.655399",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9f2cfa9248dc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-07\/3075859566289_9f2cfa9248dc9a1dae23_72.jpg",
+            "first_name": "Deepan",
+            "real_name": "Deepan Siddhu",
+            "display_name": "Deepan Siddhu",
+            "team": "T02PFK13YLC",
+            "name": "deepan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02V22EUXM4",
+            "ts": "1650117121.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qGSsa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Have a transparent chat with your current company and see if they can match the hike. If not, you should take up the new offer. It's a massive hike and at the stage are in, you'll very likely be learning in your new role as well. The only thing you need to ensure if your new company will let you experiment & learn without sitting on your shoulders all the time. A chat with your reporting manager and an ex.  employee of the company will help you get a perspective on this. P.S. Learning happens at all the levels. Even if you are VP\/Head with 15+ yrs of exp."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650039406.860229",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "309c9230-a956-4a58-b356-62f8d80e671d",
+        "type": "message",
+        "text": "Essential read for whenever you have this question:\n<https:\/\/bothsidesofthetable.com\/is-it-time-for-you-to-earn-or-to-learn-34270acd2f4?gi=ccaf64c3a17b|https:\/\/bothsidesofthetable.com\/is-it-time-for-you-to-earn-or-to-learn-34270acd2f4?gi=ccaf64c3a17b>",
+        "user": "U032MN1BESJ",
+        "ts": "1650120706.882429",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g8a12888a77b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a12888a77b019e4e11e0df9171feb29.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Anuj",
+            "real_name": "Anuj Adhiya",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "adhiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/bothsidesofthetable.com\/is-it-time-for-you-to-earn-or-to-learn-34270acd2f4?gi=ccaf64c3a17b",
+                "ts": 1460758739,
+                "image_url": "https:\/\/miro.medium.com\/max\/1200\/0*cOt_uKOaDJz_kxa6.jpg",
+                "image_width": 300,
+                "image_height": 199,
+                "image_bytes": 28773,
+                "service_icon": "https:\/\/miro.medium.com\/fit\/c\/152\/152\/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+                "id": 1,
+                "original_url": "https:\/\/bothsidesofthetable.com\/is-it-time-for-you-to-earn-or-to-learn-34270acd2f4?gi=ccaf64c3a17b",
+                "fallback": "Medium: Is it Time for You to Earn or to Learn?",
+                "text": "I often have career discussions with entrepreneurs — both young and more mature — whether they should join company “X” or not. I usually pull the old trick of answering a question with a question. My…",
+                "title": "Is it Time for You to Earn or to Learn?",
+                "title_link": "https:\/\/bothsidesofthetable.com\/is-it-time-for-you-to-earn-or-to-learn-34270acd2f4?gi=ccaf64c3a17b",
+                "service_name": "Medium",
+                "fields": [
+                    {
+                        "value": "7 min read",
+                        "title": "Reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J7iiO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Essential read for whenever you have this question:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bothsidesofthetable.com\/is-it-time-for-you-to-earn-or-to-learn-34270acd2f4?gi=ccaf64c3a17b",
+                                "text": "https:\/\/bothsidesofthetable.com\/is-it-time-for-you-to-earn-or-to-learn-34270acd2f4?gi=ccaf64c3a17b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650039406.860229",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "[Need Advice]\n\nI'm the \"boss\" but we're a small team and we have REALLY strong bonds.\n\nOne employee wasn't doing very well and it it continued, she may have had to be put in a PIP. So I coached her and provided the training she needed. We even set clear expectations on what she needed to achieve. She also started putting in efforts from her end.\n\nThe problem is, at the same time, due to some personal reasons, her manager stopped performing as well. It was my fault that I didn't notice this till 2 weeks later.\n\nSo she hasn't delivered on the expectations we had set earlier. I'm not sure if she would have if given a fair shot or not.\n\nThe easiest solution now would be to fix the management problem and just give her another 2-4 weeks IMO.\n\nThe problem is that her performance review is coming up that will also decide her hike.\n\nHow would you suggest I handle this? I want to be fair, but not send the wrong signal by rewarding bad performance.",
+        "user": "U02SXBR28G1",
+        "ts": "1650143243.439749",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3=VNr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[Need Advice]\n\nI'm the \"boss\" but we're a small team and we have REALLY strong bonds.\n\nOne employee wasn't doing very well and it it continued, she may have had to be put in a PIP. So I coached her and provided the training she needed. We even set clear expectations on what she needed to achieve. She also started putting in efforts from her end.\n\nThe problem is, at the same time, due to some personal reasons, her manager stopped performing as well. It was my fault that I didn't notice this till 2 weeks later.\n\nSo she hasn't delivered on the expectations we had set earlier. I'm not sure if she would have if given a fair shot or not.\n\nThe easiest solution now would be to fix the management problem and just give her another 2-4 weeks IMO.\n\nThe problem is that her performance review is coming up that will also decide her hike.\n\nHow would you suggest I handle this? I want to be fair, but not send the wrong signal by rewarding bad performance."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650143243.439749",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650169068.401859",
+        "reply_users": [
+            "U03A2UNJJDD"
+        ],
+        "replies": [
+            {
+                "user": "U03A2UNJJDD",
+                "ts": "1650169068.401859"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "Can you not push her performance review by a couple weeks? You could tell her you're open to doing it now but the odds are stacked against her. I know it's appraisal cycle and everything but it's a small team, so if you're honest and reassuring, I don't think she would have a problem with her performance review being postponed, if that means there's a possibility of better outcomes. Maybe once you speak to her you can also send her the same in writing so she has confidence that the review will happen in due time and she continues with her efforts?",
+        "user": "U02SXBR28G1",
+        "ts": "1650163483.814869",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LAfw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can you not push her performance review by a couple weeks? You could tell her you're open to doing it now but the odds are stacked against her. I know it's appraisal cycle and everything but it's a small team, so if you're honest and reassuring, I don't think she would have a problem with her performance review being postponed, if that means there's a possibility of better outcomes. Maybe once you speak to her you can also send her the same in writing so she has confidence that the review will happen in due time and she continues with her efforts?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ec566b13-337c-4c15-b39d-37eaa929c29d",
+        "type": "message",
+        "text": "There are a few folks for whom no-college, no-degree path has worked out best. However I believe them to be a very small % of the larger population who have got a good career path thanks to the college and network within the college. I owe my entire career to my Master's degree - if not for this, I would not have got my starting point. \n\nAlso (apart from IIM) an Indian MBA helps you boost your salary \/ role only if you are &lt; 15lpa. If you are already earning in your 20's and 30's you will not see a wild swing in your salary (you may also see a dip). Also the roles you get are mid level at best and I have not seen startups recruit from the college's (AFAIK). \n\nRegarding 40 lakhs - only you can answer this. Look at your savings and see what is the loan amount you woul need. Calculate your EMI, See the median salary you would probably get in a)your dream role b)the most common role you see people get. \nThen calculate if your salary - EMI gives you the option of living a good quality of life + a little bit of savings. \n\nAll in all - if you are gunning to be in a SaaS startup - does an MBA make sense? The jury's out\n\nBut if you are looking for a degree that can help you push into the right business roles with a good network behind you - MBA does make sense and the degree helps you open doors even later in life. \n\nWhich college - that's a different debate altogether.",
+        "user": "U02PDC4883V",
+        "ts": "1650164653.273289",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02PDC4883V",
+            "ts": "1650164674.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RpoOp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are a few folks for whom no-college, no-degree path has worked out best. However I believe them to be a very small % of the larger population who have got a good career path thanks to the college and network within the college. I owe my entire career to my Master's degree - if not for this, I would not have got my starting point. \n\nAlso (apart from IIM) an Indian MBA helps you boost your salary \/ role only if you are < 15lpa. If you are already earning in your 20's and 30's you will not see a wild swing in your salary (you may also see a dip). Also the roles you get are mid level at best and I have not seen startups recruit from the college's (AFAIK). \n\nRegarding 40 lakhs - only you can answer this. Look at your savings and see what is the loan amount you woul need. Calculate your EMI, See the median salary you would probably get in a)your dream role b)the most common role you see people get. \nThen calculate if your salary - EMI gives you the option of living a good quality of life + a little bit of savings. \n\nAll in all - if you are gunning to be in a SaaS startup - does an MBA make sense? The jury's out\n\nBut if you are looking for a degree that can help you push into the right business roles with a good network behind you - MBA does make sense and the degree helps you open doors even later in life. \n\nWhich college - that's a different debate altogether."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650102129.279989",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02URBKGVA7",
+                    "U030QT8S084",
+                    "U03996E48LB"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "418126a2-f696-45a9-8740-befec3a97a2f",
+        "type": "message",
+        "text": "Here are my thoughts:\n1. Every employer is responsible for team performance, but so is the employee.\n2. If lack of right training\/guidance is the core issue, the employee should've proactively taken steps to address that\n3. Are there other people in her team as well? Are they performing well? If so, then it's a slack from Her end.\n4. I'm sure her roles and responsibilities are outlined and she knows exactly what she's supposed to do. If that is so, then a manager not performing for personal reasons should not be a scape-goat for her performance.\n5. I would be empathetic, give her a fair fighting chance, but also address these core issues.\nSolution:\nReview her performance and give her an appraisal that is lesser than everybody else. Tell her that this is an opportunity\/warning for you to grow and get better at your responsibilities. Give her a 3-month window to show elevated results or there is an imminent PIP at the end of 3 months. Tell her that we are looking at fixing the management issues but she needs to start behaving as an individual contributor and not be dependent\/hand-held by her manager (considering she's been in the system for a while now)\n\nIf anybody else has any other thoughts, happy to be corrected :slightly_smiling_face:",
+        "user": "U03A2UNJJDD",
+        "ts": "1650169068.401859",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "91a4f79ca4fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3342983706615_91a4f79ca4fe220decc9_72.jpg",
+            "first_name": "Chirag",
+            "real_name": "Chirag Parmar",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "chiragparmar.marketin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c1T9u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here are my thoughts:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Every employer is responsible for team performance, but so is the employee."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "If lack of right training\/guidance is the core issue, the employee should've proactively taken steps to address that"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Are there other people in her team as well? Are they performing well? If so, then it's a slack from Her end."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I'm sure her roles and responsibilities are outlined and she knows exactly what she's supposed to do. If that is so, then a manager not performing for personal reasons should not be a scape-goat for her performance."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I would be empathetic, give her a fair fighting chance, but also address these core issues."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nSolution:\nReview her performance and give her an appraisal that is lesser than everybody else. Tell her that this is an opportunity\/warning for you to grow and get better at your responsibilities. Give her a 3-month window to show elevated results or there is an imminent PIP at the end of 3 months. Tell her that we are looking at fixing the management issues but she needs to start behaving as an individual contributor and not be dependent\/hand-held by her manager (considering she's been in the system for a while now)\n\nIf anybody else has any other thoughts, happy to be corrected "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650143243.439749",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "test",
+        "user": "U02SXBR28G1",
+        "ts": "1650174656.142409",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iIM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "test"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "I have been talking to a lot of marketers who are working with remote companies and are getting paid ~60LPA even though they work out of India while the rest of the company is spread across the world. They are not even that experienced and are in non-leadership roles. I have been working with Indian SaaS startups for ~5 years now, get ~20LPA but it hurts to see people with my level of experience go out and get paid so high. I'm thinking of switching but curious to understand if the overall Indian SaaS ecosystem is doing anything to match the global standards? (And just for argument's sake, assume I have more than enough skill and experience needed to be qualified for my role anywhere in the world)",
+        "user": "U02SXBR28G1",
+        "ts": "1650175284.894219",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4OEmc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have been talking to a lot of marketers who are working with remote companies and are getting paid ~60LPA even though they work out of India while the rest of the company is spread across the world. They are not even that experienced and are in non-leadership roles. I have been working with Indian SaaS startups for ~5 years now, get ~20LPA but it hurts to see people with my level of experience go out and get paid so high. I'm thinking of switching but curious to understand if the overall Indian SaaS ecosystem is doing anything to match the global standards? (And just for argument's sake, assume I have more than enough skill and experience needed to be qualified for my role anywhere in the world)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650175284.894219",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1650237328.118039",
+        "reply_users": [
+            "U02TTEFFU6B",
+            "U02USELSBRT",
+            "U030KV8R8RL",
+            "U03AHQURB98",
+            "U02VA7QD8UB"
+        ],
+        "replies": [
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1650179357.096899"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650180719.847649"
+            },
+            {
+                "user": "U030KV8R8RL",
+                "ts": "1650187241.459759"
+            },
+            {
+                "user": "U03AHQURB98",
+                "ts": "1650207592.394379"
+            },
+            {
+                "user": "U02VA7QD8UB",
+                "ts": "1650237328.118039"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

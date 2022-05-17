@@ -1,0 +1,881 @@
+[
+    {
+        "client_msg_id": "1C3AB401-502D-4B10-89A5-C623550C3D05",
+        "type": "message",
+        "text": "LinkedIn ‘new job’ rant - every second or third post in my feed… \n\n—\n\nAfter almost 2 weeks into the system, I am thrilled to announce that I have joined ABC company\n\nAbc company does this so great, does that so great and is the greatest-ever company I could have joined…\n\nSuper excited to join this trailblazing org and be a part of the bandwagon for years to come\n\n—\n\n6months into the role\n1. Bitches about colleagues \n2. Bitches about processes \n3. Scrolls through LI jobs section and clicks on every ‘easy apply’ option found\n4. Cries passionately at night :joy:",
+        "user": "U030EJQ7NAV",
+        "ts": "1651043238.146669",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "39ad0f3ee87d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-15\/3099176267974_39ad0f3ee87dd8bf30d5_72.png",
+            "first_name": "Tuneer",
+            "real_name": "Tuneer Malik",
+            "display_name": "Tuneer",
+            "team": "T02PFK13YLC",
+            "name": "tuneermalik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U030EJQ7NAV",
+            "ts": "1651043349.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lfV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "LinkedIn ‘new job’ rant - every second or third post in my feed… \n\n—\n\nAfter almost 2 weeks into the system, I am thrilled to announce that I have joined ABC company\n\nAbc company does this so great, does that so great and is the greatest-ever company I could have joined…\n\nSuper excited to join this trailblazing org and be a part of the bandwagon for years to come\n\n—\n\n6months into the role\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Bitches about colleagues "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Bitches about processes "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Scrolls through LI jobs section and clicks on every ‘easy apply’ option found"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Cries passionately at night "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "joy"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651043238.146669",
+        "reply_count": 12,
+        "reply_users_count": 9,
+        "latest_reply": "1651133509.461379",
+        "reply_users": [
+            "U02USELSBRT",
+            "U030KV8R8RL",
+            "U03B77PCDNY",
+            "U033KD7GMDJ",
+            "U02UMJJJALA",
+            "U030EJQ7NAV",
+            "U02UJ3N39PF",
+            "U032MN1BESJ",
+            "U02V1L48RFH"
+        ],
+        "replies": [
+            {
+                "user": "U02USELSBRT",
+                "ts": "1651043821.649159"
+            },
+            {
+                "user": "U030KV8R8RL",
+                "ts": "1651045963.061019"
+            },
+            {
+                "user": "U03B77PCDNY",
+                "ts": "1651049659.251219"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1651051975.050849"
+            },
+            {
+                "user": "U033KD7GMDJ",
+                "ts": "1651057714.979689"
+            },
+            {
+                "user": "U02UMJJJALA",
+                "ts": "1651058296.064909"
+            },
+            {
+                "user": "U030EJQ7NAV",
+                "ts": "1651061733.971119"
+            },
+            {
+                "user": "U02UJ3N39PF",
+                "ts": "1651065799.973269"
+            },
+            {
+                "user": "U032MN1BESJ",
+                "ts": "1651067061.776229"
+            },
+            {
+                "user": "U030EJQ7NAV",
+                "ts": "1651067412.160309"
+            },
+            {
+                "user": "U032MN1BESJ",
+                "ts": "1651067658.653779"
+            },
+            {
+                "user": "U02V1L48RFH",
+                "ts": "1651133509.461379"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U02VA7QD8UB",
+                    "U02TTEFFU6B",
+                    "U0362R42317",
+                    "U03847S3MJN",
+                    "U0306EA4DNK",
+                    "U033KD7GMDJ",
+                    "U02UJ3N39PF",
+                    "U0323V4CLRY",
+                    "U02UVDT0X3R"
+                ],
+                "count": 9
+            },
+            {
+                "name": "trophy",
+                "users": [
+                    "U02TTEFFU6B",
+                    "U03847S3MJN",
+                    "U02UU99BCQ2"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c6be40a1-5afc-4a98-8621-ad04fd2d019d",
+        "type": "message",
+        "text": "welcome to employability porn!\n\n• posts about hiring candidates\n• posts about rejecting candidates\n• posts about offering salaries\n• posts about getting salaries\n• posts about getting hired\n• posts about getting rejected\n• posts about leaving the company\n• posts about joining the company\n• posts about graduation\n• posts about not graduating\n• posts about mother\/father\/teacher\/bosses\n• posts about posts...phew!",
+        "user": "U02USELSBRT",
+        "ts": "1651043821.649159",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C\/W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "welcome to employability porn!\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "posts about hiring candidates"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "posts about rejecting candidates"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "posts about offering salaries"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "posts about getting salaries"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "posts about getting hired"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "posts about getting rejected"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "posts about leaving the company"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "posts about joining the company"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "posts about graduation"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "posts about not graduating"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "posts about mother\/father\/teacher\/bosses"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "posts about posts...phew!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651043238.146669",
+        "parent_user_id": "U030EJQ7NAV",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U0362R42317",
+                    "U033QDFML74",
+                    "U033KD7GMDJ",
+                    "U02UJ3N39PF",
+                    "U032MN1BESJ",
+                    "U0307CZ6CRF",
+                    "U02V1L48RFH"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6bb8760b-9731-4a0b-a74e-2ffd418584b9",
+        "type": "message",
+        "text": "• posts about lessons from Uber\/Swiggy\/Zomato drivers\n• posts verbatim copied from western influencers",
+        "user": "U030KV8R8RL",
+        "ts": "1651045963.061019",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1d58fa7deccd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3044063413425_1d58fa7deccd79b3b2d0_72.jpg",
+            "first_name": "Vartika",
+            "real_name": "Vartika Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "vartika.gupta1911",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/W6Z",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "posts about lessons from Uber\/Swiggy\/Zomato drivers"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "posts verbatim copied from western influencers"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651043238.146669",
+        "parent_user_id": "U030EJQ7NAV",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02USELSBRT",
+                    "U0362R42317",
+                    "U03A7KXT45S",
+                    "U030EJQ7NAV",
+                    "U033QDFML74",
+                    "U033KD7GMDJ",
+                    "U02UJ3N39PF"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0bb3f788-2b22-4d74-be09-abe7f971eb9a",
+        "type": "message",
+        "text": "Posts unnecessary polls that doesn't even make sense.",
+        "user": "U03B77PCDNY",
+        "ts": "1651049659.251219",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9e5ac69cfeb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-15\/3393119759589_9e5ac69cfeb96a6329a1_72.png",
+            "first_name": "SAURABH",
+            "real_name": "SAURABH WANI",
+            "display_name": "SAURABH WANI",
+            "team": "T02PFK13YLC",
+            "name": "saurabh843",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eb1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Posts unnecessary polls that doesn't even make sense."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651043238.146669",
+        "parent_user_id": "U030EJQ7NAV"
+    },
+    {
+        "client_msg_id": "97A4178B-1E8E-438E-A5EF-B60E097181DB",
+        "type": "message",
+        "text": "This is turning into a LinkedIn influencer starter pack",
+        "user": "U02USELSBRT",
+        "ts": "1651051975.050849",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1arbX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is turning into a LinkedIn influencer starter pack"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651043238.146669",
+        "parent_user_id": "U030EJQ7NAV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U0325QQQALR",
+                    "U033QDFML74",
+                    "U02V75V0YBX",
+                    "U0309B5AYTB",
+                    "U030KV8R8RL",
+                    "U02UVDT0X3R",
+                    "U0307CZ6CRF",
+                    "U039HH3LP43"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7ecc1bf7-25ce-4f38-a033-630a39779f99",
+        "type": "message",
+        "text": "• posts about the wise janitor",
+        "user": "U033KD7GMDJ",
+        "ts": "1651057714.979689",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "be06fe8acb05",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-17\/3119249088114_be06fe8acb05dc9d906f_72.jpg",
+            "first_name": "Jacob",
+            "real_name": "Jacob Koshy",
+            "display_name": "Jacob Koshy",
+            "team": "T02PFK13YLC",
+            "name": "jacob.koshy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "39d7",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "posts about the wise janitor"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651043238.146669",
+        "parent_user_id": "U030EJQ7NAV"
+    },
+    {
+        "client_msg_id": "864e5db4-508f-4ad0-b8d3-e53a2524456d",
+        "type": "message",
+        "text": "I would take a thousand humble bragging Linkedin posts over the golden emo days of Orkut when scraps like \"Wh0 w!ll cRy wh3n y0U di3\" led the discourse.",
+        "user": "U02UMJJJALA",
+        "ts": "1651058296.064909",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9b9817ebeca8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-19\/2973660754755_9b9817ebeca8c211a97a_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Nair",
+            "display_name": "Rahul Nair",
+            "team": "T02PFK13YLC",
+            "name": "rahultheinvader",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X34E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would take a thousand humble bragging Linkedin posts over the golden emo days of Orkut when scraps like \"Wh0 w!ll cRy wh3n y0U di3\" led the discourse."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651043238.146669",
+        "parent_user_id": "U030EJQ7NAV"
+    },
+    {
+        "client_msg_id": "EE5F1151-3B0F-4E09-82FB-77F1F9409220",
+        "type": "message",
+        "text": "I think our level of patience n IQ was such, that we could take the emo and make it our own.. but this barrage of BS on LinkedIn is too much :joy:",
+        "user": "U030EJQ7NAV",
+        "ts": "1651061733.971119",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "39ad0f3ee87d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-15\/3099176267974_39ad0f3ee87dd8bf30d5_72.png",
+            "first_name": "Tuneer",
+            "real_name": "Tuneer Malik",
+            "display_name": "Tuneer",
+            "team": "T02PFK13YLC",
+            "name": "tuneermalik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U6kBe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think our level of patience n IQ was such, that we could take the emo and make it our own.. but this barrage of BS on LinkedIn is too much "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651043238.146669",
+        "parent_user_id": "U030EJQ7NAV"
+    },
+    {
+        "client_msg_id": "31aa191e-0d0f-422b-9cb5-da1894712b19",
+        "type": "message",
+        "text": "Posts flaunting joining kits (brownie points if you can show off your Mac) is also in vogue :slightly_smiling_face:",
+        "user": "U02UJ3N39PF",
+        "ts": "1651065799.973269",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c79ae2fe3711",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-27\/3447464902962_c79ae2fe37111bb9ca27_72.jpg",
+            "first_name": "Shrey",
+            "real_name": "Shrey Kulshreshtha",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "shreyk186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M3xcP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Posts flaunting joining kits (brownie points if you can show off your Mac) is also in vogue "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651043238.146669",
+        "parent_user_id": "U030EJQ7NAV",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U02USELSBRT",
+                    "U02UMJJJALA"
+                ],
+                "count": 2
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U030EJQ7NAV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e47ca8a9-e10c-4cc2-9c22-84a67886d412",
+        "type": "message",
+        "text": "This post deserves to be converted into a long form post on LinkedIn ending with \"Thoughts?\"",
+        "user": "U032MN1BESJ",
+        "ts": "1651067061.776229",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g8a12888a77b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a12888a77b019e4e11e0df9171feb29.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Anuj",
+            "real_name": "Anuj Adhiya",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "adhiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dA1CW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This post deserves to be converted into a long form post on LinkedIn ending with \"Thoughts?\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651043238.146669",
+        "parent_user_id": "U030EJQ7NAV",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U030EJQ7NAV",
+                    "U035C0WTQG5"
+                ],
+                "count": 2
+            },
+            {
+                "name": "laughing",
+                "users": [
+                    "U0307CZ6CRF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1C0B7DB3-9723-4BAE-B380-C876EAA02701",
+        "type": "message",
+        "text": "One additional line in the end:\n\nJoin the s11s community for much such (reality based) sarcastic content, link to join in the first comment.",
+        "user": "U030EJQ7NAV",
+        "ts": "1651067412.160309",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "39ad0f3ee87d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-15\/3099176267974_39ad0f3ee87dd8bf30d5_72.png",
+            "first_name": "Tuneer",
+            "real_name": "Tuneer Malik",
+            "display_name": "Tuneer",
+            "team": "T02PFK13YLC",
+            "name": "tuneermalik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lp+p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "One additional line in the end:\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Join the s11s community for much such (reality based) sarcastic content, link to join in the first comment."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651043238.146669",
+        "parent_user_id": "U030EJQ7NAV"
+    },
+    {
+        "client_msg_id": "125116d4-4636-4d02-8140-cbdbcce476f2",
+        "type": "message",
+        "text": "<@U030EJQ7NAV> Can't give it up so easily now.\nHave to tell them \"Comment with \"I want this\" and I'll personally send you the link to sign up to get more of this content' :grin:",
+        "user": "U032MN1BESJ",
+        "ts": "1651067658.653779",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g8a12888a77b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a12888a77b019e4e11e0df9171feb29.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Anuj",
+            "real_name": "Anuj Adhiya",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "adhiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w8190",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U030EJQ7NAV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Can't give it up so easily now.\nHave to tell them \"Comment with \"I want this\" and I'll personally send you the link to sign up to get more of this content' "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651043238.146669",
+        "parent_user_id": "U030EJQ7NAV",
+        "reactions": [
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U02USELSBRT",
+                    "U0307CZ6CRF"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

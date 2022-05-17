@@ -1,0 +1,160 @@
+[
+    {
+        "client_msg_id": "2A9A15F3-981A-4311-B4D8-05A6B5244FA5",
+        "type": "message",
+        "text": "I’m looking for a senior performance marketer who has experience in managing $110k monthly budget, a strategist, highly analytical and an executioner. A person who can build and lead teams. Folks @here please connect him\/her with me. ",
+        "user": "U02V5J4HB1P",
+        "ts": "1650591559.454509",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "be04babdc022",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-19\/2972301585014_be04babdc022a095c4dd_72.jpg",
+            "first_name": "Saikat",
+            "real_name": "Saikat Roy",
+            "display_name": "Saikat Roy",
+            "team": "T02PFK13YLC",
+            "name": "sakiroy.sr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7p5R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m looking for a senior performance marketer who has experience in managing $110k monthly budget, a strategist, highly analytical and an executioner. A person who can build and lead teams. Folks @here please connect him\/her with me. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650591559.454509",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1650706861.772699",
+        "reply_users": [
+            "U030SDYNX7V",
+            "U02V5J4HB1P",
+            "U0316K76612"
+        ],
+        "replies": [
+            {
+                "user": "U030SDYNX7V",
+                "ts": "1650606265.105309"
+            },
+            {
+                "user": "U02V5J4HB1P",
+                "ts": "1650606615.801879"
+            },
+            {
+                "user": "U0316K76612",
+                "ts": "1650706861.772699"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6a632f4b-4cb6-4366-9c69-81edcb745779",
+        "type": "message",
+        "text": "this should go to <#C02S4318139|jobopps>",
+        "user": "U030SDYNX7V",
+        "ts": "1650606265.105309",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "dcaae4952765",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3019783298486_dcaae495276522b44a55_72.png",
+            "first_name": "Niranjan",
+            "real_name": "Niranjan Bala",
+            "display_name": "Niranjan Bala",
+            "team": "T02PFK13YLC",
+            "name": "nb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kSfXZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this should go to "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C02S4318139"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650591559.454509",
+        "parent_user_id": "U02V5J4HB1P"
+    },
+    {
+        "client_msg_id": "b83a22ca-f065-46a5-9e70-d89e03ada0e0",
+        "type": "message",
+        "text": "This is not a job posting. It's more  of mentorship.",
+        "user": "U02V5J4HB1P",
+        "ts": "1650606615.801879",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "be04babdc022",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-19\/2972301585014_be04babdc022a095c4dd_72.jpg",
+            "first_name": "Saikat",
+            "real_name": "Saikat Roy",
+            "display_name": "Saikat Roy",
+            "team": "T02PFK13YLC",
+            "name": "sakiroy.sr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sdm05",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is not a job posting. It's more  of mentorship."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650591559.454509",
+        "parent_user_id": "U02V5J4HB1P",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U030SDYNX7V",
+                    "U02V22EUXM4",
+                    "U031NC9B67L"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

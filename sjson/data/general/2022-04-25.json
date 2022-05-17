@@ -1,0 +1,1479 @@
+[
+    {
+        "client_msg_id": "6daf41ea-9518-4432-aee9-cda54160adc4",
+        "type": "message",
+        "text": "Yes <@U02UZ4T10PQ> . Feel free to DM",
+        "user": "U02PDC6B0HH",
+        "ts": "1650872849.743739",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7ce0a422fcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953759554663_b7ce0a422fcdabf5a771_72.jpg",
+            "first_name": "Shafique",
+            "real_name": "Shafique Gajdhar",
+            "display_name": "Shaf",
+            "team": "T02PFK13YLC",
+            "name": "shafiquegajdhar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yrVO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02UZ4T10PQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " . Feel free to DM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650845002.277939",
+        "parent_user_id": "U02UZ4T10PQ",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U02UZ4T10PQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d501cdbb-2214-4fac-af72-16588f467e85",
+        "type": "message",
+        "text": "Ah",
+        "user": "U030PQRLHEH",
+        "ts": "1650876374.049779",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "01a1b05516c5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-15\/3410501334369_01a1b05516c5b272fbfa_72.jpg",
+            "first_name": "Yatharth",
+            "real_name": "Yatharth Jain",
+            "display_name": "Yatharth Jain",
+            "team": "T02PFK13YLC",
+            "name": "yatharth.jain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Latr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650278659.075799",
+        "parent_user_id": "U02VDPB8CGH"
+    },
+    {
+        "client_msg_id": "ba3c3549-95f2-415e-a558-c8310a72add4",
+        "type": "message",
+        "text": "Thanks Mayur! Appreciate it.",
+        "user": "U0322F1V64C",
+        "ts": "1650877750.687229",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8650dff097cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-22\/3422906858949_8650dff097cc66532680_72.jpg",
+            "first_name": "Piyush",
+            "real_name": "Piyush Jain",
+            "display_name": "Piyush Jain",
+            "team": "T02PFK13YLC",
+            "name": "piyush716",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qqb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Mayur! Appreciate it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650615869.222849",
+        "parent_user_id": "U0322F1V64C"
+    },
+    {
+        "client_msg_id": "330252a3-8963-4201-95c7-7531dd863cd7",
+        "type": "message",
+        "text": "<@U0322F1V64C> Most welcome!",
+        "user": "U032WTRNRCK",
+        "ts": "1650877837.715709",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "3f5b17027121",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-16\/3108846316902_3f5b170271215b525cb1_72.jpg",
+            "first_name": "Mayur",
+            "real_name": "Mayur Nathani",
+            "display_name": "Mayur Nathani",
+            "team": "T02PFK13YLC",
+            "name": "mayurnathani169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dt4O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0322F1V64C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Most welcome!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650615869.222849",
+        "parent_user_id": "U0322F1V64C"
+    },
+    {
+        "client_msg_id": "cdbfe427-31f1-4c1b-adbb-51094d7a4170",
+        "type": "message",
+        "text": "Hey <@U030L4PHVN2>, I do Webflow development only. If you're ever in need of someone to build a couple of designed pages, or make significant edits, do hit me up. :raised_hands::skin-tone-3:",
+        "user": "U037N79VBPZ",
+        "ts": "1650894058.721289",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "77cb8c53ea9b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-22\/3275053700146_77cb8c53ea9b900f1296_72.jpg",
+            "first_name": "Sharvan",
+            "real_name": "Sharvan TG",
+            "display_name": "Sharvan TG",
+            "team": "T02PFK13YLC",
+            "name": "sharvan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4quc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U030L4PHVN2"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I do Webflow development only. If you're ever in need of someone to build a couple of designed pages, or make significant edits, do hit me up. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "skin_tone": 3
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650610203.443289",
+        "parent_user_id": "U030L4PHVN2"
+    },
+    {
+        "client_msg_id": "a093c9b8-41c4-46bc-8228-daaecc7b3ae1",
+        "type": "message",
+        "text": "When does a startup stops being a startup?",
+        "user": "U02PDC4883V",
+        "ts": "1650895496.168409",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DrCxq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When does a startup stops being a startup?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650895496.168409",
+        "reply_count": 13,
+        "reply_users_count": 9,
+        "latest_reply": "1651040279.065589",
+        "reply_users": [
+            "U02PDC4883V",
+            "U0362R42317",
+            "U030SDYNX7V",
+            "U02UY3EPQDA",
+            "U0310LZ3NL9",
+            "U0323V4CLRY",
+            "U02VD2JL8N8",
+            "U02UZ4T10PQ",
+            "U02USELSBRT"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650895523.600289"
+            },
+            {
+                "user": "U0362R42317",
+                "ts": "1650896554.816449"
+            },
+            {
+                "user": "U030SDYNX7V",
+                "ts": "1650896617.121589"
+            },
+            {
+                "user": "U02UY3EPQDA",
+                "ts": "1650897983.221709"
+            },
+            {
+                "user": "U0310LZ3NL9",
+                "ts": "1650902502.561719"
+            },
+            {
+                "user": "U0323V4CLRY",
+                "ts": "1650917896.835229"
+            },
+            {
+                "user": "U02VD2JL8N8",
+                "ts": "1650961715.123849"
+            },
+            {
+                "user": "U02UZ4T10PQ",
+                "ts": "1651018853.338289"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1651038532.123239"
+            },
+            {
+                "user": "U02VD2JL8N8",
+                "ts": "1651038835.557099"
+            },
+            {
+                "user": "U02UY3EPQDA",
+                "ts": "1651039556.429609"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1651040095.444209"
+            },
+            {
+                "user": "U02VD2JL8N8",
+                "ts": "1651040279.065589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1651040279.065589",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U030KFR16E4",
+                    "U02UM0P72AE",
+                    "U030ZR9D0FK",
+                    "U03560PQ082"
+                ],
+                "count": 4
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5f0461c3-5f11-479c-aca1-d430dcee1b99",
+        "type": "message",
+        "text": "Or when can we stop calling it one?",
+        "user": "U02PDC4883V",
+        "ts": "1650895523.600289",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r6W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Or when can we stop calling it one?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650895496.168409",
+        "parent_user_id": "U02PDC4883V"
+    },
+    {
+        "client_msg_id": "540ec395-b9bb-4494-a79c-f84e0731b023",
+        "type": "message",
+        "text": "No one:\nEvery Amazon employee ever: \"It's still Day one at Amazon! :heart_eyes:\"",
+        "user": "U0362R42317",
+        "ts": "1650896554.816449",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b29d31fcb2d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-04\/3194263235186_b29d31fcb2d64526ad21_72.jpg",
+            "first_name": "Mehul",
+            "real_name": "Mehul Kanodia",
+            "display_name": "Mehul",
+            "team": "T02PFK13YLC",
+            "name": "kanodiamehul17",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JUNw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No one:\nEvery Amazon employee ever: \"It's still Day one at Amazon! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650895496.168409",
+        "parent_user_id": "U02PDC4883V"
+    },
+    {
+        "client_msg_id": "2e257835-db0b-45a1-9ca9-00acec7739eb",
+        "type": "message",
+        "text": "once you have \"started\" up :stuck_out_tongue:",
+        "user": "U030SDYNX7V",
+        "ts": "1650896617.121589",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "dcaae4952765",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3019783298486_dcaae495276522b44a55_72.png",
+            "first_name": "Niranjan",
+            "real_name": "Niranjan Bala",
+            "display_name": "Niranjan Bala",
+            "team": "T02PFK13YLC",
+            "name": "nb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DCua3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "once you have \"started\" up "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650895496.168409",
+        "parent_user_id": "U02PDC4883V"
+    },
+    {
+        "client_msg_id": "fe54e7c7-9d78-4afd-8ce4-a9dcb7faee66",
+        "type": "message",
+        "text": "Great question, very personal to me!\n\nI strongly believe that a company is no longer a ‘Startup’ when it no longer plays to win.\n\nThis is from my direct experience - most “larger” companies (including highly funded startups), only play not to loose. Here are some symptoms -\n\n• People pass the buck right, left, and center\n• Most meetings and agenda end with someone saying will get back to you on that (most times they just don’t)\n• Support has no clue about how product works and only care about avg. ticket closures (that what they also get measured by)\n• Mediocrity is rampant and glares at you everyone who can see. But is never acknowledged.\n• Processes are a blockers. (this one is still okay to live with). \n• Things get measured only to make a report (I have seen worst)\n• And more…",
+        "user": "U02UY3EPQDA",
+        "ts": "1650897983.221709",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "da155664fe94",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-20\/2981844758147_da155664fe9476fbd35b_72.jpg",
+            "first_name": "sv410_",
+            "real_name": "sv410_",
+            "display_name": "sv410_",
+            "team": "T02PFK13YLC",
+            "name": "bravenuworld",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02UY3EPQDA",
+            "ts": "1650898490.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hkZI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great question, very personal to me!\n\nI strongly believe that a company is no longer a ‘Startup’ when it no longer plays to win.\n\nThis is from my direct experience - most “larger” companies (including highly funded startups), only play not to loose. Here are some symptoms -\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "People pass the buck right, left, and center"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Most meetings and agenda end with someone saying will get back to you on that (most times they just don’t)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Support has no clue about how product works and only care about avg. ticket closures (that what they also get measured by)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Mediocrity is rampant and glares at you everyone who can see. But is never acknowledged."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Processes are a blockers. (this one is still okay to live with). "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Things get measured only to make a report (I have seen worst)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "And more…"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650895496.168409",
+        "parent_user_id": "U02PDC4883V",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U02U94HSBV4",
+                    "U03847S3MJN",
+                    "U02USELSBRT"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "df67e8a0-e4cf-442b-a245-3fcb065a4a4f",
+        "type": "message",
+        "text": "has anyone here has experience with webpush campaign - some basic question like what should be approach - frequency of pushes - how much time of deliver matters?",
+        "user": "U030SDYNX7V",
+        "ts": "1650898100.150729",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "dcaae4952765",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3019783298486_dcaae495276522b44a55_72.png",
+            "first_name": "Niranjan",
+            "real_name": "Niranjan Bala",
+            "display_name": "Niranjan Bala",
+            "team": "T02PFK13YLC",
+            "name": "nb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KB71G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "has anyone here has experience with webpush campaign - some basic question like what should be approach - frequency of pushes - how much time of deliver matters?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650898100.150729",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1650971321.235449",
+        "reply_users": [
+            "U02V5HU4EP2",
+            "U031KD0PNTX"
+        ],
+        "replies": [
+            {
+                "user": "U02V5HU4EP2",
+                "ts": "1650901940.628979"
+            },
+            {
+                "user": "U031KD0PNTX",
+                "ts": "1650971321.235449"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e9eeeaaa-0280-4f8d-b2f1-12de51d3257f",
+        "type": "message",
+        "text": "<@U0326BKDQP8>",
+        "user": "U02V5HU4EP2",
+        "ts": "1650901940.628979",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "gb6fa30f50de",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b6fa30f50de947886fed88281c7644fe.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Shubham",
+            "real_name": "Shubham",
+            "display_name": "Shubham",
+            "team": "T02PFK13YLC",
+            "name": "shubhamgrover.sg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f+W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0326BKDQP8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650898100.150729",
+        "parent_user_id": "U030SDYNX7V"
+    },
+    {
+        "client_msg_id": "530d3659-4e2e-4fba-a63e-48cf3ea288e5",
+        "type": "message",
+        "text": "Till the time they are growing 3x a year.",
+        "user": "U0310LZ3NL9",
+        "ts": "1650902502.561719",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "f417b23450be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3045819664944_f417b23450be05b1ea41_72.png",
+            "first_name": "Ankit",
+            "real_name": "Ankit Dev",
+            "display_name": "Ankit Dev",
+            "team": "T02PFK13YLC",
+            "name": "ankitmalik40",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4s+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Till the time they are growing 3x a year."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650895496.168409",
+        "parent_user_id": "U02PDC4883V"
+    },
+    {
+        "client_msg_id": "9bcfc30f-99d6-4b9f-8d69-e502222d4b4c",
+        "type": "message",
+        "text": "When we develop heavier egos which makes us resistant to change\n\nOkay I think <@U0310LZ3NL9> has a better one:expressionless:",
+        "user": "U0323V4CLRY",
+        "ts": "1650917896.835229",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bda2aafa72dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-22\/3275541779442_bda2aafa72dde9c08430_72.jpg",
+            "first_name": "Samyak",
+            "real_name": "Samyak tripathi",
+            "display_name": "samyak",
+            "team": "T02PFK13YLC",
+            "name": "samyaktripathi060",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0323V4CLRY",
+            "ts": "1650917956.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p5O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When we develop heavier egos which makes us resistant to change\n\nOkay I think "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0310LZ3NL9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has a better one"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "expressionless"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650895496.168409",
+        "parent_user_id": "U02PDC4883V",
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U0310LZ3NL9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c559a367-9ccd-4be4-bf83-76299c25ad46",
+        "type": "message",
+        "text": "I'll be blunt here-&gt; What are the best channels to market a B2B Logistics Startup?",
+        "user": "U0323V4CLRY",
+        "ts": "1650927434.609449",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bda2aafa72dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-22\/3275541779442_bda2aafa72dde9c08430_72.jpg",
+            "first_name": "Samyak",
+            "real_name": "Samyak tripathi",
+            "display_name": "samyak",
+            "team": "T02PFK13YLC",
+            "name": "samyaktripathi060",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wms",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll be blunt here-> What are the best channels to market a B2B Logistics Startup?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650927434.609449",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1650978617.431369",
+        "reply_users": [
+            "U031KD0PNTX",
+            "U0323V4CLRY"
+        ],
+        "replies": [
+            {
+                "user": "U031KD0PNTX",
+                "ts": "1650971569.765209"
+            },
+            {
+                "user": "U0323V4CLRY",
+                "ts": "1650978617.431369"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c0719580-0a80-469c-8508-5c3880119b01",
+        "type": "message",
+        "text": "Trello seems like a good fit. :)",
+        "user": "U03BUHY2UQ3",
+        "ts": "1650948701.725879",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "487cb2a81e65",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-18\/3402603049378_487cb2a81e6563b21dd6_72.jpg",
+            "first_name": "Jyotika",
+            "real_name": "Jyotika Khatri",
+            "display_name": "Jyotika Khatri",
+            "team": "T02PFK13YLC",
+            "name": "jyotika",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0=M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Trello seems like a good fit. :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650612250.746899",
+        "parent_user_id": "U039U8K0HKK"
+    },
+    {
+        "client_msg_id": "b1c85764-d213-451c-8ba8-de31ae6eaf05",
+        "type": "message",
+        "text": "`Ask`\nWhat are some of the best media, content, curation, community like companies you have come across in the startup landscape?\n• For example:- Media Companies related to startups Example:- <https:\/\/www.thetwentyminutevc.com\/>\n• Curation Website across startups:- Example:- <http:\/\/Productbook.io|Productbook.io>\n• Community websites across startups:- <http:\/\/gorealy.io|gorealy.io> <http:\/\/saleshacker.com|saleshacker.com> <http:\/\/revgenius.com|revgenius.com>\n• Content:- <http:\/\/Foundationinc.com|Foundationinc.com> <http:\/\/capiche.com|capiche.com>\n`Context`\nBuilding a side project to feature GTM case studies of SaaS companies and looking for some inspiration\/insights on design side of things.",
+        "user": "U02UGB8DERY",
+        "ts": "1650950900.988549",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4cda10dd85c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2962250036230_4cda10dd85c264b66a43_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Rajvanshi",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rahulrajvanshi2501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4jrA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ask",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nWhat are some of the best media, content, curation, community like companies you have come across in the startup landscape?\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "For example:- Media Companies related to startups Example:- "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.thetwentyminutevc.com\/"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Curation Website across startups:- Example:- "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/Productbook.io",
+                                        "text": "Productbook.io"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Community websites across startups:- "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/gorealy.io",
+                                        "text": "gorealy.io"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/saleshacker.com",
+                                        "text": "saleshacker.com"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/revgenius.com",
+                                        "text": "revgenius.com"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Content:- "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/Foundationinc.com",
+                                        "text": "Foundationinc.com"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/capiche.com",
+                                        "text": "capiche.com"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Context",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nBuilding a side project to feature GTM case studies of SaaS companies and looking for some inspiration\/insights on design side of things."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650950900.988549",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1650994045.843489",
+        "reply_users": [
+            "U02V9QUDK1Q",
+            "U02UGB8DERY",
+            "U02V5HU4EP2"
+        ],
+        "replies": [
+            {
+                "user": "U02V9QUDK1Q",
+                "ts": "1650951176.912359"
+            },
+            {
+                "user": "U02UGB8DERY",
+                "ts": "1650951437.028519"
+            },
+            {
+                "user": "U02V9QUDK1Q",
+                "ts": "1650951487.072269"
+            },
+            {
+                "user": "U02UGB8DERY",
+                "ts": "1650951592.417169"
+            },
+            {
+                "user": "U02UGB8DERY",
+                "ts": "1650951643.253909"
+            },
+            {
+                "user": "U02V9QUDK1Q",
+                "ts": "1650951804.087619"
+            },
+            {
+                "user": "U02V5HU4EP2",
+                "ts": "1650994045.843489"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "182262c0-0543-492c-b555-cd43fc1e4093",
+        "type": "message",
+        "text": "only the best --&gt; <https:\/\/growth.design\/case-studies>",
+        "user": "U02V9QUDK1Q",
+        "ts": "1650951176.912359",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8140d54c5a70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2981230435879_8140d54c5a7085ca9412_72.jpg",
+            "first_name": "Abhash",
+            "real_name": "Abhash Kumar",
+            "display_name": "Abhash",
+            "team": "T02PFK13YLC",
+            "name": "abhash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/growth.design\/case-studies",
+                "image_url": "http:\/\/growth.design\/_next\/static\/media\/growth-design-comic-book.779bacf2.png",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 136109,
+                "service_icon": "https:\/\/growth.design\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/growth.design\/case-studies",
+                "fallback": "Growth.Design: 34 UX Case Studies To Improve Your Product Skills",
+                "text": "See exactly how companies like Tinder, Airbnb, Trello, Uber and Tesla design products that people love. One new user experience case study every month.",
+                "title": "34 UX Case Studies To Improve Your Product Skills",
+                "title_link": "https:\/\/growth.design\/case-studies",
+                "service_name": "Growth.Design"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Urg9U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "only the best --> "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/growth.design\/case-studies"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650950900.988549",
+        "parent_user_id": "U02UGB8DERY",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03A5S0KQMA",
+                    "U030SDYNX7V"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "96efea4f-d168-41e1-a818-bb5c80a51b08",
+        "type": "message",
+        "text": "<@U02V9QUDK1Q> Def aware of them. I am a little conflicted with this format of content delivery. While its def engaging and fun. Is the delivery format something you would really want for case studies on things like pricing, ABM, SEO etc?",
+        "user": "U02UGB8DERY",
+        "ts": "1650951437.028519",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4cda10dd85c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2962250036230_4cda10dd85c264b66a43_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Rajvanshi",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rahulrajvanshi2501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JGc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02V9QUDK1Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Def aware of them. I am a little conflicted with this format of content delivery. While its def engaging and fun. Is the delivery format something you would really want for case studies on things like pricing, ABM, SEO etc?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650950900.988549",
+        "parent_user_id": "U02UGB8DERY"
+    },
+    {
+        "client_msg_id": "52c7f984-1eba-4a1b-924a-0d442e201ab4",
+        "type": "message",
+        "text": "why not! but this’d be too much investment in terms of skill and time - so probably not a good way to start",
+        "user": "U02V9QUDK1Q",
+        "ts": "1650951487.072269",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8140d54c5a70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2981230435879_8140d54c5a7085ca9412_72.jpg",
+            "first_name": "Abhash",
+            "real_name": "Abhash Kumar",
+            "display_name": "Abhash",
+            "team": "T02PFK13YLC",
+            "name": "abhash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RC2=Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "why not! but this’d be too much investment in terms of skill and time - so probably not a good way to start"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650950900.988549",
+        "parent_user_id": "U02UGB8DERY"
+    },
+    {
+        "client_msg_id": "d591fab9-96a0-452f-97f9-0616dbf47cd6",
+        "type": "message",
+        "text": "<@U02V9QUDK1Q> Honestly pulling it off from a production standpoint is not the most complicated thing, the first time effort takes a lot of effort in terms of putting the brand guidelines together and post that it's a lot of reusing the same thing.",
+        "user": "U02UGB8DERY",
+        "ts": "1650951592.417169",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4cda10dd85c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2962250036230_4cda10dd85c264b66a43_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Rajvanshi",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rahulrajvanshi2501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F73w\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02V9QUDK1Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Honestly pulling it off from a production standpoint is not the most complicated thing, the first time effort takes a lot of effort in terms of putting the brand guidelines together and post that it's a lot of reusing the same thing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650950900.988549",
+        "parent_user_id": "U02UGB8DERY",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02V9QUDK1Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2f6020dc-d089-4a57-a66a-b376dbcf2498",
+        "type": "message",
+        "text": "<@U02V9QUDK1Q> I am considering if the broader B2B SaaS community prefers content consumption in a manner like this. Also the tradeoffs across SEO, owning email as a touchpoint with audience etc",
+        "user": "U02UGB8DERY",
+        "ts": "1650951643.253909",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4cda10dd85c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2962250036230_4cda10dd85c264b66a43_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Rajvanshi",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rahulrajvanshi2501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5ma7C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02V9QUDK1Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I am considering if the broader B2B SaaS community prefers content consumption in a manner like this. Also the tradeoffs across SEO, owning email as a touchpoint with audience etc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650950900.988549",
+        "parent_user_id": "U02UGB8DERY"
+    },
+    {
+        "client_msg_id": "523a47ea-e6a9-400e-8305-95a7b8dfbd94",
+        "type": "message",
+        "text": "it goes behind a paywall after a certain point\nSEO benefits overrated if you actually want to monetise this",
+        "user": "U02V9QUDK1Q",
+        "ts": "1650951804.087619",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8140d54c5a70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2981230435879_8140d54c5a7085ca9412_72.jpg",
+            "first_name": "Abhash",
+            "real_name": "Abhash Kumar",
+            "display_name": "Abhash",
+            "team": "T02PFK13YLC",
+            "name": "abhash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PiV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it goes behind a paywall after a certain point\nSEO benefits overrated if you actually want to monetise this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650950900.988549",
+        "parent_user_id": "U02UGB8DERY",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02UGB8DERY",
+                    "U03C4NNJWGK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0a9b1e98-59f9-4564-9420-9ef382ab7230",
+        "type": "message",
+        "text": "What are some of the best practices to grow a B2B SaaS Newsletter list?",
+        "user": "U039U8K0HKK",
+        "ts": "1650956244.358429",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g9710b85867f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9710b85867f0acd942e1877c0940c2bd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Parth",
+            "real_name": "Parth Soodan",
+            "display_name": "Parth",
+            "team": "T02PFK13YLC",
+            "name": "parth.soodan27",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XMClo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What are some of the best practices to grow a B2B SaaS Newsletter list?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650956244.358429",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1650993325.293619",
+        "reply_users": [
+            "U02V5HU4EP2"
+        ],
+        "replies": [
+            {
+                "user": "U02V5HU4EP2",
+                "ts": "1650992694.288199"
+            },
+            {
+                "user": "U02V5HU4EP2",
+                "ts": "1650993325.293619"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

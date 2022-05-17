@@ -1,0 +1,91 @@
+[
+    {
+        "client_msg_id": "949b3f0b-2c85-4d72-a17a-16f8c6c7c4a3",
+        "type": "message",
+        "text": "Grounds well group, ortus club, MGS, Marcus events , and couple more are there",
+        "user": "U038XFCC598",
+        "ts": "1650892905.947959",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "952b6269ce05",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-31\/3338042627169_952b6269ce050db95941_72.jpg",
+            "first_name": "Paddy",
+            "real_name": "Paddy",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "padmanaban.sp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hwg6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Grounds well group, ortus club, MGS, Marcus events , and couple more are there"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650512983.003829",
+        "parent_user_id": "U02V7TLU5HT",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02V7TLU5HT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "159b5c89-159c-44ea-97b5-46bf0fc5f587",
+        "type": "message",
+        "text": "In-house is far better and cost effective",
+        "user": "U03503ZMU8Z",
+        "ts": "1650904108.534879",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g80c04bfe284",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/80c04bfe28414ef1de6f18b7893fb94a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Madhuram",
+            "real_name": "Madhuram",
+            "display_name": "Maddy",
+            "team": "T02PFK13YLC",
+            "name": "madhuram.yadav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k26ey",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In-house is far better and cost effective"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650512983.003829",
+        "parent_user_id": "U02V7TLU5HT"
+    }
+]

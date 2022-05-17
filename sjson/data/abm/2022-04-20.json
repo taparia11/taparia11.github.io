@@ -1,0 +1,120 @@
+[
+    {
+        "client_msg_id": "efc7ad06-2b33-4885-b143-3560a68e66fd",
+        "type": "message",
+        "text": "<@U03560PQ082> would like an intro as well",
+        "user": "U036NSXKBPZ",
+        "ts": "1650459636.874689",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "fb6b2eb740c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-06\/3350153326259_fb6b2eb740c9a0d703c2_72.jpg",
+            "first_name": "Nilangan",
+            "real_name": "Nilangan Ray",
+            "display_name": "Nilangan Ray",
+            "team": "T02PFK13YLC",
+            "name": "nilanganray",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9y\/6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03560PQ082"
+                            },
+                            {
+                                "type": "text",
+                                "text": " would like an intro as well"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649911291.939689",
+        "parent_user_id": "U03B6AGE0HE"
+    },
+    {
+        "client_msg_id": "9A431B45-604D-41B4-929A-BD80FE4757F3",
+        "type": "message",
+        "text": "This sort of covers some points from my evaluation <https:\/\/bit.ly\/3JTPYdO|https:\/\/bit.ly\/3JTPYdO>",
+        "user": "U030E27CBB3",
+        "ts": "1650472622.013249",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "ec5003a1e337",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/3003735647700_ec5003a1e337e1285f09_72.jpg",
+            "first_name": "Sooraj",
+            "real_name": "Sooraj Divakaran",
+            "display_name": "Sooraj",
+            "team": "T02PFK13YLC",
+            "name": "soorajdivakaran",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/bit.ly\/3JTPYdO",
+                "ts": 1641186360,
+                "thumb_url": "https:\/\/digitaluncovered.com\/wp-content\/uploads\/2021\/10\/B2B-Lead-Generation-Agencies.jpg",
+                "thumb_width": 1068,
+                "thumb_height": 691,
+                "service_icon": "https:\/\/digitaluncovered.com\/wp-content\/uploads\/2021\/08\/cropped-Digital-Uncovered-Icon-2-180x180.jpg",
+                "id": 1,
+                "original_url": "https:\/\/bit.ly\/3JTPYdO",
+                "fallback": "Digital Uncovered: 5 Best B2B Lead Generation Agencies",
+                "text": "Struggling to find B2B Lead Generation Agencies to target the American &amp; European Markets? Here is our list of 5 agencies to get the job done",
+                "title": "5 Best B2B Lead Generation Agencies",
+                "title_link": "https:\/\/bit.ly\/3JTPYdO",
+                "service_name": "Digital Uncovered",
+                "fields": [
+                    {
+                        "value": "Sooraj Divakaran",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "6 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rB8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This sort of covers some points from my evaluation "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bit.ly\/3JTPYdO",
+                                "text": "https:\/\/bit.ly\/3JTPYdO"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649911291.939689",
+        "parent_user_id": "U03B6AGE0HE"
+    }
+]

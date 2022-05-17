@@ -1,0 +1,2360 @@
+[
+    {
+        "client_msg_id": "42312ded-aa51-4674-bb74-d56ae7d47708",
+        "type": "message",
+        "text": "I know <@U02ULN6EFNV> it's just that I am left out:joy:",
+        "user": "U0323V4CLRY",
+        "ts": "1649403319.946799",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bda2aafa72dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-22\/3275541779442_bda2aafa72dde9c08430_72.jpg",
+            "first_name": "Samyak",
+            "real_name": "Samyak tripathi",
+            "display_name": "samyak",
+            "team": "T02PFK13YLC",
+            "name": "samyaktripathi060",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R\/d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I know "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02ULN6EFNV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " it's just that I am left out"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649364191.670989",
+        "parent_user_id": "U0323V4CLRY"
+    },
+    {
+        "client_msg_id": "4192b5f8-39ca-4218-b2af-2c8abd3dc974",
+        "type": "message",
+        "text": "Which is the best over the ear headphones for regular usage?",
+        "user": "U02PDC4883V",
+        "ts": "1649417075.865729",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aYgOe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Which is the best over the ear headphones for regular usage?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649417075.865729",
+        "reply_count": 9,
+        "reply_users_count": 7,
+        "latest_reply": "1649575296.447629",
+        "reply_users": [
+            "U02USELSBRT",
+            "U02PDC4883V",
+            "U02V04833FT",
+            "U038WP8PLUA",
+            "U02VD2JL8N8",
+            "U02UUCE1ASD",
+            "U03AWNHA9K3"
+        ],
+        "replies": [
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649417356.340989"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649418278.732799"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649418529.197729"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649418811.352369"
+            },
+            {
+                "user": "U02V04833FT",
+                "ts": "1649422228.202429"
+            },
+            {
+                "user": "U038WP8PLUA",
+                "ts": "1649437883.126349"
+            },
+            {
+                "user": "U02VD2JL8N8",
+                "ts": "1649442724.397269"
+            },
+            {
+                "user": "U02UUCE1ASD",
+                "ts": "1649444328.644799"
+            },
+            {
+                "user": "U03AWNHA9K3",
+                "ts": "1649575296.447629"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1649575296.447629",
+        "reactions": [
+            {
+                "name": "beers",
+                "users": [
+                    "U031QKGPNRK",
+                    "U031GENLMQ8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f188edf8-5ed0-4a3d-9c3d-7bc0b481189e",
+        "type": "message",
+        "text": "<@U02ULN6EFNV> from dilli? what did i miss earlier.",
+        "user": "U031QKGPNRK",
+        "ts": "1649417134.794119",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lhxMo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02ULN6EFNV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " from dilli? what did i miss earlier."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649364191.670989",
+        "parent_user_id": "U0323V4CLRY",
+        "reactions": [
+            {
+                "name": "yes",
+                "users": [
+                    "U02ULN6EFNV",
+                    "U0323V4CLRY"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c76132a5-4f25-43fe-bd1f-fe1d6a97d859",
+        "type": "message",
+        "text": "<@U0323V4CLRY> me from Model town teesra",
+        "user": "U031QKGPNRK",
+        "ts": "1649417148.131729",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sq=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0323V4CLRY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " me from Model town teesra"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649364191.670989",
+        "parent_user_id": "U0323V4CLRY"
+    },
+    {
+        "client_msg_id": "f740317c-0bbe-4562-bc2e-e449b09d56b1",
+        "type": "message",
+        "text": "why do you want to get OTE headphones? there are good ones but in-ear is always lighter and more comfortable",
+        "user": "U02USELSBRT",
+        "ts": "1649417356.340989",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RV9xL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "why do you want to get OTE headphones? there are good ones but in-ear is always lighter and more comfortable"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649417075.865729",
+        "parent_user_id": "U02PDC4883V"
+    },
+    {
+        "client_msg_id": "97bfd46d-530a-4612-b4e4-bb0638cb5546",
+        "type": "message",
+        "text": "<@U031QKGPNRK> <@U02ULN6EFNV> <@U0323V4CLRY> hightime we shoudl plan a delhi get-together, drink beer and just forget to discuss a thing about marketing",
+        "user": "U02USELSBRT",
+        "ts": "1649417430.999599",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7aS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U031QKGPNRK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02ULN6EFNV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0323V4CLRY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hightime we shoudl plan a delhi get-together, drink beer and just forget to discuss a thing about marketing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649364191.670989",
+        "parent_user_id": "U0323V4CLRY"
+    },
+    {
+        "client_msg_id": "a8b694e3-0883-49c9-a7c8-670aaa12e217",
+        "type": "message",
+        "text": "i got a large standing desk from featherlite. best WFH investment!",
+        "user": "U035C0WTQG5",
+        "ts": "1649417597.641269",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c58a74815959",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-02\/3184928264051_c58a7481595946fb5871_72.jpg",
+            "first_name": "Mansi",
+            "real_name": "Mansi Khullar",
+            "display_name": "Mansi Khullar",
+            "team": "T02PFK13YLC",
+            "name": "mansikhullar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jl5s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i got a large standing desk from featherlite. best WFH investment!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649334326.537229",
+        "parent_user_id": "U031QKGPNRK"
+    },
+    {
+        "client_msg_id": "3AB08820-FA45-4F68-ABDE-74D125DE83B5",
+        "type": "message",
+        "text": "This weekend?",
+        "user": "U02ULN6EFNV",
+        "ts": "1649417715.161559",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g2796bce497e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2796bce497e03edc08c2719052eaae8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Chirayu",
+            "real_name": "Chirayu (Leena AI)",
+            "display_name": "Chirayu",
+            "team": "T02PFK13YLC",
+            "name": "akotiya.chirayu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KWxB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This weekend?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649364191.670989",
+        "parent_user_id": "U0323V4CLRY"
+    },
+    {
+        "client_msg_id": "2680d1b2-fd90-498a-8194-c7dfd70c5042",
+        "type": "message",
+        "text": "<@U02ULN6EFNV> let's make an delhi-ncr group and float this?",
+        "user": "U02USELSBRT",
+        "ts": "1649417779.199159",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rGBmr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02ULN6EFNV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " let's make an delhi-ncr group and float this?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649364191.670989",
+        "parent_user_id": "U0323V4CLRY"
+    },
+    {
+        "client_msg_id": "74608229-281c-4b68-b3cb-924626d2ee11",
+        "type": "message",
+        "text": "<https:\/\/s11s.slack.com\/archives\/C02PS0CGPU1\/p1648451183885409>",
+        "user": "U02USELSBRT",
+        "ts": "1649417807.452989",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/s11s.slack.com\/archives\/C02PS0CGPU1\/p1648451183885409",
+                "ts": "1648451183.885409",
+                "author_id": "U02USELSBRT",
+                "channel_team": "T02PFK13YLC",
+                "channel_id": "C02PS0CGPU1",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T02PFK13YLC",
+                        "channel": "C02PS0CGPU1",
+                        "ts": "1648451183.885409",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "6b4",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Delhi-NCR channel too? :)"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/s11s.slack.com\/archives\/C02PS0CGPU1\/p1648451183885409",
+                "fallback": "[March 28th, 2022 12:06 AM] link2ani: Delhi-NCR channel too? :)",
+                "text": "Delhi-NCR channel too? :)",
+                "author_name": "Aniruddh Jain",
+                "author_link": "https:\/\/s11s.slack.com\/team\/U02USELSBRT",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_48.jpg",
+                "author_subname": "Aniruddh Jain",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Thread in #general"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5vK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/s11s.slack.com\/archives\/C02PS0CGPU1\/p1648451183885409"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649364191.670989",
+        "parent_user_id": "U0323V4CLRY"
+    },
+    {
+        "client_msg_id": "82fc7c13-b458-40d7-8aed-6024d462d365",
+        "type": "message",
+        "text": "people who reacted to this thread can be added",
+        "user": "U02USELSBRT",
+        "ts": "1649417818.735309",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D74",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "people who reacted to this thread can be added"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649364191.670989",
+        "parent_user_id": "U0323V4CLRY"
+    },
+    {
+        "client_msg_id": "f50ccf0e-fa3b-4c94-9c77-0ce7d666f0c4",
+        "type": "message",
+        "text": "and this: <https:\/\/s11s.slack.com\/archives\/C02SK1UM1U5\/p1647843963638659>",
+        "user": "U02USELSBRT",
+        "ts": "1649417838.280639",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/s11s.slack.com\/archives\/C02SK1UM1U5\/p1647843963638659",
+                "ts": "1647843963.638659",
+                "author_id": "U0306EA4DNK",
+                "channel_team": "T02PFK13YLC",
+                "channel_id": "C02SK1UM1U5",
+                "channel_name": "random_coffees",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T02PFK13YLC",
+                        "channel": "C02SK1UM1U5",
+                        "ts": "1647843963.638659",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "yU\/h",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Hey, is anyone up for a real-life coffee meet-up in Delhi this week?"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/s11s.slack.com\/archives\/C02SK1UM1U5\/p1647843963638659",
+                "fallback": "[March 20th, 2022 11:26 PM] niharika.sharma: Hey, is anyone up for a real-life coffee meet-up in Delhi this week?",
+                "text": "Hey, is anyone up for a real-life coffee meet-up in Delhi this week?",
+                "author_name": "Niharika Sharma",
+                "author_link": "https:\/\/s11s.slack.com\/team\/U0306EA4DNK",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2022-01-27\/3021132441123_7b82ad2e91c9f667242e_48.jpg",
+                "author_subname": "Niharika Sharma",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Thread in #random_coffees"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vTCS8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and this: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/s11s.slack.com\/archives\/C02SK1UM1U5\/p1647843963638659"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649364191.670989",
+        "parent_user_id": "U0323V4CLRY"
+    },
+    {
+        "bot_id": "B030YTVR3C4",
+        "type": "message",
+        "text": "This content can’t be displayed.",
+        "user": "U030WJYN76W",
+        "ts": "1649418000.956599",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B030YTVR3C4",
+            "deleted": false,
+            "name": "Trivia - Games | Virtual Coffee",
+            "updated": 1646662985,
+            "app_id": "A012T9P9VQF",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_72.png"
+            },
+            "team_id": "T02PFK13YLC"
+        },
+        "edited": {
+            "user": "B030YTVR3C4",
+            "ts": "1649418172.000000"
+        },
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "=BEA",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "We just completed a quiz on Know Your Team (5 questions). Here are the results:\n\n:tada: Well done <@U03AG8VB44S>! :tada:",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "4hOG",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Podium* :trophy:\n:first_place_medal: <@U03AG8VB44S> (159.88)\n:second_place_medal: <@U032G5AP31U> (139.75)\n:third_place_medal: <@U02UZL0FMC1> (88.17)\n",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "image",
+                "block_id": "ofPK",
+                "image_url": "https:\/\/engage-custom-gifs.s3.us-east-1.amazonaws.com\/custom-gifs\/U03AG8VB44S-1649418156.gif",
+                "alt_text": "gif",
+                "image_width": 330,
+                "image_height": 184,
+                "image_bytes": 677943,
+                "is_animated": true,
+                "fallback": "330x184px image"
+            },
+            {
+                "type": "actions",
+                "block_id": "result-footer",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "play_game",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Start Another Game",
+                            "emoji": true
+                        },
+                        "style": "primary",
+                        "value": "all|game-result"
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "global-leaderboard",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "View overall leaderboard ",
+                            "emoji": true
+                        },
+                        "value": "quiz-leaderboard-overall|game-result",
+                        "url": "https:\/\/trivia.springworks.in\/public\/leaderboard\/61f7bf877ac06a0018e5824d"
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "worthymentions",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Worthy Mentions :medal:",
+                            "emoji": true
+                        },
+                        "value": "worthymention-62501f1059b77d7462154bea"
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "SGn1i"
+            },
+            {
+                "type": "context",
+                "block_id": "TUaF",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "*Scheduled By*: <@U02PDC6B0HH> | Via *Surprise Me* :dizzy: | *Quiz* | *5 Questions* | *Category*: Know Your Team | *20 seconds* per question | *Total Participants*: 5",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "8uWf"
+            },
+            {
+                "type": "section",
+                "block_id": "J2v",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":tada: Hooray, it’s on! I will launch a new game every day at 05:30 pm.",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "divider",
+                "block_id": "zsxb"
+            },
+            {
+                "type": "context",
+                "block_id": "fM8m",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "\nNeed help in using Trivia? Want to take full advantage of Trivia’s suite of games? Check out the full user guide <https:\/\/bit.ly\/trivia-user-guide|here>.",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649418000.956599",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1649418157.365259",
+        "reply_users": [
+            "U030WJYN76W"
+        ],
+        "replies": [
+            {
+                "user": "U030WJYN76W",
+                "ts": "1649418157.365259"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "bot_id": "B030YTVR3C4",
+        "type": "message",
+        "text": "Quiz history",
+        "user": "U030WJYN76W",
+        "ts": "1649418157.365259",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B030YTVR3C4",
+            "app_id": "A012T9P9VQF",
+            "name": "Trivia - Games | Virtual Coffee",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_72.png"
+            },
+            "deleted": false,
+            "updated": 1646662985,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "context",
+                "block_id": "TxEe",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "1. Question on <@U038G1N8WNQ> \n What’s their favorite TV show—the one they’re always watching on repeat?\n\n:x: House of Cards\n:x: Breaking Bad\n:x: Silicon Valley\n:white_check_mark: Friends &amp; seinfeld (equal weightage)\n\n:cricket: No one got it right!",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "g1CKd"
+            },
+            {
+                "type": "context",
+                "block_id": "=mSKO",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "2. Question on <@U038G1N8WNQ> \n What's their favorite product branding or logo?\n\n:white_check_mark: Tesla\n:x: Peps\n:x: Target\n:x: Google\n\n:tada: Nice job! <@U032G5AP31U> <@U03AG8VB44S>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "zwyDu"
+            },
+            {
+                "type": "context",
+                "block_id": "srvTz",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "3. Question on <@U038G1N8WNQ> \n If they could change places with anyone in the world, who would it be\n\n:x: Roger Federer\n:white_check_mark: None, i'm happy where i am\n:x: LeBron James\n:x: Usain Bolt\n\n:tada: Nice job! <@U032G5AP31U> <@U03AG8VB44S>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "H0vB"
+            },
+            {
+                "type": "context",
+                "block_id": "Wxmk",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "4. Question on <@U038G1N8WNQ> \n What fictional family would they be a member of?\n\n:white_check_mark: The fockers\n:x: Royal Family: Black Panther\n:x: Baratheons\n:x: Wayne\n\n:cricket: No one got it right!",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "IVZ2"
+            },
+            {
+                "type": "context",
+                "block_id": "Ws\/g",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "5. Question on <@U039L0HCSHW> \n What's their hidden talent or hobby?\n\n:x: Football\n:x: Cycling\n:white_check_mark: Poetry\n:x: Embroidery\n\n:tada: Nice job! <@U02UZL0FMC1> <@U02URBKGVA7>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "WjAOA"
+            }
+        ],
+        "thread_ts": "1649418000.956599",
+        "parent_user_id": "U030WJYN76W"
+    },
+    {
+        "client_msg_id": "f05a6e8a-e2ec-4182-893f-b216d30d4ab9",
+        "type": "message",
+        "text": "In-ear has led to a lot of problems in the past. Though I have always bought budget. Somehow felt that over-ear was better than in-ear",
+        "user": "U02PDC4883V",
+        "ts": "1649418278.732799",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QmqI9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In-ear has led to a lot of problems in the past. Though I have always bought budget. Somehow felt that over-ear was better than in-ear"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649417075.865729",
+        "parent_user_id": "U02PDC4883V"
+    },
+    {
+        "client_msg_id": "87c06798-953e-4296-a26b-355a09d48fb9",
+        "type": "message",
+        "text": "OTE has sweat issues + a bigger magnet means more weight + more electromagnetic waves near your most important body part (or second most important depending on how you look at it)",
+        "user": "U02USELSBRT",
+        "ts": "1649418529.197729",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3miZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OTE has sweat issues + a bigger magnet means more weight + more electromagnetic waves near your most important body part (or second most important depending on how you look at it)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649417075.865729",
+        "parent_user_id": "U02PDC4883V"
+    },
+    {
+        "client_msg_id": "341b8c91-ecaf-47ae-8809-4709e5c70672",
+        "type": "message",
+        "text": "or you can also get <https:\/\/www.amazon.in\/AfterShokz-Titanium-Conduction-Headphones-AS600CR\/dp\/B07PDDK7TV\/|bone conduction headphones>, they're dope :D",
+        "user": "U02USELSBRT",
+        "ts": "1649418811.352369",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pYV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or you can also get "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.in\/AfterShokz-Titanium-Conduction-Headphones-AS600CR\/dp\/B07PDDK7TV\/",
+                                "text": "bone conduction headphones"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", they're dope :D"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649417075.865729",
+        "parent_user_id": "U02PDC4883V"
+    },
+    {
+        "bot_id": "B030YTVR3C4",
+        "type": "message",
+        "text": "Monthly Leaderboard",
+        "user": "U030WJYN76W",
+        "ts": "1649419137.040759",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B030YTVR3C4",
+            "app_id": "A012T9P9VQF",
+            "name": "Trivia - Games | Virtual Coffee",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_72.png"
+            },
+            "deleted": false,
+            "updated": 1646662985,
+            "team_id": "T02PFK13YLC"
+        },
+        "edited": {
+            "user": "B030YTVR3C4",
+            "ts": "1649419324.000000"
+        },
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "FGA9",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*You did it, <@U02PDC6B0HH> :partying_face:* \n\n You won the March's Player of the Month Award for the True or False category :clap:",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "image",
+                "block_id": "FAJ",
+                "image_url": "https:\/\/engage-custom-gifs.s3.us-east-1.amazonaws.com\/custom-gifs\/U02PDC6B0HH-1649419323.gif",
+                "alt_text": "Monthly_Leaderboard_GIF",
+                "image_width": 500,
+                "image_height": 286,
+                "image_bytes": 694007,
+                "is_animated": true,
+                "fallback": "500x286px image"
+            },
+            {
+                "type": "section",
+                "block_id": "mPRi",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "To check the results of the True or False, click <https:\/\/s11s.slack.com\/archives\/C02UG9PFP2A\/p1649419323873449?thread_ts=1649419137.040759&amp;cid=C02UG9PFP2A|here>",
+                    "verbatim": false
+                }
+            }
+        ],
+        "thread_ts": "1649419137.040759",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1649419834.519349",
+        "reply_users": [
+            "U030WJYN76W",
+            "U02UZL0FMC1",
+            "U031S7RT8BX",
+            "U02PDC6B0HH"
+        ],
+        "replies": [
+            {
+                "user": "U030WJYN76W",
+                "ts": "1649419323.660599"
+            },
+            {
+                "user": "U030WJYN76W",
+                "ts": "1649419323.873449"
+            },
+            {
+                "user": "U02UZL0FMC1",
+                "ts": "1649419629.771779"
+            },
+            {
+                "user": "U031S7RT8BX",
+                "ts": "1649419661.315039"
+            },
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1649419731.975839"
+            },
+            {
+                "user": "U02UZL0FMC1",
+                "ts": "1649419834.519349"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "bot_id": "B030YTVR3C4",
+        "type": "message",
+        "text": "This content can’t be displayed.",
+        "user": "U030WJYN76W",
+        "ts": "1649419323.660599",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B030YTVR3C4",
+            "app_id": "A012T9P9VQF",
+            "name": "Trivia - Games | Virtual Coffee",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_72.png"
+            },
+            "deleted": false,
+            "updated": 1646662985,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "context",
+                "block_id": "cJs",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "1. It is possible to sneeze with your eyes open.\n\n*Answer:* false\n\n*Original fact:* It is impossible to sneeze with your eyes open.\n\n:tada: Nice job! <@U039FQ2SNNN> <@U02PDC6B0HH> <@U031S7RT8BX> <@U02UZL0FMC1>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "\/dRNS"
+            },
+            {
+                "type": "context",
+                "block_id": "BEn",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "2. A cockroach will live nine days without its head before it starves to death.\n\n*Answer:* true\n\n:tada: Nice job! <@U02UZL0FMC1> <@U031S7RT8BX> <@U039FQ2SNNN>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "Y=v=m"
+            },
+            {
+                "type": "context",
+                "block_id": "kYH",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "3. A sneeze travels faster than a horse.\n\n*Answer:* true\n\n:tada: Nice job! <@U039FQ2SNNN> <@U031S7RT8BX> <@U02UZL0FMC1> <@U02PDC6B0HH>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "h68b"
+            },
+            {
+                "type": "context",
+                "block_id": "rC45",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "4. The venom of the black widow spider is more poisonus than that of a rattle snake.\n\n*Answer:* true\n\n:tada: Nice job! <@U039FQ2SNNN> <@U02UZL0FMC1> <@U031S7RT8BX>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "ObIHI"
+            },
+            {
+                "type": "context",
+                "block_id": "+DO",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "5. Sharon Stone was the first Star Search spokesmodel.\n\n*Answer:* true\n\n:cricket: No one got it right!",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "yhHMY"
+            },
+            {
+                "type": "context",
+                "block_id": "vc7Vz",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "6. It takes 500 years for aluminium cans to break down.\n\n*Answer:* true\n\n:tada: Nice job! <@U02UZL0FMC1> <@U039FQ2SNNN> <@U031S7RT8BX>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "Zzq"
+            },
+            {
+                "type": "context",
+                "block_id": "ut=",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "7. The world’s largest working mobile phone is taller than the average human.\n\n*Answer:* true\n\n:tada: Nice job! <@U02UZL0FMC1> <@U031S7RT8BX>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "EViT"
+            },
+            {
+                "type": "context",
+                "block_id": "oM1v",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "8. People have higher chances of dying on their birthday than on any other days.\n\n*Answer:* true\n\n:tada: Nice job! <@U02UZL0FMC1> <@U039FQ2SNNN> <@U031S7RT8BX>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "na8o"
+            },
+            {
+                "type": "context",
+                "block_id": "lPwD",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "9. Hair grows at different speeds based on what time of the day is and which season of the year it is.\n\n*Answer:* true\n\n:tada: Nice job! <@U02UZL0FMC1> <@U031S7RT8BX> <@U039FQ2SNNN>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "iBmVc"
+            },
+            {
+                "type": "context",
+                "block_id": "8D=R",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "10. The plastic things on the end of shoelaces are called aglets.\n\n*Answer:* true\n\n:tada: Nice job! <@U02UZL0FMC1> <@U031S7RT8BX> <@U039FQ2SNNN> <@U02PDC6B0HH>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "sRyk"
+            }
+        ],
+        "thread_ts": "1649419137.040759",
+        "parent_user_id": "U030WJYN76W"
+    },
+    {
+        "bot_id": "B030YTVR3C4",
+        "type": "message",
+        "text": "This content can’t be displayed.",
+        "user": "U030WJYN76W",
+        "ts": "1649419323.873449",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B030YTVR3C4",
+            "app_id": "A012T9P9VQF",
+            "name": "Trivia - Games | Virtual Coffee",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_72.png"
+            },
+            "deleted": false,
+            "updated": 1646662985,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "dNOG",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "We just finished a game True or False (10 questions). Here are the results:\n\n:handshake: It's a tie! Well done <@U031S7RT8BX>, <@U02UZL0FMC1> :handshake:",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "PPKn",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Podium* :trophy:\n:first_place_medal:<@U031S7RT8BX>, <@U02UZL0FMC1> (9\/10)\n:second_place_medal:<@U039FQ2SNNN> (8\/10)\n:third_place_medal:<@U02PDC6B0HH> (3\/10)\n",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "image",
+                "block_id": "XfcRz",
+                "image_url": "https:\/\/media.giphy.com\/media\/xT1Ra7tI7K0OqujXY4\/giphy.gif",
+                "alt_text": "gif",
+                "image_width": 480,
+                "image_height": 360,
+                "image_bytes": 1163680,
+                "is_animated": true,
+                "fallback": "480x360px image"
+            },
+            {
+                "type": "actions",
+                "block_id": "result-footer",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "start_trueOrFalse",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Start Another Game",
+                            "emoji": true
+                        },
+                        "style": "primary",
+                        "value": "true or false|game-result"
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "global-leaderboard",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "View overall leaderboard ",
+                            "emoji": true
+                        },
+                        "value": "quiz-leaderboard-overall|game-result",
+                        "url": "https:\/\/trivia.springworks.in\/public\/leaderboard\/61f7bf877ac06a0018e5824d"
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "I4UY"
+            },
+            {
+                "type": "context",
+                "block_id": "l7uAT",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "*Host*: <@U02PDC6B0HH> | *True or False* | *Total Participants*: 5",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "context",
+                "block_id": "R2zo",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "\nNeed help in using Trivia? Want to take full advantage of Trivia’s suite of games? Check out the full user guide <https:\/\/bit.ly\/trivia-user-guide|here>.",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649419137.040759",
+        "parent_user_id": "U030WJYN76W",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U031S7RT8BX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "11bd60b3-0f34-4ef7-927d-3e3cf3985a63",
+        "type": "message",
+        "text": "<@U031S7RT8BX> :handshake:",
+        "user": "U02UZL0FMC1",
+        "ts": "1649419629.771779",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "07d1e2d3116d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-28\/3314769628305_07d1e2d3116dd8fa2cb8_72.jpg",
+            "first_name": "Megha",
+            "real_name": "Megha",
+            "display_name": "Megha (CogniSaaS)",
+            "team": "T02PFK13YLC",
+            "name": "hellomeghapoojari",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TIy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U031S7RT8BX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "handshake"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649419137.040759",
+        "parent_user_id": "U030WJYN76W"
+    },
+    {
+        "client_msg_id": "8c075b85-213f-4a5e-9755-a1500e22eec3",
+        "type": "message",
+        "text": "<@U02UZL0FMC1> :handshake: :raised_hands:",
+        "user": "U031S7RT8BX",
+        "ts": "1649419661.315039",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c42d1ea9212b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-06\/3048561810311_c42d1ea9212bcc36c6c2_72.jpg",
+            "first_name": "Chaitanya",
+            "real_name": "Chaitanya Reddy A S K",
+            "display_name": "Chaitanya Reddy A S K",
+            "team": "T02PFK13YLC",
+            "name": "ask.creddy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wi1S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02UZL0FMC1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "handshake"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649419137.040759",
+        "parent_user_id": "U030WJYN76W"
+    },
+    {
+        "client_msg_id": "ca5de312-f949-4603-bd6a-71dc25b46a3d",
+        "type": "message",
+        "text": "kaise kar lete ho aap dono. :clap:",
+        "user": "U02PDC6B0HH",
+        "ts": "1649419731.975839",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7ce0a422fcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953759554663_b7ce0a422fcdabf5a771_72.jpg",
+            "first_name": "Shafique",
+            "real_name": "Shafique Gajdhar",
+            "display_name": "Shaf",
+            "team": "T02PFK13YLC",
+            "name": "shafiquegajdhar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KnHAR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "kaise kar lete ho aap dono. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clap"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649419137.040759",
+        "parent_user_id": "U030WJYN76W"
+    },
+    {
+        "type": "message",
+        "text": "<@U02PDC6B0HH>",
+        "files": [
+            {
+                "id": "F03BEEJELE4",
+                "created": 1649419829,
+                "timestamp": 1649419829,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02UZL0FMC1",
+                "editable": false,
+                "size": 477150,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03BEEJELE4\/image.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03BEEJELE4\/download\/image.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BEEJELE4-ee53b9a587\/image_64.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BEEJELE4-ee53b9a587\/image_80.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BEEJELE4-ee53b9a587\/image_360.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 360,
+                "thumb_360_h": 157,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BEEJELE4-ee53b9a587\/image_480.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 480,
+                "thumb_480_h": 210,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BEEJELE4-ee53b9a587\/image_160.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BEEJELE4-ee53b9a587\/image_720.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720_w": 720,
+                "thumb_720_h": 314,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BEEJELE4-ee53b9a587\/image_800.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_800_w": 800,
+                "thumb_800_h": 349,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BEEJELE4-ee53b9a587\/image_960.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_960_w": 960,
+                "thumb_960_h": 419,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BEEJELE4-ee53b9a587\/image_1024.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 447,
+                "original_w": 1024,
+                "original_h": 447,
+                "thumb_tiny": "AwAUADC\/vXztuRux0obBUVmNdMZfMAAYDFSJeqBghs49OlAA7L5IAIJxyKqnjsRz605cZLbhzUUg2uRn8qBkqYDAkgYOeavWpDXGcdVrN+bA+U896kSaSKTPcetCBkRbB6A03fz90UN96k70B1HkhcEKKcjbzllGRTG+6v0p0PekDHA5A9jimyNl2yBxSr0\/Gmv99\/xoA\/\/Z",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U02UZL0FMC1\/F03BEEJELE4\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03BEEJELE4-1a73f7cf31",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02UZL0FMC1",
+        "display_as_bot": false,
+        "ts": "1649419834.519349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3vT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02PDC6B0HH"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "92698dbc-9f35-4f15-b2fa-2f0f4f3a1fbc",
+        "thread_ts": "1649419137.040759",
+        "parent_user_id": "U030WJYN76W",
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "U02PDC6B0HH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U031S7RT8BX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1bf2cf1c-a1eb-4e49-bd64-29a0e3f9b80d",
+        "type": "message",
+        "text": "“SaaS firm K*issflow* gifts BMW cars to five special employees who have been part of the company’s journey since the start.. company has also completed 10 years of taking its product to the US market”\n<https:\/\/twitter.com\/sindhuhTOI\/status\/1512389606230003712?s=20&amp;t=U9bSLV6EBaAsHcv1UjklZQ>",
+        "user": "U02V9QUDK1Q",
+        "ts": "1649421073.531549",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8140d54c5a70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2981230435879_8140d54c5a7085ca9412_72.jpg",
+            "first_name": "Abhash",
+            "real_name": "Abhash Kumar",
+            "display_name": "Abhash",
+            "team": "T02PFK13YLC",
+            "name": "abhash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/sindhuhTOI\/status\/1512389606230003712?s=20&amp;t=U9bSLV6EBaAsHcv1UjklZQ",
+                "ts": 1649416755,
+                "image_url": "https:\/\/pbs.twimg.com\/media\/FP0WUwLVUAEPdcY.jpg",
+                "image_width": 1024,
+                "image_height": 768,
+                "image_bytes": 151140,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/sindhuhTOI\/status\/1512389606230003712?s=20&amp;t=U9bSLV6EBaAsHcv1UjklZQ",
+                "fallback": "<https:\/\/twitter.com\/sindhuhTOI|@sindhuhTOI>: SaaS firm <https:\/\/twitter.com\/kissflow|@kissflow> gifts #BMW cars to five special employees who have been part of the company’s journey since the start.. company has also completed 10 years of taking its product to the US market  \n<https:\/\/twitter.com\/TOIBusiness|@TOIBusiness> <https:\/\/pbs.twimg.com\/media\/FP0WUwLVUAEPdcY.jpg>",
+                "text": "SaaS firm <https:\/\/twitter.com\/kissflow|@kissflow> gifts #BMW cars to five special employees who have been part of the company’s journey since the start.. company has also completed 10 years of taking its product to the US market  \n<https:\/\/twitter.com\/TOIBusiness|@TOIBusiness> <https:\/\/pbs.twimg.com\/media\/FP0WUwLVUAEPdcY.jpg>",
+                "author_name": "Sindhu Hariharan",
+                "author_link": "https:\/\/twitter.com\/sindhuhTOI\/status\/1512389606230003712",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1442104083641372672\/Bow-kN60_normal.jpg",
+                "author_subname": "@sindhuhTOI",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            },
+            {
+                "image_url": "https:\/\/pbs.twimg.com\/media\/FP0WUwLVcAwc7A3.jpg",
+                "image_width": 1024,
+                "image_height": 576,
+                "image_bytes": 151466,
+                "id": 2,
+                "fallback": "1024x576px image",
+                "text": "<https:\/\/pbs.twimg.com\/media\/FP0WUwLVcAwc7A3.jpg>"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G4jPZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "“SaaS firm K"
+                            },
+                            {
+                                "type": "text",
+                                "text": "issflow",
+                                "style": {
+                                    "bold": true,
+                                    "unlink": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " gifts "
+                            },
+                            {
+                                "type": "text",
+                                "text": "BMW",
+                                "style": {
+                                    "unlink": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " cars to five special employees who have been part of the company’s journey since the start.. company has also completed 10 years of taking its product to the US market”\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/sindhuhTOI\/status\/1512389606230003712?s=20&t=U9bSLV6EBaAsHcv1UjklZQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "81efb8f4-01a8-4f70-a87b-0c937bc354a2",
+        "type": "message",
+        "text": "Sony WH-CH710N is a good one. Everyone I know felt good about it.\n\nIf you can splurge, look no further than Bose.",
+        "user": "U02V04833FT",
+        "ts": "1649422228.202429",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "001b4249df83",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3135003300419_001b4249df8304206994_72.png",
+            "first_name": "Ganesh",
+            "real_name": "Ganesh N",
+            "display_name": "Ganesh",
+            "team": "T02PFK13YLC",
+            "name": "ganeshnarayan88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uDf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sony WH-CH710N is a good one. Everyone I know felt good about it.\n\nIf you can splurge, look no further than Bose."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649417075.865729",
+        "parent_user_id": "U02PDC4883V"
+    },
+    {
+        "type": "message",
+        "text": "Every martech ad on social media...:joy:",
+        "files": [
+            {
+                "id": "F03AJUX6U1L",
+                "created": 1649429101,
+                "timestamp": 1649429101,
+                "name": "mEaUwcgEpSNN7oH4.mp4",
+                "title": "File from Android",
+                "mimetype": "video\/mp4",
+                "filetype": "mp4",
+                "pretty_type": "MPEG 4 Video",
+                "user": "U032MN1BESJ",
+                "editable": false,
+                "size": 1468241,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "transcription": {
+                    "status": "complete",
+                    "locale": "en-US"
+                },
+                "mp4": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AJUX6U1L-6d68369480\/meauwcgepsnn7oh4.mp4?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AJUX6U1L-6d68369480\/meauwcgepsnn7oh4.mp4?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03AJUX6U1L\/download\/meauwcgepsnn7oh4.mp4?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "vtt": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AJUX6U1L-6d68369480\/file.vtt?_xcb=de2f7&t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "hls": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AJUX6U1L-6d68369480\/file.m3u8?_xcb=de2f7&t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "hls_embed": "data:application\/vnd.apple.mpegurl;base64,I0VYVE0zVQojRVhULVgtVkVSU0lPTjozCiNFWFQtWC1JTkRFUEVOREVOVC1TRUdNRU5UUwojRVhULVgtU1RSRUFNLUlORjpCQU5EV0lEVEg9NTg3NzI2LEFWRVJBR0UtQkFORFdJRFRIPTU0MDQ4MSxDT0RFQ1M9ImF2YzEuNjQwMDFmLG1wNGEuNDAuNSIsUkVTT0xVVElPTj02MDh4MTA4MCxGUkFNRS1SQVRFPTI5Ljk3MCxTVUJUSVRMRVM9InN1YnMiCmRhdGE6YXBwbGljYXRpb24vdm5kLmFwcGxlLm1wZWd1cmw7YmFzZTY0LEkwVllWRTB6VlFvalJWaFVMVmd0VmtWU1UwbFBUam96Q2lORldGUXRXQzFVUVZKSFJWUkVWVkpCVkVsUFRqbzNDaU5GV0ZRdFdDMU5SVVJKUVMxVFJWRlZSVTVEUlRveENpTkZXRlF0V0MxUVRFRlpURWxUVkMxVVdWQkZPbFpQUkFvalJWaFVTVTVHT2pZdU1EQTJMQXBvZEhSd2N6b3ZMMlpwYkdWekxuTnNZV05yTG1OdmJTOW1hV3hsY3kxMGJXSXZWREF5VUVaTE1UTlpURU10UmpBelFVcFZXRFpWTVV3dE5tUTJPRE0yT1RRNE1DOW1hV3hsWDBoZk1qWTBYekU1TWpCNE1UQTRNRjgyTlRBd1MwSlFVMTgzVVZaQ1VsOHdNREF3TVM1MGN3b2pSVmhVU1U1R09qWXVNREEyTEFwb2RIUndjem92TDJacGJHVnpMbk5zWVdOckxtTnZiUzltYVd4bGN5MTBiV0l2VkRBeVVFWkxNVE5aVEVNdFJqQXpRVXBWV0RaVk1Vd3RObVEyT0RNMk9UUTRNQzltYVd4bFgwaGZNalkwWHpFNU1qQjRNVEE0TUY4Mk5UQXdTMEpRVTE4M1VWWkNVbDh3TURBd01pNTBjd29qUlZoVVNVNUdPall1TURBMkxBcG9kSFJ3Y3pvdkwyWnBiR1Z6TG5Oc1lXTnJMbU52YlM5bWFXeGxjeTEwYldJdlZEQXlVRVpMTVROWlRFTXRSakF6UVVwVldEWlZNVXd0Tm1RMk9ETTJPVFE0TUM5bWFXeGxYMGhmTWpZMFh6RTVNakI0TVRBNE1GODJOVEF3UzBKUVUxODNVVlpDVWw4d01EQXdNeTUwY3dvalJWaFVTVTVHT2pZdU1EQTJMQXBvZEhSd2N6b3ZMMlpwYkdWekxuTnNZV05yTG1OdmJTOW1hV3hsY3kxMGJXSXZWREF5VUVaTE1UTlpURU10UmpBelFVcFZXRFpWTVV3dE5tUTJPRE0yT1RRNE1DOW1hV3hsWDBoZk1qWTBYekU1TWpCNE1UQTRNRjgyTlRBd1MwSlFVMTgzVVZaQ1VsOHdNREF3TkM1MGN3b2pSVmhVU1U1R09qWXVNREEyTEFwb2RIUndjem92TDJacGJHVnpMbk5zWVdOckxtTnZiUzltYVd4bGN5MTBiV0l2VkRBeVVFWkxNVE5aVEVNdFJqQXpRVXBWV0RaVk1Vd3RObVEyT0RNMk9UUTRNQzltYVd4bFgwaGZNalkwWHpFNU1qQjRNVEE0TUY4Mk5UQXdTMEpRVTE4M1VWWkNVbDh3TURBd05TNTBjd29qUlZoVVNVNUdPall1TURBMkxBcG9kSFJ3Y3pvdkwyWnBiR1Z6TG5Oc1lXTnJMbU52YlM5bWFXeGxjeTEwYldJdlZEQXlVRVpMTVROWlRFTXRSakF6UVVwVldEWlZNVXd0Tm1RMk9ETTJPVFE0TUM5bWFXeGxYMGhmTWpZMFh6RTVNakI0TVRBNE1GODJOVEF3UzBKUVUxODNVVlpDVWw4d01EQXdOaTUwY3dvalJWaFVTVTVHT2pRdU9UQTFMQXBvZEhSd2N6b3ZMMlpwYkdWekxuTnNZV05yTG1OdmJTOW1hV3hsY3kxMGJXSXZWREF5VUVaTE1UTlpURU10UmpBelFVcFZXRFpWTVV3dE5tUTJPRE0yT1RRNE1DOW1hV3hsWDBoZk1qWTBYekU1TWpCNE1UQTRNRjgyTlRBd1MwSlFVMTgzVVZaQ1VsOHdNREF3Tnk1MGN3b2pSVmhVTFZndFJVNUVURWxUVkFvPQojRVhULVgtU1RSRUFNLUlORjpCQU5EV0lEVEg9NDA3NDI3LEFWRVJBR0UtQkFORFdJRFRIPTM4MTQ2NyxDT0RFQ1M9ImF2YzEuNjQwMDFlLG1wNGEuNDAuNSIsUkVTT0xVVElPTj00MDZ4NzIwLEZSQU1FLVJBVEU9MjkuOTcwLFNVQlRJVExFUz0ic3VicyIKaHR0cHM6Ly9maWxlcy5zbGFjay5jb20vZmlsZXMtdG1iL1QwMlBGSzEzWUxDLUYwM0FKVVg2VTFMLTZkNjgzNjk0ODAvZmlsZV9IXzI2NF8xMjgweDcyMF8zNTAwS0JQU183UVZCUi5tM3U4CiNFWFQtWC1NRURJQTpUWVBFPVNVQlRJVExFUyxHUk9VUC1JRD0ic3VicyIsTkFNRT0iRW5nbGlzaCIsREVGQVVMVD1ZRVMsQVVUT1NFTEVDVD1ZRVMsRk9SQ0VEPU5PLExBTkdVQUdFPSJlbmciLFVSST0iZGF0YTphcHBsaWNhdGlvbi92bmQuYXBwbGUubXBlZ3VybDtiYXNlNjQsSTBWWVZFMHpWUW9qUlZoVUxWZ3RWa1ZTVTBsUFRqb3pDaU5GV0ZRdFdDMVVRVkpIUlZSRVZWSkJWRWxQVGpvek1EQUtJMFZZVkMxWUxVMUZSRWxCTFZORlVWVkZUa05GT2pFS0kwVllWQzFZTFZCTVFWbE1TVk5VTFZSWlVFVTZWazlFQ2lORldGUkpUa1k2TkRBdU9UUXhMQXBvZEhSd2N6b3ZMMlpwYkdWekxuTnNZV05yTG1OdmJTOW1hV3hsY3kxMGJXSXZWREF5VUVaTE1UTlpURU10UmpBelFVcFZXRFpWTVV3dE5tUTJPRE0yT1RRNE1DOW1hV3hsWDNaMGRGOHdNREF3TVM1MmRIUUtJMFZZVkMxWUxVVk9SRXhKVTFRSyIK",
+                "mp4_low": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AJUX6U1L-6d68369480\/meauwcgepsnn7oh4_trans.mp4?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "duration_ms": 40940,
+                "media_display_type": "video",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AJUX6U1L-6d68369480\/meauwcgepsnn7oh4_thumb_video.jpeg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_video_w": 480,
+                "thumb_video_h": 852,
+                "permalink": "https:\/\/s11s.slack.com\/files\/U032MN1BESJ\/F03AJUX6U1L\/meauwcgepsnn7oh4.mp4",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03AJUX6U1L-1f1fb89554",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U032MN1BESJ",
+        "display_as_bot": false,
+        "ts": "1649429133.129599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7K+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Every martech ad on social media..."
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "bb336726-e910-47ce-8fd3-36697b2ff6ab",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U02TTEFFU6B",
+                    "U02PDC4883V",
+                    "U02USELSBRT",
+                    "U02UUCE1ASD",
+                    "U02URBKGVA7",
+                    "U0323V4CLRY",
+                    "U033QDFML74"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b2fcbe20-4fdb-42aa-8043-7f71ce46a940",
+        "type": "message",
+        "text": "If you're looking for active noise cancelling, Sony is the best. My recommendation is WH-XB900N. However, if you're an audiophile and the sound quality is something you look for, try <https:\/\/www.headphonezone.in\/products\/beyerdynamic-dt-770-pro|Beyerdynamic DT 770>.\n\nElse, buy Bose QC 35 II. :white_check_mark:",
+        "user": "U038WP8PLUA",
+        "ts": "1649437883.126349",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5b79b0c594ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-18\/3406932600996_5b79b0c594ac7aefcab5_72.jpg",
+            "first_name": "Guru",
+            "real_name": "Guru Prasanna",
+            "display_name": "guru",
+            "team": "T02PFK13YLC",
+            "name": "guruprasanna.projects",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.headphonezone.in\/products\/beyerdynamic-dt-770-pro",
+                "thumb_url": "http:\/\/cdn.shopify.com\/s\/files\/1\/0153\/8863\/products\/beyerdynamic-dt-770-pro-32-ohms-headphone-zone-13979980005439.jpg?v=1579707573",
+                "thumb_width": 1160,
+                "thumb_height": 1160,
+                "service_icon": "http:\/\/cdn.shopify.com\/s\/files\/1\/0153\/8863\/files\/Logo-Favicon-Headphone-Zone-01_96x96.png?v=1641209971",
+                "id": 1,
+                "original_url": "https:\/\/www.headphonezone.in\/products\/beyerdynamic-dt-770-pro",
+                "fallback": "Headphone Zone: Beyerdynamic - DT 770 PRO",
+                "text": "Best Deal on Beyerdynamic DT 770 PRO Studio Headphones in 32 Ohms, 80 Ohms, 250 Ohms. Get the Lowest Price on Professional Studio Headphones Online. Choose from Audio-Technica, Sennheiser, Audeze, Shure, AKG, Ultrasone &amp; more. Choose Headphone Zone to buy best headphones in India.",
+                "title": "Beyerdynamic - DT 770 PRO",
+                "title_link": "https:\/\/www.headphonezone.in\/products\/beyerdynamic-dt-770-pro",
+                "service_name": "Headphone Zone"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tr3D8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you're looking for active noise cancelling, Sony is the best. My recommendation is WH-XB900N. However, if you're an audiophile and the sound quality is something you look for, try "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.headphonezone.in\/products\/beyerdynamic-dt-770-pro",
+                                "text": "Beyerdynamic DT 770"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\nElse, buy Bose QC 35 II. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649417075.865729",
+        "parent_user_id": "U02PDC4883V"
+    },
+    {
+        "client_msg_id": "715b1a84-aab6-4325-b209-6205cc6359bc",
+        "type": "message",
+        "text": "Bose QC35 2, served me well for nearly 3 years of regular use",
+        "user": "U02VD2JL8N8",
+        "ts": "1649442724.397269",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1f8231d0f5f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3323449503767_1f8231d0f5f43aecb19d_72.jpg",
+            "first_name": "Mayank",
+            "real_name": "Mayank Mujumdar",
+            "display_name": "mayank",
+            "team": "T02PFK13YLC",
+            "name": "mayank13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QFw7i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bose QC35 2, served me well for nearly 3 years of regular use"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649417075.865729",
+        "parent_user_id": "U02PDC4883V"
+    },
+    {
+        "client_msg_id": "D0A74A15-E304-4DA0-894F-009B7AB00C59",
+        "type": "message",
+        "text": "<https:\/\/amzn.to\/372FefC|https:\/\/amzn.to\/372FefC>\n\nThese are the best. I have 1000XM3 which are only slightly less better than 1000XM4.\n\nSecond best ANC on the market. First is Bose.\n\nIf you want to let go of very nominal features and save a lot of money, go for 1000 XM3",
+        "user": "U02UUCE1ASD",
+        "ts": "1649444328.644799",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8fc0ff2b8ed7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-22\/3425444312242_8fc0ff2b8ed7f97f960d_72.jpg",
+            "first_name": "Sunil",
+            "real_name": "Sunil Neurgaonkar",
+            "display_name": "Sunil",
+            "team": "T02PFK13YLC",
+            "name": "sunilneurgaonkar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LgX5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/amzn.to\/372FefC",
+                                "text": "https:\/\/amzn.to\/372FefC"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "These are the best. I have 1000XM3 which are only slightly less better than 1000XM4.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Second best ANC on the market. First is Bose.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "If you want to let go of very nominal features and save a lot of money, go for 1000 XM3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649417075.865729",
+        "parent_user_id": "U02PDC4883V"
+    },
+    {
+        "client_msg_id": "6ad81ad6-8ca2-4e39-b0b0-3836a09841c8",
+        "type": "message",
+        "text": "Can anyone recommend a Ankur Warikoo content\/ad blocker or a chrome\/firefox plugin?",
+        "user": "U031QKGPNRK",
+        "ts": "1649475318.736819",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mPEhu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can anyone recommend a Ankur Warikoo content\/ad blocker or a chrome\/firefox plugin?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649475318.736819",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1649622341.872729",
+        "reply_users": [
+            "U02VA7QD8UB",
+            "U02USELSBRT",
+            "U02V9QUDK1Q",
+            "U031QKGPNRK",
+            "U03AHQURB98",
+            "U0323V4CLRY"
+        ],
+        "replies": [
+            {
+                "user": "U02VA7QD8UB",
+                "ts": "1649475407.709019"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649481933.306579"
+            },
+            {
+                "user": "U02V9QUDK1Q",
+                "ts": "1649487135.293929"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1649492012.238119"
+            },
+            {
+                "user": "U03AHQURB98",
+                "ts": "1649557865.241919"
+            },
+            {
+                "user": "U0323V4CLRY",
+                "ts": "1649622341.872729"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "see_no_evil",
+                "users": [
+                    "U02V92UN0Q2",
+                    "U02UZ4T10PQ",
+                    "U03560PQ082",
+                    "U037MTE492T",
+                    "U034N0JE214"
+                ],
+                "count": 5
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02URBKGVA7",
+                    "U039PF71127"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ff8a1c52-0c24-4941-8495-b59c47115904",
+        "type": "message",
+        "text": "Lol, just block him on all platforms.",
+        "user": "U02VA7QD8UB",
+        "ts": "1649475407.709019",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "84e512c8a3fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2999004078388_84e512c8a3feeb8de835_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "T02PFK13YLC",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mjz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lol, just block him on all platforms."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649475318.736819",
+        "parent_user_id": "U031QKGPNRK"
+    },
+    {
+        "client_msg_id": "FCADADB5-7053-4287-860C-8D984A1BC240",
+        "type": "message",
+        "text": "<@U02VA7QD8UB>  that doesn't work, apparently some simpleton in my network still goes ahead and likes\/shares their comment which lands in my feed :sweat_smile:",
+        "user": "U02USELSBRT",
+        "ts": "1649481933.306579",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ryi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02VA7QD8UB"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  that doesn't work, apparently some simpleton in my network still goes ahead and likes\/shares their comment which lands in my feed "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649475318.736819",
+        "parent_user_id": "U031QKGPNRK"
+    },
+    {
+        "client_msg_id": "b202a1ba-9076-4022-b38d-dde65cbcf0ae",
+        "type": "message",
+        "text": "<https:\/\/ankurwarikoo.com\/stopads\/|https:\/\/ankurwarikoo.com\/stopads\/>",
+        "user": "U02V9QUDK1Q",
+        "ts": "1649487135.293929",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8140d54c5a70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2981230435879_8140d54c5a7085ca9412_72.jpg",
+            "first_name": "Abhash",
+            "real_name": "Abhash Kumar",
+            "display_name": "Abhash",
+            "team": "T02PFK13YLC",
+            "name": "abhash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ankurwarikoo.com\/stopads\/",
+                "ts": 1610098203,
+                "thumb_url": "https:\/\/i0.wp.com\/ankurwarikoo.com\/wp-content\/uploads\/2020\/06\/cropped-Copy-of-aw-1.png?fit=512%2C512&ssl=1",
+                "thumb_width": 512,
+                "thumb_height": 512,
+                "service_icon": "https:\/\/i0.wp.com\/ankurwarikoo.com\/wp-content\/uploads\/2020\/06\/cropped-Copy-of-aw-1.png?fit=180%2C180&amp;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/ankurwarikoo.com\/stopads\/",
+                "fallback": "ankur Warikoo Official Website: StopAds",
+                "text": "Visit the post for more.",
+                "title": "StopAds",
+                "title_link": "https:\/\/ankurwarikoo.com\/stopads\/",
+                "service_name": "ankur Warikoo Official Website"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yT16",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ankurwarikoo.com\/stopads\/",
+                                "text": "https:\/\/ankurwarikoo.com\/stopads\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649475318.736819",
+        "parent_user_id": "U031QKGPNRK"
+    }
+]

@@ -1,0 +1,744 @@
+[
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "If Netflix continues to implode because of poorly thought out policies (like ads, password sharing restrictions) soon FAANG would be FAAG, and then, if Zuckerberg continues to squander his cash on Meta coupled with losing ad revenue because of third party data controls, we would all be left with AAG, the Ram Gopal Varma metaverse.",
+        "user": "U02SXBR28G1",
+        "ts": "1650871028.919709",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7SX1N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If Netflix continues to implode because of poorly thought out policies (like ads, password sharing restrictions) soon FAANG would be FAAG, and then, if Zuckerberg continues to squander his cash on Meta coupled with losing ad revenue because of third party data controls, we would all be left with AAG, the Ram Gopal Varma metaverse."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650871028.919709",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1650881415.108239",
+        "reply_users": [
+            "U039FQ2SNNN",
+            "U02PDC4883V"
+        ],
+        "replies": [
+            {
+                "user": "U039FQ2SNNN",
+                "ts": "1650875142.800599"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650881415.108239"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1650881415.108239",
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "U03560PQ082",
+                    "U0380S2BZ9A",
+                    "U02UJBF2Y4C",
+                    "U030ZR9D0FK",
+                    "U02TTEFFU6B",
+                    "U031BVBGHCK",
+                    "U02UV03PBB9",
+                    "U030JB0UHK7"
+                ],
+                "count": 8
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U02TTEFFU6B",
+                    "U030SDYNX7V",
+                    "U030JB0UHK7",
+                    "U0310MMGC8Z",
+                    "U0362R42317",
+                    "U03A7KXT45S",
+                    "U02URS98P9B",
+                    "U030KV8R8RL",
+                    "U031JS3RF0V",
+                    "U031BB161J8"
+                ],
+                "count": 10
+            },
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U03AHQURB98",
+                    "U02PDC4883V",
+                    "U030KV8R8RL"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "what's a good benchmark for per article charges as a freelancer with B2B saas niche?  YOE: 4 years. Looking for benchmarks in INR as well as USD for international clients.",
+        "user": "U02SXBR28G1",
+        "ts": "1650875039.083409",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=+G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what's a good benchmark for per article charges as a freelancer with B2B saas niche?  YOE: 4 years. Looking for benchmarks in INR as well as USD for international clients."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "65d01a94-dbef-418f-9aef-01529fce6a4b",
+        "type": "message",
+        "text": "technically it should be MAANG then MAAG",
+        "user": "U039FQ2SNNN",
+        "ts": "1650875142.800599",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9bb6d1a8280e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-30\/3321818966962_9bb6d1a8280e6c254c07_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rohitguptatoday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tm1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "technically it should be MAANG then MAAG"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650871028.919709",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U030KV8R8RL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1650876472.184299",
+        "thread_ts": "1650876472.184299",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650891400.442789",
+        "reply_users": [
+            "U02ULN6EFNV"
+        ],
+        "replies": [
+            {
+                "user": "U02ULN6EFNV",
+                "ts": "1650891400.442789"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "What does it mean by creating content for product on thought leadership?",
+        "user": "U02SXBR28G1",
+        "ts": "1650876785.263899",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ixqo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What does it mean by creating content for product on thought leadership?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650876785.263899",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1650885747.471519",
+        "reply_users": [
+            "U03A2UNJJDD"
+        ],
+        "replies": [
+            {
+                "user": "U03A2UNJJDD",
+                "ts": "1650885586.391569"
+            },
+            {
+                "user": "U03A2UNJJDD",
+                "ts": "1650885747.471519"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2001167f-6cef-4219-9f25-1f50dd0fe521",
+        "type": "message",
+        "text": "Then SRK &amp; Deepika would come on ads - Ek chutki sindoor ki keemat",
+        "user": "U02PDC4883V",
+        "ts": "1650881415.108239",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K44",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Then SRK & Deepika would come on ads - Ek chutki sindoor ki keemat"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650871028.919709",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U030FPEG8R4",
+                    "U030KV8R8RL"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3b451606-9c8d-40d2-abb7-1f58b79ff348",
+        "type": "message",
+        "text": "Ideally you're looking for content that can establish your brand as the go-to place for anything related to that domain. For example: Drift for anything related to website chatbots. You're expected to cover ground in terms of TG: Operators, Decision makers, and CXOs and in terms of the depth of the content (read long tail). you'll first have to create a keyword map, then create a list of long-tail key phrases for each persona. Pick one keyword group at a time and focus on publishing content around it.",
+        "user": "U03A2UNJJDD",
+        "ts": "1650885586.391569",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "91a4f79ca4fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3342983706615_91a4f79ca4fe220decc9_72.jpg",
+            "first_name": "Chirag",
+            "real_name": "Chirag Parmar",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "chiragparmar.marketin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ro47S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ideally you're looking for content that can establish your brand as the go-to place for anything related to that domain. For example: Drift for anything related to website chatbots. You're expected to cover ground in terms of TG: Operators, Decision makers, and CXOs and in terms of the depth of the content (read long tail). you'll first have to create a keyword map, then create a list of long-tail key phrases for each persona. Pick one keyword group at a time and focus on publishing content around it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650876785.263899",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U039L8V855E",
+                    "U039HH3LP43"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "190b1a53-a8a5-4b23-8b7a-22543e0491d6",
+        "type": "message",
+        "text": "The other way is creating high-level gyan for CXO level audiences. For example if your product is a BI tool, you'll talk about building a data-driven organization and the future of big data. Imagine your CEO at a forum, and he's projecting his product as a visionary and something that the world is moving towards.",
+        "user": "U03A2UNJJDD",
+        "ts": "1650885747.471519",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "91a4f79ca4fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3342983706615_91a4f79ca4fe220decc9_72.jpg",
+            "first_name": "Chirag",
+            "real_name": "Chirag Parmar",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "chiragparmar.marketin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cHD=9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The other way is creating high-level gyan for CXO level audiences. For example if your product is a BI tool, you'll talk about building a data-driven organization and the future of big data. Imagine your CEO at a forum, and he's projecting his product as a visionary and something that the world is moving towards."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650876785.263899",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "A7E3FCFD-9D32-460E-A5F8-EAB88590BEC2",
+        "type": "message",
+        "text": "I agree with <@U02USELSBRT> <@U02UY3EPQDA> here. first 200\/300K is usually PMF function and marketing plays a little role here.\n\nIn my current role (non marketing), was part of 0-100k. Can I do that again? Most likely- yes. Atleast I'll be able to do either of the following quickly: 1) pivot  2.) reach from 0 to 100K 3.) shut down ",
+        "user": "U030SS7KNHH",
+        "ts": "1650887033.777169",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b9dbae43d7a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-29\/3020200192662_b9dbae43d7a44e45d421_72.jpg",
+            "first_name": "Ashwin",
+            "real_name": "Ashwin Sande",
+            "display_name": "Ashwin Sande",
+            "team": "T02PFK13YLC",
+            "name": "ashsande",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U030SS7KNHH",
+            "ts": "1650887187.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NZz1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02USELSBRT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02UY3EPQDA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " here. first 200\/300K is usually PMF function and marketing plays a little role here.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "In my current role (non marketing), was part of 0-100k. Can I do that again? Most likely- yes. Atleast I'll be able to do either of the following quickly: 1) pivot  2.) reach from 0 to 100K 3.) shut down "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650856147.618229",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "0ecff48d-782a-4077-8346-d46b783b916f",
+        "type": "message",
+        "text": ":wave: Hello, team!",
+        "user": "U03CC2NHVPH",
+        "ts": "1650888548.819099",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "f8f323dde8ad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-25\/3437030699108_f8f323dde8ada8e07bd9_72.png",
+            "first_name": "Prashant",
+            "real_name": "Prashant Sharma",
+            "display_name": "Prashant Sharma",
+            "team": "T02PFK13YLC",
+            "name": "prashant018",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JK\/o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hello, team!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U02PDC4883V",
+                    "U03560PQ082",
+                    "U02UMJJJALA",
+                    "U030FPEG8R4",
+                    "U033QDFML74",
+                    "U02U94HSBV4",
+                    "U037UUE6TV3",
+                    "U030SHA1S2W"
+                ],
+                "count": 8
+            },
+            {
+                "name": "wave::skin-tone-3",
+                "users": [
+                    "U031QKGPNRK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1EF1040F-9017-4105-8A07-37C75CC700AF",
+        "type": "message",
+        "text": "Happy to help in DM.",
+        "user": "U02ULN6EFNV",
+        "ts": "1650891400.442789",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g2796bce497e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2796bce497e03edc08c2719052eaae8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Chirayu",
+            "real_name": "Chirayu (Leena AI)",
+            "display_name": "Chirayu",
+            "team": "T02PFK13YLC",
+            "name": "akotiya.chirayu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jE+P9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy to help in DM."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650876472.184299",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "bruh some of you guys are also on these 'GrOwtH hacKerZ' Whatsapp\/Discord communities floated via Reddit eh?\n\n(- another member of said communities)",
+        "user": "U02SXBR28G1",
+        "ts": "1650896100.374189",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LxD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bruh some of you guys are also on these 'GrOwtH hacKerZ' Whatsapp\/Discord communities floated via Reddit eh?\n\n(- another member of said communities)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "108c9010-1e15-4db0-9c18-908ff3ddfb80",
+        "type": "message",
+        "text": "Odds of my success are high when 2 prerequisites are met and I have 3 non-negotiables in place:\n\nPrerequisites:\n1. Product Market Fit\n2. High overlap between the company's growth levers and what I'm good at\nNon-negotiables:\n1. Good understanding of the company's growth model\n2. Exec level commitment to a trust-based culture that breaks down silos\n3. Super fast testing and learning process\nWhile there is never any guarantee, if even one of these pieces isn't in place the odds are super low.",
+        "user": "U032MN1BESJ",
+        "ts": "1650898082.248569",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g8a12888a77b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a12888a77b019e4e11e0df9171feb29.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Anuj",
+            "real_name": "Anuj Adhiya",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "adhiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WhN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Odds of my success are high when 2 prerequisites are met and I have 3 non-negotiables in place:\n\nPrerequisites:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Product Market Fit"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "High overlap between the company's growth levers and what I'm good at"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nNon-negotiables:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Good understanding of the company's growth model"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Exec level commitment to a trust-based culture that breaks down silos"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Super fast testing and learning process"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nWhile there is never any guarantee, if even one of these pieces isn't in place the odds are super low."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650856147.618229",
+        "parent_user_id": "U02SXBR28G1"
+    }
+]

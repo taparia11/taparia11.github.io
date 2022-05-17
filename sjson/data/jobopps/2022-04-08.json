@@ -1,0 +1,405 @@
+[
+    {
+        "client_msg_id": "63b33b3e-a334-461d-87ba-85f63ce13a22",
+        "type": "message",
+        "text": "Hey Rohit, we are hiring, can you share the resume?",
+        "user": "U03208N6E2G",
+        "ts": "1649403507.618149",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bd76f53b10f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-07\/3051373776711_bd76f53b10f5a38172a1_72.jpg",
+            "first_name": "Prasad",
+            "real_name": "Prasad Lingawar",
+            "display_name": "Prasad Lingawar",
+            "team": "T02PFK13YLC",
+            "name": "prasad.lingawar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tR1Yt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Rohit, we are hiring, can you share the resume?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648185504.434179",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "6b432a91-08ce-4b28-aac7-6d8e590f98bf",
+        "type": "message",
+        "text": "In desperate need of an SDR who has sold to US at Kula. If you have a friend who wants to work for a company that wouldn't pay top dollar and still you won't regret, we need to talk.",
+        "user": "U02TTEFFU6B",
+        "ts": "1649409719.186129",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l0y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In desperate need of an SDR who has sold to US at Kula. If you have a friend who wants to work for a company that wouldn't pay top dollar and still you won't regret, we need to talk."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649409719.186129",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1649422801.380099",
+        "reply_users": [
+            "U02PDC6B0HH",
+            "U038WP8PLUA"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1649412192.650179"
+            },
+            {
+                "user": "U038WP8PLUA",
+                "ts": "1649422801.380099"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1acc3209-889c-4cb4-9b38-47e1b6dc9588",
+        "type": "message",
+        "text": "frankly, no SDR has sold to US at Kula yet. :stuck_out_tongue:",
+        "user": "U02PDC6B0HH",
+        "ts": "1649412192.650179",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7ce0a422fcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953759554663_b7ce0a422fcdabf5a771_72.jpg",
+            "first_name": "Shafique",
+            "real_name": "Shafique Gajdhar",
+            "display_name": "Shaf",
+            "team": "T02PFK13YLC",
+            "name": "shafiquegajdhar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EfGg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "frankly, no SDR has sold to US at Kula yet. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649409719.186129",
+        "parent_user_id": "U02TTEFFU6B",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U02UY3EPQDA",
+                    "U033QDFML74"
+                ],
+                "count": 2
+            },
+            {
+                "name": "bowtie",
+                "users": [
+                    "U02TTEFFU6B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "95e231b9-f954-4337-8fe3-ac538b82752c",
+        "type": "message",
+        "text": "Hi <@U02TTEFFU6B> will DM you",
+        "user": "U038WP8PLUA",
+        "ts": "1649422801.380099",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5b79b0c594ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-18\/3406932600996_5b79b0c594ac7aefcab5_72.jpg",
+            "first_name": "Guru",
+            "real_name": "Guru Prasanna",
+            "display_name": "guru",
+            "team": "T02PFK13YLC",
+            "name": "guruprasanna.projects",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g7mNE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02TTEFFU6B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " will DM you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649409719.186129",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "9267ef31-c4ca-4c3b-9b03-3826f743660c",
+        "type": "message",
+        "text": "[Reposting]\n:star: Hey everyone! I am looking for a content marketing freelancer with experience in SaaS writing for our product, <https:\/\/www.utilize.app|Utilize>. I would appreciate any leads for the same.",
+        "user": "U037JS29QDV",
+        "ts": "1649425750.505279",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "f44637be1f4d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-21\/3271489291202_f44637be1f4da72fa9b7_72.jpg",
+            "first_name": "Jatin",
+            "real_name": "Jatin Arora",
+            "display_name": "Jatin Arora",
+            "team": "T02PFK13YLC",
+            "name": "jatin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aiAN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[Reposting]\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "star"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hey everyone! I am looking for a content marketing freelancer with experience in SaaS writing for our product, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.utilize.app",
+                                "text": "Utilize"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I would appreciate any leads for the same."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7B41A653-73CD-45E6-B101-21E99B7C0742",
+        "type": "message",
+        "text": "Have an HR friend looking for a young CMO to join SAAS Product company, base salary upto 60L, DM me for more details. ",
+        "user": "U039VMYGC4B",
+        "ts": "1649429827.586829",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c6980829f406",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3359500629584_c6980829f4068f0ae53d_72.png",
+            "first_name": "SidR",
+            "real_name": "SidR",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "hacsid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BR4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Have an HR friend looking for a young CMO to join SAAS Product company, base salary upto 60L, DM me for more details. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C0AC06F5-3DB5-4286-9A24-FA4AD3F579CD",
+        "type": "message",
+        "text": "I'm looking to hire an SDR at Epsilo, someone who's got some experience in SEA market, understanding of ad tech will be ideal, feel free to DM me on LinkedIn \/ WhatsApp (<tel:+91 7045316764|+91 7045316764>)",
+        "user": "U037F9543B9",
+        "ts": "1649468126.444249",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "582c7b8eaa8b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-20\/3291671874736_582c7b8eaa8b786d6c46_72.png",
+            "first_name": "Nishant",
+            "real_name": "Nishant Singh Didawat",
+            "display_name": "Nishant",
+            "team": "T02PFK13YLC",
+            "name": "nishant.singh.didawat",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U037F9543B9",
+            "ts": "1649468366.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cpp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm looking to hire an SDR at Epsilo, someone who's got some experience in SEA market, understanding of ad tech will be ideal, feel free to DM me on LinkedIn \/ WhatsApp ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:+91 7045316764",
+                                "text": "+91 7045316764"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BD84755C-C63C-4F26-A7CF-D83D48B0147A",
+        "type": "message",
+        "text": "I'm hiring for similar roles, could you please share the resume <@U0306HUGT6C>?",
+        "user": "U037F9543B9",
+        "ts": "1649468544.139059",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "582c7b8eaa8b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-20\/3291671874736_582c7b8eaa8b786d6c46_72.png",
+            "first_name": "Nishant",
+            "real_name": "Nishant Singh Didawat",
+            "display_name": "Nishant",
+            "team": "T02PFK13YLC",
+            "name": "nishant.singh.didawat",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U037F9543B9",
+            "ts": "1649468577.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u=Wx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm hiring for similar roles, could you please share the resume "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0306HUGT6C"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648879161.457659",
+        "parent_user_id": "U0306HUGT6C"
+    }
+]

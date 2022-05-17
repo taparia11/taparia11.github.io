@@ -1,0 +1,2221 @@
+[
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "To a manager with whom you have both generation and mindset gaps, how do you tell in one sentence 'I wanna move out' and not have an hour-long small talk conversation just to ease out on the resignation process?",
+        "user": "U02SXBR28G1",
+        "ts": "1649835856.531989",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1vNF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To a manager with whom you have both generation and mindset gaps, how do you tell in one sentence 'I wanna move out' and not have an hour-long small talk conversation just to ease out on the resignation process?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649835856.531989",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1649840578.824199",
+        "reply_users": [
+            "U02USELSBRT",
+            "U03560PQ082"
+        ],
+        "replies": [
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649840137.731359"
+            },
+            {
+                "user": "U03560PQ082",
+                "ts": "1649840578.824199"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "don't break a boomers heart",
+        "user": "U02SXBR28G1",
+        "ts": "1649839957.852009",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RU2m9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "don't break a boomers heart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649839957.852009",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1649841897.626399",
+        "reply_users": [
+            "U02PDC4883V"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649841897.626399"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1649841897.626399",
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "U02U94HSBV4",
+                    "U030KV8R8RL"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e8e51527-6843-4e22-8188-27150405fbeb",
+        "type": "message",
+        "text": "'my mom doesn't approve of this job'",
+        "user": "U02USELSBRT",
+        "ts": "1649840137.731359",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iQ5a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "'my mom doesn't approve of this job'"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649835856.531989",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U031QKGPNRK",
+                    "U02URBKGVA7",
+                    "U0361UQSKGQ",
+                    "U02V98LPCFL"
+                ],
+                "count": 4
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02UM0VU8MQ",
+                    "U030ZR9D0FK",
+                    "U02URBKGVA7",
+                    "U0325QQQALR"
+                ],
+                "count": 4
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U031QKGPNRK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "738542b5-eaca-4cce-8150-d9db4cf43532",
+        "type": "message",
+        "text": "\" I need a govt job so that my parents are happy. They are very old\"",
+        "user": "U03560PQ082",
+        "ts": "1649840578.824199",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1db32098d186",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-01\/3176023965474_1db32098d186ac873a3d_72.png",
+            "first_name": "Ahaan",
+            "real_name": "Ahaan Pandit",
+            "display_name": "Ahaan Pandit",
+            "team": "T02PFK13YLC",
+            "name": "ahaan.pandit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U10",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\" I need a govt job so that my parents are happy. They are very old\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649835856.531989",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U031BVBGHCK",
+                    "U030ZR9D0FK",
+                    "U02PDC6B0HH",
+                    "U02UM0VU8MQ",
+                    "U037UUE6TV3",
+                    "U02URBKGVA7",
+                    "U035C0WTQG5",
+                    "U03ABKDJQAD",
+                    "U0361UQSKGQ"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03BDDP98A0",
+                "created": 1649841889,
+                "timestamp": 1649841889,
+                "name": "Team member Resigns.png",
+                "title": "Team member Resigns.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02PDC4883V",
+                "editable": false,
+                "size": 731319,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03BDDP98A0\/team_member_resigns.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03BDDP98A0\/download\/team_member_resigns.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BDDP98A0-d93561e0fe\/team_member_resigns_64.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BDDP98A0-d93561e0fe\/team_member_resigns_80.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BDDP98A0-d93561e0fe\/team_member_resigns_360.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BDDP98A0-d93561e0fe\/team_member_resigns_480.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BDDP98A0-d93561e0fe\/team_member_resigns_160.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BDDP98A0-d93561e0fe\/team_member_resigns_720.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BDDP98A0-d93561e0fe\/team_member_resigns_800.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_800_w": 800,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BDDP98A0-d93561e0fe\/team_member_resigns_960.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_960_w": 960,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BDDP98A0-d93561e0fe\/team_member_resigns_1024.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 1024,
+                "original_w": 1620,
+                "original_h": 1620,
+                "thumb_tiny": "AwAwADC2G75m+m2jnGd03\/fNNviREuCR83Y1SMjKuSzce9AF\/Jx96br\/AHaeqEgHzH9cGsRppGOd7\/gTQJpV\/jf8zQB0FFYCyyHq7fmav6YzM0m5ieB1NAE1+MxL\/vVnz8RfjWjff6tf96qLDcuD6igCOFABz1pZVUqcYzT2UKxbPNIEGM0FFQda0dK+9L9BVDbyT71oaV96X6CgRPff6tf96qgq5eY8tc9N1VMJj7x\/KgQxsk0xmwu3qasFIyB8x\/KmeVEvO4\/lQMq45NXtL+9L9BVfy0IJDn\/vmrOmgLJKFJIwOoxSA\/\/Z",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U02PDC4883V\/F03BDDP98A0\/team_member_resigns.png",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03BDDP98A0-42a2c35eae",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02PDC4883V",
+        "display_as_bot": false,
+        "ts": "1649841897.626399",
+        "client_msg_id": "7612d89c-9fe4-492a-bbc7-4c49c84265e9",
+        "thread_ts": "1649839957.852009",
+        "parent_user_id": "U02SXBR28G1",
+        "subtype": "thread_broadcast",
+        "root": {
+            "bot_id": "B02SM1CFD7W",
+            "type": "message",
+            "text": "don't break a boomers heart",
+            "user": "U02SXBR28G1",
+            "ts": "1649839957.852009",
+            "app_id": "ATMC26LBW",
+            "team": "T02PFK13YLC",
+            "bot_profile": {
+                "id": "B02SM1CFD7W",
+                "app_id": "ATMC26LBW",
+                "name": "Anonymous Bot",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+                },
+                "deleted": false,
+                "updated": 1641240871,
+                "team_id": "T02PFK13YLC"
+            },
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "s9Nz",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "don't break a boomers heart"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1649839957.852009",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1649841897.626399",
+            "reply_users": [
+                "U02PDC4883V"
+            ],
+            "replies": [
+                {
+                    "user": "U02PDC4883V",
+                    "ts": "1649841897.626399"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1649841897.626399"
+        },
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U031BVBGHCK",
+                    "U02U9C2UTRC",
+                    "U030ZR9D0FK",
+                    "U02USELSBRT",
+                    "U031KD0PNTX",
+                    "U02U94HSBV4",
+                    "U02UM0VU8MQ",
+                    "U02TTEFFU6B",
+                    "U02URBKGVA7",
+                    "U0362R42317",
+                    "U0325QQQALR",
+                    "U030KV8R8RL",
+                    "U02UMJJJALA",
+                    "U033ASE526S",
+                    "U032MN1BESJ",
+                    "U02V7TLU5HT",
+                    "U02PDC6B0HH",
+                    "U033QDFML74"
+                ],
+                "count": 18
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "Hope more companies give feedback and help you grow after the interview process when you don't get selected. I have given interviews for digital marketing role for around 5-10 companies and the experience has been more or less same and sometimes underwhelming.\n\nA couple of companies that stood out were Wingman and Springworks. The person who interviewed me at Wingman sent across material on request and was responsive via LI and email helping me with most of my doubts. Sprigworks the entire process was seamless and helpful. We need more companies like this that leave a good taste even if you aren't getting selected. I personally wish both these companies reach great heights such was the experience.",
+        "user": "U02SXBR28G1",
+        "ts": "1649845688.342909",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tzuJW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hope more companies give feedback and help you grow after the interview process when you don't get selected. I have given interviews for digital marketing role for around 5-10 companies and the experience has been more or less same and sometimes underwhelming.\n\nA couple of companies that stood out were Wingman and Springworks. The person who interviewed me at Wingman sent across material on request and was responsive via LI and email helping me with most of my doubts. Sprigworks the entire process was seamless and helpful. We need more companies like this that leave a good taste even if you aren't getting selected. I personally wish both these companies reach great heights such was the experience."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649845688.342909",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1649906717.122319",
+        "reply_users": [
+            "U02TTEFFU6B",
+            "U02V9QUDK1Q",
+            "U02V8NZMWSX"
+        ],
+        "replies": [
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649847650.013229"
+            },
+            {
+                "user": "U02V9QUDK1Q",
+                "ts": "1649847776.660139"
+            },
+            {
+                "user": "U02V8NZMWSX",
+                "ts": "1649906717.122319"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03A397SJCF",
+                    "U030ZR9D0FK",
+                    "U02VAPDACUQ",
+                    "U02V9QUDK1Q",
+                    "U030M1LS1L2",
+                    "U037UUE6TV3",
+                    "U0325QQQALR",
+                    "U030KV8R8RL",
+                    "U039PF71127",
+                    "U033ASE526S",
+                    "U038V229WRZ"
+                ],
+                "count": 11
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U02V9QUDK1Q",
+                    "U031YH4D36U"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands::skin-tone-5",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aea6a2e9-1751-4a6a-97de-50cebcd0c9d4",
+        "type": "message",
+        "text": "<@U02V9QUDK1Q> MVP",
+        "user": "U02TTEFFU6B",
+        "ts": "1649847650.013229",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0GEl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02V9QUDK1Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " MVP"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649845688.342909",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U02V9QUDK1Q",
+                    "U02V98LPCFL"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9aa21bd1-9a57-45eb-87e1-2f2237d47ca9",
+        "type": "message",
+        "text": "Thanks, anon :pray::skin-tone-4: appreciate the shoutout :raised_hands::skin-tone-4:\n\nthe other side of the story - just last week almost lost a solid intern (offer rolled out and accepted now) because I responded to their assignment submission 3 days late. Thankfully, they followed up on LinkedIn :sweat_smile:",
+        "user": "U02V9QUDK1Q",
+        "ts": "1649847776.660139",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8140d54c5a70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2981230435879_8140d54c5a7085ca9412_72.jpg",
+            "first_name": "Abhash",
+            "real_name": "Abhash Kumar",
+            "display_name": "Abhash",
+            "team": "T02PFK13YLC",
+            "name": "abhash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PYi7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, anon "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "skin_tone": 4
+                            },
+                            {
+                                "type": "text",
+                                "text": " appreciate the shoutout "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "skin_tone": 4
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nthe other side of the story - just last week almost lost a solid intern (offer rolled out and accepted now) because I responded to their assignment submission 3 days late. Thankfully, they followed up on LinkedIn "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649845688.342909",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "trophy",
+                "users": [
+                    "U030N8RHURZ",
+                    "U02UJ3N39PF",
+                    "U031YH4D36U",
+                    "U02V98LPCFL"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B7756EAE-D65A-4FCC-8EE6-84271C35D100",
+        "type": "message",
+        "text": "How has been your experience so far <@U033Q4L80CT> ",
+        "user": "U031W0TUTRS",
+        "ts": "1649851885.892679",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "ac20ee92febb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-17\/3133200233601_ac20ee92febb215c3343_72.png",
+            "first_name": "Puneet",
+            "real_name": "Puneet Bhalla",
+            "display_name": "Puneet Bhalla",
+            "team": "T02PFK13YLC",
+            "name": "puneetbhalla24",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XAx\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How has been your experience so far "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U033Q4L80CT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649760246.566739",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "1053fb46-2cf7-4840-804d-3c2d3f4dbd4e",
+        "type": "message",
+        "text": "• No one should make an employee feel threatened or insecure, it is a sign of a bad workplace\/manager. Start looking out for other opps.\n• Make a list of all the corrections\/advice your manager gives you. Look at them often.\n• Get the manager to give you a list of goals\/targets for the month, or at least expectations ordered by priority (so that you know what you have to aim for).\n• I recommend getting a Grammarly Premium account, if you write a lot at work. Or at least a free version. This will help you avoid typos, and smoothen out your writing - this goes a long way in improving your relationship with colleagues\/manager in a remote setting.\n• There are many parts in marketing (Content, running ads, marketing operations where you manage tools\/reports and more). If one of those is not working for you, I suggest trying out some of the other ones, to see if you like any of them better. I got a chance to explore most of them in my first two jobs, it gave me a lot of clarity on my strengths as a marketer. Many orgs are in desperate need of a good marketing ops leader today. Worth exploring.\n• Also, get a mentor who is honest and helpful, it really makes a big difference. ",
+        "user": "U02V30A5ENA",
+        "ts": "1649855815.754089",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "gd4d4ecff0f6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d4d4ecff0f60e6093d4abd9a392f9065.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Akash",
+            "real_name": "Akash Bhat",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "akash.stram",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o+zk",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "No one should make an employee feel threatened or insecure, it is a sign of a bad workplace\/manager. Start looking out for other opps."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Make a list of all the corrections\/advice your manager gives you. Look at them often."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Get the manager to give you a list of goals\/targets for the month, or at least expectations ordered by priority (so that you know what you have to aim for)."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I recommend getting a Grammarly Premium account, if you write a lot at work. Or at least a free version. This will help you avoid typos, and smoothen out your writing - this goes a long way in improving your relationship with colleagues\/manager in a remote setting."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "There are many parts in marketing (Content, running ads, marketing operations where you manage tools\/reports and more). If one of those is not working for you, I suggest trying out some of the other ones, to see if you like any of them better. I got a chance to explore most of them in my first two jobs, it gave me a lot of clarity on my strengths as a marketer. Many orgs are in desperate need of a good marketing ops leader today. Worth exploring."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Also, get a mentor who is honest and helpful, it really makes a big difference. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649761280.433259",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "e32c55ba-71d6-4685-84d3-9ffebfb4a159",
+        "type": "message",
+        "text": "Following this thread",
+        "user": "U03847S3MJN",
+        "ts": "1649857351.566989",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "faabc9885a5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-22\/3276264325026_faabc9885a5e60111386_72.png",
+            "first_name": "Sakshi",
+            "real_name": "Sakshi Bajpai",
+            "display_name": "Sakshi Bajpai",
+            "team": "T02PFK13YLC",
+            "name": "sakshibajpai112",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1tRi3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Following this thread"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649760246.566739",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "How to market yourself to a big company being a startup? Why do they Collab with you?",
+        "user": "U02SXBR28G1",
+        "ts": "1649860740.748269",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U3y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How to market yourself to a big company being a startup? Why do they Collab with you?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b92915c9-5514-4365-9d43-5f35b1343775",
+        "type": "message",
+        "text": "Hey <@U031W0TUTRS>,\n\nThanks for asking. It’s going very well &amp; I am loving the PMM role.\n\nThe best part of being a PMM is I get to interact with so many teams - sales, marketing, product, and customers. Feels like I am wearing so many different hats in a day.\n\nHappy to answer any specific questions you might have :grinning:",
+        "user": "U033Q4L80CT",
+        "ts": "1649868455.323309",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "2a975d2688aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-18\/3138760779937_2a975d2688aa23c8ba9c_72.png",
+            "first_name": "Gokul",
+            "real_name": "Gokul Kailasam",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "gokulkailasam92",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TgK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U031W0TUTRS"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\n\nThanks for asking. It’s going very well & I am loving the PMM role.\n\nThe best part of being a PMM is I get to interact with so many teams - sales, marketing, product, and customers. Feels like I am wearing so many different hats in a day.\n\nHappy to answer any specific questions you might have "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grinning"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649760246.566739",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "Bas isi ki kami thi: \"Event-led Growth\" ab aa chuka hai! <https:\/\/www.linkedin.com\/posts\/markkilens_im-beyond-thrilled-to-share-that-ive-joined-activity-6919977546067394560-4OcA>\n\nAur koi led-growth baaki hai?",
+        "user": "U02SXBR28G1",
+        "ts": "1649868545.508109",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/posts\/markkilens_im-beyond-thrilled-to-share-that-ive-joined-activity-6919977546067394560-4OcA",
+                "image_url": "https:\/\/static-exp1.licdn.com\/sc\/h\/c45fy346jw096z9pbphyyhdz7",
+                "image_width": 438,
+                "image_height": 250,
+                "image_bytes": 34857,
+                "service_icon": "https:\/\/static-exp1.licdn.com\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/posts\/markkilens_im-beyond-thrilled-to-share-that-ive-joined-activity-6919977546067394560-4OcA",
+                "fallback": "Mark Kilens on LinkedIn: I’m beyond thrilled to share that I’ve joined Airmeet as their CMO | 128 comments",
+                "text": "I’m beyond thrilled to share that I’ve joined Airmeet as their CMO. But there’s something even more exciting that I want to share with you today. Something... 128 comments on LinkedIn",
+                "title": "Mark Kilens on LinkedIn: I’m beyond thrilled to share that I’ve joined Airmeet as their CMO | 128 comments",
+                "title_link": "https:\/\/www.linkedin.com\/posts\/markkilens_im-beyond-thrilled-to-share-that-ive-joined-activity-6919977546067394560-4OcA",
+                "service_name": "linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y2wf5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bas isi ki kami thi: \"Event-led Growth\" ab aa chuka hai! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/markkilens_im-beyond-thrilled-to-share-that-ive-joined-activity-6919977546067394560-4OcA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAur koi led-growth baaki hai?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649868545.508109",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1649967993.518429",
+        "reply_users": [
+            "U032MN1BESJ",
+            "U0308C4SC65"
+        ],
+        "replies": [
+            {
+                "user": "U032MN1BESJ",
+                "ts": "1649871018.076999"
+            },
+            {
+                "user": "U0308C4SC65",
+                "ts": "1649967993.518429"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U02USELSBRT",
+                    "U02UM0VU8MQ",
+                    "U033ASE526S",
+                    "U030KV8R8RL",
+                    "U02UJBF2Y4C",
+                    "U02U94HSBV4",
+                    "U0361UQSKGQ"
+                ],
+                "count": 7
+            },
+            {
+                "name": "bowtie",
+                "users": [
+                    "U02TTEFFU6B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "bot_id": "B02VB4H88HE",
+        "type": "message",
+        "text": "fetch happen",
+        "user": "U032MN1BESJ",
+        "ts": "1649871018.076999",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02VB4H88HE",
+            "app_id": "A0F827J2C",
+            "name": "giphy",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "deleted": false,
+            "updated": 1642583183,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "X4Ay",
+                "image_url": "https:\/\/media3.giphy.com\/media\/5G98t8QjqBLK8\/giphy.gif?cid=6104955efnbb3up7ggceqxi69skr3kjljfn630lwmfcl1hmy&rid=giphy.gif&ct=g",
+                "alt_text": "fetch happen",
+                "title": {
+                    "type": "plain_text",
+                    "text": "fetch happen",
+                    "emoji": true
+                },
+                "image_width": 480,
+                "image_height": 270,
+                "image_bytes": 1064916,
+                "is_animated": true,
+                "fallback": "480x270px image"
+            },
+            {
+                "type": "context",
+                "block_id": "2cA",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649868545.508109",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "detailed outline of the Swag wala harrasment: <https:\/\/drive.google.com\/file\/d\/1U04zRDknbWHjQpfVgWFhGMOK3JvXry8O\/view>",
+        "user": "U02SXBR28G1",
+        "ts": "1649873361.511949",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hhi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "detailed outline of the Swag wala harrasment: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/file\/d\/1U04zRDknbWHjQpfVgWFhGMOK3JvXry8O\/view"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "yawning_face",
+                "users": [
+                    "U02USELSBRT",
+                    "U02UZL0FMC1",
+                    "U02PDC6B0HH"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "Every Indian marketing\/product dude\/dudette that I've listened to has thrown in a 'Signal vs noise' reference wherever they can. While I think this is the most underrated bit of jargon, can someone bring me up to speed on the reference? Is it from the old Basecamp blog? Is there a book? Is it some TedX YouTube video that has escaped my eyes? Help this caveman find the light please :)",
+        "user": "U02SXBR28G1",
+        "ts": "1649901539.476619",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s9K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Every Indian marketing\/product dude\/dudette that I've listened to has thrown in a 'Signal vs noise' reference wherever they can. While I think this is the most underrated bit of jargon, can someone bring me up to speed on the reference? Is it from the old Basecamp blog? Is there a book? Is it some TedX YouTube video that has escaped my eyes? Help this caveman find the light please :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649901539.476619",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1649919529.836609",
+        "reply_users": [
+            "U02PDC4883V",
+            "U02TTEFFU6B",
+            "U02PDC6B0HH"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649902570.315129"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649906260.764119"
+            },
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1649919529.836609"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1649919529.836609",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02UY3EPQDA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f543c3fa-b32d-46c2-8407-dd4835f2b6b8",
+        "type": "message",
+        "text": "I guess this is from engineering subject 'Signal'. In the \"practicals\" of that subject you had to optimise for a high signal to noise ratio. Guess the days of engineering don't stop haunting do they?",
+        "user": "U02PDC4883V",
+        "ts": "1649902570.315129",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RgMV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I guess this is from engineering subject 'Signal'. In the \"practicals\" of that subject you had to optimise for a high signal to noise ratio. Guess the days of engineering don't stop haunting do they?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649901539.476619",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U0380S2BZ9A"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "Why does every Indian SaaS company start their PR with San Francisco based, California based, Santa Carla based. \n\nWhy are we so afraid to tell we are from India?",
+        "user": "U02SXBR28G1",
+        "ts": "1649902680.473199",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eK7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Why does every Indian SaaS company start their PR with San Francisco based, California based, Santa Carla based. \n\nWhy are we so afraid to tell we are from India?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649902680.473199",
+        "reply_count": 7,
+        "reply_users_count": 5,
+        "latest_reply": "1650203757.317049",
+        "reply_users": [
+            "U02TTEFFU6B",
+            "U03560PQ082",
+            "U02USELSBRT",
+            "U02PDC4883V",
+            "U02VBNKU9T6"
+        ],
+        "replies": [
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649906408.781969"
+            },
+            {
+                "user": "U03560PQ082",
+                "ts": "1649912977.190599"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649913122.927819"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649913136.876629"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649913459.903139"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649913489.733539"
+            },
+            {
+                "user": "U02VBNKU9T6",
+                "ts": "1650203757.317049"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1650203757.317049"
+    },
+    {
+        "client_msg_id": "c0e7bf91-ca30-48db-a5f5-b4690c5be260",
+        "type": "message",
+        "text": "I think it is from the old Basecamp blog. However, their origin can be from the engineering definition.",
+        "user": "U02TTEFFU6B",
+        "ts": "1649906260.764119",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5=qLj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think it is from the old Basecamp blog. However, their origin can be from the engineering definition."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649901539.476619",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02ULN6EFNV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2fb30e41-8505-4169-8ddc-65b5e742f515",
+        "type": "message",
+        "text": "Because there is a certain objection to paying the same for software built outside the US than built in the US.\n\nThat is going away slowly, but there are certain things you do to appease your audience, even after knowing it's an unfounded bias.\n\nBut we will live for the day when we will proudly put Bangalore, Chennai, Mumbai on our PR datelines.",
+        "user": "U02TTEFFU6B",
+        "ts": "1649906408.781969",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RIib",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Because there is a certain objection to paying the same for software built outside the US than built in the US.\n\nThat is going away slowly, but there are certain things you do to appease your audience, even after knowing it's an unfounded bias.\n\nBut we will live for the day when we will proudly put Bangalore, Chennai, Mumbai on our PR datelines."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649902680.473199",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U03689EJ0U9",
+                    "U02UJ3N39PF",
+                    "U02UMJJJALA",
+                    "U0325QQQALR",
+                    "U02V22EUXM4",
+                    "U02USELSBRT",
+                    "U03560PQ082",
+                    "U02PDC4883V",
+                    "U030M1LS1L2",
+                    "U0362R42317",
+                    "U03996E48LB"
+                ],
+                "count": 11
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02VD2JL8N8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c43acc4d-5438-4070-9f78-88d74cfb7717",
+        "type": "message",
+        "text": "I have given interviews, asked for feedback, and they replied - \"sorry, we can't give you any feedback\". I'm glad I was not selected there.",
+        "user": "U02V8NZMWSX",
+        "ts": "1649906717.122319",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g340ac4a7f62",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/340ac4a7f62a799a54945e758068297d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "tanvi",
+            "real_name": "tanvi joharapurkar",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "tanvijoharapurkar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MuVK8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have given interviews, asked for feedback, and they replied - \"sorry, we can't give you any feedback\". I'm glad I was not selected there."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649845688.342909",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "Hello, I am a marketing student and I got know about this community on LinkedIn. I have been following Abhash and Rohit's content for a while now. I am really glad to be here and tbh, a bit overwhelmed looking at all of your portfolios to make a intro on introduction channel. I am curious to learn from and grow here :)",
+        "user": "U02SXBR28G1",
+        "ts": "1649912872.728089",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oWt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, I am a marketing student and I got know about this community on LinkedIn. I have been following Abhash and Rohit's content for a while now. I am really glad to be here and tbh, a bit overwhelmed looking at all of your portfolios to make a intro on introduction channel. I am curious to learn from and grow here :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649912872.728089",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1649915923.987729",
+        "reply_users": [
+            "U03560PQ082",
+            "U02TTEFFU6B",
+            "U02PDC4883V",
+            "U02USELSBRT",
+            "U02V9QUDK1Q",
+            "U031BVBGHCK"
+        ],
+        "replies": [
+            {
+                "user": "U03560PQ082",
+                "ts": "1649912923.058359"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649912957.575739"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649913039.468959"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649913230.344329"
+            },
+            {
+                "user": "U02V9QUDK1Q",
+                "ts": "1649914751.585889"
+            },
+            {
+                "user": "U031BVBGHCK",
+                "ts": "1649915923.987729"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1649915923.987729",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02V9QUDK1Q",
+                    "U03560PQ082"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cb33f07b-5590-4e7d-b91f-0bf1fa73ff17",
+        "type": "message",
+        "text": "No need to be overwhelmed. All of us started somewhere!",
+        "user": "U03560PQ082",
+        "ts": "1649912923.058359",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1db32098d186",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-01\/3176023965474_1db32098d186ac873a3d_72.png",
+            "first_name": "Ahaan",
+            "real_name": "Ahaan Pandit",
+            "display_name": "Ahaan Pandit",
+            "team": "T02PFK13YLC",
+            "name": "ahaan.pandit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "igRFf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No need to be overwhelmed. All of us started somewhere!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649912872.728089",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "c96be741-a446-4a8c-99ef-df8f92406414",
+        "type": "message",
+        "text": "Haha.. new use case of the anon channel. Welcome friend.\n\nHang around and introduce yourself whenever you're comfortable, no stress.\n\nBut always remember, this is a safe space and you're among friends.",
+        "user": "U02TTEFFU6B",
+        "ts": "1649912957.575739",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4yWB3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Haha.. new use case of the anon channel. Welcome friend.\n\nHang around and introduce yourself whenever you're comfortable, no stress.\n\nBut always remember, this is a safe space and you're among friends."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649912872.728089",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U02UJ3N39PF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0c229152-99e4-4359-8b84-b68e8102b2b2",
+        "type": "message",
+        "text": "Sometimes you do your PR in a way to please your target audience.",
+        "user": "U03560PQ082",
+        "ts": "1649912977.190599",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1db32098d186",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-01\/3176023965474_1db32098d186ac873a3d_72.png",
+            "first_name": "Ahaan",
+            "real_name": "Ahaan Pandit",
+            "display_name": "Ahaan Pandit",
+            "team": "T02PFK13YLC",
+            "name": "ahaan.pandit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3qx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sometimes you do your PR in a way to please your target audience."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649902680.473199",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "57684361-be3f-4223-b961-07d286d9a123",
+        "type": "message",
+        "text": "Welcome to the community. We have all been there and it was thanks to few folks that we are where we are. \n\nThis is why this community was also formed - to learn, grow and win together. You are amongst friends :hugging_face:",
+        "user": "U02PDC4883V",
+        "ts": "1649913039.468959",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cwmCN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome to the community. We have all been there and it was thanks to few folks that we are where we are. \n\nThis is why this community was also formed - to learn, grow and win together. You are amongst friends "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hugging_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649912872.728089",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "9ce52bd1-21ff-4754-a69a-57d1cdaa3771",
+        "type": "message",
+        "text": "The first question you should ask is why do most SaaS companies sell to US?\n\nHigh per capita income, means that, they have a higher incentive to automate jobs using software, which is more scalable, doesn't take leaves and is predictably priced at a fraction of what you would pay a human.\n\nI think India will still remain at the low-end of the SaaS market in terms of total value.\n\nNow a <https:\/\/www.youtube.com\/watch?v=sxt4YCIsn2I|Dosa legend in NYC> will not say, \"proudly made in San Francisco\", he will proudly use his heritage as someone from Sri Lanka and someone used to learning South Indian recipes as a child, to sell his dosas.\n\nThis is a well studied phenomenon, also called as <https:\/\/www.wipo.int\/geo_indications\/en\/|'Geographical Indication'> and the patent laws protect it.\n\nIt is why \"french wine\" is priced higher than Nashik wine, or scotch is priced higher than a whisky, even though they might be the same product essentially.",
+        "user": "U02USELSBRT",
+        "ts": "1649913122.927819",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02USELSBRT",
+            "ts": "1649913389.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wijvp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The first question you should ask is why do most SaaS companies sell to US?\n\nHigh per capita income, means that, they have a higher incentive to automate jobs using software, which is more scalable, doesn't take leaves and is predictably priced at a fraction of what you would pay a human.\n\nI think India will still remain at the low-end of the SaaS market in terms of total value.\n\nNow a "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=sxt4YCIsn2I",
+                                "text": "Dosa legend in NYC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " will not say, \"proudly made in San Francisco\", he will proudly use his heritage as someone from Sri Lanka and someone used to learning South Indian recipes as a child, to sell his dosas.\n\nThis is a well studied phenomenon, also called as "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.wipo.int\/geo_indications\/en\/",
+                                "text": "'Geographical Indication'"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and the patent laws protect it.\n\nIt is why \"french wine\" is priced higher than Nashik wine, or scotch is priced higher than a whisky, even though they might be the same product essentially."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649902680.473199",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U030KV8R8RL",
+                    "U02VDPB8CGH"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "03a909ab-e8aa-4acc-8fe4-b9d892dc9a6f",
+        "type": "message",
+        "text": "I sort of agree with anon. At the very least we can start saying Bangalore\/Mumbai\/Chennai &amp; California based. \n\nI get the point about pleasing your audience, but if we don't start, then who will? If not us, then who?",
+        "user": "U02PDC4883V",
+        "ts": "1649913136.876629",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YyOg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I sort of agree with anon. At the very least we can start saying Bangalore\/Mumbai\/Chennai & California based. \n\nI get the point about pleasing your audience, but if we don't start, then who will? If not us, then who?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649902680.473199",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "b78bc8cf-bb0b-44d0-8027-aeb5a149b6c7",
+        "type": "message",
+        "text": "We're all super high achievers and never made a mistake in life and were born marketers. Glad you're waiting to introduce yourself till you reach that point!",
+        "user": "U02USELSBRT",
+        "ts": "1649913230.344329",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GsZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We're all super high achievers and never made a mistake in life and were born marketers. Glad you're waiting to introduce yourself till you reach that point!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649912872.728089",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U031KD0PNTX",
+                    "U02V9QUDK1Q",
+                    "U031QKGPNRK",
+                    "U02ULN6EFNV",
+                    "U02TTEFFU6B",
+                    "U030KV8R8RL",
+                    "U02UJ3N39PF"
+                ],
+                "count": 7
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02V9QUDK1Q"
+                ],
+                "count": 1
+            },
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U02ULN6EFNV",
+                    "U0309B5AYTB",
+                    "U031BVBGHCK",
+                    "U02U6FZRHRV",
+                    "U030KV8R8RL",
+                    "U0361UQSKGQ",
+                    "U02URBKGVA7",
+                    "U03996E48LB",
+                    "U033QDFML74"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "client_msg_id": "86f41809-392e-42e2-ba6a-fed758a44e8e",
+        "type": "message",
+        "text": "<@U02PDC4883V> India ko mat divide karo please, just say, 'Made in India' :stuck_out_tongue:",
+        "user": "U02USELSBRT",
+        "ts": "1649913459.903139",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L9Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02PDC4883V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " India ko mat divide karo please, just say, 'Made in India' "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649902680.473199",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "625f790f-f11f-48b1-b82c-e89b73491ad7",
+        "type": "message",
+        "text": "Hahaha. Arey always. Made in India with :heart:",
+        "user": "U02PDC4883V",
+        "ts": "1649913489.733539",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ap3WJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hahaha. Arey always. Made in India with "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649902680.473199",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "coffee",
+                "users": [
+                    "U031KD0PNTX",
+                    "U03560PQ082"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Been there, done that anon :innocent:",
+        "files": [
+            {
+                "id": "F03C636EV32",
+                "created": 1649914737,
+                "timestamp": 1649914737,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02V9QUDK1Q",
+                "editable": false,
+                "size": 40512,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03C636EV32\/image.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03C636EV32\/download\/image.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C636EV32-5ccf5fba87\/image_64.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C636EV32-5ccf5fba87\/image_80.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C636EV32-5ccf5fba87\/image_360.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 360,
+                "thumb_360_h": 152,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C636EV32-5ccf5fba87\/image_480.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 480,
+                "thumb_480_h": 203,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C636EV32-5ccf5fba87\/image_160.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C636EV32-5ccf5fba87\/image_720.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720_w": 720,
+                "thumb_720_h": 304,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C636EV32-5ccf5fba87\/image_800.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_800_w": 800,
+                "thumb_800_h": 338,
+                "original_w": 820,
+                "original_h": 346,
+                "thumb_tiny": "AwAUADDR2j0qvFLvlKbMD61ZFAUA5A5NA01bUAABTWZVXcxwKdjNRTxmRODyDnmgFa+o9HSTJU5xTu1QW8LRklsZPGBU\/agJJJ6CZ4pAAD0pRSUEjs0maKKADNI5PHOOaWmt2+tMD\/\/Z",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U02V9QUDK1Q\/F03C636EV32\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03C636EV32-833dd0184d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02V9QUDK1Q",
+        "display_as_bot": false,
+        "ts": "1649914751.585889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bkH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Been there, done that anon "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "innocent"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "15638fa2-2755-47b7-b744-8e7eedfa34bc",
+        "thread_ts": "1649912872.728089",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U02USELSBRT",
+                    "U02ULN6EFNV",
+                    "U03AW06L9CN",
+                    "U02ULCHDGB0",
+                    "U0361UQSKGQ",
+                    "U03A7KXT45S",
+                    "U03996E48LB",
+                    "U033QDFML74"
+                ],
+                "count": 8
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U030M1LS1L2",
+                    "U031BVBGHCK",
+                    "U02V7TLU5HT",
+                    "U02PDC6B0HH",
+                    "U02UM0VU8MQ"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "51e65cf9-f558-4527-bfd1-c282e24d8cc4",
+        "type": "message",
+        "text": "I was one of you but believe me, I am yet to find more safe place (especially in marketing related communities) than s11s.",
+        "user": "U031BVBGHCK",
+        "ts": "1649915923.987729",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5dee7ce106e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-02\/3031358466535_5dee7ce106e9da50a485_72.jpg",
+            "first_name": "chintan",
+            "real_name": "chintan bavishi",
+            "display_name": "chintan bavishi",
+            "team": "T02PFK13YLC",
+            "name": "chintanbavishi596",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5GWEs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was one of you but believe me, I am yet to find more safe place (especially in marketing related communities) than s11s."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649912872.728089",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "c0c1eb0e-ce85-4251-b04e-886fb7290bb1",
+        "type": "message",
+        "text": "It is one of those things that makes you sound smart. That's why the overuse. \n\nThe basecamp blog popularised it in tech\/software circles but the concept is older of course",
+        "user": "U02PDC6B0HH",
+        "ts": "1649919529.836609",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7ce0a422fcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953759554663_b7ce0a422fcdabf5a771_72.jpg",
+            "first_name": "Shafique",
+            "real_name": "Shafique Gajdhar",
+            "display_name": "Shaf",
+            "team": "T02PFK13YLC",
+            "name": "shafiquegajdhar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RhA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It is one of those things that makes you sound smart. That's why the overuse. \n\nThe basecamp blog popularised it in tech\/software circles but the concept is older of course"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649901539.476619",
+        "parent_user_id": "U02SXBR28G1"
+    }
+]

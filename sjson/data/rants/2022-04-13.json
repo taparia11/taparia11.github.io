@@ -1,0 +1,436 @@
+[
+    {
+        "client_msg_id": "d9d39c03-726b-42ad-a9b1-d3eb534393ff",
+        "type": "message",
+        "text": "If there was a function i loved next to tech it is marketing, if there is a team which can annoy the fuck out of me its the MARKETING team :disappointed:",
+        "user": "U030SDYNX7V",
+        "ts": "1649913909.584099",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "dcaae4952765",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3019783298486_dcaae495276522b44a55_72.png",
+            "first_name": "Niranjan",
+            "real_name": "Niranjan Bala",
+            "display_name": "Niranjan Bala",
+            "team": "T02PFK13YLC",
+            "name": "nb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BGvpr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If there was a function i loved next to tech it is marketing, if there is a team which can annoy the fuck out of me its the MARKETING team "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649913909.584099",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1649919928.348969",
+        "reply_users": [
+            "U02PDC4883V",
+            "U030SDYNX7V",
+            "U02U94HSBV4",
+            "U02PDC6B0HH"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649913959.604509"
+            },
+            {
+                "user": "U030SDYNX7V",
+                "ts": "1649915255.904839"
+            },
+            {
+                "user": "U030SDYNX7V",
+                "ts": "1649915290.417259"
+            },
+            {
+                "user": "U02U94HSBV4",
+                "ts": "1649916435.497069"
+            },
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1649919928.348969"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1649919928.348969",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U02PDC4883V",
+                    "U02TTEFFU6B",
+                    "U02ULCHDGB0",
+                    "U03560PQ082",
+                    "U039L0HCSHW",
+                    "U039PF71127"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "14647eca-5bac-43d3-bdd4-626a07111aa0",
+        "type": "message",
+        "text": "This week happens to be like that.",
+        "user": "U02PDC4883V",
+        "ts": "1649913959.604509",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wh6U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This week happens to be like that."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649913909.584099",
+        "parent_user_id": "U030SDYNX7V"
+    },
+    {
+        "client_msg_id": "d8cb21da-6acf-4074-821a-ec35a2669cab",
+        "type": "message",
+        "text": "a day in the life of a founder giving-it-back-to-the-society-and-making-world-a-better-place &lt;yawn&gt;",
+        "user": "U02USELSBRT",
+        "ts": "1649913999.387199",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1LIa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "a day in the life of a founder giving-it-back-to-the-society-and-making-world-a-better-place <yawn>"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649763521.715459",
+        "parent_user_id": "U031QKGPNRK",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U031QKGPNRK",
+                    "U03AQFPP9BL"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1cc33a72-a09d-45a4-bc5c-61a3bb3ee114",
+        "type": "message",
+        "text": "these stores sell bite sized education for the youth of the country in small 2 rupee sachets!",
+        "user": "U02USELSBRT",
+        "ts": "1649914061.772299",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ip6u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "these stores sell bite sized education for the youth of the country in small 2 rupee sachets!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649500508.842289",
+        "parent_user_id": "U02TTEFFU6B",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U031QKGPNRK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "72190ac9-4a51-4de4-910c-80bbdda7b61a",
+        "type": "message",
+        "text": "Stunning analogy dude. Hit the nail on the head :rolling_on_the_floor_laughing:",
+        "user": "U031QKGPNRK",
+        "ts": "1649914418.885659",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gv+M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Stunning analogy dude. Hit the nail on the head "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649500508.842289",
+        "parent_user_id": "U02TTEFFU6B",
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b8af45b1-f4c0-4550-8df4-15423dc55239",
+        "type": "message",
+        "text": "not just this week :disappointed:",
+        "user": "U030SDYNX7V",
+        "ts": "1649915255.904839",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "dcaae4952765",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3019783298486_dcaae495276522b44a55_72.png",
+            "first_name": "Niranjan",
+            "real_name": "Niranjan Bala",
+            "display_name": "Niranjan Bala",
+            "team": "T02PFK13YLC",
+            "name": "nb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/7W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "not just this week "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649913909.584099",
+        "parent_user_id": "U030SDYNX7V"
+    },
+    {
+        "bot_id": "B02VB4H88HE",
+        "type": "message",
+        "text": "always angry",
+        "user": "U030SDYNX7V",
+        "ts": "1649915290.417259",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02VB4H88HE",
+            "deleted": false,
+            "name": "giphy",
+            "updated": 1642583183,
+            "app_id": "A0F827J2C",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "wtaSW",
+                "image_url": "https:\/\/media3.giphy.com\/media\/e4P9ZOAKufZ1C\/giphy.gif?cid=6104955e5z1qzk65xvje5k79x7p23oeizpsqfp9bxd3bm9p8&rid=giphy.gif&ct=g",
+                "alt_text": "always angry",
+                "title": {
+                    "type": "plain_text",
+                    "text": "always angry",
+                    "emoji": true
+                },
+                "image_width": 500,
+                "image_height": 200,
+                "image_bytes": 631694,
+                "is_animated": true,
+                "fallback": "500x200px image"
+            },
+            {
+                "type": "context",
+                "block_id": "GvY",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649913909.584099",
+        "parent_user_id": "U030SDYNX7V",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U02PDC4883V",
+                    "U03560PQ082"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "16e834ff-40b0-4bb9-8397-921fcdcf6fc5",
+        "type": "message",
+        "text": "the duality of man",
+        "user": "U02U94HSBV4",
+        "ts": "1649916435.497069",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e0f144e6826c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2991564885808_e0f144e6826cc213d921_72.jpg",
+            "first_name": "Pulkit",
+            "real_name": "Pulkit Jain",
+            "display_name": "pulkit",
+            "team": "T02PFK13YLC",
+            "name": "pulkitjain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bv1fA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the duality of man"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649913909.584099",
+        "parent_user_id": "U030SDYNX7V"
+    }
+]

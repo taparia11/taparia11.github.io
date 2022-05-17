@@ -1,0 +1,1332 @@
+[
+    {
+        "client_msg_id": "0066d662-6a11-4555-9383-7b7dc0e2378b",
+        "type": "message",
+        "text": "I want to learn using Google Display ads (beyond retargeting) for B2B SaaS. What are the best sources to learn?\n\nHave you or someone you know seen success with display ads?",
+        "user": "U02ULN6EFNV",
+        "ts": "1649666305.710279",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g2796bce497e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2796bce497e03edc08c2719052eaae8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Chirayu",
+            "real_name": "Chirayu (Leena AI)",
+            "display_name": "Chirayu",
+            "team": "T02PFK13YLC",
+            "name": "akotiya.chirayu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kfh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I want to learn using Google Display ads (beyond retargeting) for B2B SaaS. What are the best sources to learn?\n\nHave you or someone you know seen success with display ads?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649666305.710279",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1649734005.677579",
+        "reply_users": [
+            "U0306HUGT6C",
+            "U038L2K4R08",
+            "U02UMJJJALA",
+            "U03AQFPP9BL",
+            "U02USELSBRT",
+            "U02V5HU4EP2"
+        ],
+        "replies": [
+            {
+                "user": "U0306HUGT6C",
+                "ts": "1649666794.722239"
+            },
+            {
+                "user": "U038L2K4R08",
+                "ts": "1649668951.637289"
+            },
+            {
+                "user": "U02UMJJJALA",
+                "ts": "1649669125.517239"
+            },
+            {
+                "user": "U03AQFPP9BL",
+                "ts": "1649673490.351269"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649679457.568469"
+            },
+            {
+                "user": "U02V5HU4EP2",
+                "ts": "1649734005.677579"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4fda9f59-8715-41b7-b0e0-53984da21edb",
+        "type": "message",
+        "text": "following",
+        "user": "U0306HUGT6C",
+        "ts": "1649666794.722239",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "67b7c6606731",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-21\/2990844434084_67b7c6606731aad40c13_72.jpg",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Mirashi",
+            "display_name": "Nikhil Mirashi",
+            "team": "T02PFK13YLC",
+            "name": "cutenik85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uJ1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "following"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649666305.710279",
+        "parent_user_id": "U02ULN6EFNV"
+    },
+    {
+        "client_msg_id": "12b07697-b4bc-485b-a4a6-916f8774d5be",
+        "type": "message",
+        "text": "Doesn't make too much sense for B2B SaaS. Retargeting is your best use of it. Unless you have large budgets and want to do brand pushes",
+        "user": "U038L2K4R08",
+        "ts": "1649668951.637289",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bce1208af1c8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-21\/3265436469957_bce1208af1c8b401d3db_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris John",
+            "display_name": "Chris John",
+            "team": "T02PFK13YLC",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QlbQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Doesn't make too much sense for B2B SaaS. Retargeting is your best use of it. Unless you have large budgets and want to do brand pushes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649666305.710279",
+        "parent_user_id": "U02ULN6EFNV"
+    },
+    {
+        "client_msg_id": "dd5f0b7e-65e4-4fff-a668-0d99198fe9a5",
+        "type": "message",
+        "text": "IMO, the best place to learn is Google's <https:\/\/skillshop.exceedlms.com\/student\/catalog\/browse|Skillshop>.\n\nRegarding your second question any answer I provide here would end up being a <#C0318NH5G3C|shameless-plug>. So please take this response with a pinch of salt. (Mods please remove if this violates the self promotion policy)\n\nAt Demandbase, <https:\/\/www.demandbase.com\/solutions\/advertising-cloud\/|Display advertising> is built core into our ABM product. We have built our own <https:\/\/www.demandbase.com\/why-demandbase\/only-b2b-dsp\/|DSP> which is optimised towards B2B.\n\nDisplay ads conventionally are tailored towards brand awareness. Hence instead of relying on standard metrics like conversion rate, we rely more on stuff like account lift, and reach.\n\nBasically, the ads are tailored based on where the accounts are in your journey stage. So for example, accounts in\n• Top of the funnel - share your recent ebook\n• Middle of the funnel - invite to your upcoming webinar\n• Bottom of the funnel - share your recent Gartner MQ report or something\nAgain within our customers the success is based on how well they know their ICP, understand the platform, and have engaging content instead of boring titles like {{company_name}} accelerates jargon jargon jargon for business outcomes.",
+        "user": "U02UMJJJALA",
+        "ts": "1649669125.517239",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9b9817ebeca8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-19\/2973660754755_9b9817ebeca8c211a97a_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Nair",
+            "display_name": "Rahul Nair",
+            "team": "T02PFK13YLC",
+            "name": "rahultheinvader",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bPpIm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "IMO, the best place to learn is Google's "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/skillshop.exceedlms.com\/student\/catalog\/browse",
+                                "text": "Skillshop"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\nRegarding your second question any answer I provide here would end up being a "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0318NH5G3C"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". So please take this response with a pinch of salt. (Mods please remove if this violates the self promotion policy)\n\nAt Demandbase, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.demandbase.com\/solutions\/advertising-cloud\/",
+                                "text": "Display advertising"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is built core into our ABM product. We have built our own "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.demandbase.com\/why-demandbase\/only-b2b-dsp\/",
+                                "text": "DSP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " which is optimised towards B2B.\n\nDisplay ads conventionally are tailored towards brand awareness. Hence instead of relying on standard metrics like conversion rate, we rely more on stuff like account lift, and reach.\n\nBasically, the ads are tailored based on where the accounts are in your journey stage. So for example, accounts in\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Top of the funnel - share your recent ebook"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Middle of the funnel - invite to your upcoming webinar"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Bottom of the funnel - share your recent Gartner MQ report or something"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nAgain within our customers the success is based on how well they know their ICP, understand the platform, and have engaging content instead of boring titles like {{company_name}} accelerates jargon jargon jargon for business outcomes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649666305.710279",
+        "parent_user_id": "U02ULN6EFNV"
+    },
+    {
+        "client_msg_id": "99086ba7-196c-4719-8442-bd35faf44a8f",
+        "type": "message",
+        "text": "Guys , i work with a DTC brand which is a leader in its segment. Our brand keyword CPC has gone through the roof this weekend(Rs 200), the google ads account is new, and we are on maximize conversions as the bid type. Would you suggest moving this to ECPC to try to control the bids for brand keywords.",
+        "user": "U038L2K4R08",
+        "ts": "1649672188.205479",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bce1208af1c8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-21\/3265436469957_bce1208af1c8b401d3db_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris John",
+            "display_name": "Chris John",
+            "team": "T02PFK13YLC",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SerC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Guys , i work with a DTC brand which is a leader in its segment. Our brand keyword CPC has gone through the roof this weekend(Rs 200), the google ads account is new, and we are on maximize conversions as the bid type. Would you suggest moving this to ECPC to try to control the bids for brand keywords."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649672188.205479",
+        "reply_count": 16,
+        "reply_users_count": 5,
+        "latest_reply": "1649701371.256689",
+        "reply_users": [
+            "U031KD0PNTX",
+            "U038L2K4R08",
+            "U02ULCHDGB0",
+            "U02USELSBRT",
+            "U0316K76612"
+        ],
+        "replies": [
+            {
+                "user": "U031KD0PNTX",
+                "ts": "1649676013.471279"
+            },
+            {
+                "user": "U038L2K4R08",
+                "ts": "1649676047.678799"
+            },
+            {
+                "user": "U038L2K4R08",
+                "ts": "1649676056.079229"
+            },
+            {
+                "user": "U02ULCHDGB0",
+                "ts": "1649676236.227129"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649676360.170709"
+            },
+            {
+                "user": "U038L2K4R08",
+                "ts": "1649676593.627749"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649676925.000509"
+            },
+            {
+                "user": "U038L2K4R08",
+                "ts": "1649677025.325759"
+            },
+            {
+                "user": "U038L2K4R08",
+                "ts": "1649677029.577939"
+            },
+            {
+                "user": "U038L2K4R08",
+                "ts": "1649677039.670459"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649677372.785209"
+            },
+            {
+                "user": "U038L2K4R08",
+                "ts": "1649677526.080419"
+            },
+            {
+                "user": "U0316K76612",
+                "ts": "1649696723.017169"
+            },
+            {
+                "user": "U038L2K4R08",
+                "ts": "1649701358.991069"
+            },
+            {
+                "user": "U038L2K4R08",
+                "ts": "1649701367.051969"
+            },
+            {
+                "user": "U038L2K4R08",
+                "ts": "1649701371.256689"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "22acafca-2f7e-4179-ac68-1cb6186b3aba",
+        "type": "message",
+        "text": "For B2B saas with database and marketing stage based ads targeting",
+        "user": "U03AQFPP9BL",
+        "ts": "1649673490.351269",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c9b2329e7c08",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-08\/3377148716193_c9b2329e7c08a95503a8_72.png",
+            "first_name": "Ankit",
+            "real_name": "Ankit Prakash",
+            "display_name": "Ankit Prakash",
+            "team": "T02PFK13YLC",
+            "name": "ankitpr89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cm1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For B2B saas with database and marketing stage based ads targeting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649666305.710279",
+        "parent_user_id": "U02ULN6EFNV"
+    },
+    {
+        "client_msg_id": "300eef09-0002-4947-8b46-d0dea0727e23",
+        "type": "message",
+        "text": "wouldn’t target impression share work better in this case?",
+        "user": "U031KD0PNTX",
+        "ts": "1649676013.471279",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "d8e3a1cc6ed8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3305635315237_d8e3a1cc6ed88c5c929a_72.jpg",
+            "first_name": "Anand",
+            "real_name": "Anand",
+            "display_name": "theanand",
+            "team": "T02PFK13YLC",
+            "name": "anand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vVV0E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wouldn’t target impression share work better in this case?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649672188.205479",
+        "parent_user_id": "U038L2K4R08"
+    },
+    {
+        "client_msg_id": "8751e37a-fe16-4154-8fd1-17715f074b6f",
+        "type": "message",
+        "text": "I mean we are anyways getting 100% impression share",
+        "user": "U038L2K4R08",
+        "ts": "1649676047.678799",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bce1208af1c8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-21\/3265436469957_bce1208af1c8b401d3db_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris John",
+            "display_name": "Chris John",
+            "team": "T02PFK13YLC",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KlfI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I mean we are anyways getting 100% impression share"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649672188.205479",
+        "parent_user_id": "U038L2K4R08"
+    },
+    {
+        "client_msg_id": "0d7ef173-be17-4e8b-a142-76576b413e7f",
+        "type": "message",
+        "text": "just that the costs of the clicks are so high",
+        "user": "U038L2K4R08",
+        "ts": "1649676056.079229",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bce1208af1c8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-21\/3265436469957_bce1208af1c8b401d3db_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris John",
+            "display_name": "Chris John",
+            "team": "T02PFK13YLC",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DoW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "just that the costs of the clicks are so high"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649672188.205479",
+        "parent_user_id": "U038L2K4R08"
+    },
+    {
+        "client_msg_id": "ceed0e9a-9204-4184-8f8a-faba58ca0ee5",
+        "type": "message",
+        "text": "You can try Target CPA and see for an week if this lowers down your conversion cost. Meanwhile, I feel targeting 100% impression share always increases cost of conversion. Isn't it?",
+        "user": "U02ULCHDGB0",
+        "ts": "1649676236.227129",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "0d19402d4d9e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-20\/3416613047252_0d19402d4d9e357ac3e2_72.jpg",
+            "first_name": "Nrusingha",
+            "real_name": "Nrusingha Sahoo",
+            "display_name": "Nrusingha",
+            "team": "T02PFK13YLC",
+            "name": "sahoo.nrusingha87",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dkm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can try Target CPA and see for an week if this lowers down your conversion cost. Meanwhile, I feel targeting 100% impression share always increases cost of conversion. Isn't it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649672188.205479",
+        "parent_user_id": "U038L2K4R08"
+    },
+    {
+        "client_msg_id": "5ecede45-1158-4e1a-b571-24be85e1ad76",
+        "type": "message",
+        "text": "i would suggest that if impression share is not a problem, focus on improving the quality score. improving quality score will get your cpc down immediately.\n\nif qs is also good and IS is also good and even then the CPC is high, it means that you're operating in a very competitive industry and not much is in your control, just continue what you're doing.",
+        "user": "U02USELSBRT",
+        "ts": "1649676360.170709",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02USELSBRT",
+            "ts": "1649677416.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yujtr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i would suggest that if impression share is not a problem, focus on improving the quality score. improving quality score will get your cpc down immediately.\n\nif qs is also good and IS is also good and even then the CPC is high, it means that you're operating in a very competitive industry and not much is in your control, just continue what you're doing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649672188.205479",
+        "parent_user_id": "U038L2K4R08"
+    },
+    {
+        "client_msg_id": "89b29ac5-6053-4349-922e-be62ffcd115d",
+        "type": "message",
+        "text": "Yes, this is a new ad account, so that hurts our CPC, but these are brand terms",
+        "user": "U038L2K4R08",
+        "ts": "1649676593.627749",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bce1208af1c8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-21\/3265436469957_bce1208af1c8b401d3db_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris John",
+            "display_name": "Chris John",
+            "team": "T02PFK13YLC",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IC8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, this is a new ad account, so that hurts our CPC, but these are brand terms"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649672188.205479",
+        "parent_user_id": "U038L2K4R08"
+    },
+    {
+        "client_msg_id": "59e1a7c8-334b-44b2-9a71-cd4c1ef9f879",
+        "type": "message",
+        "text": "what's your click share? is it also high? if not, i would suggest work with maximize clicks strategy for 2 weeks and see if it changes anything",
+        "user": "U02USELSBRT",
+        "ts": "1649676925.000509",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KdvKw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what's your click share? is it also high? if not, i would suggest work with maximize clicks strategy for 2 weeks and see if it changes anything"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649672188.205479",
+        "parent_user_id": "U038L2K4R08"
+    },
+    {
+        "client_msg_id": "8117ab30-0da2-4753-9672-b7e3bff7bbf3",
+        "type": "message",
+        "text": "Yes, actually i think maximize clicks should work here",
+        "user": "U038L2K4R08",
+        "ts": "1649677025.325759",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bce1208af1c8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-21\/3265436469957_bce1208af1c8b401d3db_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris John",
+            "display_name": "Chris John",
+            "team": "T02PFK13YLC",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "duNT4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, actually i think maximize clicks should work here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649672188.205479",
+        "parent_user_id": "U038L2K4R08"
+    },
+    {
+        "client_msg_id": "336b4581-d79d-4fdc-868a-20793449e6f4",
+        "type": "message",
+        "text": "Since its brand keywords",
+        "user": "U038L2K4R08",
+        "ts": "1649677029.577939",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bce1208af1c8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-21\/3265436469957_bce1208af1c8b401d3db_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris John",
+            "display_name": "Chris John",
+            "team": "T02PFK13YLC",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ambX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Since its brand keywords"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649672188.205479",
+        "parent_user_id": "U038L2K4R08"
+    },
+    {
+        "client_msg_id": "661f0b7e-be9c-4f0a-a541-95fb09848358",
+        "type": "message",
+        "text": "We would want as many clicks at the cheapest cost",
+        "user": "U038L2K4R08",
+        "ts": "1649677039.670459",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bce1208af1c8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-21\/3265436469957_bce1208af1c8b401d3db_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris John",
+            "display_name": "Chris John",
+            "team": "T02PFK13YLC",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vHCZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We would want as many clicks at the cheapest cost"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649672188.205479",
+        "parent_user_id": "U038L2K4R08"
+    },
+    {
+        "client_msg_id": "3811ed53-4c21-4ed1-af92-d5b79ee33fb1",
+        "type": "message",
+        "text": "yes and intent is not the problem, so wasted spend would be minimum. you may want to have non-performing website audiences as a negative, if that is an issue? for example in B2B, i would remove recent free trial conversions from my brand campaigns but that may not be an issue with d2c",
+        "user": "U02USELSBRT",
+        "ts": "1649677372.785209",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eVVQh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes and intent is not the problem, so wasted spend would be minimum. you may want to have non-performing website audiences as a negative, if that is an issue? for example in B2B, i would remove recent free trial conversions from my brand campaigns but that may not be an issue with d2c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649672188.205479",
+        "parent_user_id": "U038L2K4R08"
+    },
+    {
+        "client_msg_id": "df98b6ae-e571-42de-9a1e-6b8124691ef3",
+        "type": "message",
+        "text": "Correct",
+        "user": "U038L2K4R08",
+        "ts": "1649677526.080419",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bce1208af1c8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-21\/3265436469957_bce1208af1c8b401d3db_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris John",
+            "display_name": "Chris John",
+            "team": "T02PFK13YLC",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aIv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Correct"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649672188.205479",
+        "parent_user_id": "U038L2K4R08"
+    },
+    {
+        "client_msg_id": "635b5d72-9ea5-4ddf-b284-2f59c565679a",
+        "type": "message",
+        "text": "<@U02ULN6EFNV> platforms don't succeed or fail, campaigns do :)\n\nhaving said that, there are 3 critical factors with any campaign:\n\n• goal\/what you optimize for\n• audience\n• creative\na platform plays the biggest role in audience it can target and how, which is what i believe is the shortcoming on Google display.\n\nIn order to succeed with GDN,\n\n• make sure you're not asking for the moon in terms of goal. go for upper funnel over lower funnel or post conversion funnel\n• try to augment the native audiences with more data. for example, we tried using clearbit reveal to create industry wise smart lists on google analytics and then imported it back to google ads which worked better than regular remarketing\nOn the point of where to learn, just pick anywhere and get started. Eventually you would need to learn this from multiple sources to \"triangulate\" your knowledge.",
+        "user": "U02USELSBRT",
+        "ts": "1649679457.568469",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BHS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02ULN6EFNV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " platforms don't succeed or fail, campaigns do :)\n\nhaving said that, there are 3 critical factors with any campaign:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "goal\/what you optimize for"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "audience"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "creative"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\na platform plays the biggest role in audience it can target and how, which is what i believe is the shortcoming on Google display.\n\nIn order to succeed with GDN,\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "make sure you're not asking for the moon in terms of goal. go for upper funnel over lower funnel or post conversion funnel"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "try to augment the native audiences with more data. for example, we tried using clearbit reveal to create industry wise smart lists on google analytics and then imported it back to google ads which worked better than regular remarketing"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nOn the point of where to learn, just pick anywhere and get started. Eventually you would need to learn this from multiple sources to \"triangulate\" your knowledge."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649666305.710279",
+        "parent_user_id": "U02ULN6EFNV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02PDC4883V",
+                    "U02VBU808H4"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "073e8212-7462-4f7a-9ff1-37979c7ab679",
+        "type": "message",
+        "text": "Is anyone else even bidding for your brand keywords?\nAsking since you said you're getting 100% impression share.\n\nIf no, why run ads for brand keywords? It may make sense to run them for keywords for which you aren't able to rank organically yet.\nEg: brand alternatives, brand pricing, etc.\n\nIf you still want to, run ads at enhanced CPC. You should see very low CPCs.",
+        "user": "U0316K76612",
+        "ts": "1649696723.017169",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "3d8cd7ed21c1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-02\/3067243283408_3d8cd7ed21c19b96a8fb_72.png",
+            "first_name": "Ishaan",
+            "real_name": "Ishaan Shakunt",
+            "display_name": "Ishaan Shakunt",
+            "team": "T02PFK13YLC",
+            "name": "ishaan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X6H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is anyone else even bidding for your brand keywords?\nAsking since you said you're getting 100% impression share.\n\nIf no, why run ads for brand keywords? It may make sense to run them for keywords for which you aren't able to rank organically yet.\nEg: brand alternatives, brand pricing, etc.\n\nIf you still want to, run ads at enhanced CPC. You should see very low CPCs."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649672188.205479",
+        "parent_user_id": "U038L2K4R08"
+    },
+    {
+        "client_msg_id": "aa24704f-7875-4cff-a27d-e99f890574ec",
+        "type": "message",
+        "text": "Yeap, people are running ads for our brand, there are only two direct competitors in the market and both of them are running ads. Impression share wont get affected , 3 ad slots, 3 ads, we will always come first becuase of relevancy.",
+        "user": "U038L2K4R08",
+        "ts": "1649701358.991069",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bce1208af1c8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-21\/3265436469957_bce1208af1c8b401d3db_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris John",
+            "display_name": "Chris John",
+            "team": "T02PFK13YLC",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ump0\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeap, people are running ads for our brand, there are only two direct competitors in the market and both of them are running ads. Impression share wont get affected , 3 ad slots, 3 ads, we will always come first becuase of relevancy."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649672188.205479",
+        "parent_user_id": "U038L2K4R08"
+    },
+    {
+        "client_msg_id": "23374c81-af4c-4203-b0bb-7c32270e76c9",
+        "type": "message",
+        "text": "We have changed to Maxize clicks",
+        "user": "U038L2K4R08",
+        "ts": "1649701367.051969",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bce1208af1c8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-21\/3265436469957_bce1208af1c8b401d3db_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris John",
+            "display_name": "Chris John",
+            "team": "T02PFK13YLC",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tpd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We have changed to Maxize clicks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649672188.205479",
+        "parent_user_id": "U038L2K4R08"
+    },
+    {
+        "client_msg_id": "a4b45677-a9b6-4d87-b948-29b93bf36ca2",
+        "type": "message",
+        "text": "Maximize clicks",
+        "user": "U038L2K4R08",
+        "ts": "1649701371.256689",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bce1208af1c8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-21\/3265436469957_bce1208af1c8b401d3db_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris John",
+            "display_name": "Chris John",
+            "team": "T02PFK13YLC",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U\/UFd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maximize clicks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649672188.205479",
+        "parent_user_id": "U038L2K4R08"
+    },
+    {
+        "type": "message",
+        "text": "This pisses me off. Years back when i just got into performance marketing, when i used to run web traffic campaigns and brand awareness campaigns and shiz and get 0 conversions i couldnt believe that our ads were so bad. They were actually really good. So i installed an ip tracking software on the website, tracked where all the website visitors are. First on lucky orange i noticed that a99% of the users stayed on the page for exactly 7 seconds and performed the same action, when i got the IP report, i saw that the server the traffic was coming from was called \"Facebook Ireland\" took this up with Facebook support and they said Facebook will not accept the results of third party data. At the end of the day this is just a few ruppees or cents, but in volume its a lot of money Facebook is getting out of this bot nonsense",
+        "files": [
+            {
+                "id": "F03B3ST6L5S",
+                "created": 1649701450,
+                "timestamp": 1649701450,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U038L2K4R08",
+                "editable": false,
+                "size": 75931,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03B3ST6L5S\/image.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03B3ST6L5S\/download\/image.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B3ST6L5S-7a5bbdd8ff\/image_64.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B3ST6L5S-7a5bbdd8ff\/image_80.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B3ST6L5S-7a5bbdd8ff\/image_360.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 360,
+                "thumb_360_h": 76,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B3ST6L5S-7a5bbdd8ff\/image_480.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 480,
+                "thumb_480_h": 101,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B3ST6L5S-7a5bbdd8ff\/image_160.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B3ST6L5S-7a5bbdd8ff\/image_720.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720_w": 720,
+                "thumb_720_h": 151,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B3ST6L5S-7a5bbdd8ff\/image_800.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_800_w": 800,
+                "thumb_800_h": 168,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B3ST6L5S-7a5bbdd8ff\/image_960.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_960_w": 960,
+                "thumb_960_h": 201,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B3ST6L5S-7a5bbdd8ff\/image_1024.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 215,
+                "original_w": 1549,
+                "original_h": 325,
+                "thumb_tiny": "AwAKADDR20FajYnJ5oJ6UDsPwaMGmZoyf1oCw\/aeOtLt96jyf1oyfWgLH\/\/Z",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U038L2K4R08\/F03B3ST6L5S\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03B3ST6L5S-cc66ec01c0",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U038L2K4R08",
+        "display_as_bot": false,
+        "ts": "1649701642.033559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ltXQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This pisses me off. Years back when i just got into performance marketing, when i used to run web traffic campaigns and brand awareness campaigns and shiz and get 0 conversions i couldnt believe that our ads were so bad. They were actually really good. So i installed an ip tracking software on the website, tracked where all the website visitors are. First on lucky orange i noticed that a99% of the users stayed on the page for exactly 7 seconds and performed the same action, when i got the IP report, i saw that the server the traffic was coming from was called \"Facebook Ireland\" took this up with Facebook support and they said Facebook will not accept the results of third party data. At the end of the day this is just a few ruppees or cents, but in volume its a lot of money Facebook is getting out of this bot nonsense"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "692b48b7-1122-429b-9b23-0d6614b3e1be"
+    },
+    {
+        "client_msg_id": "34634a89-bd72-4f75-a7c6-ffd41a30f20e",
+        "type": "message",
+        "text": "One of the things that worked for us was dividing website audience into prospects (people who visited high intent pages like demo\/ pricing) and suspects (the lurkers who visited other pages). Our goal with prospects was to get them to a demo via social proof ads while with suspects was for them to take the next best action (ebook download\/ webinar engagement) so their lead score goes up.\n\nOne other thing that has come up is bing display ads (connected to LinkedIn at backend) but we're yet to try that.",
+        "user": "U02V5HU4EP2",
+        "ts": "1649734005.677579",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "gb6fa30f50de",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b6fa30f50de947886fed88281c7644fe.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Shubham",
+            "real_name": "Shubham",
+            "display_name": "Shubham",
+            "team": "T02PFK13YLC",
+            "name": "shubhamgrover.sg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XMNP+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "One of the things that worked for us was dividing website audience into prospects (people who visited high intent pages like demo\/ pricing) and suspects (the lurkers who visited other pages). Our goal with prospects was to get them to a demo via social proof ads while with suspects was for them to take the next best action (ebook download\/ webinar engagement) so their lead score goes up.\n\nOne other thing that has come up is bing display ads (connected to LinkedIn at backend) but we're yet to try that."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649666305.710279",
+        "parent_user_id": "U02ULN6EFNV"
+    }
+]

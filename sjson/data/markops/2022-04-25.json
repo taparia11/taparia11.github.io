@@ -1,0 +1,304 @@
+[
+    {
+        "client_msg_id": "2273de4c-249b-4f16-9648-1c442a215a0f",
+        "type": "message",
+        "text": "Hi Please elaborate on your use case\/customer journey",
+        "user": "U032QUYKMGV",
+        "ts": "1650871739.524439",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e68ac4a23ed9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-17\/3113923778246_e68ac4a23ed9e0db3d14_72.jpg",
+            "first_name": "Syed",
+            "real_name": "Syed Zainul Haque",
+            "display_name": "Syed Zainul Haque",
+            "team": "T02PFK13YLC",
+            "name": "szainul13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U032QUYKMGV",
+            "ts": "1650871753.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8NZOk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Please elaborate on your use case\/customer journey"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650778512.229259",
+        "parent_user_id": "U0398V7RJG1"
+    },
+    {
+        "client_msg_id": "9c4dd086-db5a-40bc-b1df-6a6f00a16100",
+        "type": "message",
+        "text": "Hi All .. New to the community here! .. A Product Manager who's trying to wrap his head around how digital marketing works today (Both out of interest and for work)",
+        "user": "U03CZ7PV5KN",
+        "ts": "1650955199.499039",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "2456e3c15870",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3432290626454_2456e3c15870e25f21c8_72.jpg",
+            "first_name": "Gurpreet",
+            "real_name": "Gurpreet Singh Kharbanda",
+            "display_name": "Gurpreet",
+            "team": "T02PFK13YLC",
+            "name": "gurpreet7686",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q+e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi All .. New to the community here! .. A Product Manager who's trying to wrap his head around how digital marketing works today (Both out of interest and for work)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e376d530-7265-4877-bc74-5a2d25af5741",
+        "type": "message",
+        "text": "Was reading up and stumbled upon something that I wanted to get some SME opinions on ..",
+        "user": "U03CZ7PV5KN",
+        "ts": "1650955228.727429",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "2456e3c15870",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3432290626454_2456e3c15870e25f21c8_72.jpg",
+            "first_name": "Gurpreet",
+            "real_name": "Gurpreet Singh Kharbanda",
+            "display_name": "Gurpreet",
+            "team": "T02PFK13YLC",
+            "name": "gurpreet7686",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e8GN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Was reading up and stumbled upon something that I wanted to get some SME opinions on .."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Do Marketing Strategies get built this way or is this theory that's distanced from practice?",
+        "files": [
+            {
+                "id": "F03D9TZAFUZ",
+                "created": 1650955243,
+                "timestamp": 1650955243,
+                "name": "The-Demand-Generation-Process.png",
+                "title": "The-Demand-Generation-Process.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03CZ7PV5KN",
+                "editable": false,
+                "size": 56356,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03D9TZAFUZ\/the-demand-generation-process.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03D9TZAFUZ\/download\/the-demand-generation-process.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03D9TZAFUZ-62e553cfdb\/the-demand-generation-process_64.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03D9TZAFUZ-62e553cfdb\/the-demand-generation-process_80.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03D9TZAFUZ-62e553cfdb\/the-demand-generation-process_360.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 360,
+                "thumb_360_h": 283,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03D9TZAFUZ-62e553cfdb\/the-demand-generation-process_480.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 480,
+                "thumb_480_h": 378,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03D9TZAFUZ-62e553cfdb\/the-demand-generation-process_160.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03D9TZAFUZ-62e553cfdb\/the-demand-generation-process_720.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720_w": 720,
+                "thumb_720_h": 567,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03D9TZAFUZ-62e553cfdb\/the-demand-generation-process_800.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_800_w": 800,
+                "thumb_800_h": 630,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03D9TZAFUZ-62e553cfdb\/the-demand-generation-process_960.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_960_w": 960,
+                "thumb_960_h": 756,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03D9TZAFUZ-62e553cfdb\/the-demand-generation-process_1024.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 806,
+                "original_w": 1108,
+                "original_h": 872,
+                "thumb_tiny": "AwAlADDMooooAVF3Nih12tipECgc9aHCkHHWmBFRRRSAKcoxzSAZNSDp0poBQx9fzoLH1\/KkH0P50Hr0P50AMYZ5ptSnp0\/WoyMGhgJkil3N6mkopAODHuT09aTc3qaQf0ooAXc3qaTJNFFAH\/\/Z",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U03CZ7PV5KN\/F03D9TZAFUZ\/the-demand-generation-process.png",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03D9TZAFUZ-ba55e293e1",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U03CZ7PV5KN",
+        "display_as_bot": false,
+        "ts": "1650955285.442669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PkxJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do Marketing Strategies get built this way or is this theory that's distanced from practice?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "f064790b-a090-4f37-82d9-2b907983e0f9",
+        "thread_ts": "1650955285.442669",
+        "reply_count": 8,
+        "reply_users_count": 4,
+        "latest_reply": "1651066299.739819",
+        "reply_users": [
+            "U02USELSBRT",
+            "U03CZ7PV5KN",
+            "U031KD0PNTX",
+            "U02PDC6B0HH"
+        ],
+        "replies": [
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650955615.551069"
+            },
+            {
+                "user": "U03CZ7PV5KN",
+                "ts": "1650956857.814089"
+            },
+            {
+                "user": "U03CZ7PV5KN",
+                "ts": "1650956882.781559"
+            },
+            {
+                "user": "U03CZ7PV5KN",
+                "ts": "1650956914.452659"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650957831.325509"
+            },
+            {
+                "user": "U03CZ7PV5KN",
+                "ts": "1650963254.969509"
+            },
+            {
+                "user": "U031KD0PNTX",
+                "ts": "1650984494.426569"
+            },
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1651066299.739819"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5cbbbad4-751e-4648-bf13-0a6ca44df8de",
+        "type": "message",
+        "text": "there is no strategy here, just quota setting. the real strategy work will begin after you set the quota. it will be about how you generate those said MQLs :smile:",
+        "user": "U02USELSBRT",
+        "ts": "1650955615.551069",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ysm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "there is no strategy here, just quota setting. the real strategy work will begin after you set the quota. it will be about how you generate those said MQLs "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650955285.442669",
+        "parent_user_id": "U03CZ7PV5KN",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U031KD0PNTX",
+                    "U030SHA1S2W",
+                    "U02VD2JL8N8",
+                    "U032MN1BESJ",
+                    "U031QKGPNRK"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

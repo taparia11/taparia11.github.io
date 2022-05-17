@@ -1,0 +1,668 @@
+[
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "How can we stop proving our credibility for all the backend work that we pull as marketers that our 'Heads' or so-called 'Leads' take credits for in the name of 'proud of mah team' \n\nLike kaam m innovation lagaye ye fir faltu internal politics m",
+        "user": "U02SXBR28G1",
+        "ts": "1649921682.015449",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hJ0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How can we stop proving our credibility for all the backend work that we pull as marketers that our 'Heads' or so-called 'Leads' take credits for in the name of 'proud of mah team' \n\nLike kaam m innovation lagaye ye fir faltu internal politics m"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649921682.015449",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1649937616.003739",
+        "reply_users": [
+            "U02PDC4883V",
+            "U030KV8R8RL"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649921842.198239"
+            },
+            {
+                "user": "U030KV8R8RL",
+                "ts": "1649937453.352689"
+            },
+            {
+                "user": "U030KV8R8RL",
+                "ts": "1649937616.003739"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1649937616.003739"
+    },
+    {
+        "client_msg_id": "9f5c593d-043a-4b05-803a-e339c81e2423",
+        "type": "message",
+        "text": "You cannot. Now that you know the characteristics of your head, lead etc., look for a place where they don’t thrive",
+        "user": "U02PDC4883V",
+        "ts": "1649921842.198239",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02PDC4883V",
+            "ts": "1649921858.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sa2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You cannot. Now that you know the characteristics of your head, lead etc., look for a place where they don’t thrive"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649921682.015449",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "point_up_2",
+                "users": [
+                    "U032MN1BESJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "I see lot of passionate threads on salary\/packages\/increments. I see that most of us are getting better at negotiating and asking for what we are worth but not adding the component of cost\/standard of living, peace of mind\/pursuit of happiness and some other abstract\/philosophical concepts. I have learnt a lot from my dad and mom and my own way of being secure financially in startups in this regard as they lead happy and healthy post retirement lives. So if people are interested I can document my lessons. I will not spend a lot of time documenting it if I don’t see interest as I respect how most people in my circle don’t welcome this thought - that salary packages can be calculated incorporating factors well beyond past CTC\/future increment and stage of business",
+        "user": "U02SXBR28G1",
+        "ts": "1649922462.955749",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cSi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I see lot of passionate threads on salary\/packages\/increments. I see that most of us are getting better at negotiating and asking for what we are worth but not adding the component of cost\/standard of living, peace of mind\/pursuit of happiness and some other abstract\/philosophical concepts. I have learnt a lot from my dad and mom and my own way of being secure financially in startups in this regard as they lead happy and healthy post retirement lives. So if people are interested I can document my lessons. I will not spend a lot of time documenting it if I don’t see interest as I respect how most people in my circle don’t welcome this thought - that salary packages can be calculated incorporating factors well beyond past CTC\/future increment and stage of business"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "blue_heart",
+                "users": [
+                    "U030KV8R8RL",
+                    "U02UM0VU8MQ",
+                    "U02UZL0FMC1",
+                    "U02USELSBRT",
+                    "U031QKGPNRK",
+                    "U02PDC6B0HH",
+                    "U03560PQ082",
+                    "U02ULN6EFNV",
+                    "U03847S3MJN",
+                    "U033ASE526S",
+                    "U039DHTUVQF",
+                    "U030N8RHURZ",
+                    "U03996E48LB",
+                    "U02UPFW33U3"
+                ],
+                "count": 14
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U031BVBGHCK",
+                    "U02TTEFFU6B",
+                    "U02U6FZRHRV",
+                    "U037X3LJ8D8",
+                    "U02UJ3N39PF",
+                    "U02URS98P9B",
+                    "U030ZR9D0FK",
+                    "U03AHQURB98",
+                    "U02ULN6EFNV",
+                    "U03847S3MJN",
+                    "U033ASE526S",
+                    "U030N8RHURZ",
+                    "U02UPFW33U3"
+                ],
+                "count": 13
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U030LK66KFA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "&gt; How can we stop proving our credibility for all the backend work that we pull as marketers that our 'Heads' or so-called 'Leads' take credits for in the name of 'proud of mah team'\n\nIn my company, other teams jump in at the time of project completion to 'review' your work, and then go to the thousands of 'Heads' we have in our org with the completed version or post it on Slack threads with the CEO for clout.\n\nI don't think you can run from it. This is is my fifth company and the politics is strikingly similar to my previous companies. Everywhere there is a set of bad apples that do this s#!t and rise in the ranks quickly. And most often, these are your 'failed entrepreneurs' or 'B-school graduates' who think their only skill is project management but they suck at that the most.\n\nMy advice: keep your head down, learn as much as you can, join an early stage startup and create the right culture from scratch.",
+        "user": "U02SXBR28G1",
+        "ts": "1649933092.446529",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MED",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How can we stop proving our credibility for all the backend work that we pull as marketers that our 'Heads' or so-called 'Leads' take credits for in the name of 'proud of mah team'"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nIn my company, other teams jump in at the time of project completion to 'review' your work, and then go to the thousands of 'Heads' we have in our org with the completed version or post it on Slack threads with the CEO for clout.\n\nI don't think you can run from it. This is is my fifth company and the politics is strikingly similar to my previous companies. Everywhere there is a set of bad apples that do this s#!t and rise in the ranks quickly. And most often, these are your 'failed entrepreneurs' or 'B-school graduates' who think their only skill is project management but they suck at that the most.\n\nMy advice: keep your head down, learn as much as you can, join an early stage startup and create the right culture from scratch."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U0325QQQALR",
+                    "U03996E48LB"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "I got into the new role of performance marketing(app activation, app re-engagement activities)\n\nPlease suggest to me any guides, ebooks, blogs or podcasts which help me to succeed in this role...\n",
+        "user": "U02SXBR28G1",
+        "ts": "1649933583.896209",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PYEa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I got into the new role of performance marketing(app activation, app re-engagement activities)\n\nPlease suggest to me any guides, ebooks, blogs or podcasts which help me to succeed in this role..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d063f9e3-fc46-40db-9680-bac691f264d4",
+        "type": "message",
+        "text": "Maybe it's naive, may not work but can act as a deterrent— Document the shit out of it even before a project begins. If it isn't already practised at your company, get into a habit of project documentation clearly outlining various responsibilities of all stakeholders at different stages. Share it with EVERYONE relevant on the team. It's hard to take credit when it's documented. :wink:",
+        "user": "U030KV8R8RL",
+        "ts": "1649937453.352689",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1d58fa7deccd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3044063413425_1d58fa7deccd79b3b2d0_72.jpg",
+            "first_name": "Vartika",
+            "real_name": "Vartika Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "vartika.gupta1911",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0cSn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maybe it's naive, may not work but can act as a deterrent— Document the shit out of it even before a project begins. If it isn't already practised at your company, get into a habit of project documentation clearly outlining various responsibilities of all stakeholders at different stages. Share it with EVERYONE relevant on the team. It's hard to take credit when it's documented. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649921682.015449",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "point_up_2",
+                "users": [
+                    "U032MN1BESJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "For anyone who needs a Stakeholder template within your project documentation framework:",
+        "files": [
+            {
+                "id": "F03C7F0MJE4",
+                "created": 1649937588,
+                "timestamp": 1649937588,
+                "name": "Screenshot 2022-04-14 at 5.28.02 PM.png",
+                "title": "Screenshot 2022-04-14 at 5.28.02 PM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U030KV8R8RL",
+                "editable": false,
+                "size": 59616,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03C7F0MJE4\/screenshot_2022-04-14_at_5.28.02_pm.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03C7F0MJE4\/download\/screenshot_2022-04-14_at_5.28.02_pm.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C7F0MJE4-56b020f1e5\/screenshot_2022-04-14_at_5.28.02_pm_64.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C7F0MJE4-56b020f1e5\/screenshot_2022-04-14_at_5.28.02_pm_80.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C7F0MJE4-56b020f1e5\/screenshot_2022-04-14_at_5.28.02_pm_360.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 360,
+                "thumb_360_h": 134,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C7F0MJE4-56b020f1e5\/screenshot_2022-04-14_at_5.28.02_pm_480.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 480,
+                "thumb_480_h": 178,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C7F0MJE4-56b020f1e5\/screenshot_2022-04-14_at_5.28.02_pm_160.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C7F0MJE4-56b020f1e5\/screenshot_2022-04-14_at_5.28.02_pm_720.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720_w": 720,
+                "thumb_720_h": 267,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C7F0MJE4-56b020f1e5\/screenshot_2022-04-14_at_5.28.02_pm_800.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_800_w": 800,
+                "thumb_800_h": 297,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C7F0MJE4-56b020f1e5\/screenshot_2022-04-14_at_5.28.02_pm_960.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_960_w": 960,
+                "thumb_960_h": 356,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C7F0MJE4-56b020f1e5\/screenshot_2022-04-14_at_5.28.02_pm_1024.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 380,
+                "image_exif_rotation": 1,
+                "original_w": 1562,
+                "original_h": 580,
+                "thumb_tiny": "AwARADB39ny\/89R+dCac+7LyHHsxquXf++351LaOxnGWJGD1NICwNPj7vJ\/31R\/Z8X9+X\/vqp1Y+o\/GnZOfvLQmOxW\/s+L+\/L\/31R\/Z8X9+X\/vurdFMRitU1n\/x8D6GoWqaz\/wCPgfQ0ugF+lHUUlKOoqSiSiiirJP\/Z",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U030KV8R8RL\/F03C7F0MJE4\/screenshot_2022-04-14_at_5.28.02_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03C7F0MJE4-bab4d20a5d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U030KV8R8RL",
+        "display_as_bot": false,
+        "ts": "1649937616.003739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LPZpU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For anyone who needs a Stakeholder template within your project documentation framework:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "e0cf969c-f236-4ce0-ac46-b862bc714795",
+        "thread_ts": "1649921682.015449",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "Any idea about Fiserv org?",
+        "user": "U02SXBR28G1",
+        "ts": "1649939950.329169",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/49",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any idea about Fiserv org?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5f53150e-c73e-4a6f-841e-81606e8e1321",
+        "type": "message",
+        "text": "Don't be jealous bud! :stuck_out_tongue:",
+        "user": "U0308C4SC65",
+        "ts": "1649967993.518429",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "75e781fb2110",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2995770296898_75e781fb211045284216_72.jpg",
+            "first_name": "Utkarsh",
+            "real_name": "Utkarsh Rai",
+            "display_name": "Utkarsh Rai",
+            "team": "T02PFK13YLC",
+            "name": "rutkarsh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fgsb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Don't be jealous bud! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649868545.508109",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "Sometimes when I have an existential crisis about being in marketing, I thank God I ended up in B2B. More jargon everywhere than hair on my head, but atleast we're a bit more honest about the fact that we mostly care about profits and selling. Just a little bit.\n\nThe aspirational fluff in B2C\/ D2C is on another level. EdTech, Fast fashion etc are some of the worst offenders. Lot of stomach churning stuff that happens, unfortunately someone left the marketing on full blast.\n\nGuess my virtue-signalling has gone on enough. Rant over, jai B2B.",
+        "user": "U02SXBR28G1",
+        "ts": "1649970432.090429",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O86",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sometimes when I have an existential crisis about being in marketing, I thank God I ended up in B2B. More jargon everywhere than hair on my head, but atleast we're a bit more honest about the fact that we mostly care about profits and selling. Just a little bit.\n\nThe aspirational fluff in B2C\/ D2C is on another level. EdTech, Fast fashion etc are some of the worst offenders. Lot of stomach churning stuff that happens, unfortunately someone left the marketing on full blast.\n\nGuess my virtue-signalling has gone on enough. Rant over, jai B2B."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649970432.090429",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650000801.338869",
+        "reply_users": [
+            "U02PDC4883V"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650000801.338869"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1650000801.338869",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U02TTEFFU6B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02V9QUDK1Q",
+                    "U02V22EUXM4",
+                    "U030KV8R8RL",
+                    "U033R6MA1DY",
+                    "U02PDC4883V",
+                    "U03560PQ082",
+                    "U02URBKGVA7",
+                    "U030ZR9D0FK",
+                    "U03996E48LB",
+                    "U031KD0PNTX"
+                ],
+                "count": 10
+            },
+            {
+                "name": "raised_hands::skin-tone-5",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U031QKGPNRK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c6597a61-b856-4992-a08f-c596937be977",
+        "type": "message",
+        "text": "Sales is existential crisis on another level. Selling dreams, implementation issues and then up selling and cross selling within 12 months :see_no_evil:",
+        "user": "U02PDC4883V",
+        "ts": "1650000801.338869",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b+IR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sales is existential crisis on another level. Selling dreams, implementation issues and then up selling and cross selling within 12 months "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "see_no_evil"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649970432.090429",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U03847S3MJN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

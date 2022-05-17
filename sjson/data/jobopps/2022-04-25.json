@@ -1,0 +1,536 @@
+[
+    {
+        "client_msg_id": "7e8023ee-194a-4797-a3af-5c27f9f7bc65",
+        "type": "message",
+        "text": "Pinterest is hiring a Chief of Staff - Design. If you have\/know someone who has 8 years of Design Experience + at least 2 years leading teams, give it a shot! <https:\/\/www.pinterestcareers.com\/job\/15506006\/chief-of-staff-design-san-francisco-ca\/|https:\/\/www.pinterestcareers.com\/job\/15506006\/chief-of-staff-design-san-francisco-ca\/>",
+        "user": "U02VD2JL8N8",
+        "ts": "1650876489.172779",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1f8231d0f5f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3323449503767_1f8231d0f5f43aecb19d_72.jpg",
+            "first_name": "Mayank",
+            "real_name": "Mayank Mujumdar",
+            "display_name": "mayank",
+            "team": "T02PFK13YLC",
+            "name": "mayank13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.pinterestcareers.com\/job\/15506006\/chief-of-staff-design-san-francisco-ca\/",
+                "image_url": "https:\/\/cdn-static.findly.com\/wp-content\/uploads\/sites\/1644\/2021\/07\/16173819\/Pinterest_Careers_Link_image.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 730445,
+                "service_icon": "https:\/\/cdn-static.findly.com\/wp-content\/uploads\/sites\/1475\/2021\/01\/PinterestLogo-120.png",
+                "id": 1,
+                "original_url": "https:\/\/www.pinterestcareers.com\/job\/15506006\/chief-of-staff-design-san-francisco-ca\/",
+                "fallback": "Pinterest Careers: Chief of Staff, Design, US - Pinterest Careers",
+                "text": "About Pinterest:Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. As a Pinterest employee, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping users make their lives better in the positive corner of the internet.The Head of Trust &amp; Safety Operations...",
+                "title": "Chief of Staff, Design, US - Pinterest Careers",
+                "title_link": "https:\/\/www.pinterestcareers.com\/job\/15506006\/chief-of-staff-design-san-francisco-ca\/",
+                "service_name": "Pinterest Careers"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qukA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pinterest is hiring a Chief of Staff - Design. If you have\/know someone who has 8 years of Design Experience + at least 2 years leading teams, give it a shot! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.pinterestcareers.com\/job\/15506006\/chief-of-staff-design-san-francisco-ca\/",
+                                "text": "https:\/\/www.pinterestcareers.com\/job\/15506006\/chief-of-staff-design-san-francisco-ca\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "326f2f60-1b92-41a0-86ed-3921fc44e057",
+        "type": "message",
+        "text": "Hey folks, can this channel be used to post requirements for freelancers\/agencies? If not, is there a better channel?",
+        "user": "U034RJQUQK0",
+        "ts": "1650877429.508419",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g4f7643afc47",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4f7643afc47181f56f7ef90c398ce622.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Arpit",
+            "real_name": "Arpit Choudhury",
+            "display_name": "Arpit Choudhury",
+            "team": "T02PFK13YLC",
+            "name": "arpitc0707",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CKR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey folks, can this channel be used to post requirements for freelancers\/agencies? If not, is there a better channel?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650877429.508419",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1651127867.144989",
+        "reply_users": [
+            "U02TTEFFU6B",
+            "U034RJQUQK0",
+            "U033MGAAL1K",
+            "U03B4FAM9FT"
+        ],
+        "replies": [
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1650878119.491069"
+            },
+            {
+                "user": "U034RJQUQK0",
+                "ts": "1650879510.660329"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1650879630.205189"
+            },
+            {
+                "user": "U033MGAAL1K",
+                "ts": "1650879895.009219"
+            },
+            {
+                "user": "U03B4FAM9FT",
+                "ts": "1651127867.144989"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "18f0f258-bc4c-45a0-abcd-b1236d2a4c45",
+        "type": "message",
+        "text": "Interesting. This should be the channel for it.\n\nI think we'll have to have a smaller format for it.",
+        "user": "U02TTEFFU6B",
+        "ts": "1650878119.491069",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "536",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Interesting. This should be the channel for it.\n\nI think we'll have to have a smaller format for it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650877429.508419",
+        "parent_user_id": "U034RJQUQK0",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U030SDYNX7V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e87252d5-f8d2-4c2b-940a-affc414070d6",
+        "type": "message",
+        "text": "Thanks Rohit. Does something like this work:\n\nCompany Name:\nRequirement:\nCompensation Type (Project vs Hourly):",
+        "user": "U034RJQUQK0",
+        "ts": "1650879510.660329",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g4f7643afc47",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4f7643afc47181f56f7ef90c398ce622.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Arpit",
+            "real_name": "Arpit Choudhury",
+            "display_name": "Arpit Choudhury",
+            "team": "T02PFK13YLC",
+            "name": "arpitc0707",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u2uA5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Rohit. Does something like this work:\n\nCompany Name:\nRequirement:\nCompensation Type (Project vs Hourly):"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650877429.508419",
+        "parent_user_id": "U034RJQUQK0"
+    },
+    {
+        "client_msg_id": "c98179bc-4efe-41c5-9f20-6ff10c692b28",
+        "type": "message",
+        "text": "I think that should be okay. \n\nThe role might have a row for ICP\/audience as well.\n\nAnd years of experience maybe?\n\nWould help the recruiter to filter effectively.",
+        "user": "U02TTEFFU6B",
+        "ts": "1650879630.205189",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iE74",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think that should be okay. \n\nThe role might have a row for ICP\/audience as well.\n\nAnd years of experience maybe?\n\nWould help the recruiter to filter effectively."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650877429.508419",
+        "parent_user_id": "U034RJQUQK0",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U034RJQUQK0",
+                    "U02UQBQQBPD",
+                    "U0362R42317"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e6792a50-9640-4070-b6e6-17c78293b464",
+        "type": "message",
+        "text": "Agreed, we need to have a separate channel for contracts\/small gigs.",
+        "user": "U033MGAAL1K",
+        "ts": "1650879895.009219",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "728a1d3742e1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-18\/3128777049476_728a1d3742e18584a307_72.jpg",
+            "first_name": "Archita",
+            "real_name": "Archita Sharma",
+            "display_name": "Archita Sharma",
+            "team": "T02PFK13YLC",
+            "name": "sharmaarchita99",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7MBLg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agreed, we need to have a separate channel for contracts\/small gigs."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650877429.508419",
+        "parent_user_id": "U034RJQUQK0",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U030N8RHURZ",
+                    "U02UQBQQBPD",
+                    "U0362R42317"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1650888924.734099",
+        "thread_ts": "1650888924.734099",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1650969290.604579",
+        "reply_users": [
+            "U02TTEFFU6B",
+            "U02V8GRRHDG"
+        ],
+        "replies": [
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1650969152.591729"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1650969166.138379"
+            },
+            {
+                "user": "U02V8GRRHDG",
+                "ts": "1650969255.512069"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1650969290.604579"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1650945005.039569",
+        "thread_ts": "1650945005.039569",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650948491.012599",
+        "reply_users": [
+            "U02PDC4883V"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650948491.012599"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1650948491.012599",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CC2NHVPH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "209ebf61-e9d4-4be3-9a51-10d36cf47a9d",
+        "type": "message",
+        "text": "Hi Shreyas - Would you be able to frame the job opp in the format listed below? It would help streamline information in this channel\n<https:\/\/s11s.slack.com\/archives\/C02S4318139\/p1650466669211459?thread_ts=1650466669.211459&amp;cid=C02S4318139|https:\/\/s11s.slack.com\/archives\/C02S4318139\/p1650466669211459?thread_ts=1650466669.211459&amp;cid=C02S4318139>",
+        "user": "U02PDC4883V",
+        "ts": "1650948491.012599",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/s11s.slack.com\/archives\/C02S4318139\/p1650466669211459?thread_ts=1650466669.211459&amp;cid=C02S4318139",
+                "ts": "1650466669.211459",
+                "author_id": "U02TTEFFU6B",
+                "channel_team": "T02PFK13YLC",
+                "channel_id": "C02S4318139",
+                "channel_name": "jobopps",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T02PFK13YLC",
+                        "channel": "C02S4318139",
+                        "ts": "1650466669.211459",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "2lJEX",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "broadcast",
+                                                    "range": "channel"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n\nThe "
+                                                },
+                                                {
+                                                    "type": "channel",
+                                                    "channel_id": "C02S4318139"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " channel has been a lawless land for long. All of us, including me have posted jobs in any format under the sun.\n\nIt's changing right now.\n\nHere's the format that needs to be followed for all job postings in the community:\n\n1. Name of company:\n\n2. Name of role:\n\n3. Years of experience:\n\n3. Current team composition:\n\n4. Location:\n\n5. Answers to the following 3 questions:\n5.1 "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "What do you envision the role will do in the first year?",
+                                                    "style": {
+                                                        "italic": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "5.2 What will the role be measured on?",
+                                                    "style": {
+                                                        "italic": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "5.3 What's the annual marketing budget range?",
+                                                    "style": {
+                                                        "italic": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n\n6. Compensation Range:\n\nWe are going to be strict about it. s11s is a curated place and we need to ensure quality in every last bit of this wonderful place.\n\nLet people put some efforts to hire the awesome folks here."
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/s11s.slack.com\/archives\/C02S4318139\/p1650466669211459?thread_ts=1650466669.211459&amp;cid=C02S4318139",
+                "fallback": "[April 20th, 2022 7:57 AM] rohitkmsrivastav: <!channel>\n\nThe <#C02S4318139|jobopps> channel has been a lawless land for long. All of us, including me have posted jobs in any format under the sun.\n\nIt's changing right now.\n\nHere's the format that needs to be followed for all job postings in the community:\n\n1. Name of company:\n\n2. Name of role:\n\n3. Years of experience:\n\n3. Current team composition:\n\n4. Location:\n\n5. Answers to the following 3 questions:\n5.1 _What do you envision the role will do in the first year?_\n_5.2 What will the role be measured on?_\n_5.3 What's the annual marketing budget range?_\n\n6. Compensation Range:\n\nWe are going to be strict about it. s11s is a curated place and we need to ensure quality in every last bit of this wonderful place.\n\nLet people put some efforts to hire the awesome folks here.",
+                "text": "<!channel>\n\nThe <#C02S4318139|jobopps> channel has been a lawless land for long. All of us, including me have posted jobs in any format under the sun.\n\nIt's changing right now.\n\nHere's the format that needs to be followed for all job postings in the community:\n\n1. Name of company:\n\n2. Name of role:\n\n3. Years of experience:\n\n3. Current team composition:\n\n4. Location:\n\n5. Answers to the following 3 questions:\n5.1 _What do you envision the role will do in the first year?_\n_5.2 What will the role be measured on?_\n_5.3 What's the annual marketing budget range?_\n\n6. Compensation Range:\n\nWe are going to be strict about it. s11s is a curated place and we need to ensure quality in every last bit of this wonderful place.\n\nLet people put some efforts to hire the awesome folks here.",
+                "author_name": "Rohit Srivastav",
+                "author_link": "https:\/\/s11s.slack.com\/team\/U02TTEFFU6B",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_48.jpg",
+                "author_subname": "Rohit Srivastav",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Thread in #jobopps"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W5p=p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Shreyas - Would you be able to frame the job opp in the format listed below? It would help streamline information in this channel\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/s11s.slack.com\/archives\/C02S4318139\/p1650466669211459?thread_ts=1650466669.211459&cid=C02S4318139",
+                                "text": "https:\/\/s11s.slack.com\/archives\/C02S4318139\/p1650466669211459?thread_ts=1650466669.211459&cid=C02S4318139"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650945005.039569",
+        "parent_user_id": "USLACKBOT"
+    }
+]

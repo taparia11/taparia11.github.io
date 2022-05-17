@@ -1,0 +1,270 @@
+[
+    {
+        "client_msg_id": "e83ffa68-a385-41e6-bccb-4f20298f41e9",
+        "type": "message",
+        "text": "Hey,\nAnyone from Lucknow?",
+        "user": "U03AEBRAQ4D",
+        "ts": "1651129310.712019",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "gf508de2a8de",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f508de2a8dece1efdf2b23613bc3dc11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Harshwardhan",
+            "real_name": "Harshwardhan Chowdhry",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "harshwardhan.chowdhry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U71",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey,\nAnyone from Lucknow?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651129310.712019",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1651134552.123189",
+        "reply_users": [
+            "U02PDC4883V"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC4883V",
+                "ts": "1651134552.123189"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1651134552.123189",
+        "reactions": [
+            {
+                "name": "point_up",
+                "users": [
+                    "U02V7TLU5HT",
+                    "U02PDC4883V"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c64dd15e-2583-4f2c-87d2-e3a8635c16b9",
+        "type": "message",
+        "text": "I'd love to catch up.",
+        "user": "U0318JZUESX",
+        "ts": "1651133229.021999",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "63c51d4ec23b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-01\/3066368472944_63c51d4ec23bc685fdae_72.png",
+            "first_name": "Siddhartha",
+            "real_name": "Siddhartha Kathpalia",
+            "display_name": "Kattu",
+            "team": "T02PFK13YLC",
+            "name": "siddhartha.kathpalia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vpB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'd love to catch up."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651127774.146809",
+        "parent_user_id": "U03B4FAM9FT"
+    },
+    {
+        "client_msg_id": "5448198f-7e99-42b7-bae4-e48a43be5d42",
+        "type": "message",
+        "text": "Count me in too!",
+        "user": "U037UUE6TV3",
+        "ts": "1651133467.793219",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "934b4d6b1287",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-21\/3283947705889_934b4d6b128773575732_72.png",
+            "first_name": "Shobhit",
+            "real_name": "Shobhit Gaur",
+            "display_name": "Shobhit Gaur",
+            "team": "T02PFK13YLC",
+            "name": "shbhtgr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lXN3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Count me in too!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651127774.146809",
+        "parent_user_id": "U03B4FAM9FT"
+    },
+    {
+        "client_msg_id": "316f612f-9537-4dc0-aa91-22217c4aba47",
+        "type": "message",
+        "text": "Great ... can we exchange numbers .. I am reachable on 9867157774",
+        "user": "U03B4FAM9FT",
+        "ts": "1651134010.979549",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g02b49edec6e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/02b49edec6ea1d6d81d54fe2084497e7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Aniket",
+            "real_name": "Aniket Lade",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "aniket389",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r5p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great ... can we exchange numbers .. I am reachable on 9867157774"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651127774.146809",
+        "parent_user_id": "U03B4FAM9FT"
+    },
+    {
+        "client_msg_id": "8da49280-9183-4e71-9545-008c0b828a9e",
+        "type": "message",
+        "text": "I work with Auditzy Technologies as the Director for Sales &amp;Partnerships",
+        "user": "U03B4FAM9FT",
+        "ts": "1651134097.387879",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g02b49edec6e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/02b49edec6ea1d6d81d54fe2084497e7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Aniket",
+            "real_name": "Aniket Lade",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "aniket389",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o4I2N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I work with Auditzy Technologies as the Director for Sales &Partnerships"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651127774.146809",
+        "parent_user_id": "U03B4FAM9FT"
+    },
+    {
+        "client_msg_id": "4b33eac2-490e-4d07-8966-acc612991215",
+        "type": "message",
+        "text": "Not staying but from Chowk area :raised_hands:",
+        "user": "U02PDC4883V",
+        "ts": "1651134552.123189",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zy6m5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not staying but from Chowk area "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651129310.712019",
+        "parent_user_id": "U03AEBRAQ4D"
+    }
+]

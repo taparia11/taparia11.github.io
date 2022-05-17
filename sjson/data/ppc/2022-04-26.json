@@ -1,0 +1,162 @@
+[
+    {
+        "client_msg_id": "2a8c89bd-6b37-4f8f-99ef-af0195e618d9",
+        "type": "message",
+        "text": "Does anyone know of a YouTube channel that teaches Google AdWords and Facebook ads? which has more comprehensive content than Google's courses, which only cover definitions.",
+        "user": "U03D78YQQL8",
+        "ts": "1650986183.880139",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "gc298a39a312",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c298a39a312093b1f1b9a762ac9accdc.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Sankalp",
+            "real_name": "Sankalp Dua",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "sankalpdua.20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gjdv6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone know of a YouTube channel that teaches Google AdWords and Facebook ads? which has more comprehensive content than Google's courses, which only cover definitions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650986183.880139",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1651047031.416349",
+        "reply_users": [
+            "U02VAPDACUQ",
+            "U02V5HU4EP2",
+            "U02ULCHDGB0"
+        ],
+        "replies": [
+            {
+                "user": "U02VAPDACUQ",
+                "ts": "1650992305.062179"
+            },
+            {
+                "user": "U02V5HU4EP2",
+                "ts": "1651041728.135179"
+            },
+            {
+                "user": "U02ULCHDGB0",
+                "ts": "1651047031.416349"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "87ef841b-712b-4734-ae6f-db9e2f8c6c03",
+        "type": "message",
+        "text": "Surfside PPC, Paid Media Pros.\n\nNot sure about the courses, but these channels got some good content on individual topics and practical explanations.",
+        "user": "U02VAPDACUQ",
+        "ts": "1650992305.062179",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "baeffc7f1581",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-19\/2987238733457_baeffc7f1581b6a26d32_72.jpg",
+            "first_name": "Vishal",
+            "real_name": "Vishal Pandurangan",
+            "display_name": "Vishal Pandurangan",
+            "team": "T02PFK13YLC",
+            "name": "vishal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p7AuW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Surfside PPC, Paid Media Pros.\n\nNot sure about the courses, but these channels got some good content on individual topics and practical explanations."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650986183.880139",
+        "parent_user_id": "U03D78YQQL8",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U035SL5MWPM",
+                    "U038EJB0CGP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03D78YQQL8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fbd23b70-4fba-42a0-b85b-7cacae323eb0",
+        "type": "message",
+        "text": "+1 for both these channels.",
+        "user": "U02V5HU4EP2",
+        "ts": "1651041728.135179",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "gb6fa30f50de",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b6fa30f50de947886fed88281c7644fe.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Shubham",
+            "real_name": "Shubham",
+            "display_name": "Shubham",
+            "team": "T02PFK13YLC",
+            "name": "shubhamgrover.sg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eAwl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "+1 for both these channels."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650986183.880139",
+        "parent_user_id": "U03D78YQQL8"
+    }
+]

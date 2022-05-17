@@ -1,0 +1,253 @@
+[
+    {
+        "client_msg_id": "14fb70dd-be42-4e03-b874-b3d0ae4a7914",
+        "type": "message",
+        "text": "Yeah similar experience with Pepper. Still using it until i build an internal team of content folks.",
+        "user": "U030PQRLHEH",
+        "ts": "1649580411.367679",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "01a1b05516c5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-15\/3410501334369_01a1b05516c5b272fbfa_72.jpg",
+            "first_name": "Yatharth",
+            "real_name": "Yatharth Jain",
+            "display_name": "Yatharth Jain",
+            "team": "T02PFK13YLC",
+            "name": "yatharth.jain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5n9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah similar experience with Pepper. Still using it until i build an internal team of content folks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649146472.890289",
+        "parent_user_id": "U02VBNKU9T6"
+    },
+    {
+        "client_msg_id": "108c8b09-2d7b-4953-b4b8-bae988744e6b",
+        "type": "message",
+        "text": "<@U0320BWGR41> can you share the link for that please",
+        "user": "U030PQRLHEH",
+        "ts": "1649580555.552359",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "01a1b05516c5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-15\/3410501334369_01a1b05516c5b272fbfa_72.jpg",
+            "first_name": "Yatharth",
+            "real_name": "Yatharth Jain",
+            "display_name": "Yatharth Jain",
+            "team": "T02PFK13YLC",
+            "name": "yatharth.jain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ugy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0320BWGR41"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you share the link for that please"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649223878.140659",
+        "parent_user_id": "U039TLN017T"
+    },
+    {
+        "type": "message",
+        "text": "Don’t have the link to LinkedIn handy, but in a conversation around marketshare of analytics software in software companies I shared a pie chart.\n\nMy company is similar to Builtwith\/Slintel. We provide an interactive UI to slice\/dice the market using keywords, technologies, installation dates location, etc.\n\nBasically, it was info not available elsewhere packaged visually.\n\nThis was the image that started it all.",
+        "files": [
+            {
+                "id": "F03BL0K5F6C",
+                "created": 1649596984,
+                "timestamp": 1649596984,
+                "name": "analytics software usage.png",
+                "title": "analytics software usage.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0320BWGR41",
+                "editable": false,
+                "size": 303362,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03BL0K5F6C\/analytics_software_usage.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03BL0K5F6C\/download\/analytics_software_usage.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BL0K5F6C-baecdca689\/analytics_software_usage_64.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BL0K5F6C-baecdca689\/analytics_software_usage_80.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BL0K5F6C-baecdca689\/analytics_software_usage_360.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 360,
+                "thumb_360_h": 224,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BL0K5F6C-baecdca689\/analytics_software_usage_480.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 480,
+                "thumb_480_h": 298,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BL0K5F6C-baecdca689\/analytics_software_usage_160.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BL0K5F6C-baecdca689\/analytics_software_usage_720.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720_w": 720,
+                "thumb_720_h": 447,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BL0K5F6C-baecdca689\/analytics_software_usage_800.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_800_w": 800,
+                "thumb_800_h": 497,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BL0K5F6C-baecdca689\/analytics_software_usage_960.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_960_w": 960,
+                "thumb_960_h": 596,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BL0K5F6C-baecdca689\/analytics_software_usage_1024.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 636,
+                "original_w": 2032,
+                "original_h": 1262,
+                "thumb_tiny": "AwAdADDSzyetLSDqaWgCG5keJAygHnBzU1MlTzIyvrTqAFpD1FLSdx0oAB1PSlpAOaWgAooooAKTuKWkxyKAP\/\/Z",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U0320BWGR41\/F03BL0K5F6C\/analytics_software_usage.png",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03BL0K5F6C-d0005774f0",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0320BWGR41",
+        "display_as_bot": false,
+        "ts": "1649597052.431099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QO4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Don’t have the link to LinkedIn handy, but in a conversation around marketshare of analytics software in software companies I shared a pie chart.\n\nMy company is similar to Builtwith\/Slintel. We provide an interactive UI to slice\/dice the market using keywords, technologies, installation dates location, etc.\n\nBasically, it was info not available elsewhere packaged visually.\n\nThis was the image that started it all."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "77057099-3907-4a82-84c7-92ee3f732200",
+        "thread_ts": "1649223878.140659",
+        "parent_user_id": "U039TLN017T"
+    },
+    {
+        "client_msg_id": "6a9e02ad-1657-48bc-8478-0f3c07cdd7b1",
+        "type": "message",
+        "text": "Does anyone here feel that CMS Asia is a leading authority for Content Marketing?\nTo become a nominee you need to pay first. How is that authentic?\nAny winners in the group who've benefited from it?",
+        "user": "U030KV8R8RL",
+        "ts": "1649653079.170199",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1d58fa7deccd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3044063413425_1d58fa7deccd79b3b2d0_72.jpg",
+            "first_name": "Vartika",
+            "real_name": "Vartika Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "vartika.gupta1911",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U030KV8R8RL",
+            "ts": "1649653248.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hd\/Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone here feel that CMS Asia is a leading authority for Content Marketing?\nTo become a nominee you need to pay first. How is that authentic?\nAny winners in the group who've benefited from it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649653079.170199",
+        "reply_count": 7,
+        "reply_users_count": 6,
+        "latest_reply": "1650905636.792749",
+        "reply_users": [
+            "U03AF2HBZPX",
+            "U03AQFPP9BL",
+            "U0389EB28UR",
+            "U030E27CBB3",
+            "U030KV8R8RL",
+            "U02UZMAKWF3"
+        ],
+        "replies": [
+            {
+                "user": "U03AF2HBZPX",
+                "ts": "1649661976.540549"
+            },
+            {
+                "user": "U03AQFPP9BL",
+                "ts": "1649662736.907089"
+            },
+            {
+                "user": "U0389EB28UR",
+                "ts": "1649681182.058209"
+            },
+            {
+                "user": "U030E27CBB3",
+                "ts": "1649732149.206699"
+            },
+            {
+                "user": "U030KV8R8RL",
+                "ts": "1649764672.347639"
+            },
+            {
+                "user": "U03AQFPP9BL",
+                "ts": "1649769116.971589"
+            },
+            {
+                "user": "U02UZMAKWF3",
+                "ts": "1650905636.792749"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

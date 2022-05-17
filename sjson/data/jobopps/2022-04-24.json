@@ -1,0 +1,512 @@
+[
+    {
+        "client_msg_id": "33E9FA9A-B387-4699-B9DE-C3C77A6A8339",
+        "type": "message",
+        "text": "Can you have your friend reach out to me please? - <mailto:deepan@justcall.io|deepan@justcall.io> or on LinkedIn ",
+        "user": "U02V22EUXM4",
+        "ts": "1650819807.644839",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9f2cfa9248dc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-07\/3075859566289_9f2cfa9248dc9a1dae23_72.jpg",
+            "first_name": "Deepan",
+            "real_name": "Deepan Siddhu",
+            "display_name": "Deepan Siddhu",
+            "team": "T02PFK13YLC",
+            "name": "deepan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R8=9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can you have your friend reach out to me please? - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:deepan@justcall.io",
+                                "text": "deepan@justcall.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or on LinkedIn "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650709049.990659",
+        "parent_user_id": "U030M1LS1L2",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U030M1LS1L2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c422887e-71f7-44e7-8db2-c1541e9646a7",
+        "type": "message",
+        "text": "please share flutter folks with me <mailto:fatema@meyrahkee.com|fatema@meyrahkee.com>",
+        "user": "U039PF71127",
+        "ts": "1650831419.823029",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "d15748652660",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-11\/3364940015702_d15748652660693916d8_72.jpg",
+            "first_name": "Fatema",
+            "real_name": "Fatema Electricwala",
+            "display_name": "Fatema Electricwala",
+            "team": "T02PFK13YLC",
+            "name": "fatema",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2FhN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "please share flutter folks with me "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:fatema@meyrahkee.com",
+                                "text": "fatema@meyrahkee.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650618960.018669",
+        "parent_user_id": "U038RUV5JMB"
+    },
+    {
+        "client_msg_id": "d5e11e31-996b-47c7-aaa7-47c58e0a8ed8",
+        "type": "message",
+        "text": "can you please share the profile with me I am hiring for Product Marketing: <mailto:fatema@meyrahkee.com|fatema@meyrahkee.com>",
+        "user": "U039PF71127",
+        "ts": "1650831478.626469",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "d15748652660",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-11\/3364940015702_d15748652660693916d8_72.jpg",
+            "first_name": "Fatema",
+            "real_name": "Fatema Electricwala",
+            "display_name": "Fatema Electricwala",
+            "team": "T02PFK13YLC",
+            "name": "fatema",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2e6u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "can you please share the profile with me I am hiring for Product Marketing: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:fatema@meyrahkee.com",
+                                "text": "fatema@meyrahkee.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650709049.990659",
+        "parent_user_id": "U030M1LS1L2",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U0379TDK6NM"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U030M1LS1L2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "43070a37-51de-4987-82f0-03f387e04ff3",
+        "type": "message",
+        "text": "Hey Guys, LOCAD has multiple openings for content marketers.\n\n1. Name of company: <http:\/\/golocad.com|LOCAD>\n2. Name of role: Sr. Content Marketer\n\n3. Years of experience: 4 to 8 Years\n\n3. Current team composition: Associate Director(1), Marketing Communication Manager (1), Growth Marketing Manager(1), Designer (1)\n\n4. Location: Remote (India)\n\n5. Answers to the following 3 questions:\n5.1 _What do you envision the role will do in the first year?_\n• Create and distribute content around different topic clusters across different phases of funnel\n• Focus on optimising the content to drive conversions\n_5.2 What will the role be measured on?_\n• Traffic\n• CVR &amp; Leads(For content resources\/gated content)\n_5.3 What’s the annual marketing budget range?_\n• We have an open budget as of now. Purely depends on the campaigns (case to case basis)\n• Going heavily on organic, this year!\n6. Compensation Range: 12 to 24 LPA + Generous Equipment Grant.\n\nIf you’re interested in the above opportunity, please send me a DM :slightly_smiling_face: Happy to connect and discuss the opportunity in detail!",
+        "user": "U02V5RTEAA1",
+        "ts": "1650860676.171419",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "ce001370eae7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-23\/2988116860390_ce001370eae774c724d4_72.png",
+            "first_name": "Gautham",
+            "real_name": "Gautham Ramakrishnan",
+            "display_name": "Gautham Ramakrishnan",
+            "team": "T02PFK13YLC",
+            "name": "gautham211991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d8MnB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Guys, LOCAD has multiple openings for content marketers.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Name of company: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/golocad.com",
+                                        "text": "LOCAD"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n2. Name of role: Sr. Content Marketer\n\n3. Years of experience: 4 to 8 Years\n\n3. Current team composition: Associate Director(1), Marketing Communication Manager (1), Growth Marketing Manager(1), Designer (1)\n\n4. Location: Remote (India)\n\n5. Answers to the following 3 questions:\n5.1 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "What do you envision the role will do in the first year?",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Create and distribute content around different topic clusters across different phases of funnel"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Focus on optimising the content to drive conversions"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "5.2 What will the role be measured on?",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Traffic"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "CVR & Leads(For content resources\/gated content)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "5.3 What’s the annual marketing budget range?",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "We have an open budget as of now. Purely depends on the campaigns (case to case basis)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Going heavily on organic, this year!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n6. Compensation Range: 12 to 24 LPA + Generous Equipment Grant.\n\nIf you’re interested in the above opportunity, please send me a DM "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Happy to connect and discuss the opportunity in detail!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650860676.171419",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650861706.132979",
+        "reply_users": [
+            "U02TTEFFU6B"
+        ],
+        "replies": [
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1650861706.132979"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02PDC4883V",
+                    "U0379TDK6NM",
+                    "U030M1LS1L2"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d94946e3-fdc8-4397-9a69-090b175a561a",
+        "type": "message",
+        "text": "Super articulation :raised_hands::skin-tone-4: thanks for taking the effort for the community",
+        "user": "U02TTEFFU6B",
+        "ts": "1650861706.132979",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uzdw2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Super articulation "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "skin_tone": 4
+                            },
+                            {
+                                "type": "text",
+                                "text": " thanks for taking the effort for the community"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650860676.171419",
+        "parent_user_id": "U02V5RTEAA1",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02V5RTEAA1",
+                    "U0379TDK6NM",
+                    "U033R6MA1DY"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "325ed17b-ffad-4bd6-bcbe-974dc98f23f7",
+        "type": "message",
+        "text": "Incase you have profiles for Angular+ROR, React+phyton please share on <mailto:kasnavin@gmail.com|kasnavin@gmail.com>",
+        "user": "U02UJBHEQVA",
+        "ts": "1650866082.336799",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "34ce87b8ed5a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2980874883665_34ce87b8ed5a67aa1db3_72.jpg",
+            "first_name": "Suman",
+            "real_name": "Suman",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "sumankundu.sit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zSf1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Incase you have profiles for Angular+ROR, React+phyton please share on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:kasnavin@gmail.com",
+                                "text": "kasnavin@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650618960.018669",
+        "parent_user_id": "U038RUV5JMB"
+    }
+]

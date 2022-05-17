@@ -1,0 +1,746 @@
+[
+    {
+        "client_msg_id": "2e4191a5-8911-4aa9-ae2e-abc4163a4368",
+        "type": "message",
+        "text": "• Best-fit Customers\n    ◦ Demographics or firmographics don't go far enough to narrow down the types of customers fit for us.\n    ◦ In B2B, different companies with similar firmographics can have different demands.\n    ◦ A better actionable way to go is to segment potential customers by list of characteristics. What is it that they specifically care about?\n    ◦ The clearer your differentiated value, the easier it is to identify characteristics of customers who'd care about the value you can provide.\n    ◦ \"Our product is for companies who've just raised series B or C funding\" \"Our product is for companies who've X amount of sales turnover\" \"Our product is for people with multiple day jobs\"\n    ◦ *Common mistakes*\n        ▪︎ Segmenting based on unmeasurable characteristics.\n            • Example: \"Our best-fit customers are the ones who want to become healthy\"\n            • A better way to approach this would be \"Our best-fit customers are the ones who've subscribed to these few fitness-based email newsletters, YouTube channels\"\n        ▪︎ Creating personas of people who don't drive the decision-making process.\n    ◦ The segmentation needs to be practical and specific enough that you know who to contact for selling the product.\n• Market Category\n    ◦ Some companies try to sell products by categorizing them into a space that's really competitive whereas they'd be better off positioning it as a sub-segment of a larger space.\n    ◦ You could have a product with a differentiator that's super valuable to people but without other features that the other products in the same category have, in that case, it's hard to convince a customer why they should buy your solution. Instead, position it such that the customers know exactly what and what not to expect from it.\n    ◦ Find a right market category. You can use the following strategies.\n        ▪︎ Big fish, small pond - There's a large enough market but you don't aim to win all of it but rather just a piece of it and then gradually expand. You start with a niche problem solver that the large competitors aren't solving very well.\n        ▪︎ Head to head - It's when you directly go head to head with other companies offering similar solutions. Difficult to achieve without substantial amount of capital. It's advised when there's no clear market leader. It becomes a capture-the-flag where the flag is still up for grabs and you have other competitors trying to get that flag before you.\n        ▪︎ New game - You establish a new category but it requires a lot of teaching and awareness to build upon.\n            • A new market category starts by recognizing that the existing market categories can't provide your product the context that it needs.\n            • Creating a new category requires deep commitment.\n            • Creating a new category isn't just about slapping a new name.\n",
+        "user": "U02UGB8DERY",
+        "ts": "1650556285.375769",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4cda10dd85c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2962250036230_4cda10dd85c264b66a43_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Rajvanshi",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rahulrajvanshi2501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MnXar",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Best-fit Customers"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Demographics or firmographics don't go far enough to narrow down the types of customers fit for us."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "In B2B, different companies with similar firmographics can have different demands."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "A better actionable way to go is to segment potential customers by list of characteristics. What is it that they specifically care about?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The clearer your differentiated value, the easier it is to identify characteristics of customers who'd care about the value you can provide."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "\"Our product is for companies who've just raised series B or C funding\" \"Our product is for companies who've X amount of sales turnover\" \"Our product is for people with multiple day jobs\""
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Common mistakes",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Segmenting based on unmeasurable characteristics."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Example: \"Our best-fit customers are the ones who want to become healthy\""
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "A better way to approach this would be \"Our best-fit customers are the ones who've subscribed to these few fitness-based email newsletters, YouTube channels\""
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Creating personas of people who don't drive the decision-making process."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The segmentation needs to be practical and specific enough that you know who to contact for selling the product."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Market Category"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Some companies try to sell products by categorizing them into a space that's really competitive whereas they'd be better off positioning it as a sub-segment of a larger space."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "You could have a product with a differentiator that's super valuable to people but without other features that the other products in the same category have, in that case, it's hard to convince a customer why they should buy your solution. Instead, position it such that the customers know exactly what and what not to expect from it."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Find a right market category. You can use the following strategies."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Big fish, small pond - There's a large enough market but you don't aim to win all of it but rather just a piece of it and then gradually expand. You start with a niche problem solver that the large competitors aren't solving very well."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Head to head - It's when you directly go head to head with other companies offering similar solutions. Difficult to achieve without substantial amount of capital. It's advised when there's no clear market leader. It becomes a capture-the-flag where the flag is still up for grabs and you have other competitors trying to get that flag before you."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "New game - You establish a new category but it requires a lot of teaching and awareness to build upon."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "A new market category starts by recognizing that the existing market categories can't provide your product the context that it needs."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Creating a new category requires deep commitment."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Creating a new category isn't just about slapping a new name."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02V75V0YBX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "89b11d00-3e54-4029-bedc-caada54ef76a",
+        "type": "message",
+        "text": "• Sales Story\n    ◦ We need to convert our positioning into a sales story.\n    ◦ A sales story provides us with a narrative and the marketing tools we need to communicate the idea and the values of our products to prospects.\n    ◦ Two phases of creating a sales story\n        ▪︎ The Setup\n            • Frame the problem\n                ◦ Take the differentiated value and communicate the problem using that. Invert the value to come up with problem.\n            • Evaluate alternative approaches\n                ◦ Highlight the gap between the current solutions in the market and what your product brings on the table.\n            • Visualize a perfect world\n                ◦ Make prospects realize how it'd be like to have the value you're providing.\n        ▪︎ Follow through\n            • Who We Are\n                ◦ Introduce your product, the market category.\n            • Value We Deliver\n                ◦ You could communicate the unique attributes and differentiated value you've thought of in the entire positioning exercise.\n            • Proof\n                ◦ Case-studies, third-party validation, etc.\n            • The Ask\n                ◦ Have a real ask. Something that takes things forward.\n    ◦ Let the sales team validate the sales story you've provided them, you can re-iterate and improve based on their response.\n    ◦ *Key Learnings*\n        ▪︎ The story that really matters for positioning is your sales story.\n        ▪︎ Test your positioning in a real sales situation before involving marketing.\n        ▪︎ Test your positioning with qualified prospects instead of existing customers.\n",
+        "user": "U02UGB8DERY",
+        "ts": "1650556297.336369",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4cda10dd85c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2962250036230_4cda10dd85c264b66a43_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Rajvanshi",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rahulrajvanshi2501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5=g",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Sales Story"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "We need to convert our positioning into a sales story."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "A sales story provides us with a narrative and the marketing tools we need to communicate the idea and the values of our products to prospects."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Two phases of creating a sales story"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The Setup"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Frame the problem"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Take the differentiated value and communicate the problem using that. Invert the value to come up with problem."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 4,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Evaluate alternative approaches"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Highlight the gap between the current solutions in the market and what your product brings on the table."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 4,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Visualize a perfect world"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Make prospects realize how it'd be like to have the value you're providing."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 4,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Follow through"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Who We Are"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Introduce your product, the market category."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 4,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Value We Deliver"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "You could communicate the unique attributes and differentiated value you've thought of in the entire positioning exercise."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 4,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Proof"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Case-studies, third-party validation, etc."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 4,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The Ask"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Have a real ask. Something that takes things forward."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 4,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Let the sales team validate the sales story you've provided them, you can re-iterate and improve based on their response."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Key Learnings",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The story that really matters for positioning is your sales story."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Test your positioning in a real sales situation before involving marketing."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Test your positioning with qualified prospects instead of existing customers."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,131 @@
+[
+    {
+        "client_msg_id": "caa4525b-6687-4d18-8df5-4f948173f5a1",
+        "type": "message",
+        "text": "And you will have days where you will have 0 conversions as well. Thats just how marketing works, for some strange reason on a certain day people dont want to buy.\n\nHappened recently as well, one of our clients is selling chocolates online and their store revenue dipped from 1 L per day to like 30 k per day. I blamed the Ukraine war, im like who wants to buy chocolates when all this is happening in the world",
+        "user": "U038L2K4R08",
+        "ts": "1649664324.532269",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bce1208af1c8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-21\/3265436469957_bce1208af1c8b401d3db_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris John",
+            "display_name": "Chris John",
+            "team": "T02PFK13YLC",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OYZ0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And you will have days where you will have 0 conversions as well. Thats just how marketing works, for some strange reason on a certain day people dont want to buy.\n\nHappened recently as well, one of our clients is selling chocolates online and their store revenue dipped from 1 L per day to like 30 k per day. I blamed the Ukraine war, im like who wants to buy chocolates when all this is happening in the world"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649395678.037939",
+        "parent_user_id": "U030SDYNX7V",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U032NQB0V6X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3e365fdd-9dcb-44b8-ba66-4eeb2d6377d7",
+        "type": "message",
+        "text": "I believe hiring is always a two-way street. The war of blame game will never end here. Some say the HRs are ghosting, others say the candidates are ghosting.\n\nI empathise both the sides - because I am not just an HR but an employee too. I also sit for interviews and negotiate for my own salary and want good benefits.\n\nThe main key is to keep the other person informed. You got a better offer today - call the HR and let them know instead of backing out a week before joining. You are still re-considering offers - let your hiring team know.\n\nPublic shaming isn't the best way to go, I believe. Also, if you don't believe in the values of how one runs a company, it's better to not go there altogether.",
+        "user": "U039L895FA4",
+        "ts": "1649668098.924049",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e051b4b96c2b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-31\/3319696752229_e051b4b96c2be6aa0b0a_72.png",
+            "first_name": "Bhavya",
+            "real_name": "Bhavya Arora",
+            "display_name": "Bhavya Arora",
+            "team": "T02PFK13YLC",
+            "name": "bhavya.arora0321",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xny",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I believe hiring is always a two-way street. The war of blame game will never end here. Some say the HRs are ghosting, others say the candidates are ghosting.\n\nI empathise both the sides - because I am not just an HR but an employee too. I also sit for interviews and negotiate for my own salary and want good benefits.\n\nThe main key is to keep the other person informed. You got a better offer today - call the HR and let them know instead of backing out a week before joining. You are still re-considering offers - let your hiring team know.\n\nPublic shaming isn't the best way to go, I believe. Also, if you don't believe in the values of how one runs a company, it's better to not go there altogether."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649580288.318549",
+        "parent_user_id": "U030N8RHURZ"
+    },
+    {
+        "client_msg_id": "33adcd00-f68d-40e4-b75e-8115e465ca0b",
+        "type": "message",
+        "text": "My thought is that after hitting a certain threshold, companies need offline presence for further growth especially for high touch stuff like Lenskart, Zivame, education etc. or high ticket items like caratlane types.",
+        "user": "U031KD0PNTX",
+        "ts": "1649675479.091749",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "d8e3a1cc6ed8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3305635315237_d8e3a1cc6ed88c5c929a_72.jpg",
+            "first_name": "Anand",
+            "real_name": "Anand",
+            "display_name": "theanand",
+            "team": "T02PFK13YLC",
+            "name": "anand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xct",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My thought is that after hitting a certain threshold, companies need offline presence for further growth especially for high touch stuff like Lenskart, Zivame, education etc. or high ticket items like caratlane types."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649500508.842289",
+        "parent_user_id": "U02TTEFFU6B"
+    }
+]

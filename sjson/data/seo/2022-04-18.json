@@ -1,0 +1,265 @@
+[
+    {
+        "client_msg_id": "5d8993fe-ba0a-449b-b7f9-cc2ee3defbb7",
+        "type": "message",
+        "text": "hey folks, if I add my product videos in YouTube and give a specific description based on the keywords we use, will that help in SEO?",
+        "user": "U038WP8PLUA",
+        "ts": "1650304333.437819",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5b79b0c594ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-18\/3406932600996_5b79b0c594ac7aefcab5_72.jpg",
+            "first_name": "Guru",
+            "real_name": "Guru Prasanna",
+            "display_name": "guru",
+            "team": "T02PFK13YLC",
+            "name": "guruprasanna.projects",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jkegb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey folks, if I add my product videos in YouTube and give a specific description based on the keywords we use, will that help in SEO?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650304333.437819",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1650346126.259569",
+        "reply_users": [
+            "U02USELSBRT",
+            "U02PDC4883V",
+            "U038WP8PLUA"
+        ],
+        "replies": [
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650305408.987839"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650345427.262639"
+            },
+            {
+                "user": "U038WP8PLUA",
+                "ts": "1650346126.259569"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1650346126.259569"
+    },
+    {
+        "client_msg_id": "cabff757-0ddf-430f-9d60-a3e2072a1770",
+        "type": "message",
+        "text": "google is known to show search results specific to search query. for certain queries, video results are preferred, for example anything involving showing of steps\/tutorial\/process. such queries will benefit from having a well optimized YT listing. we tried it and it has worked well.\n\nanother thing we used to do was to have a blog post for the same search query and embed that video into the blog and then link this blog post back from the video description on YT.\n\nuse structured data for video extensively for technical SEO: <https:\/\/developers.google.com\/search\/docs\/advanced\/structured-data\/video>",
+        "user": "U02USELSBRT",
+        "ts": "1650305408.987839",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02USELSBRT",
+            "ts": "1650305478.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/developers.google.com\/search\/docs\/advanced\/structured-data\/video",
+                "image_url": "https:\/\/developers.google.com\/search\/images\/home-social-share-lockup.png",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 94167,
+                "service_icon": "https:\/\/www.gstatic.com\/devrel-devsite\/prod\/vee468f4e10aa470182a016132769d1277f3b792f56b19f433715afc734e9c71d\/developers\/images\/touchicon-180.png",
+                "id": 1,
+                "original_url": "https:\/\/developers.google.com\/search\/docs\/advanced\/structured-data\/video",
+                "fallback": "Google Developers: Get Videos on Google with Schema Markup  |  Documentation  |  Google Developers",
+                "text": "Video SEO can help get your videos on Search. Learn about the details you can provide, like schema markup, to help Google understand your video.",
+                "title": "Get Videos on Google with Schema Markup  |  Documentation  |  Google Developers",
+                "title_link": "https:\/\/developers.google.com\/search\/docs\/advanced\/structured-data\/video",
+                "service_name": "Google Developers"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bme6M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "google is known to show search results specific to search query. for certain queries, video results are preferred, for example anything involving showing of steps\/tutorial\/process. such queries will benefit from having a well optimized YT listing. we tried it and it has worked well.\n\nanother thing we used to do was to have a blog post for the same search query and embed that video into the blog and then link this blog post back from the video description on YT.\n\nuse structured data for video extensively for technical SEO: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/developers.google.com\/search\/docs\/advanced\/structured-data\/video"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650304333.437819",
+        "parent_user_id": "U038WP8PLUA",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02PDC4883V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2510c649-45d1-417d-86d8-55c82ab80999",
+        "type": "message",
+        "text": "Like <@U02USELSBRT> said - if it’s steps, listing, process - YT videos generally do come. Interlinking of blog with YT videos has worked well for us too",
+        "user": "U02PDC4883V",
+        "ts": "1650345427.262639",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9LE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Like "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02USELSBRT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " said - if it’s steps, listing, process - YT videos generally do come. Interlinking of blog with YT videos has worked well for us too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650304333.437819",
+        "parent_user_id": "U038WP8PLUA",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U038WP8PLUA",
+                    "U030SDYNX7V"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e7a19a89-c49d-47d1-a100-c96384da6c32",
+        "type": "message",
+        "text": "This is really helpful. Thanks <@U02USELSBRT> and <@U02PDC4883V> :raising_hand:",
+        "user": "U038WP8PLUA",
+        "ts": "1650346126.259569",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5b79b0c594ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-18\/3406932600996_5b79b0c594ac7aefcab5_72.jpg",
+            "first_name": "Guru",
+            "real_name": "Guru Prasanna",
+            "display_name": "guru",
+            "team": "T02PFK13YLC",
+            "name": "guruprasanna.projects",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W5Skx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is really helpful. Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02USELSBRT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02PDC4883V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raising_hand"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650304333.437819",
+        "parent_user_id": "U038WP8PLUA"
+    }
+]

@@ -1,0 +1,979 @@
+[
+    {
+        "client_msg_id": "9ed86566-6c53-43cb-93a1-96208d39e9f4",
+        "type": "message",
+        "text": "Controversial topic.\n\nInternally it maybe justified as lack of resources or lack of expertise. Also it may depend a lot of you as a leader. If you're playing long term, you'd want to build that function in-house rather than outsource everything to an agency.\n\nMost people\/CXOs just want results now and don't bother with building that expertise in-house and many marketers are too happy to not take the work and the blame and just carry on with this way of working.",
+        "user": "U02USELSBRT",
+        "ts": "1651042997.198239",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OsM0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Controversial topic.\n\nInternally it maybe justified as lack of resources or lack of expertise. Also it may depend a lot of you as a leader. If you're playing long term, you'd want to build that function in-house rather than outsource everything to an agency.\n\nMost people\/CXOs just want results now and don't bother with building that expertise in-house and many marketers are too happy to not take the work and the blame and just carry on with this way of working."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651041782.029289",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U030SHA1S2W",
+                    "U030SDYNX7V"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "why do all PR agencies suck the blood and money out of you with no results? How do you identify good ones? \n\nOn two different occasions our internal team with not a lot of PR experience had significantly better outcomes than apparent experts.",
+        "user": "U02SXBR28G1",
+        "ts": "1651043461.240949",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aQe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "why do all PR agencies suck the blood and money out of you with no results? How do you identify good ones? \n\nOn two different occasions our internal team with not a lot of PR experience had significantly better outcomes than apparent experts."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651043461.240949",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1651059775.224489",
+        "reply_users": [
+            "U03AF2HBZPX"
+        ],
+        "replies": [
+            {
+                "user": "U03AF2HBZPX",
+                "ts": "1651059775.224489"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c20cbfce-b3e7-4bd7-86f1-96390d550f97",
+        "type": "message",
+        "text": "Interesting question.\nLook at it this way - Brand marketing includes several aspects - PR, design, social, community et al.\nPR and design are usually outsourced to specialised agencies. They play with designs and colors all the time so it’s relatively easier to identify your fit with them in this regard.\nSimilarly, the PR agencies have good connections with news outlets and influencers + a dedicated team working round the clock just to maintain those connections.\nHence, it makes sense to offload this work to agencies.\n\nBut outsourcing social marketing and community building is a less comfortable idea (imo). One should be able to manage these initiatives in-house.",
+        "user": "U02VC7G2RHS",
+        "ts": "1651044013.392769",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c966dfb38a6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2998254187524_c966dfb38a6bbffe337e_72.jpg",
+            "first_name": "Vipul",
+            "real_name": "Vipul Bansal",
+            "display_name": "Vipul Bansal",
+            "team": "T02PFK13YLC",
+            "name": "bansalvipul.111",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZFj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Interesting question.\nLook at it this way - Brand marketing includes several aspects - PR, design, social, community et al.\nPR and design are usually outsourced to specialised agencies. They play with designs and colors all the time so it’s relatively easier to identify your fit with them in this regard.\nSimilarly, the PR agencies have good connections with news outlets and influencers + a dedicated team working round the clock just to maintain those connections.\nHence, it makes sense to offload this work to agencies.\n\nBut outsourcing social marketing and community building is a less comfortable idea (imo). One should be able to manage these initiatives in-house."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651041782.029289",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "I have around 4 years of experience in b2b marketing at a large services company.\n\nI have couple of offers from Cognizant as well as a SaaS startup for growth Marketing roles.\n\nSaaS startup is offering me a 45% hike as opposed to 19% by cognizant but should money be the only factor? Would the brand name matter?\n\nHow lucrative is a career in SaaS vis a vis large services organizations ?",
+        "user": "U02SXBR28G1",
+        "ts": "1651059446.864459",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "byRW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have around 4 years of experience in b2b marketing at a large services company.\n\nI have couple of offers from Cognizant as well as a SaaS startup for growth Marketing roles.\n\nSaaS startup is offering me a 45% hike as opposed to 19% by cognizant but should money be the only factor? Would the brand name matter?\n\nHow lucrative is a career in SaaS vis a vis large services organizations ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651059446.864459",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1651067234.806739",
+        "reply_users": [
+            "U03AF2HBZPX",
+            "U039FQ2SNNN",
+            "U02U6FZRHRV",
+            "U030EJQ7NAV",
+            "U02UZ4T10PQ",
+            "U02UFNZS7NW"
+        ],
+        "replies": [
+            {
+                "user": "U03AF2HBZPX",
+                "ts": "1651059624.524339"
+            },
+            {
+                "user": "U039FQ2SNNN",
+                "ts": "1651059942.744329"
+            },
+            {
+                "user": "U02U6FZRHRV",
+                "ts": "1651060618.595789"
+            },
+            {
+                "user": "U030EJQ7NAV",
+                "ts": "1651061111.460989"
+            },
+            {
+                "user": "U02UZ4T10PQ",
+                "ts": "1651062372.818849"
+            },
+            {
+                "user": "U02UFNZS7NW",
+                "ts": "1651067234.806739"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "868bf4a1-ea68-49e4-a593-137ba4f83899",
+        "type": "message",
+        "text": "Go for B2B SaaS. There's a lot to learn. Money comes and goes but your experience will take you places. Marketing a B2B SaaS product will open up your brain (for the good). There's so much to learn, from seo to content to partnerships to Product-led strategies.",
+        "user": "U03AF2HBZPX",
+        "ts": "1651059624.524339",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g282e41117ee",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/282e41117eea26a162917755cabc65f2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Vikas",
+            "real_name": "Vikas Kalwani",
+            "display_name": "Vikas Kalwani",
+            "team": "T02PFK13YLC",
+            "name": "myself",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bcP8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Go for B2B SaaS. There's a lot to learn. Money comes and goes but your experience will take you places. Marketing a B2B SaaS product will open up your brain (for the good). There's so much to learn, from seo to content to partnerships to Product-led strategies."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651059446.864459",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U033R6MA1DY",
+                    "U02UJ3N39PF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U02UJ3N39PF",
+                    "U02URBKGVA7"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f106cfe0-8852-4f9e-9648-b404913a52fb",
+        "type": "message",
+        "text": "Ask for proof of work. Ask for links they built. Ask how they built. Ask them their current clients. Cross check with their clients how they are doing, the links the PR agency has built.\n\nPR is more about reactive link building. You find stats, publish, pitch to publishers and journalists, get mentions on DR 90+ sites.",
+        "user": "U03AF2HBZPX",
+        "ts": "1651059775.224489",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g282e41117ee",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/282e41117eea26a162917755cabc65f2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Vikas",
+            "real_name": "Vikas Kalwani",
+            "display_name": "Vikas Kalwani",
+            "team": "T02PFK13YLC",
+            "name": "myself",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hoj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ask for proof of work. Ask for links they built. Ask how they built. Ask them their current clients. Cross check with their clients how they are doing, the links the PR agency has built.\n\nPR is more about reactive link building. You find stats, publish, pitch to publishers and journalists, get mentions on DR 90+ sites."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651043461.240949",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "2f3a7af6-078c-420d-aeed-6cfe0a877446",
+        "type": "message",
+        "text": "The bigger the organization the more red tape around anything you wish to do. The learning curve at startups is also extremely steep. Access to decision makers is mostly simpler at startups so I would suggest taking the startup offer.",
+        "user": "U039FQ2SNNN",
+        "ts": "1651059942.744329",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9bb6d1a8280e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-30\/3321818966962_9bb6d1a8280e6c254c07_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rohitguptatoday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FiHQF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The bigger the organization the more red tape around anything you wish to do. The learning curve at startups is also extremely steep. Access to decision makers is mostly simpler at startups so I would suggest taking the startup offer."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651059446.864459",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "6ed1af5e-7a9a-437a-8252-ee5a7a37ed31",
+        "type": "message",
+        "text": "totally depends on which startup is this. happy to give advice over DM because can’t compare without knowing the second party.",
+        "user": "U02U6FZRHRV",
+        "ts": "1651060618.595789",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "51b651e36774",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-19\/2985809793169_51b651e367745f95ba7a_72.png",
+            "first_name": "Nilesh",
+            "real_name": "Nilesh Surana",
+            "display_name": "Nilesh",
+            "team": "T02PFK13YLC",
+            "name": "nileshsurana86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a6hqN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "totally depends on which startup is this. happy to give advice over DM because can’t compare without knowing the second party."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651059446.864459",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "1CF69B52-7051-44EA-B6ED-C19E24566268",
+        "type": "message",
+        "text": "Go to B2B SaaS.. period. There are tons n tons of disadvantages of going to Cognizant of which I know firsthand ",
+        "user": "U030EJQ7NAV",
+        "ts": "1651061111.460989",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "39ad0f3ee87d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-15\/3099176267974_39ad0f3ee87dd8bf30d5_72.png",
+            "first_name": "Tuneer",
+            "real_name": "Tuneer Malik",
+            "display_name": "Tuneer",
+            "team": "T02PFK13YLC",
+            "name": "tuneermalik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EiYvz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Go to B2B SaaS.. period. There are tons n tons of disadvantages of going to Cognizant of which I know firsthand "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651059446.864459",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "FC049D48-A89A-4559-AB4C-2125AA5A43E7",
+        "type": "message",
+        "text": "Isnt this one sided or Am i missing something here as I don't understand what can be the confusion? One is a Saas, also a startup, and a better hike. Both are a bring projected for a growth marketing role. ",
+        "user": "U02UZ4T10PQ",
+        "ts": "1651062372.818849",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "0e693f543f3a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-22\/2977217232247_0e693f543f3a4a1d3fd3_72.jpg",
+            "first_name": "Sagnik",
+            "real_name": "Sagnik IntelliServiceAI",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "sagnik.datta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XiQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Isnt this one sided or Am i missing something here as I don't understand what can be the confusion? One is a Saas, also a startup, and a better hike. Both are a bring projected for a growth marketing role. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651059446.864459",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "How much can one ask for if they have robust 10k followers in LinkedIn, for the sponsored contents or shout out posts for companies?\n\nAlso what're some other income sources one can explore with this much following in LinkedIn?",
+        "user": "U02SXBR28G1",
+        "ts": "1651063557.073879",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RIRC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How much can one ask for if they have robust 10k followers in LinkedIn, for the sponsored contents or shout out posts for companies?\n\nAlso what're some other income sources one can explore with this much following in LinkedIn?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651063557.073879",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1651083192.441919",
+        "reply_users": [
+            "U02TTEFFU6B",
+            "U02PDC4883V",
+            "U033RUXVCAY",
+            "U03AF2HBZPX"
+        ],
+        "replies": [
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1651063702.879609"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1651063760.589109"
+            },
+            {
+                "user": "U033RUXVCAY",
+                "ts": "1651066828.522019"
+            },
+            {
+                "user": "U03AF2HBZPX",
+                "ts": "1651083192.441919"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1651083192.441919"
+    },
+    {
+        "client_msg_id": "aad59bbc-255c-47aa-9efd-37109c45babe",
+        "type": "message",
+        "text": "<@U02PDC4883V> let me know when you have the answer.",
+        "user": "U02TTEFFU6B",
+        "ts": "1651063702.879609",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BVQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02PDC4883V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " let me know when you have the answer."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651063557.073879",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "87f57168-d08b-497e-ae37-94c3da406908",
+        "type": "message",
+        "text": "I was just gonna tag you :joy: Anyone can tell me where\/who these brands are. I will start calling them tomorrow :slightly_smiling_face:",
+        "user": "U02PDC4883V",
+        "ts": "1651063760.589109",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q2wT2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was just gonna tag you "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Anyone can tell me where\/who these brands are. I will start calling them tomorrow "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651063557.073879",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U02TTEFFU6B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U030SDYNX7V"
+                ],
+                "count": 1
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U02UHQYEF70"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "81b884fc-f7fb-473c-bb3e-00e96b073506",
+        "type": "message",
+        "text": "Hireact.\n\nGenerally people are asking for Rs 2500-3500 for one post.",
+        "user": "U033RUXVCAY",
+        "ts": "1651066828.522019",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "eecae6570a19",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-18\/3149477154304_eecae6570a19ea1b9b9d_72.jpg",
+            "first_name": "Divyank",
+            "real_name": "Divyank Jain",
+            "display_name": "Divyank Jain",
+            "team": "T02PFK13YLC",
+            "name": "divyankjn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2QRdT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hireact.\n\nGenerally people are asking for Rs 2500-3500 for one post."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651063557.073879",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "exploding_head",
+                "users": [
+                    "U02PDC4883V",
+                    "U02ULN6EFNV"
+                ],
+                "count": 2
+            },
+            {
+                "name": "money_mouth_face",
+                "users": [
+                    "U02TTEFFU6B",
+                    "U02PDC4883V"
+                ],
+                "count": 2
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U03AHQURB98"
+                ],
+                "count": 1
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U02V22EUXM4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b1ba6599-d74b-4bf1-beae-6b9aaa1643c2",
+        "type": "message",
+        "text": "+1 with <@U02U6FZRHRV>, both mnc and b2b startup have their pros and cons but it really depends on which startup you are joining. Happy to help you over dm.",
+        "user": "U02UFNZS7NW",
+        "ts": "1651067234.806739",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "79df0bfa30a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-11\/3365716984182_79df0bfa30a8e1910865_72.png",
+            "first_name": "Ankit",
+            "real_name": "Ankit Bishnu Dash",
+            "display_name": "ABD",
+            "team": "T02PFK13YLC",
+            "name": "ankitbishnudash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u89OV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "+1 with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02U6FZRHRV"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", both mnc and b2b startup have their pros and cons but it really depends on which startup you are joining. Happy to help you over dm."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651059446.864459",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "1b9e1cb8-304c-4774-96f0-0a59068a56f7",
+        "type": "message",
+        "text": "Income Sources via LinkedIn\n• Sponsored Posts\n• Sponsored Comments\n• Affiliate Sales\n• Start a cohort like Brand30\n• Teach others how to reach 10K followers - via a course\n• Promote niche products\/Startups and be on their board as an advisor\n• Get access to tools you like by promoting them on LinkedIn",
+        "user": "U03AF2HBZPX",
+        "ts": "1651083192.441919",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g282e41117ee",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/282e41117eea26a162917755cabc65f2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Vikas",
+            "real_name": "Vikas Kalwani",
+            "display_name": "Vikas Kalwani",
+            "team": "T02PFK13YLC",
+            "name": "myself",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fikI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Income Sources via LinkedIn\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Sponsored Posts"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Sponsored Comments"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Affiliate Sales"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Start a cohort like Brand30"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Teach others how to reach 10K followers - via a course"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Promote niche products\/Startups and be on their board as an advisor"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Get access to tools you like by promoting them on LinkedIn"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651063557.073879",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "Quick rank:\nThere's a special place in hell for companies that make you login into your account to unsubscribe from their unsolicited mails. (Most of the time you don't even remember signing up for the said company's mailers)",
+        "user": "U02SXBR28G1",
+        "ts": "1651127410.209779",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w0OK=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Quick rank:\nThere's a special place in hell for companies that make you login into your account to unsubscribe from their unsolicited mails. (Most of the time you don't even remember signing up for the said company's mailers)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651127410.209779",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1651132805.131219",
+        "reply_users": [
+            "U02TTEFFU6B",
+            "U03AF2HBZPX"
+        ],
+        "replies": [
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1651129455.014199"
+            },
+            {
+                "user": "U03AF2HBZPX",
+                "ts": "1651129957.981059"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1651132555.280329"
+            },
+            {
+                "user": "U03AF2HBZPX",
+                "ts": "1651132616.768039"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1651132687.686769"
+            },
+            {
+                "user": "U03AF2HBZPX",
+                "ts": "1651132805.131219"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

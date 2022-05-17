@@ -1,0 +1,575 @@
+[
+    {
+        "client_msg_id": "16ec0a57-22bd-49a3-8443-56bff33293b1",
+        "type": "message",
+        "text": "I've got a question on incentive payout models for Sales \/ AEs. We have a consumption based pricing model at Shipsy and the monthly variance for a customer can any where around 20 - 35% higher than the minimum monthly committed billing.\n\nWould like to understand from others who have consumption based pricing on how your sales team make their commissions and when do they get the payouts. Happy to discuss more on DMs",
+        "user": "U02V5F2JFME",
+        "ts": "1649746851.841649",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "700eafca1a01",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-19\/2969566183973_700eafca1a01010efd69_72.jpg",
+            "first_name": "Reza",
+            "real_name": "Reza",
+            "display_name": "Reza",
+            "team": "T02PFK13YLC",
+            "name": "reza",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EN6i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've got a question on incentive payout models for Sales \/ AEs. We have a consumption based pricing model at Shipsy and the monthly variance for a customer can any where around 20 - 35% higher than the minimum monthly committed billing.\n\nWould like to understand from others who have consumption based pricing on how your sales team make their commissions and when do they get the payouts. Happy to discuss more on DMs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f537a39a-0efa-4d39-af98-1ddb85cf4bb2",
+        "type": "message",
+        "text": "What can be the appraisal percentage in an early stage bootstrapped startup?",
+        "user": "U03AHQURB98",
+        "ts": "1649748441.634489",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1e75ac50be49",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3354970724517_1e75ac50be49acccd7cf_72.jpg",
+            "first_name": "Anindya",
+            "real_name": "Anindya Chakraborty",
+            "display_name": "Anindya Chakraborty",
+            "team": "T02PFK13YLC",
+            "name": "anindya.8336010281",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VK\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What can be the appraisal percentage in an early stage bootstrapped startup?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649748441.634489",
+        "reply_count": 28,
+        "reply_users_count": 9,
+        "latest_reply": "1649921890.019629",
+        "reply_users": [
+            "U02U6FZRHRV",
+            "U02V9QUDK1Q",
+            "U03AHQURB98",
+            "U02USELSBRT",
+            "U030KV8R8RL",
+            "U02ULN6EFNV",
+            "U02UY3EPQDA",
+            "U031QKGPNRK",
+            "U02PDC4883V"
+        ],
+        "replies": [
+            {
+                "user": "U02U6FZRHRV",
+                "ts": "1649748575.583679"
+            },
+            {
+                "user": "U02V9QUDK1Q",
+                "ts": "1649748614.428679"
+            },
+            {
+                "user": "U03AHQURB98",
+                "ts": "1649749004.032239"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649750014.849569"
+            },
+            {
+                "user": "U030KV8R8RL",
+                "ts": "1649763192.719809"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649767781.534959"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649767804.685569"
+            },
+            {
+                "user": "U02ULN6EFNV",
+                "ts": "1649919642.520709"
+            },
+            {
+                "user": "U02V9QUDK1Q",
+                "ts": "1649919702.228089"
+            },
+            {
+                "user": "U02V9QUDK1Q",
+                "ts": "1649919749.697169"
+            },
+            {
+                "user": "U02ULN6EFNV",
+                "ts": "1649919883.818759"
+            },
+            {
+                "user": "U02V9QUDK1Q",
+                "ts": "1649919951.267989"
+            },
+            {
+                "user": "U03AHQURB98",
+                "ts": "1649920159.752189"
+            },
+            {
+                "user": "U02U6FZRHRV",
+                "ts": "1649920265.158479"
+            },
+            {
+                "user": "U03AHQURB98",
+                "ts": "1649920337.236999"
+            },
+            {
+                "user": "U030KV8R8RL",
+                "ts": "1649920443.168149"
+            },
+            {
+                "user": "U02V9QUDK1Q",
+                "ts": "1649920485.096219"
+            },
+            {
+                "user": "U02UY3EPQDA",
+                "ts": "1649921002.733739"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1649921095.220409"
+            },
+            {
+                "user": "U02V9QUDK1Q",
+                "ts": "1649921136.095499"
+            },
+            {
+                "user": "U03AHQURB98",
+                "ts": "1649921201.409169"
+            },
+            {
+                "user": "U02UY3EPQDA",
+                "ts": "1649921246.917179"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1649921366.028199"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1649921402.994569"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649921419.123359"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649921613.385429"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649921760.436569"
+            },
+            {
+                "user": "U02UY3EPQDA",
+                "ts": "1649921890.019629"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1649921890.019629"
+    },
+    {
+        "client_msg_id": "7138a108-11b0-4c67-b9fb-fca3800f396d",
+        "type": "message",
+        "text": "I’d say anything between 15 and 40% as long as the revenue is growing m-o-m. <@U02ULN6EFNV> can help with a more accurate range",
+        "user": "U02U6FZRHRV",
+        "ts": "1649748575.583679",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "51b651e36774",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-19\/2985809793169_51b651e367745f95ba7a_72.png",
+            "first_name": "Nilesh",
+            "real_name": "Nilesh Surana",
+            "display_name": "Nilesh",
+            "team": "T02PFK13YLC",
+            "name": "nileshsurana86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zFzn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’d say anything between 15 and 40% as long as the revenue is growing m-o-m. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02ULN6EFNV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can help with a more accurate range"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649748441.634489",
+        "parent_user_id": "U03AHQURB98",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02V9QUDK1Q",
+                    "U037FS1PPRV"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "35f8b288-56dc-4e65-b4f4-93a2f2aa54d4",
+        "type": "message",
+        "text": "Exact same answer ^ I was typing the same %ages",
+        "user": "U02V9QUDK1Q",
+        "ts": "1649748614.428679",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8140d54c5a70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2981230435879_8140d54c5a7085ca9412_72.jpg",
+            "first_name": "Abhash",
+            "real_name": "Abhash Kumar",
+            "display_name": "Abhash",
+            "team": "T02PFK13YLC",
+            "name": "abhash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fo1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exact same answer ^ I was typing the same %ages"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649748441.634489",
+        "parent_user_id": "U03AHQURB98"
+    },
+    {
+        "client_msg_id": "2bd298eb-ff59-44c4-983e-284bcff00635",
+        "type": "message",
+        "text": "Thanks <@U02U6FZRHRV>,\nDoes a particular role affects this process?\n\nExp: I am working on social media &amp; community area, so does that effect appraisal percentage by any way?",
+        "user": "U03AHQURB98",
+        "ts": "1649749004.032239",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1e75ac50be49",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3354970724517_1e75ac50be49acccd7cf_72.jpg",
+            "first_name": "Anindya",
+            "real_name": "Anindya Chakraborty",
+            "display_name": "Anindya Chakraborty",
+            "team": "T02PFK13YLC",
+            "name": "anindya.8336010281",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lYPc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02U6FZRHRV"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nDoes a particular role affects this process?\n\nExp: I am working on social media & community area, so does that effect appraisal percentage by any way?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649748441.634489",
+        "parent_user_id": "U03AHQURB98"
+    },
+    {
+        "client_msg_id": "3983A601-4236-47AC-AB39-C75F07FF7320",
+        "type": "message",
+        "text": "Appraisal is usually a function of company growth, department contribution and personal contribution.\n\nAppraisal = w1x(company growth)x(personal contribution)x(department contribution)\n\nWhere, w1 would be some sort of %age company decides to share amongst employees\n\nSorry, not the exact percentages you were looking for, just a way to approximate it",
+        "user": "U02USELSBRT",
+        "ts": "1649750014.849569",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ppg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Appraisal is usually a function of company growth, department contribution and personal contribution.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Appraisal = w1x(company growth)x(personal contribution)x(department contribution)\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Where, w1 would be some sort of %age company decides to share amongst employees\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Sorry, not the exact percentages you were looking for, just a way to approximate it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649748441.634489",
+        "parent_user_id": "U03AHQURB98",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U02V9QUDK1Q",
+                    "U031QKGPNRK",
+                    "U02UJ3N39PF"
+                ],
+                "count": 3
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03AHQURB98"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4c0fe6c8-f031-4061-9ebf-b4d3bf8780ea",
+        "type": "message",
+        "text": "<@U02USELSBRT> how do you quantify personal contribution?",
+        "user": "U030KV8R8RL",
+        "ts": "1649763192.719809",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1d58fa7deccd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3044063413425_1d58fa7deccd79b3b2d0_72.jpg",
+            "first_name": "Vartika",
+            "real_name": "Vartika Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "vartika.gupta1911",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JAs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02USELSBRT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " how do you quantify personal contribution?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649748441.634489",
+        "parent_user_id": "U03AHQURB98"
+    },
+    {
+        "client_msg_id": "af4a5f38-ca63-4250-958b-92a4eb3bf8ca",
+        "type": "message",
+        "text": "<@U030KV8R8RL> I don't there is a straight answer to this. Ideally the team should have a well defined KPI and a way to attribute each individual's contribution to that KPI. For example, if content team's KPI is pageviews, then each author can have a pageview %age against all the content they produced. Ofcourse, this doesn't apply in cases authors are not making decisions on what to write. Maybe then they should look at time spent on page or something else which covers what they actually did. In many cases, in absence of a well defined scoring methodology, humans just resort to gut feel.",
+        "user": "U02USELSBRT",
+        "ts": "1649767781.534959",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J+4i4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U030KV8R8RL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I don't there is a straight answer to this. Ideally the team should have a well defined KPI and a way to attribute each individual's contribution to that KPI. For example, if content team's KPI is pageviews, then each author can have a pageview %age against all the content they produced. Ofcourse, this doesn't apply in cases authors are not making decisions on what to write. Maybe then they should look at time spent on page or something else which covers what they actually did. In many cases, in absence of a well defined scoring methodology, humans just resort to gut feel."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649748441.634489",
+        "parent_user_id": "U03AHQURB98",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U030KV8R8RL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "24930e50-25c9-445f-b579-b499565e8c90",
+        "type": "message",
+        "text": "...or divide equally amongst all team members, which is okay too I guess.",
+        "user": "U02USELSBRT",
+        "ts": "1649767804.685569",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOMn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "...or divide equally amongst all team members, which is okay too I guess."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649748441.634489",
+        "parent_user_id": "U03AHQURB98"
+    }
+]

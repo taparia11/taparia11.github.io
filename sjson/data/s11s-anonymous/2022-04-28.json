@@ -1,0 +1,705 @@
+[
+    {
+        "client_msg_id": "b8b7f279-0fb0-4927-a673-899884de529c",
+        "type": "message",
+        "text": "Could have been a non-anonymous rant.",
+        "user": "U02TTEFFU6B",
+        "ts": "1651129455.014199",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LUHb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Could have been a non-anonymous rant."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651127410.209779",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03AF2HBZPX",
+                    "U02PDC4883V"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d1366d97-5bd8-4f5e-aa97-77947997bac1",
+        "type": "message",
+        "text": "Like <http:\/\/iimjobs.com|iimjobs.com>\n\nAnyone from iimjobs? \n\nPlease unsubscribe me. Galti ho gai bohot badi maine account banaya aapki site pe kaafi saal pehle, maafi mangta hu dil se hath jodkar. \n\nPassword bhool gaya hu and login karne ka time nai hai.",
+        "user": "U03AF2HBZPX",
+        "ts": "1651129957.981059",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g282e41117ee",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/282e41117eea26a162917755cabc65f2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Vikas",
+            "real_name": "Vikas Kalwani",
+            "display_name": "Vikas Kalwani",
+            "team": "T02PFK13YLC",
+            "name": "myself",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w97S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Like "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/iimjobs.com",
+                                "text": "iimjobs.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAnyone from iimjobs? \n\nPlease unsubscribe me. Galti ho gai bohot badi maine account banaya aapki site pe kaafi saal pehle, maafi mangta hu dil se hath jodkar. \n\nPassword bhool gaya hu and login karne ka time nai hai."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651127410.209779",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U0310MMGC8Z",
+                    "U02VDPB8CGH"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02TTEFFU6B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "Is it fair for HR to misrepresent when pitching a role? To what extent? How do you distinguish between an ambitious young startup v\/s a company that's telling outright lies to lure candidates?\n\nA while back, got reached out by a recruiter from an HR saas startup. It was a product marketing role and I was at the receiving end of tall claims – closing a $20m series A, better product than the competitor, best glassdoor ratings, and a marketing role in CEO's office (?)\n\nAfter the first call, it went nowhere and the HR person went off grid. In hindsight, seemed like I dodged a bullet after looking at company feedback on this group. Also, learned the company had actually raised almost half the round they were claiming. Founder is busy in too much self-promotion (read, a dedicated shrine to himself on company website). \n\nShady vibes from this company.",
+        "user": "U02SXBR28G1",
+        "ts": "1651132204.325749",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gKrH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is it fair for HR to misrepresent when pitching a role? To what extent? How do you distinguish between an ambitious young startup v\/s a company that's telling outright lies to lure candidates?\n\nA while back, got reached out by a recruiter from an HR saas startup. It was a product marketing role and I was at the receiving end of tall claims – closing a $20m series A, better product than the competitor, best glassdoor ratings, and a marketing role in CEO's office (?)\n\nAfter the first call, it went nowhere and the HR person went off grid. In hindsight, seemed like I dodged a bullet after looking at company feedback on this group. Also, learned the company had actually raised almost half the round they were claiming. Founder is busy in too much self-promotion (read, a dedicated shrine to himself on company website). \n\nShady vibes from this company."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "test",
+        "user": "U02SXBR28G1",
+        "ts": "1651132378.573879",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uRnn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "test"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "65500d48-49ee-4137-9571-e81c8bc55c1a",
+        "type": "message",
+        "text": "<@U03AF2HBZPX> i created a filter that automatically deletes their email.",
+        "user": "U02TTEFFU6B",
+        "ts": "1651132555.280329",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g1g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03AF2HBZPX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " i created a filter that automatically deletes their email."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651127410.209779",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "ef9a93b1-4689-452a-b376-abfcbdd7eb7f",
+        "type": "message",
+        "text": "<@U02TTEFFU6B> - is it easy to set up? :grinning:",
+        "user": "U03AF2HBZPX",
+        "ts": "1651132616.768039",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g282e41117ee",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/282e41117eea26a162917755cabc65f2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Vikas",
+            "real_name": "Vikas Kalwani",
+            "display_name": "Vikas Kalwani",
+            "team": "T02PFK13YLC",
+            "name": "myself",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BiHk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02TTEFFU6B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - is it easy to set up? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grinning"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651127410.209779",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "Has anyone taken any of the Reforge courses? Or know anyone who has done so?\nWould appreciate an honest feedback about the course (study material, time investment, community, ROI et al.)",
+        "user": "U02SXBR28G1",
+        "ts": "1651132670.060819",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b3cj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Has anyone taken any of the Reforge courses? Or know anyone who has done so?\nWould appreciate an honest feedback about the course (study material, time investment, community, ROI et al.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651132670.060819",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1651132788.032549",
+        "reply_users": [
+            "U02PDC6B0HH"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1651132788.032549"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "73d68add-e184-46a2-8e6e-496011b1bbb7",
+        "type": "message",
+        "text": "Very. Type iimjobs in search bar. Go to advanced filters. Select all emails that have that keyword. Click on skip inbox. Click on apply to past emails. Save that filter. Boom. 1,00,000,00,0000,000,000,000,000 emails from iimjobs poof",
+        "user": "U02TTEFFU6B",
+        "ts": "1651132687.686769",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ga0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Very. Type iimjobs in search bar. Go to advanced filters. Select all emails that have that keyword. Click on skip inbox. Click on apply to past emails. Save that filter. Boom. 1,00,000,00,0000,000,000,000,000 emails from iimjobs poof"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651127410.209779",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03AF2HBZPX",
+                    "U02UJBF2Y4C",
+                    "U030SHA1S2W",
+                    "U031YH4D36U"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "I have got PIP of 1 month  duration with weekly discussion where I know my mistakes and also how can I overcome those mistakes.\nSo should I start applying to other companies because no matter what your efforts at EOD you will be fired.\nOr diligently work on my mistakes and perform well in this PIP\nPlease help\nI really look up to this community",
+        "user": "U02SXBR28G1",
+        "ts": "1651132707.647649",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kvu9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have got PIP of 1 month  duration with weekly discussion where I know my mistakes and also how can I overcome those mistakes.\nSo should I start applying to other companies because no matter what your efforts at EOD you will be fired.\nOr diligently work on my mistakes and perform well in this PIP\nPlease help\nI really look up to this community"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651132707.647649",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1651132778.222759",
+        "reply_users": [
+            "U03DA5DG5JN"
+        ],
+        "replies": [
+            {
+                "user": "U03DA5DG5JN",
+                "ts": "1651132778.222759"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "30a5ec73-ace2-4892-8032-3f0c1a3f6fb9",
+        "type": "message",
+        "text": "Do both.",
+        "user": "U03DA5DG5JN",
+        "ts": "1651132778.222759",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g522ec5f78bc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/522ec5f78bc6bd74fc451517a6e23562.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Shankar",
+            "real_name": "Shankar A",
+            "display_name": "Shankar A",
+            "team": "T02PFK13YLC",
+            "name": "wovij23906",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YdG\/+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do both."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651132707.647649",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "06748476-7a9a-41ae-91d5-56fbeb27c4e1",
+        "type": "message",
+        "text": "I have",
+        "user": "U02PDC6B0HH",
+        "ts": "1651132788.032549",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7ce0a422fcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953759554663_b7ce0a422fcdabf5a771_72.jpg",
+            "first_name": "Shafique",
+            "real_name": "Shafique Gajdhar",
+            "display_name": "Shaf",
+            "team": "T02PFK13YLC",
+            "name": "shafiquegajdhar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9le",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651132670.060819",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "5180f0fa-f5e9-4471-a9c2-e7731e19b489",
+        "type": "message",
+        "text": "Oh wow. This is diamond :small_blue_diamond: Thank you <@U02TTEFFU6B> :wink:",
+        "user": "U03AF2HBZPX",
+        "ts": "1651132805.131219",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g282e41117ee",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/282e41117eea26a162917755cabc65f2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Vikas",
+            "real_name": "Vikas Kalwani",
+            "display_name": "Vikas Kalwani",
+            "team": "T02PFK13YLC",
+            "name": "myself",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TUcR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh wow. This is diamond "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "small_blue_diamond"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02TTEFFU6B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651127410.209779",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "InFeedo people here and anywhere? can answer here? Either there are clear gaps in your hiring process, or you are so awesome that people are jealous of your flawless process",
+        "user": "U02SXBR28G1",
+        "ts": "1651132823.739119",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t5g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "InFeedo people here and anywhere? can answer here? Either there are clear gaps in your hiring process, or you are so awesome that people are jealous of your flawless process"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "I wonder if these \"anonymous\" posts are by people from Infeedo themselves. Free publicity. :P",
+        "user": "U02SXBR28G1",
+        "ts": "1651132973.545439",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E4=CN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I wonder if these \"anonymous\" posts are by people from Infeedo themselves. Free publicity. :P"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "--\n\nwhat does marketer in CEO office even do? LinkedIn ghost writing?",
+        "user": "U02SXBR28G1",
+        "ts": "1651133659.465899",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G5DI\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "--\n\nwhat does marketer in CEO office even do? LinkedIn ghost writing?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

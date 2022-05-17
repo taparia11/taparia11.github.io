@@ -1,0 +1,781 @@
+[
+    {
+        "client_msg_id": "6acd8b8e-a89e-4823-8104-a35410fde311",
+        "type": "message",
+        "text": "Name of company: <http:\/\/Zeda.io|Zeda.io>\n\n2. Name of role: Head of Marketing\n\n3. Years of experience: 8-12\n\n3. Current team composition: 1 Social Media Marketer, 1 Engagement\/Community Marketer, 1 Content Writer, 1 Senior Product Marketer, 2 Freelance writers, 1 Marketing Demand Gen Agency\n\n4. Location: Bengaluru\n\n5. Answers to the following 3 questions:\n5.1 _What do you envision the role will do in the first year?_\n• Help set up the marketing engine and process.\n• Help build the strategy to build a global SaaS brand.\n• Mentor and build a strong inter team and intra team relationships.\n_5.2 What will the role be measured on?_\n• Organic Growth and Brand awareness in various markets\n• Lead Generation through various activities\n• Team feedback\n_5.3 What's the annual marketing budget range?_\n• This is something we would like the person who comes in to help set up. \n• We rely more on organic than paid, but open to discussion\n6. Compensation Range: 35-45LPA + Generous ESOPs",
+        "user": "U0310DW1Q3T",
+        "ts": "1650613412.108349",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g66cb2d77e78",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/66cb2d77e78d9ab29439f7ecf2caf8e7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Prashant",
+            "real_name": "Prashant Mahajan",
+            "display_name": "Prashant Mahajan",
+            "team": "T02PFK13YLC",
+            "name": "prashant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pf7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Name of company: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Zeda.io",
+                                "text": "Zeda.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n2. Name of role: Head of Marketing\n\n3. Years of experience: 8-12\n\n3. Current team composition: 1 Social Media Marketer, 1 Engagement\/Community Marketer, 1 Content Writer, 1 Senior Product Marketer, 2 Freelance writers, 1 Marketing Demand Gen Agency\n\n4. Location: Bengaluru\n\n5. Answers to the following 3 questions:\n5.1 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "What do you envision the role will do in the first year?",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Help set up the marketing engine and process."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Help build the strategy to build a global SaaS brand."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Mentor and build a strong inter team and intra team relationships."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "5.2 What will the role be measured on?",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Organic Growth and Brand awareness in various markets"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Lead Generation through various activities"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Team feedback"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "5.3 What's the annual marketing budget range?",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "This is something we would like the person who comes in to help set up. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "We rely more on organic than paid, but open to discussion"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n6. Compensation Range: 35-45LPA + Generous ESOPs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650613412.108349",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1650618890.849819",
+        "reply_users": [
+            "U02TTEFFU6B",
+            "U0310DW1Q3T"
+        ],
+        "replies": [
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1650617553.314539"
+            },
+            {
+                "user": "U0310DW1Q3T",
+                "ts": "1650617939.344769"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1650618866.844339"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1650618890.849819"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U030SHA1S2W",
+                    "U0325QQQALR",
+                    "U02PDC4883V"
+                ],
+                "count": 3
+            },
+            {
+                "name": "zap",
+                "users": [
+                    "U02UM0VU8MQ",
+                    "U039FQ2SNNN",
+                    "U02TTEFFU6B",
+                    "U032NR03DG9",
+                    "U031AUATXA4",
+                    "U02VA7QD8UB",
+                    "U02PDC4883V",
+                    "U0379TDK6NM",
+                    "U0307ASQMU1"
+                ],
+                "count": 9
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U02ULN6EFNV",
+                    "U02PDC4883V",
+                    "U035NQM5BNX"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "26750d23-a321-4cfb-98cf-a7e8a1d9d668",
+        "type": "message",
+        "text": "Thanks Prashant for adhering to the format. :raised_hands::skin-tone-4:",
+        "user": "U02TTEFFU6B",
+        "ts": "1650617553.314539",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/8A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Prashant for adhering to the format. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "skin_tone": 4
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650613412.108349",
+        "parent_user_id": "U0310DW1Q3T",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U0310DW1Q3T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "11688d3e-f5fb-4f01-9952-a7b083e4f34a",
+        "type": "message",
+        "text": "It's a great community, we all need to work together to make it greater",
+        "user": "U0310DW1Q3T",
+        "ts": "1650617939.344769",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g66cb2d77e78",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/66cb2d77e78d9ab29439f7ecf2caf8e7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Prashant",
+            "real_name": "Prashant Mahajan",
+            "display_name": "Prashant Mahajan",
+            "team": "T02PFK13YLC",
+            "name": "prashant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H4NL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's a great community, we all need to work together to make it greater"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650613412.108349",
+        "parent_user_id": "U0310DW1Q3T",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02ULN6EFNV",
+                    "U02TTEFFU6B",
+                    "U031QKGPNRK",
+                    "U035RDGB2CU",
+                    "U0361UQSKGQ",
+                    "U02PDC4883V",
+                    "U030XB8C43Y",
+                    "U0310LZ3NL9"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "client_msg_id": "73b13689-a94e-481b-89d8-bf8a6984f956",
+        "type": "message",
+        "text": "Absolutely :raised_hands::skin-tone-4::raised_hands::skin-tone-4::raised_hands::skin-tone-4:",
+        "user": "U02TTEFFU6B",
+        "ts": "1650618866.844339",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sUck",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Absolutely "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "skin_tone": 4
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "skin_tone": 4
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "skin_tone": 4
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650613412.108349",
+        "parent_user_id": "U0310DW1Q3T"
+    },
+    {
+        "client_msg_id": "6fa4acbe-1468-43b8-a03f-fb9eb1fdc1a1",
+        "type": "message",
+        "text": "Hope you get your Head of Marketing in a blink",
+        "user": "U02TTEFFU6B",
+        "ts": "1650618890.849819",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8ldc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hope you get your Head of Marketing in a blink"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650613412.108349",
+        "parent_user_id": "U0310DW1Q3T"
+    },
+    {
+        "client_msg_id": "81ddce87-9323-4031-90bc-50759ee0fded",
+        "type": "message",
+        "text": "Heyy everyone\n\nif anyone is looking to hire dedicated resources in Laravel, Angular, React Native or Flutter do let me know, have a few profiles.",
+        "user": "U038RUV5JMB",
+        "ts": "1650618960.018669",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4e51ed702dc5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-27\/3324629622448_4e51ed702dc5a7851863_72.png",
+            "first_name": "Gaurav",
+            "real_name": "Gaurav Nagani",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "patelsavan81",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j3p6G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Heyy everyone\n\nif anyone is looking to hire dedicated resources in Laravel, Angular, React Native or Flutter do let me know, have a few profiles."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650618960.018669",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1650866082.336799",
+        "reply_users": [
+            "U032QUYKMGV",
+            "U031E5L49PH",
+            "U039PF71127",
+            "U02UJBHEQVA"
+        ],
+        "replies": [
+            {
+                "user": "U032QUYKMGV",
+                "ts": "1650642938.730779"
+            },
+            {
+                "user": "U031E5L49PH",
+                "ts": "1650645087.703459"
+            },
+            {
+                "user": "U031E5L49PH",
+                "ts": "1650645093.030379"
+            },
+            {
+                "user": "U039PF71127",
+                "ts": "1650831419.823029"
+            },
+            {
+                "user": "U02UJBHEQVA",
+                "ts": "1650866082.336799"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a377b4a4-6388-4f76-bf37-68ec36fa7d11",
+        "type": "message",
+        "text": "thanks for the share <@U030H7UAV1C> very relevant suggestions. i have grown with time to disassociate my emotions from ideas - but then sometimes it leads to lack of passion as well. easier said that done for me. but thanks for the contribution here",
+        "user": "U031QKGPNRK",
+        "ts": "1650623473.228959",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U031QKGPNRK",
+            "ts": "1650623646.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gf\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks for the share "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U030H7UAV1C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " very relevant suggestions. i have grown with time to disassociate my emotions from ideas - but then sometimes it leads to lack of passion as well. easier said that done for me. but thanks for the contribution here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650526729.523879",
+        "parent_user_id": "U031QKGPNRK"
+    },
+    {
+        "client_msg_id": "ab62f5e2-414e-451e-9116-466bccffd4d2",
+        "type": "message",
+        "text": "<@U02TTEFFU6B> the people here and the community vibe here gave me a sense that i could be as vulnerable (and more if it comes to that in future). I generally don’t fear judgement when sharing vulnerably but it does help to know that the people here are with good intent mostly and am grateful for that. more to come and lot to learn",
+        "user": "U031QKGPNRK",
+        "ts": "1650623613.031409",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U031QKGPNRK",
+            "ts": "1650623633.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kYmv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02TTEFFU6B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the people here and the community vibe here gave me a sense that i could be as vulnerable (and more if it comes to that in future). I generally don’t fear judgement when sharing vulnerably but it does help to know that the people here are with good intent mostly and am grateful for that. more to come and lot to learn"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650526729.523879",
+        "parent_user_id": "U031QKGPNRK",
+        "reactions": [
+            {
+                "name": "hugging_face",
+                "users": [
+                    "U02TTEFFU6B",
+                    "U02V75V0YBX"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "72c1f646-dabf-4e06-ba6a-d1334d44d818",
+        "type": "message",
+        "text": "Please send me at <mailto:zainul@recro.io|zainul@recro.io>",
+        "user": "U032QUYKMGV",
+        "ts": "1650642938.730779",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e68ac4a23ed9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-17\/3113923778246_e68ac4a23ed9e0db3d14_72.jpg",
+            "first_name": "Syed",
+            "real_name": "Syed Zainul Haque",
+            "display_name": "Syed Zainul Haque",
+            "team": "T02PFK13YLC",
+            "name": "szainul13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Gsx7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please send me at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:zainul@recro.io",
+                                "text": "zainul@recro.io"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650618960.018669",
+        "parent_user_id": "U038RUV5JMB"
+    },
+    {
+        "client_msg_id": "D1E79E56-478D-4314-B195-3EA39EC13F47",
+        "type": "message",
+        "text": "<mailto:Chetan.borkar@cm.com|Chetan.borkar@cm.com>",
+        "user": "U031E5L49PH",
+        "ts": "1650645087.703459",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4c407096688f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-06\/3059892295301_4c407096688f1e539468_72.png",
+            "first_name": "chetan",
+            "real_name": "chetan borkar",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "chetanborkar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ggy+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:Chetan.borkar@cm.com",
+                                "text": "Chetan.borkar@cm.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650618960.018669",
+        "parent_user_id": "U038RUV5JMB"
+    },
+    {
+        "client_msg_id": "04C0BEC7-E81D-4A7F-A191-8036CC64C437",
+        "type": "message",
+        "text": "Please share",
+        "user": "U031E5L49PH",
+        "ts": "1650645093.030379",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4c407096688f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-06\/3059892295301_4c407096688f1e539468_72.png",
+            "first_name": "chetan",
+            "real_name": "chetan borkar",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "chetanborkar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ocl3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please share"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650618960.018669",
+        "parent_user_id": "U038RUV5JMB"
+    }
+]

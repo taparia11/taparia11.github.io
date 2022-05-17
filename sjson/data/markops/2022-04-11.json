@@ -1,0 +1,117 @@
+[
+    {
+        "client_msg_id": "ba08a41f-609f-4a36-8b54-bdb656556bfe",
+        "type": "message",
+        "text": "Asking for a friend:\nAny recommendations for Clearbit-style Email -&gt; Business info for Podcasters\/Youtubers?\n\ne.g. get their podcast name, channel name, engagement figures and so on",
+        "user": "U032MN1BESJ",
+        "ts": "1649681140.986049",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g8a12888a77b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a12888a77b019e4e11e0df9171feb29.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Anuj",
+            "real_name": "Anuj Adhiya",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "adhiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3lx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Asking for a friend:\nAny recommendations for Clearbit-style Email -> Business info for Podcasters\/Youtubers?\n\ne.g. get their podcast name, channel name, engagement figures and so on"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649681140.986049",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1649685372.194559",
+        "reply_users": [
+            "U03A1LDE9PH"
+        ],
+        "replies": [
+            {
+                "user": "U03A1LDE9PH",
+                "ts": "1649685372.194559"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "84687017-4767-49fa-acdf-35ab6e95c319",
+        "type": "message",
+        "text": "<http:\/\/listennotes.com|listennotes.com>\n\n(Biggest Podcast search engine, also has native stats)\n\nIntegromat and Podcast Niche\/Genre, can every week populate your excel.\n\n\nPodbean for everything numbers and analytics on podcast.",
+        "user": "U03A1LDE9PH",
+        "ts": "1649685372.194559",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "gfd53030a694",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fd53030a694be439b458f95a8797fb49.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Gupil",
+            "real_name": "Gupil Bhutani",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "gupil.bhutani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DmU4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/listennotes.com",
+                                "text": "listennotes.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n(Biggest Podcast search engine, also has native stats)\n\nIntegromat and Podcast Niche\/Genre, can every week populate your excel.\n\n\nPodbean for everything numbers and analytics on podcast."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649681140.986049",
+        "parent_user_id": "U032MN1BESJ",
+        "reactions": [
+            {
+                "name": "facepunch",
+                "users": [
+                    "U032MN1BESJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U03A397SJCF",
+                    "U02VBNKU9T6"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

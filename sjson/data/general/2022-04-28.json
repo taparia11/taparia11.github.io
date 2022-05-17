@@ -1,0 +1,117 @@
+[
+    {
+        "client_msg_id": "250dbd42-66bd-4308-8af2-80266afa7835",
+        "type": "message",
+        "text": "I spent over 3 mnths researching and speaking with senior leaders at established SaaS companies before  creating a structure for the marketing org at Leena AI.\nWe have primarily 6 functions:\n• Revenue Marketing\n• Content Marketing\n• Product Marketing\n• Brand\n• Demand\n• Marketing Ops\nRevenue, Brand, and Demand are further classified based on geography while Content and Product marketing teams are classified based on products.\n\nhappy to speak 1:1.",
+        "user": "U02ULN6EFNV",
+        "ts": "1651131837.853519",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g2796bce497e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2796bce497e03edc08c2719052eaae8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Chirayu",
+            "real_name": "Chirayu (Leena AI)",
+            "display_name": "Chirayu",
+            "team": "T02PFK13YLC",
+            "name": "akotiya.chirayu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02ULN6EFNV",
+            "ts": "1651131964.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "voc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I spent over 3 mnths researching and speaking with senior leaders at established SaaS companies before  creating a structure for the marketing org at Leena AI.\nWe have primarily 6 functions:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Revenue Marketing"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Content Marketing"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Product Marketing"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Brand"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Demand"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Marketing Ops"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nRevenue, Brand, and Demand are further classified based on geography while Content and Product marketing teams are classified based on products.\n\nhappy to speak 1:1."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651107889.685739",
+        "parent_user_id": "U03AG3YBVDM"
+    }
+]

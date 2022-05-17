@@ -1,0 +1,230 @@
+[
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "I am currently working in a startup with a package of 4.2LPA in hand. There is no variable, bonus, ESOPs &amp; all. But I'm learning many things.\n\nBut in LinkedIn I just saw a web3 company wants to hire a person with same skillsets. They're ready to offer 12LPA fixed+variable+offsite+tech equipment from the company. All the skillsets are matching with me &amp; I can show them the result of what values I can add in their company. \n\nSo, it's a very easy option to switch. Like around 300% hike is HUGEEE. But in my present job, I'm learning very much &amp; I've a very good relationship with the founder. Also I'm the 1st employee here. Hopefully there are some future benefits too:)\n\nPlease guide, what I can do?",
+        "user": "U02SXBR28G1",
+        "ts": "1650039406.860229",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yaA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am currently working in a startup with a package of 4.2LPA in hand. There is no variable, bonus, ESOPs & all. But I'm learning many things.\n\nBut in LinkedIn I just saw a web3 company wants to hire a person with same skillsets. They're ready to offer 12LPA fixed+variable+offsite+tech equipment from the company. All the skillsets are matching with me & I can show them the result of what values I can add in their company. \n\nSo, it's a very easy option to switch. Like around 300% hike is HUGEEE. But in my present job, I'm learning very much & I've a very good relationship with the founder. Also I'm the 1st employee here. Hopefully there are some future benefits too:)\n\nPlease guide, what I can do?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650039406.860229",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1650120706.882429",
+        "reply_users": [
+            "U02USELSBRT",
+            "U02PDC6B0HH",
+            "U02ULN6EFNV",
+            "U02UY3EPQDA",
+            "U02V22EUXM4",
+            "U032MN1BESJ"
+        ],
+        "replies": [
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650039640.175899"
+            },
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1650039855.654979"
+            },
+            {
+                "user": "U02ULN6EFNV",
+                "ts": "1650046099.395109"
+            },
+            {
+                "user": "U02UY3EPQDA",
+                "ts": "1650097182.326409"
+            },
+            {
+                "user": "U02V22EUXM4",
+                "ts": "1650117067.655399"
+            },
+            {
+                "user": "U032MN1BESJ",
+                "ts": "1650120706.882429"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "79640687-B3B0-4CD4-8DF9-0C43C8D79A82",
+        "type": "message",
+        "text": "If possible, find out who your immediate manager would be at the new company. If you like his\/her profile with better experience, bigger projects etc, then it would be good to make the jump. 90% of your personal growth depends on your immediate manager, so factor that in. Salary at this stage may matter to you I understand but from where I see things, optimize for learning right now, there'll be plenty of time to catchup on salary later. Hope that helps. Good luck :)",
+        "user": "U02USELSBRT",
+        "ts": "1650039640.175899",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9nW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If possible, find out who your immediate manager would be at the new company. If you like his\/her profile with better experience, bigger projects etc, then it would be good to make the jump. 90% of your personal growth depends on your immediate manager, so factor that in. Salary at this stage may matter to you I understand but from where I see things, optimize for learning right now, there'll be plenty of time to catchup on salary later. Hope that helps. Good luck :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650039406.860229",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "1ce6074e-1b9b-4193-81d2-ddfe1f90da08",
+        "type": "message",
+        "text": "Would suggest not to optimize for money early in your career. That said, try and set expectations with your boss to increase compensation as and when appraisal comes or the company raises funds, revenue starts flowing in. At the time be firm and demand a fair pay at par with the market out there. \n\nAlso, don't benchmark against one off case - that 12+ CTC in the web3 company probably doesn't offer more than 60-70k in hand monthly.",
+        "user": "U02PDC6B0HH",
+        "ts": "1650039855.654979",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7ce0a422fcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953759554663_b7ce0a422fcdabf5a771_72.jpg",
+            "first_name": "Shafique",
+            "real_name": "Shafique Gajdhar",
+            "display_name": "Shaf",
+            "team": "T02PFK13YLC",
+            "name": "shafiquegajdhar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R7y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would suggest not to optimize for money early in your career. That said, try and set expectations with your boss to increase compensation as and when appraisal comes or the company raises funds, revenue starts flowing in. At the time be firm and demand a fair pay at par with the market out there. \n\nAlso, don't benchmark against one off case - that 12+ CTC in the web3 company probably doesn't offer more than 60-70k in hand monthly."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650039406.860229",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "A9ED743E-C8FA-4A5D-A959-818879295C0C",
+        "type": "message",
+        "text": "Optimising for Learning and making more money is not an either\/or decision.\n\nLearning at most early stage companies is going to be a function of your hunger to learn and the work you do with peers.\n\nI'd suggest you get in touch with the people at the web3 company and understand the role and scope of growth and learning.\n\n\n\n",
+        "user": "U02ULN6EFNV",
+        "ts": "1650046099.395109",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g2796bce497e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2796bce497e03edc08c2719052eaae8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Chirayu",
+            "real_name": "Chirayu (Leena AI)",
+            "display_name": "Chirayu",
+            "team": "T02PFK13YLC",
+            "name": "akotiya.chirayu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/QwH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Optimising for Learning and making more money is not an either\/or decision.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Learning at most early stage companies is going to be a function of your hunger to learn and the work you do with peers.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "I'd suggest you get in touch with the people at the web3 company and understand the role and scope of growth and learning.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650039406.860229",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U031F2R0LN4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

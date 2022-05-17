@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "497674c7-1a01-410d-a92a-29ac35483106",
+        "type": "message",
+        "text": "It gives you a very good headstart. \n\nI've tried Articleforge too earlier, and in comparison, <http:\/\/Copy.ai|Copy.ai>'s first draft way way better and we'll articulated.",
+        "user": "U02UP9VG1HS",
+        "ts": "1649490368.658339",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "ca48a0cfb934",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-28\/3434916686343_ca48a0cfb934817d6dd7_72.jpg",
+            "first_name": "Arjun",
+            "real_name": "Arjun Kunnath",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "arjunkunnath",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ClU\/6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It gives you a very good headstart. \n\nI've tried Articleforge too earlier, and in comparison, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Copy.ai",
+                                "text": "Copy.ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": "'s first draft way way better and we'll articulated."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649300074.262319",
+        "parent_user_id": "U039H3ZSRD3",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039H3ZSRD3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

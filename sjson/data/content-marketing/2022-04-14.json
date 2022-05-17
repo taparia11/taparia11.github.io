@@ -1,0 +1,517 @@
+[
+    {
+        "client_msg_id": "3b2326e7-9547-4cf8-96ca-9120cd3fe7e4",
+        "type": "message",
+        "text": "makes sense <@U032MN1BESJ>.I really appreciate the thoughtful responses",
+        "user": "U038FBFLN2K",
+        "ts": "1649951642.156219",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "52f8bcd4ce81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-27\/3299105558181_52f8bcd4ce81b2977f02_72.jpg",
+            "first_name": "Pranav",
+            "real_name": "Pranav Kale",
+            "display_name": "Pranav Kale",
+            "team": "T02PFK13YLC",
+            "name": "pranavkale120",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wa8n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "makes sense "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U032MN1BESJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".I really appreciate the thoughtful responses"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648620049.377639",
+        "parent_user_id": "U038FBFLN2K",
+        "reactions": [
+            {
+                "name": "tumbler_glass",
+                "users": [
+                    "U032MN1BESJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c9620128-1e1c-4da9-b702-b562a8375710",
+        "type": "message",
+        "text": "Bye bye T-shaped I-shaped marketing is the new kid on the block:\n\n<https:\/\/twitter.com\/TheCoolestCool\/status\/1514408010256470022?s=20&amp;t=tfIwOQO1qWGZSfoM9GN1zA>",
+        "user": "U039FQ2SNNN",
+        "ts": "1649999570.580139",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9bb6d1a8280e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-30\/3321818966962_9bb6d1a8280e6c254c07_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rohitguptatoday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GUxu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bye bye T-shaped I-shaped marketing is the new kid on the block:\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/TheCoolestCool\/status\/1514408010256470022?s=20&t=tfIwOQO1qWGZSfoM9GN1zA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649999570.580139",
+        "reply_count": 8,
+        "reply_users_count": 5,
+        "latest_reply": "1650043862.626669",
+        "reply_users": [
+            "U02PDC4883V",
+            "U02USELSBRT",
+            "U02UY3EPQDA",
+            "U03B77PCDNY",
+            "U031KD0PNTX"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649999659.310169"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650000520.933849"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650000718.826179"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650001048.011159"
+            },
+            {
+                "user": "U02UY3EPQDA",
+                "ts": "1650002683.174019"
+            },
+            {
+                "user": "U03B77PCDNY",
+                "ts": "1650006034.534399"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650007715.797189"
+            },
+            {
+                "user": "U031KD0PNTX",
+                "ts": "1650043862.626669"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1650043862.626669"
+    },
+    {
+        "client_msg_id": "2b58a2f4-d265-4512-8c9f-461bd044f857",
+        "type": "message",
+        "text": "Does this not apply more to agencies?",
+        "user": "U02PDC4883V",
+        "ts": "1649999659.310169",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aNnL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does this not apply more to agencies?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649999570.580139",
+        "parent_user_id": "U039FQ2SNNN"
+    },
+    {
+        "client_msg_id": "6dafdfd8-1459-4186-a5ca-15e889305955",
+        "type": "message",
+        "text": "I've been using this concept to coach my mentees lately but I don't call it \"I-shaped marketer\", I call it a full-stack marketer.\n\nFor example, within paid\/performance marketing, I coach my mentees to learn:\n\n• Creative writing (to become good at writing ads)\n• CRO (to optimize last mile performance on LP)\n• Analytics (to become good at analysing results)\n• Automation (to automate routine tasks)\n• Research (to understand larger patterns in sales conversations)\nKnowing all these skills will help one do their performance marketing job really well and not depend on others as much.",
+        "user": "U02USELSBRT",
+        "ts": "1650000520.933849",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xa+nW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've been using this concept to coach my mentees lately but I don't call it \"I-shaped marketer\", I call it a full-stack marketer.\n\nFor example, within paid\/performance marketing, I coach my mentees to learn:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Creative writing (to become good at writing ads)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "CRO (to optimize last mile performance on LP)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Analytics (to become good at analysing results)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Automation (to automate routine tasks)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Research (to understand larger patterns in sales conversations)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nKnowing all these skills will help one do their performance marketing job really well and not depend on others as much."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649999570.580139",
+        "parent_user_id": "U039FQ2SNNN",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U031BVBGHCK",
+                    "U02UY3EPQDA",
+                    "U02V22EUXM4"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "08af11ed-352b-434b-baf2-ab5e5af02def",
+        "type": "message",
+        "text": "Yes full stack is where I guess the moat lies",
+        "user": "U02PDC4883V",
+        "ts": "1650000718.826179",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B5b3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes full stack is where I guess the moat lies"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649999570.580139",
+        "parent_user_id": "U039FQ2SNNN"
+    },
+    {
+        "client_msg_id": "07953589-6903-4ad4-9251-9dbadc397df5",
+        "type": "message",
+        "text": "Yes, best way to do it is to identify adjacent skills and learn them. In any case, learning how to write well and data analysis are two skills any marketer should be a pro at, regardless of what sub-field of marketing they operate in.",
+        "user": "U02USELSBRT",
+        "ts": "1650001048.011159",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hEQQ2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, best way to do it is to identify adjacent skills and learn them. In any case, learning how to write well and data analysis are two skills any marketer should be a pro at, regardless of what sub-field of marketing they operate in."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649999570.580139",
+        "parent_user_id": "U039FQ2SNNN",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U02PDC4883V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "91e0f9ef-378b-4db3-a033-567aa6bc00bb",
+        "type": "message",
+        "text": "Exactly as summed up by <@U02USELSBRT>!\n\nI never related to ‘T’ Shaped previously.  Back when I was a marketeer, ‘I always went full-stack marketeer’ as the best way to describe.",
+        "user": "U02UY3EPQDA",
+        "ts": "1650002683.174019",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "da155664fe94",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-20\/2981844758147_da155664fe9476fbd35b_72.jpg",
+            "first_name": "sv410_",
+            "real_name": "sv410_",
+            "display_name": "sv410_",
+            "team": "T02PFK13YLC",
+            "name": "bravenuworld",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02UY3EPQDA",
+            "ts": "1650002709.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RSMb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exactly as summed up by "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02USELSBRT"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!\n\nI never related to ‘T’ Shaped previously.  Back when I was a marketeer, ‘I always went full-stack marketeer’ as the best way to describe."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649999570.580139",
+        "parent_user_id": "U039FQ2SNNN",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "28cf6b01-7f9f-44e2-aba1-d924039b1895",
+        "type": "message",
+        "text": "<https:\/\/www.descript.com\/|Descript> if you want text transcripts. It has a Google doc like interface got editing which i love. Choose words and cut it out, it will be cut from audio\/video",
+        "user": "U031QKGPNRK",
+        "ts": "1650002736.610909",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U031QKGPNRK",
+            "ts": "1650002795.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.descript.com\/",
+                "image_url": "https:\/\/assets-global.website-files.com\/5d761d627a6dfa6a5b28ab12\/611ae20e6437e9af44306b9c_Descript_Podcast_App_Features.png",
+                "image_width": 445,
+                "image_height": 250,
+                "image_bytes": 770584,
+                "id": 1,
+                "original_url": "https:\/\/www.descript.com\/",
+                "fallback": "Descript | All-in-one audio\/video editing, as easy as a doc.",
+                "text": "Record, transcribe, edit, mix, collaborate, and master your audio and video with Descript. Download for free →.",
+                "title": "Descript | All-in-one audio\/video editing, as easy as a doc.",
+                "title_link": "https:\/\/www.descript.com\/",
+                "service_name": "descript.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sJhg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.descript.com\/",
+                                "text": "Descript"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if you want text transcripts. It has a Google doc like interface got editing which i love. Choose words and cut it out, it will be cut from audio\/video"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649858783.517149",
+        "parent_user_id": "U035NH9AL6N"
+    }
+]

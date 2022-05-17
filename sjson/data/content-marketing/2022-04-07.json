@@ -1,0 +1,158 @@
+[
+    {
+        "client_msg_id": "6c3fd02e-0bb3-454f-823c-ecf2f356f0b9",
+        "type": "message",
+        "text": "<@U030KV8R8RL> I would tell you to watch this youtube series. It is 10X valuable than any eBook you can read about Email Copywriting <https:\/\/www.youtube.com\/watch?v=03yl7pJTUYo&amp;list=PLgZaQ3qgjgrGiJV3bQfpEf4utt1q-CtQM>",
+        "user": "U0323V4CLRY",
+        "ts": "1649360435.972069",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bda2aafa72dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-22\/3275541779442_bda2aafa72dde9c08430_72.jpg",
+            "first_name": "Samyak",
+            "real_name": "Samyak tripathi",
+            "display_name": "samyak",
+            "team": "T02PFK13YLC",
+            "name": "samyaktripathi060",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=03yl7pJTUYo",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/03yl7pJTUYo\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/03yl7pJTUYo?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=03yl7pJTUYo&amp;list=PLgZaQ3qgjgrGiJV3bQfpEf4utt1q-CtQM",
+                "fallback": "YouTube Video: 50-Day Proven Email Breakdown Challenge | Trailer",
+                "title": "50-Day Proven Email Breakdown Challenge | Trailer",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=03yl7pJTUYo",
+                "author_name": "Game of Conversions",
+                "author_link": "https:\/\/www.youtube.com\/c\/GameofConversions",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5ZFK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U030KV8R8RL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I would tell you to watch this youtube series. It is 10X valuable than any eBook you can read about Email Copywriting "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=03yl7pJTUYo&list=PLgZaQ3qgjgrGiJV3bQfpEf4utt1q-CtQM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648473608.727899",
+        "parent_user_id": "U030KV8R8RL"
+    },
+    {
+        "client_msg_id": "8f1d43bd-ec0f-4d8b-8e56-5496bd98f664",
+        "type": "message",
+        "text": "I can suggest you a couple of YouTube channels. You can check them out!\n\n• <https:\/\/www.youtube.com\/c\/IncomeSchool|Income School>\n• <https:\/\/www.youtube.com\/c\/AuthorityHacker|Authority Hacker>\n• <https:\/\/www.youtube.com\/c\/AhrefsCom|Ahrefs>",
+        "user": "U03AG8MUECT",
+        "ts": "1649394680.010439",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4fdac4d7a543",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-06\/3353413068949_4fdac4d7a543ccd5c10e_72.jpg",
+            "first_name": "Ratnakar",
+            "real_name": "Ratnakar Shukla",
+            "display_name": "Ratnakar Shukla",
+            "team": "T02PFK13YLC",
+            "name": "shukla.ratnakar7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dKuAJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can suggest you a couple of YouTube channels. You can check them out!\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.youtube.com\/c\/IncomeSchool",
+                                        "text": "Income School"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.youtube.com\/c\/AuthorityHacker",
+                                        "text": "Authority Hacker"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.youtube.com\/c\/AhrefsCom",
+                                        "text": "Ahrefs"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649305807.116099",
+        "parent_user_id": "U02V979LY03",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02V979LY03"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

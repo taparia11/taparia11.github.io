@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "93df2897-7d0c-456f-9ef0-a551e5ed0143",
+        "type": "message",
+        "text": "Looks like an interesting space. Let me know if you need any help, Nihal. We can discuss about this.",
+        "user": "U02VAPDACUQ",
+        "ts": "1649835827.903769",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "baeffc7f1581",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-19\/2987238733457_baeffc7f1581b6a26d32_72.jpg",
+            "first_name": "Vishal",
+            "real_name": "Vishal Pandurangan",
+            "display_name": "Vishal Pandurangan",
+            "team": "T02PFK13YLC",
+            "name": "vishal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e=jWz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks like an interesting space. Let me know if you need any help, Nihal. We can discuss about this."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649776801.784799",
+        "parent_user_id": "U02U9C39MAA"
+    }
+]

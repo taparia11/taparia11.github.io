@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "9db28d2a-a415-4727-b0e3-f221f44723b3",
+        "type": "message",
+        "text": "Thanks, folks!",
+        "user": "U030SKG09E1",
+        "ts": "1649425372.162399",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1f6c864f5e6d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-30\/3029598384915_1f6c864f5e6dcbe9dafd_72.jpg",
+            "first_name": "Rakshith",
+            "real_name": "Rakshith Raviprakash",
+            "display_name": "Rakshith Raviprakash",
+            "team": "T02PFK13YLC",
+            "name": "rakshithraviprakash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iUE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, folks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649157722.161039",
+        "parent_user_id": "U030SKG09E1"
+    }
+]

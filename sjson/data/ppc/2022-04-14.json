@@ -1,0 +1,208 @@
+[
+    {
+        "client_msg_id": "e026ee19-6483-4160-8721-4b6e683352d4",
+        "type": "message",
+        "text": "I've evaluated Crayon and Klue. There are several others too",
+        "user": "U0318JZUESX",
+        "ts": "1649924871.340139",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "63c51d4ec23b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-01\/3066368472944_63c51d4ec23bc685fdae_72.png",
+            "first_name": "Siddhartha",
+            "real_name": "Siddhartha Kathpalia",
+            "display_name": "Kattu",
+            "team": "T02PFK13YLC",
+            "name": "siddhartha.kathpalia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2gw\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've evaluated Crayon and Klue. There are several others too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649914708.794839",
+        "parent_user_id": "U03AHQURB98"
+    },
+    {
+        "client_msg_id": "4fd27015-e1db-43c3-9daf-a497ed1eb607",
+        "type": "message",
+        "text": "Hey Anindya - if you're looking to find out your competitor's social media strategy, their followers' growth &amp; compare your account with them - you can have a look at <https:\/\/keyhole.co\/competitive-analysis\/>\n\nP.S. I work with Keyhole.",
+        "user": "U0316818QSH",
+        "ts": "1649926145.211279",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "090938b018e1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-02\/3036528451222_090938b018e15bc75fd7_72.png",
+            "first_name": "Rohit",
+            "real_name": "Rohit",
+            "display_name": "Rohit",
+            "team": "T02PFK13YLC",
+            "name": "intro.rohit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zSeo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Anindya - if you're looking to find out your competitor's social media strategy, their followers' growth & compare your account with them - you can have a look at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/keyhole.co\/competitive-analysis\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nP.S. I work with Keyhole."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649914708.794839",
+        "parent_user_id": "U03AHQURB98"
+    },
+    {
+        "client_msg_id": "4A9C795A-2F78-4671-B0D6-E7BB6622E071",
+        "type": "message",
+        "text": "<http:\/\/Competitors.app|Competitors.app> is a decent option. It can track more than social. For social only, there are plenty like Simplify360, Meltwater, Brandwatch ",
+        "user": "U02V22EUXM4",
+        "ts": "1649930428.597029",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9f2cfa9248dc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-07\/3075859566289_9f2cfa9248dc9a1dae23_72.jpg",
+            "first_name": "Deepan",
+            "real_name": "Deepan Siddhu",
+            "display_name": "Deepan Siddhu",
+            "team": "T02PFK13YLC",
+            "name": "deepan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5vLn6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Competitors.app is a decent option. It can track more than social. For social only, there are plenty like Simplify360, Meltwater, Brandwatch "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649914708.794839",
+        "parent_user_id": "U03AHQURB98"
+    },
+    {
+        "client_msg_id": "30882a2a-de3a-49bd-92b8-130a2a99a56a",
+        "type": "message",
+        "text": "Does anyone have a recommendation for a vendor \/ agency that can make Google Ad payments on our behalf. Need some urgent recommendations here.\nThanks in advance.",
+        "user": "U02V5F2JFME",
+        "ts": "1649939737.469799",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "700eafca1a01",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-19\/2969566183973_700eafca1a01010efd69_72.jpg",
+            "first_name": "Reza",
+            "real_name": "Reza",
+            "display_name": "Reza",
+            "team": "T02PFK13YLC",
+            "name": "reza",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xk1s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone have a recommendation for a vendor \/ agency that can make Google Ad payments on our behalf. Need some urgent recommendations here.\nThanks in advance."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5b2b7ba8-b844-4e02-9e23-974c8f3f6be3",
+        "type": "message",
+        "text": "Talkwalker is great too. I use the free version.",
+        "user": "U03B77PCDNY",
+        "ts": "1650005549.334599",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9e5ac69cfeb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-15\/3393119759589_9e5ac69cfeb96a6329a1_72.png",
+            "first_name": "SAURABH",
+            "real_name": "SAURABH WANI",
+            "display_name": "SAURABH WANI",
+            "team": "T02PFK13YLC",
+            "name": "saurabh843",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IjIa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Talkwalker is great too. I use the free version."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649914708.794839",
+        "parent_user_id": "U03AHQURB98"
+    }
+]

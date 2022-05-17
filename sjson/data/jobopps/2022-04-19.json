@@ -1,0 +1,590 @@
+[
+    {
+        "client_msg_id": "0ced82fe-6c43-4e1c-bfb7-a47bcf6ddfe9",
+        "type": "message",
+        "text": "Hey Folks.  I'm looking for SEO professional with around 2 yrs exp in SaaS\/ agency exp. Salary bracket upto 7 LPA for remote opportunity. Segment is cloud contact centre. Please feel free to refer someone interested. Happy to discuss. Thanks in advance !!",
+        "user": "U03C82WP7AM",
+        "ts": "1650356105.896549",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1fc09ca02849",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-18\/3427232213888_1fc09ca0284978c57206_72.jpg",
+            "first_name": "Kushank",
+            "real_name": "Kushank Uppal",
+            "display_name": "Kushank Uppal",
+            "team": "T02PFK13YLC",
+            "name": "uppalkushank",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n8I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Folks.  I'm looking for SEO professional with around 2 yrs exp in SaaS\/ agency exp. Salary bracket upto 7 LPA for remote opportunity. Segment is cloud contact centre. Please feel free to refer someone interested. Happy to discuss. Thanks in advance !!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039PF71127",
+                    "U035NQM5BNX",
+                    "U03CV0Y1Q4C"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bf8cf245-8f9e-4ab0-bf15-92f0e6d78e51",
+        "type": "message",
+        "text": "this quite literally blow my mind <https:\/\/www.lennysjobs.com\/talent\/welcome>\n\n(*Edited : i did not blew my mind: bad play of words :rolling_on_the_floor_laughing: )",
+        "user": "U031QKGPNRK",
+        "ts": "1650387037.292069",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U031QKGPNRK",
+            "ts": "1650425776.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.lennysjobs.com\/talent\/welcome",
+                "thumb_url": "https:\/\/cardea.imgix.net\/media\/lists\/cover_images\/LennyLogoTransparent_uS6dW7P_RxqDx0n.png",
+                "thumb_width": 1200,
+                "thumb_height": 1200,
+                "service_icon": "https:\/\/www.lennysjobs.com\/logo192.png",
+                "id": 1,
+                "original_url": "https:\/\/www.lennysjobs.com\/talent\/welcome",
+                "fallback": "Lenny’s Talent Collective",
+                "text": "Find product-building roles at world-class companies",
+                "title": "Lenny’s Talent Collective",
+                "title_link": "https:\/\/www.lennysjobs.com\/talent\/welcome",
+                "service_name": "lennysjobs.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/JeG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this quite literally blow my mind "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.lennysjobs.com\/talent\/welcome"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n(*Edited : i did not blew my mind: bad play of words "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing"
+                            },
+                            {
+                                "type": "text",
+                                "text": " )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650387037.292069",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1650416142.711409",
+        "reply_users": [
+            "U03560PQ082",
+            "U039FQ2SNNN",
+            "U02USELSBRT",
+            "U031QKGPNRK"
+        ],
+        "replies": [
+            {
+                "user": "U03560PQ082",
+                "ts": "1650387137.106899"
+            },
+            {
+                "user": "U039FQ2SNNN",
+                "ts": "1650389850.242699"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650390159.307509"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1650416142.711409"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "667609f0-f126-433d-a74d-7b85f9d765ca",
+        "type": "message",
+        "text": "His community is pretty curated and top class.",
+        "user": "U03560PQ082",
+        "ts": "1650387137.106899",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1db32098d186",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-01\/3176023965474_1db32098d186ac873a3d_72.png",
+            "first_name": "Ahaan",
+            "real_name": "Ahaan Pandit",
+            "display_name": "Ahaan Pandit",
+            "team": "T02PFK13YLC",
+            "name": "ahaan.pandit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=\/tNN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "His community is pretty curated and top class."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650387037.292069",
+        "parent_user_id": "U031QKGPNRK"
+    },
+    {
+        "client_msg_id": "30b662e9-bd6e-478f-9ff7-9e8aa26ea54b",
+        "type": "message",
+        "text": "Extremely brilliant community - he rewarded me with a 1 year’s subscription to this newsletter for editing his newsletter foc. I’ve been a fan for the past 2 years.",
+        "user": "U039FQ2SNNN",
+        "ts": "1650389850.242699",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9bb6d1a8280e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-30\/3321818966962_9bb6d1a8280e6c254c07_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rohitguptatoday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pir1v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Extremely brilliant community - he rewarded me with a 1 year’s subscription to this newsletter for editing his newsletter foc. I’ve been a fan for the past 2 years."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650387037.292069",
+        "parent_user_id": "U031QKGPNRK"
+    },
+    {
+        "client_msg_id": "6f7c225f-bb7f-43a5-87ed-171f5a68018f",
+        "type": "message",
+        "text": "literally? i should be careful then",
+        "user": "U02USELSBRT",
+        "ts": "1650390159.307509",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zg7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "literally? i should be careful then"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650387037.292069",
+        "parent_user_id": "U031QKGPNRK",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U02TTEFFU6B",
+                    "U0325QQQALR",
+                    "U02PDC6B0HH",
+                    "U031QKGPNRK",
+                    "U02UY3EPQDA",
+                    "U033QDFML74"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d9e5db04-c81a-4954-8b46-5a8b931f6dc4",
+        "type": "message",
+        "text": "I realised what my message literally meant after i typed literally. My apologies :blush: i am fine and healthy and my head is in good shape. So no cautionary tale",
+        "user": "U031QKGPNRK",
+        "ts": "1650416142.711409",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5auxo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I realised what my message literally meant after i typed literally. My apologies "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            },
+                            {
+                                "type": "text",
+                                "text": " i am fine and healthy and my head is in good shape. So no cautionary tale"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650387037.292069",
+        "parent_user_id": "U031QKGPNRK",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02UY3EPQDA",
+                    "U02USELSBRT",
+                    "U033QDFML74",
+                    "U035GAHAK5L"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c7774fc7-02db-4b7e-900e-07a817f3fdfd",
+        "type": "message",
+        "text": "Hiring for Sales and Marketing superstars at <https:\/\/dataweave.com\/in\/home>\n\nDataWeave is working with leading global Ecommerce and Brands and provides them with channel intelligence for their rapid growth..!\n\nWe are on a roll and on track to be a Unicorn in the coming few years.\n\nA great product needs brilliant Sales and Marketing team to scale.\n\nCan promise a ride of exponential growth, learning, fun and success for the right candidates.\n\n<https:\/\/www.linkedin.com\/feed\/hashtag\/?keywords=dm&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6922425044023275520|DM> me \/ Email me at <mailto:abhinav.gupta@dataweave.com|abhinav.gupta@dataweave.com> if you find it interesting.\n\n✓ *Sales Leader (10+ years of Experience) - UK &amp; Europe Market* - Experience in Enterprise B2B SaaS product Sales with an understanding of eCommerce and CPG domain. Preferably Based in the UK.\n\n✓ *Inside Sales Leader (8+ years of Experience)* - Lead the team of Inside Sales Reps and guide them in generating leads, doing initial conversations and Demos. Plan market focus and sales collaterals with Marketing.\n\n✓ *Inside Sales Reps (4+ years of Experience)* - Generate leads, leading initial conversations and Demos. Analyse geography, market and accounts comprehensively for strategic reach outs.\n\n✓ *Lead for Email Marketing \/ Campaign Manager* (4+ years of Experience) - Generate leads using Email campaigns and Social Media.",
+        "user": "U031MKKKZC2",
+        "ts": "1650435121.019359",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "18af552af963",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-03\/3055686944467_18af552af96344071cba_72.png",
+            "first_name": "Abhinav",
+            "real_name": "Abhinav Kumar Gupta",
+            "display_name": "Abhinav Kumar Gupta",
+            "team": "T02PFK13YLC",
+            "name": "abhinav.gupta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U031MKKKZC2",
+            "ts": "1650435159.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/dataweave.com\/in\/home",
+                "image_url": "https:\/\/dataweave.com\/assets\/images\/rowing-og-comp.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 56631,
+                "service_icon": "https:\/\/dataweave.com\/assets\/images\/DW_favicon_dark_blue.png",
+                "id": 1,
+                "original_url": "https:\/\/dataweave.com\/in\/home",
+                "fallback": "E-commerce Analytics for Brands &amp; Retailers| DataWeave",
+                "text": "DataWeave provides retailers with competitive intelligence and e-commerce analytics solutions. Contact us today to learn more or to request a demo.",
+                "title": "E-commerce Analytics for Brands &amp; Retailers| DataWeave",
+                "title_link": "https:\/\/dataweave.com\/in\/home",
+                "service_name": "dataweave.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a+4X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hiring",
+                                "style": {
+                                    "unlink": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " for "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Sales",
+                                "style": {
+                                    "unlink": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Marketing",
+                                "style": {
+                                    "unlink": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " superstars at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/dataweave.com\/in\/home"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "DataWeave",
+                                "style": {
+                                    "unlink": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " is working with leading global "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Ecommerce",
+                                "style": {
+                                    "unlink": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Brands",
+                                "style": {
+                                    "unlink": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and provides them with channel intelligence for their rapid growth..!\n\nWe are on a roll and on track to be a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Unicorn",
+                                "style": {
+                                    "unlink": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " in the coming few years.\n\nA great product needs brilliant "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Sales",
+                                "style": {
+                                    "unlink": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Marketing",
+                                "style": {
+                                    "unlink": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " team to scale.\n\nCan promise a ride of exponential growth, learning, fun and success for the right candidates.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/feed\/hashtag\/?keywords=dm&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6922425044023275520",
+                                "text": "DM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " me \/ Email me at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:abhinav.gupta@dataweave.com",
+                                "text": "abhinav.gupta@dataweave.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if you find it interesting.\n\n✓ "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Sales Leader (10+ years of Experience) - UK & Europe Market",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Experience in Enterprise B2B SaaS product Sales with an understanding of eCommerce and CPG domain. Preferably Based in the UK.\n\n✓ "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Inside Sales Leader (8+ years of Experience)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Lead the team of Inside Sales Reps and guide them in generating leads, doing initial conversations and Demos. Plan market focus and sales collaterals with Marketing.\n\n✓ "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Inside Sales Reps (4+ years of Experience) ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "- Generate leads, leading initial conversations and Demos. Analyse geography, market and accounts comprehensively for strategic reach outs.\n\n✓"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Lead for Email Marketing \/ Campaign Manager",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (4+ years of Experience) - Generate leads using Email campaigns and Social Media."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02V9QUDK1Q",
+                    "U02V7TLU5HT"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U0379TDK6NM"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

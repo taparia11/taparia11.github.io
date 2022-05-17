@@ -1,0 +1,1805 @@
+[
+    {
+        "bot_id": "B030YTVR3C4",
+        "type": "message",
+        "text": "(Un)Popular Opinion result",
+        "user": "U030WJYN76W",
+        "ts": "1650969480.856619",
+        "app_id": "A012T9P9VQF",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B030YTVR3C4",
+            "app_id": "A012T9P9VQF",
+            "name": "Trivia - Games | Virtual Coffee",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_72.png"
+            },
+            "deleted": false,
+            "updated": 1646662985,
+            "team_id": "T02PFK13YLC"
+        },
+        "edited": {
+            "user": "B030YTVR3C4",
+            "ts": "1651055881.000000"
+        },
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "PZlC",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":speech_balloon: *Opinion:* Do penguins have knees?",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "S7i",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*The results are out:*",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "81J",
+                "fields": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Yes, they do.\n\n`███████████████████       ` 75.00% (6)\n\n<@U02UM0VU8MQ> <@U02USELSBRT> <@U02UMJJJALA> <@U03996E48LB> <@U03A7KXT45S>+1 more",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Of course, they don't.\n\n`███████                   ` 25.00% (2)\n\n<@U030SHA1S2W> <@U02PDC6B0HH>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "actions",
+                "block_id": "opinion-all-answers",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "fCQLo",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Total Votes: 8",
+                            "emoji": true
+                        },
+                        "style": "primary",
+                        "value": "{\"pollId\":\"6267cb888c01751e02d2aab4\",\"custom\":false}"
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "hjtr"
+            },
+            {
+                "type": "image",
+                "block_id": "veo2=",
+                "image_url": "https:\/\/media.giphy.com\/media\/66aIMfc2y7rF3KbzYT\/giphy.gif",
+                "alt_text": "gif",
+                "image_width": 403,
+                "image_height": 260,
+                "image_bytes": 2023251,
+                "is_animated": true,
+                "fallback": "403x260px image"
+            },
+            {
+                "type": "section",
+                "block_id": "promotion_block",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "Want to get to know your colleagues better? With VirtualCoffee, get randomly paired with a new teammate every week and break the ice with Trivia’s fun conversation starters. Check out VirtualCoffee now :coffee: ",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "actions",
+                "block_id": "ZTmd",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "start_virtualcoffee",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "VirtualCoffee",
+                            "emoji": true
+                        },
+                        "value": "virtual coffee"
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "url_action_virtualcoffee_learnmore",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Learn more",
+                            "emoji": true
+                        },
+                        "value": "learn more",
+                        "url": "https:\/\/trivia-sw.notion.site\/trivia-sw\/VirtualCoffee-0581e1138a0c4906bc3dc1afb0851dab"
+                    }
+                ]
+            },
+            {
+                "type": "context",
+                "block_id": "wjts",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "*Creator*: <@U02V9QUDK1Q> | *(Un)Popular Opinion* | :lock: *Closed*\nNeed help in using Trivia? Want to take full advantage of Trivia’s suite of games? Check out the full user guide <https:\/\/bit.ly\/trivia-user-guide|here>.",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650969480.856619",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1651055881.462919",
+        "reply_users": [
+            "U030WJYN76W"
+        ],
+        "replies": [
+            {
+                "user": "U030WJYN76W",
+                "ts": "1651055881.462919"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "bot_id": "B030YTVR3C4",
+        "type": "message",
+        "text": "(Un)Popular Opinion result",
+        "user": "U030WJYN76W",
+        "ts": "1650969504.260429",
+        "app_id": "A012T9P9VQF",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B030YTVR3C4",
+            "app_id": "A012T9P9VQF",
+            "name": "Trivia - Games | Virtual Coffee",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_72.png"
+            },
+            "deleted": false,
+            "updated": 1646662985,
+            "team_id": "T02PFK13YLC"
+        },
+        "edited": {
+            "user": "B030YTVR3C4",
+            "ts": "1651055905.000000"
+        },
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "CM+R7",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":speech_balloon: *Opinion:* Would you rather be transported permanently 500 years into the...",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "C7PcH",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*The results are out:*",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "cIl",
+                "fields": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Future?\n\n`██████████████████        ` 70.00% (7)\n\n<@U030SHA1S2W> <@U02PDC6B0HH> <@U02USELSBRT> <@U03996E48LB> <@U02URBKGVA7>+2 more",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Past?\n\n`████████                  ` 30.00% (3)\n\n<@U02UM0VU8MQ> <@U02UMJJJALA> <@U03A7KXT45S>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "actions",
+                "block_id": "opinion-all-answers",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "dyB=m",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Total Votes: 10",
+                            "emoji": true
+                        },
+                        "style": "primary",
+                        "value": "{\"pollId\":\"6267cba0e12275dabece92a4\",\"custom\":false}"
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "r8Gj"
+            },
+            {
+                "type": "image",
+                "block_id": "vRNXM",
+                "image_url": "https:\/\/media.giphy.com\/media\/SQRfJTZEwVS4cKkOoG\/giphy.gif",
+                "alt_text": "gif",
+                "image_width": 403,
+                "image_height": 348,
+                "image_bytes": 1746086,
+                "is_animated": true,
+                "fallback": "403x348px image"
+            },
+            {
+                "type": "section",
+                "block_id": "promotion_block",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "Want to get to know your colleagues better? With VirtualCoffee, get randomly paired with a new teammate every week and break the ice with Trivia’s fun conversation starters. Check out VirtualCoffee now :coffee: ",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "actions",
+                "block_id": "wU6",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "start_virtualcoffee",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "VirtualCoffee",
+                            "emoji": true
+                        },
+                        "value": "virtual coffee"
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "url_action_virtualcoffee_learnmore",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Learn more",
+                            "emoji": true
+                        },
+                        "value": "learn more",
+                        "url": "https:\/\/trivia-sw.notion.site\/trivia-sw\/VirtualCoffee-0581e1138a0c4906bc3dc1afb0851dab"
+                    }
+                ]
+            },
+            {
+                "type": "context",
+                "block_id": "j\/nB",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "*Creator*: <@U02V9QUDK1Q> | *(Un)Popular Opinion* | :lock: *Closed*\nNeed help in using Trivia? Want to take full advantage of Trivia’s suite of games? Check out the full user guide <https:\/\/bit.ly\/trivia-user-guide|here>.",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650969504.260429",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1651055906.366849",
+        "reply_users": [
+            "U030WJYN76W"
+        ],
+        "replies": [
+            {
+                "user": "U030WJYN76W",
+                "ts": "1651055906.366849"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "bot_id": "B030YTVR3C4",
+        "type": "message",
+        "text": "(Un)Popular Opinion result",
+        "user": "U030WJYN76W",
+        "ts": "1650969526.319899",
+        "app_id": "A012T9P9VQF",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B030YTVR3C4",
+            "app_id": "A012T9P9VQF",
+            "name": "Trivia - Games | Virtual Coffee",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_72.png"
+            },
+            "deleted": false,
+            "updated": 1646662985,
+            "team_id": "T02PFK13YLC"
+        },
+        "edited": {
+            "user": "B030YTVR3C4",
+            "ts": "1651055927.000000"
+        },
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "R3vC=",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":speech_balloon: *Opinion:* Would you rather have a...",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "8qxrk",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*The results are out:*",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "Jlw",
+                "fields": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Head too big for your body?\n\n`█████████████             ` 50.00% (5)\n\n<@U02UFNZS7NW> <@U02USELSBRT> <@U03996E48LB> <@U03A7KXT45S> <@U039PF71127>",
+                        "verbatim": false
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "High pitched baby voice?\n\n`█████████████             ` 50.00% (5)\n\n<@U02PDC6B0HH> <@U02UM0VU8MQ> <@U02UMJJJALA> <@U02URBKGVA7> <@U03560PQ082>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "actions",
+                "block_id": "opinion-all-answers",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "yyEnU",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Total Votes: 10",
+                            "emoji": true
+                        },
+                        "style": "primary",
+                        "value": "{\"pollId\":\"6267cbb68c01751e02d2aec0\",\"custom\":false}"
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "2ob"
+            },
+            {
+                "type": "image",
+                "block_id": "lc8",
+                "image_url": "https:\/\/media.giphy.com\/media\/SQRfJTZEwVS4cKkOoG\/giphy.gif",
+                "alt_text": "gif",
+                "image_width": 403,
+                "image_height": 348,
+                "image_bytes": 1746086,
+                "is_animated": true,
+                "fallback": "403x348px image"
+            },
+            {
+                "type": "section",
+                "block_id": "promotion_block",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "Want to get to know your colleagues better? With VirtualCoffee, get randomly paired with a new teammate every week and break the ice with Trivia’s fun conversation starters. Check out VirtualCoffee now :coffee: ",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "actions",
+                "block_id": "w10EX",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "start_virtualcoffee",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "VirtualCoffee",
+                            "emoji": true
+                        },
+                        "value": "virtual coffee"
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "url_action_virtualcoffee_learnmore",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Learn more",
+                            "emoji": true
+                        },
+                        "value": "learn more",
+                        "url": "https:\/\/trivia-sw.notion.site\/trivia-sw\/VirtualCoffee-0581e1138a0c4906bc3dc1afb0851dab"
+                    }
+                ]
+            },
+            {
+                "type": "context",
+                "block_id": "nUIkA",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "*Creator*: <@U02V9QUDK1Q> | *(Un)Popular Opinion* | :lock: *Closed*\nNeed help in using Trivia? Want to take full advantage of Trivia’s suite of games? Check out the full user guide <https:\/\/bit.ly\/trivia-user-guide|here>.",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650969526.319899",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1651055927.778159",
+        "reply_users": [
+            "U030WJYN76W"
+        ],
+        "replies": [
+            {
+                "user": "U030WJYN76W",
+                "ts": "1651055927.778159"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "bot_id": "B030YTVR3C4",
+        "type": "message",
+        "text": "Monthly Leaderboard",
+        "user": "U030WJYN76W",
+        "ts": "1650971100.457319",
+        "app_id": "A012T9P9VQF",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B030YTVR3C4",
+            "app_id": "A012T9P9VQF",
+            "name": "Trivia - Games | Virtual Coffee",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_72.png"
+            },
+            "deleted": false,
+            "updated": 1646662985,
+            "team_id": "T02PFK13YLC"
+        },
+        "edited": {
+            "user": "B030YTVR3C4",
+            "ts": "1650971377.000000"
+        },
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "NNDeK",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "We just completed a quiz on Business and Tech, General Knowledge, TV (10 questions). Here are the results:\n\n:tada: Well done <@U030SHA1S2W>! :tada:",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "l4o5",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Podium* :trophy:\n:first_place_medal: <@U030SHA1S2W> (590.02)\n:second_place_medal: <@U031AUATXA4> (353.06)\n:third_place_medal: <@U02URBKGVA7> (342.01)\n",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "image",
+                "block_id": "+VL9C",
+                "image_url": "https:\/\/engage-custom-gifs.s3.us-east-1.amazonaws.com\/custom-gifs\/U030SHA1S2W-1650971376.gif",
+                "alt_text": "gif",
+                "image_width": 480,
+                "image_height": 217,
+                "image_bytes": 500614,
+                "is_animated": true,
+                "fallback": "480x217px image"
+            },
+            {
+                "type": "actions",
+                "block_id": "result-footer",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "play_game",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Start Another Game",
+                            "emoji": true
+                        },
+                        "style": "primary",
+                        "value": "all|game-result"
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "global-leaderboard",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "View overall leaderboard ",
+                            "emoji": true
+                        },
+                        "value": "quiz-leaderboard-overall|game-result",
+                        "url": "https:\/\/trivia.springworks.in\/public\/leaderboard\/61f7bf877ac06a0018e5824d"
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "worthymentions",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Worthy Mentions :medal:",
+                            "emoji": true
+                        },
+                        "value": "worthymention-6267d1dc645e85935a490932"
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "6vV4"
+            },
+            {
+                "type": "context",
+                "block_id": "7AU62",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "*Scheduled By*: <@U02PDC6B0HH> | *Quiz* | *10 Questions* | *Category*: Business and Tech, General Knowledge, TV | *Difficulty*: Easy | *20 seconds* per question | *Total Participants*: 6",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "context",
+                "block_id": "W2aV",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "\nNeed help in using Trivia? Want to take full advantage of Trivia’s suite of games? Check out the full user guide <https:\/\/bit.ly\/trivia-user-guide|here>.",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650971100.457319",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650971376.869759",
+        "reply_users": [
+            "U030WJYN76W"
+        ],
+        "replies": [
+            {
+                "user": "U030WJYN76W",
+                "ts": "1650971376.869759"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "bot_id": "B030YTVR3C4",
+        "type": "message",
+        "text": "Quiz history",
+        "user": "U030WJYN76W",
+        "ts": "1650971376.869759",
+        "app_id": "A012T9P9VQF",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B030YTVR3C4",
+            "app_id": "A012T9P9VQF",
+            "name": "Trivia - Games | Virtual Coffee",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_72.png"
+            },
+            "deleted": false,
+            "updated": 1646662985,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "context",
+                "block_id": "4A2=",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "1. In which part of Liverpool did Ken Dodd's Diddymen live?\n\n:x: Bootle\n:x: West Derby\n:white_check_mark: Knotty Ash\n:x: Toxteth\n\n:tada: Nice job! <@U031AUATXA4> <@U030SHA1S2W>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "fgK"
+            },
+            {
+                "type": "context",
+                "block_id": "JHm",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "2. Kurt Zisa was a secret boss in the first installment of what game?\n\n:x: Final Fantasy Ii\n:white_check_mark: Kingdom Hearts\n:x: Kingdom Of Gold\n:x: Fantasy Kingdom\n\n:tada: Nice job! <@U03AHQURB98> <@U030SHA1S2W> <@U031AUATXA4>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "7xvC"
+            },
+            {
+                "type": "context",
+                "block_id": "IcrX",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "3. What are substances added to food for preserving flavors, or improving taste or appearance \n\n:x: Madditives\n:x: Sadditives\n:white_check_mark: Additives\n:x: Padditives\n\n:tada: Nice job! <@U031AUATXA4> <@U02URBKGVA7> <@U030SHA1S2W> <@U02PDC6B0HH>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "uhj+i"
+            },
+            {
+                "type": "context",
+                "block_id": "VR0=7",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "4. What was the name of the UK’s first online bank?\n\n:x: Bacon\n:x: Toast\n:x: Sausage\n:white_check_mark: Egg\n\n:cricket: No one got it right!",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "ITm"
+            },
+            {
+                "type": "context",
+                "block_id": "R8zy",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "5. Which country uses the internet code .se?\n\n:x: Spain\n:x: South Africa\n:x: Slovenia\n:white_check_mark: Sweden\n\n:tada: Nice job! <@U030SHA1S2W> <@U02URBKGVA7>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "RU4"
+            },
+            {
+                "type": "context",
+                "block_id": "z0hf",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "6. In hindu mythology, Mahishasura was killed by?\n\n:white_check_mark: Chamundi\n:x: Krishna\n:x: Bharath\n:x: Arjun\n\n:tada: Nice job! <@U030SHA1S2W> <@U02URBKGVA7> <@U03AHQURB98>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "49P"
+            },
+            {
+                "type": "context",
+                "block_id": "aLTD9",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "7. In what US State is the majority of Okefenokee Swamp located?\n\n:x: Florida\n:x: Alabama\n:x: New York\n:white_check_mark: Georgia\n\n:cricket: No one got it right!",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "yLv"
+            },
+            {
+                "type": "context",
+                "block_id": "OTo",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "8. Avon Barksdale, Bubbles and McNulty are characters from which TV series?\n\n:x: Desperate Housewives\n:x: 24\n:white_check_mark: The Wire\n:x: The Sopranos\n\n:tada: Nice job! <@U03AHQURB98> <@U030SHA1S2W>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "FcuZH"
+            },
+            {
+                "type": "context",
+                "block_id": "6d6NO",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "9. Which American invented Facebook?\n\n:white_check_mark: Mark Zuckerberg\n:x: Mark Puckerberg\n:x: Mark Suckerberg\n:x: Mark Tuckerberg\n\n:tada: Nice job! <@U031AUATXA4> <@U02URBKGVA7> <@U030SHA1S2W> <@U03AHQURB98> <@U02PDC6B0HH>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "M4ru"
+            },
+            {
+                "type": "context",
+                "block_id": "wNbJA",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "10. 'HIGHER HIGHER! LOWER LOWER! FREEZE!' was a famous line from which TV game show?\n\n:x: Blockbusters\n:x: The Generation Game\n:x: Strike It Lucky\n:white_check_mark: Play Your Cards Right\n\n:cricket: No one got it right!",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "VpKj"
+            }
+        ],
+        "thread_ts": "1650971100.457319",
+        "parent_user_id": "U030WJYN76W"
+    },
+    {
+        "type": "message",
+        "text": "B2B social media folks.. take notes",
+        "files": [
+            {
+                "id": "F03CRUVV362",
+                "created": 1650972699,
+                "timestamp": 1650972699,
+                "name": "20220426_170109.jpg",
+                "title": "20220426_170109.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U02PDC4883V",
+                "editable": false,
+                "size": 105405,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03CRUVV362\/20220426_170109.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03CRUVV362\/download\/20220426_170109.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CRUVV362-cb2d438c55\/20220426_170109_64.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CRUVV362-cb2d438c55\/20220426_170109_80.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CRUVV362-cb2d438c55\/20220426_170109_360.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 324,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CRUVV362-cb2d438c55\/20220426_170109_480.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 432,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CRUVV362-cb2d438c55\/20220426_170109_160.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CRUVV362-cb2d438c55\/20220426_170109_720.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720_w": 649,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CRUVV362-cb2d438c55\/20220426_170109_800.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_800_w": 800,
+                "thumb_800_h": 888,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CRUVV362-cb2d438c55\/20220426_170109_960.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_960_w": 865,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CRUVV362-cb2d438c55\/20220426_170109_1024.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_1024_w": 922,
+                "thumb_1024_h": 1024,
+                "original_w": 1080,
+                "original_h": 1199,
+                "thumb_tiny": "AwAwACuEPbfYsYXfj05zVc4Jzx+lR4OM44pxWT0b86AFwMUcf5xSEOCQcg\/Wky2O\/wCdACtjJY9T6YplKWJGMn86SgCbzx5OzYM4xmo2I7D8xVsW0X2Lzdx3bc5zxn0qqVGeBQA3J9B+VBz0xS4HpRgZ+6TQA3vRSn7xIUgelJQAdql\/H\/P51FTixzwaAH\/5\/wA80n4\/5\/Om7m9aNx9aAHf5\/wA81Geppdxz1pKAP\/\/Z",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U02PDC4883V\/F03CRUVV362\/20220426_170109.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03CRUVV362-30077d8cf8",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F03CYJLEHPD",
+                "created": 1650972701,
+                "timestamp": 1650972701,
+                "name": "20220426_170112.jpg",
+                "title": "20220426_170112.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U02PDC4883V",
+                "editable": false,
+                "size": 102872,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03CYJLEHPD\/20220426_170112.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03CYJLEHPD\/download\/20220426_170112.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CYJLEHPD-c2df780603\/20220426_170112_64.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CYJLEHPD-c2df780603\/20220426_170112_80.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CYJLEHPD-c2df780603\/20220426_170112_360.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 336,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CYJLEHPD-c2df780603\/20220426_170112_480.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 448,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CYJLEHPD-c2df780603\/20220426_170112_160.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CYJLEHPD-c2df780603\/20220426_170112_720.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720_w": 673,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CYJLEHPD-c2df780603\/20220426_170112_800.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_800_w": 800,
+                "thumb_800_h": 856,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CYJLEHPD-c2df780603\/20220426_170112_960.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_960_w": 897,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CYJLEHPD-c2df780603\/20220426_170112_1024.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_1024_w": 957,
+                "thumb_1024_h": 1024,
+                "original_w": 1080,
+                "original_h": 1156,
+                "thumb_tiny": "AwAwACyl+7EHTLH36GmHn+ED8KZ2pd30\/KgB2Pb9KTbn1\/Kk3H2\/IUh5NADtv1\/Kmng0UUAXluIRZeWV+bbjGOp9c1Uznt\/47SjG0dP++qXjHb\/vqgBmfQfpSZPoPyqQY9v++6Bj2\/76oC5GSTjgDAxwKSpePb\/vqo2xuOP50ASLnAPP\/fFHI7N\/3zTQwwBj\/wAeo3D0\/wDHqAH8++P9yk5z3\/74qPn+9+tBz\/e\/WgCQlhyBkd8rUVGT6migD\/\/Z",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U02PDC4883V\/F03CYJLEHPD\/20220426_170112.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03CYJLEHPD-3b5094a237",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02PDC4883V",
+        "ts": "1650972731.193289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+IH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "B2B social media folks.. take notes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "c29b2f63-fa36-483a-9865-a097b01dfc22",
+        "thread_ts": "1650972731.193289",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1650973143.891019",
+        "reply_users": [
+            "U037UUE6TV3",
+            "U0318JZUESX",
+            "U02PDC4883V"
+        ],
+        "replies": [
+            {
+                "user": "U037UUE6TV3",
+                "ts": "1650972799.232539"
+            },
+            {
+                "user": "U0318JZUESX",
+                "ts": "1650973048.681449"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650973143.891019"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1650973143.891019"
+    },
+    {
+        "client_msg_id": "8ce6ad46-00f2-46d5-b6fb-7f55f680ec37",
+        "type": "message",
+        "text": "Also, fellow Goan S11S folks take note <@U0318JZUESX> ^",
+        "user": "U037UUE6TV3",
+        "ts": "1650972799.232539",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "934b4d6b1287",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-21\/3283947705889_934b4d6b128773575732_72.png",
+            "first_name": "Shobhit",
+            "real_name": "Shobhit Gaur",
+            "display_name": "Shobhit Gaur",
+            "team": "T02PFK13YLC",
+            "name": "shbhtgr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U037UUE6TV3",
+            "ts": "1650973190.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "92yVL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, fellow Goan S11S folks take note "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0318JZUESX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650972731.193289",
+        "parent_user_id": "U02PDC4883V"
+    },
+    {
+        "bot_id": "B030YTVR3C4",
+        "type": "message",
+        "text": "This content can’t be displayed.",
+        "user": "U030WJYN76W",
+        "ts": "1650972809.180739",
+        "app_id": "A012T9P9VQF",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B030YTVR3C4",
+            "app_id": "A012T9P9VQF",
+            "name": "Trivia - Games | Virtual Coffee",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_72.png"
+            },
+            "deleted": false,
+            "updated": 1646662985,
+            "team_id": "T02PFK13YLC"
+        },
+        "edited": {
+            "user": "B030YTVR3C4",
+            "ts": "1650973095.000000"
+        },
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "fX1",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "We just finished a game True or False (10 questions). Here are the results:\n\n:tada: Well done <@U030SDYNX7V>! :tada:",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "dZa0N",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Podium* :trophy:\n:first_place_medal:<@U030SDYNX7V> (9\/10)\n:second_place_medal:<@U02PDC4883V> (7\/10)\n:third_place_medal:<@U02UM0VU8MQ> (6\/10)\n",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "image",
+                "block_id": "4OUl",
+                "image_url": "https:\/\/engage-custom-gifs.s3.us-east-1.amazonaws.com\/custom-gifs\/U030SDYNX7V-1650973094.gif",
+                "alt_text": "gif",
+                "image_width": 291,
+                "image_height": 150,
+                "image_bytes": 484607,
+                "is_animated": true,
+                "fallback": "291x150px image"
+            },
+            {
+                "type": "actions",
+                "block_id": "trueOrFalse_worthymention",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "worthymention",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Worthy Mentions :medal:",
+                            "emoji": true
+                        },
+                        "style": "primary",
+                        "value": "trueOrFalse_worthymention_6267d8898c01751e02d3f18a"
+                    }
+                ]
+            },
+            {
+                "type": "actions",
+                "block_id": "result-footer",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "start_trueOrFalse",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Start Another Game",
+                            "emoji": true
+                        },
+                        "style": "primary",
+                        "value": "true or false|game-result"
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "global-leaderboard",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "View overall leaderboard ",
+                            "emoji": true
+                        },
+                        "value": "quiz-leaderboard-overall|game-result",
+                        "url": "https:\/\/trivia.springworks.in\/public\/leaderboard\/61f7bf877ac06a0018e5824d"
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "gOl+u"
+            },
+            {
+                "type": "context",
+                "block_id": "De7R",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "*Host*: <@U02PDC4883V> | *True or False* | *Total Participants*: 5",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "context",
+                "block_id": "vMxnh",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "\nNeed help in using Trivia? Want to take full advantage of Trivia’s suite of games? Check out the full user guide <https:\/\/bit.ly\/trivia-user-guide|here>.",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650972809.180739",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650973095.156649",
+        "reply_users": [
+            "U030WJYN76W"
+        ],
+        "replies": [
+            {
+                "user": "U030WJYN76W",
+                "ts": "1650973095.156649"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1650973095.156649"
+    },
+    {
+        "client_msg_id": "4459528c-6aab-42e4-82e3-9c5f7ea68c9a",
+        "type": "message",
+        "text": "Twitter product manager now - <https:\/\/twitter.com\/Zedaio\/status\/1518871075630764032?s=20&amp;t=7L0zKmOC1N26zeWEOX9KSQ>",
+        "user": "U033KD7GMDJ",
+        "ts": "1650972997.589599",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "be06fe8acb05",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-17\/3119249088114_be06fe8acb05dc9d906f_72.jpg",
+            "first_name": "Jacob",
+            "real_name": "Jacob Koshy",
+            "display_name": "Jacob Koshy",
+            "team": "T02PFK13YLC",
+            "name": "jacob.koshy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/Zedaio\/status\/1518871075630764032?s=20&amp;t=7L0zKmOC1N26zeWEOX9KSQ",
+                "ts": 1650962058,
+                "thumb_url": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1518871046484545537\/pu\/img\/F3GXVEKzE6mVMNxA.jpg",
+                "thumb_width": 672,
+                "thumb_height": 458,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1518871046484545537\/pu\/img\/F3GXVEKzE6mVMNxA.jpg\" width=\"672\" height=\"458\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/ext_tw_video\/1518871046484545537\/pu\/vid\/672x458\/IQgmVJLr9ylNLK2C.mp4?tag=12\"><\/video>",
+                "video_html_width": 672,
+                "video_html_height": 458,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/Zedaio\/status\/1518871075630764032?s=20&amp;t=7L0zKmOC1N26zeWEOX9KSQ",
+                "fallback": "<https:\/\/twitter.com\/Zedaio|@Zedaio>: So long, PM's.:stuck_out_tongue_winking_eye: <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1518871046484545537\/pu\/img\/F3GXVEKzE6mVMNxA.jpg>",
+                "text": "So long, PM's.:stuck_out_tongue_winking_eye:",
+                "author_name": "Zeda.io",
+                "author_link": "https:\/\/twitter.com\/Zedaio\/status\/1518871075630764032",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1390254872658726916\/psg8-3sh_normal.jpg",
+                "author_subname": "@Zedaio",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yXx=2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Twitter product manager now - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/Zedaio\/status\/1518871075630764032?s=20&t=7L0zKmOC1N26zeWEOX9KSQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650891667.364069",
+        "parent_user_id": "U02PDC4883V"
+    },
+    {
+        "client_msg_id": "d9609208-935c-47e6-a5c8-fe4176b95353",
+        "type": "message",
+        "text": "kithne tukke sahi jayenge pRABHU",
+        "user": "U030SDYNX7V",
+        "ts": "1650973016.429739",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "dcaae4952765",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3019783298486_dcaae495276522b44a55_72.png",
+            "first_name": "Niranjan",
+            "real_name": "Niranjan Bala",
+            "display_name": "Niranjan Bala",
+            "team": "T02PFK13YLC",
+            "name": "nb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gp4ny",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "kithne tukke sahi jayenge pRABHU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650973016.429739",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1650973138.806729",
+        "reply_users": [
+            "U02PDC4883V",
+            "U030SDYNX7V"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650973107.138509"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650973111.379499"
+            },
+            {
+                "user": "U030SDYNX7V",
+                "ts": "1650973112.928079"
+            },
+            {
+                "user": "U030SDYNX7V",
+                "ts": "1650973138.806729"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1650973138.806729",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U02PDC4883V",
+                    "U02UM0VU8MQ",
+                    "U030MHXUZ38",
+                    "U02USELSBRT",
+                    "U0362R42317"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c8779940-5b2f-415d-ad1a-0ab027c48141",
+        "type": "message",
+        "text": "It's going down fo real",
+        "user": "U0318JZUESX",
+        "ts": "1650973048.681449",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "63c51d4ec23b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-01\/3066368472944_63c51d4ec23bc685fdae_72.png",
+            "first_name": "Siddhartha",
+            "real_name": "Siddhartha Kathpalia",
+            "display_name": "Kattu",
+            "team": "T02PFK13YLC",
+            "name": "siddhartha.kathpalia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WxEY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's going down fo real"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650972731.193289",
+        "parent_user_id": "U02PDC4883V"
+    },
+    {
+        "bot_id": "B030YTVR3C4",
+        "type": "message",
+        "text": "This content can’t be displayed.",
+        "user": "U030WJYN76W",
+        "ts": "1650973095.156649",
+        "app_id": "A012T9P9VQF",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B030YTVR3C4",
+            "app_id": "A012T9P9VQF",
+            "name": "Trivia - Games | Virtual Coffee",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1110341098195_d28d2e6b0627058c05d0_72.png"
+            },
+            "deleted": false,
+            "updated": 1646662985,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "context",
+                "block_id": "DjxNH",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "1. The silkworm moth can no longer be found in the wild.\n\n*Answer:* true\n\n:tada: Nice job! <@U02PDC4883V> <@U02UM0VU8MQ>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "PVF"
+            },
+            {
+                "type": "context",
+                "block_id": "wyRoe",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "2. Most lipstick contains fish oils.\n\n*Answer:* false\n\n*Original fact:* Most lipstick contains fish scales.\n\n:tada: Nice job! <@U030SDYNX7V> <@U02PDC4883V>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "ojI"
+            },
+            {
+                "type": "context",
+                "block_id": "\/TS0",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "3. A sea slug can eat a hydroid without being stung.\n\n*Answer:* true\n\n:tada: Nice job! <@U02PDC4883V> <@U02UM0VU8MQ> <@U030SDYNX7V>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "Wv3"
+            },
+            {
+                "type": "context",
+                "block_id": "+iQ",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "4. Earth is the smallest planet in the solar system in terms of size and not in terms of mass.\n\n*Answer:* false\n\n*Original fact:* Earth is the fifth largest of the planets in the solar system.\n\n:tada: Nice job! <@U030MHXUZ38> <@U030SDYNX7V> <@U02PDC4883V> <@U02UM0VU8MQ>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "kC6f"
+            },
+            {
+                "type": "context",
+                "block_id": "ld0",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "5. There are about 1,200,000 nerve fibers in each human optic nerve.\n\n*Answer:* true\n\n:tada: Nice job! <@U030SDYNX7V> <@U030MHXUZ38> <@U02UM0VU8MQ>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "R5If"
+            },
+            {
+                "type": "context",
+                "block_id": "qBs\/Z",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "6. Some scientists estimate that up to 2 million species became extinct during the 20th century alone are not extinct. \n\n*Answer:* false\n\n*Original fact:* Some scientists estimate that up to two million species became extinct during the 20th century alone.\n\n:tada: Nice job! <@U030SDYNX7V> <@U030MHXUZ38>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "60K3"
+            },
+            {
+                "type": "context",
+                "block_id": "6JC",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "7. Common Cobra venom is 40 times more toxic than cyanide.\n\n*Answer:* true\n\n:tada: Nice job! <@U030SDYNX7V> <@U02PDC4883V> <@U02UM0VU8MQ>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "xs4"
+            },
+            {
+                "type": "context",
+                "block_id": "nIbGu",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "8. One in every four Americans has appeared on television.\n\n*Answer:* true\n\n:tada: Nice job! <@U030SDYNX7V> <@U02PDC4883V>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "57e6"
+            },
+            {
+                "type": "context",
+                "block_id": "\/4w3l",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "9. John Keats invented the word \"assassination\" and \"bump.\"\n\n*Answer:* false\n\n*Original fact:* Shakespeare invented the word \"assassination\" and \"bump.\"\n\n:tada: Nice job! <@U02UM0VU8MQ> <@U02PDC4883V> <@U030SDYNX7V>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "C5P"
+            },
+            {
+                "type": "context",
+                "block_id": "wvM+",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "10. Tongue prints among family members are generally the same.\n\n*Answer:* false\n\n*Original fact:* Each person’s tongue print is unique.\n\n:tada: Nice job! <@U037UUE6TV3> <@U030SDYNX7V> <@U030MHXUZ38>",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "cuK"
+            }
+        ],
+        "thread_ts": "1650972809.180739",
+        "parent_user_id": "U030WJYN76W"
+    },
+    {
+        "client_msg_id": "718dc1e6-18f5-4ed3-9ece-337466e3c811",
+        "type": "message",
+        "text": "9",
+        "user": "U02PDC4883V",
+        "ts": "1650973107.138509",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3sF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650973016.429739",
+        "parent_user_id": "U030SDYNX7V"
+    },
+    {
+        "client_msg_id": "a9eeb579-a1d2-49e9-a072-6fa46dd24b21",
+        "type": "message",
+        "text": ":joy:",
+        "user": "U02PDC4883V",
+        "ts": "1650973111.379499",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4l5d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650973016.429739",
+        "parent_user_id": "U030SDYNX7V"
+    },
+    {
+        "client_msg_id": "d35d11e8-de74-4a6b-878d-b58f54a59817",
+        "type": "message",
+        "text": ":smile:",
+        "user": "U030SDYNX7V",
+        "ts": "1650973112.928079",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "dcaae4952765",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3019783298486_dcaae495276522b44a55_72.png",
+            "first_name": "Niranjan",
+            "real_name": "Niranjan Bala",
+            "display_name": "Niranjan Bala",
+            "team": "T02PFK13YLC",
+            "name": "nb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VnKQD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650973016.429739",
+        "parent_user_id": "U030SDYNX7V"
+    },
+    {
+        "client_msg_id": "6fdb2c39-d2da-4e66-90d6-ca8d9f07c3fe",
+        "type": "message",
+        "text": "now i can claim it was all calculated intelligent guesses :smile:",
+        "user": "U030SDYNX7V",
+        "ts": "1650973138.806729",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "dcaae4952765",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3019783298486_dcaae495276522b44a55_72.png",
+            "first_name": "Niranjan",
+            "real_name": "Niranjan Bala",
+            "display_name": "Niranjan Bala",
+            "team": "T02PFK13YLC",
+            "name": "nb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tjd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "now i can claim it was all calculated intelligent guesses "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650973016.429739",
+        "parent_user_id": "U030SDYNX7V",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U02PDC4883V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "446470e9-2253-4dd9-bd17-867d5e4d45df",
+        "type": "message",
+        "text": "Crazzzzy fun",
+        "user": "U02PDC4883V",
+        "ts": "1650973143.891019",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tCR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Crazzzzy fun"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650972731.193289",
+        "parent_user_id": "U02PDC4883V"
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1651029292.542339",
+        "thread_ts": "1651029292.542339",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1651032202.600709",
+        "reply_users": [
+            "U02TTEFFU6B"
+        ],
+        "replies": [
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1651032202.600709"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "bd1c6127-92d8-40f9-bca7-bd6c56ee6ec1",
+        "type": "message",
+        "text": "Own content goes to <#C0318NH5G3C|shameless-plug> \n\nNo exceptions.",
+        "user": "U02TTEFFU6B",
+        "ts": "1651032202.600709",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RCj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Own content goes to "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0318NH5G3C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nNo exceptions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651029292.542339",
+        "parent_user_id": "USLACKBOT",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U030SDYNX7V"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U031QKGPNRK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02VA7QD8UB"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

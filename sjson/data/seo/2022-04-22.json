@@ -1,0 +1,383 @@
+[
+    {
+        "client_msg_id": "eefe6636-edc4-431a-b990-3f3d965c8e1c",
+        "type": "message",
+        "text": "My website blogs are not indexing on google search. It's showing discovered by google but not yet indexed. Can anyone help me to resolve this issue?",
+        "user": "U038F88AS0N",
+        "ts": "1650689700.804379",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4d61edd236cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-25\/3293951216915_4d61edd236cc03311be9_72.jpg",
+            "first_name": "Akash",
+            "real_name": "Akash Yadav",
+            "display_name": "Aakash",
+            "team": "T02PFK13YLC",
+            "name": "akash290",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ic0Ay",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My website blogs are not indexing on google search. It's showing discovered by google but not yet indexed. Can anyone help me to resolve this issue?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650689700.804379",
+        "reply_count": 21,
+        "reply_users_count": 5,
+        "latest_reply": "1651073059.619879",
+        "reply_users": [
+            "U03A2UNJJDD",
+            "U038F88AS0N",
+            "U02VA7QD8UB",
+            "U0316K76612",
+            "U03C4NNJWGK"
+        ],
+        "replies": [
+            {
+                "user": "U03A2UNJJDD",
+                "ts": "1650689860.878029"
+            },
+            {
+                "user": "U038F88AS0N",
+                "ts": "1650689966.556929"
+            },
+            {
+                "user": "U02VA7QD8UB",
+                "ts": "1650690167.814309"
+            },
+            {
+                "user": "U038F88AS0N",
+                "ts": "1650690376.434719"
+            },
+            {
+                "user": "U02VA7QD8UB",
+                "ts": "1650690406.486429"
+            },
+            {
+                "user": "U0316K76612",
+                "ts": "1650707427.371619"
+            },
+            {
+                "user": "U03C4NNJWGK",
+                "ts": "1650862585.291299"
+            },
+            {
+                "user": "U02VA7QD8UB",
+                "ts": "1650862964.783809"
+            },
+            {
+                "user": "U038F88AS0N",
+                "ts": "1650863054.889329"
+            },
+            {
+                "user": "U02VA7QD8UB",
+                "ts": "1650863084.271319"
+            },
+            {
+                "user": "U02VA7QD8UB",
+                "ts": "1650863118.047459"
+            },
+            {
+                "user": "U038F88AS0N",
+                "ts": "1650863132.761269"
+            },
+            {
+                "user": "U03C4NNJWGK",
+                "ts": "1650865392.746769"
+            },
+            {
+                "user": "U038F88AS0N",
+                "ts": "1650945261.476859"
+            },
+            {
+                "user": "U03C4NNJWGK",
+                "ts": "1650948335.267919"
+            },
+            {
+                "user": "U03C4NNJWGK",
+                "ts": "1650972965.235909"
+            },
+            {
+                "user": "U0316K76612",
+                "ts": "1650977549.814459"
+            },
+            {
+                "user": "U038F88AS0N",
+                "ts": "1650997257.695439"
+            },
+            {
+                "user": "U03C4NNJWGK",
+                "ts": "1651064373.440349"
+            },
+            {
+                "user": "U0316K76612",
+                "ts": "1651064980.465879"
+            },
+            {
+                "user": "U038F88AS0N",
+                "ts": "1651073059.619879"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "aea86c80-b32e-4561-8981-acf75113f183",
+        "type": "message",
+        "text": "I guess you've exhausted your monthly crawl budget. This happens when you submit your sitemap too many times in a given span of time. You can either use the ping function on google for high priority blogs, or wait for the refresh cycle and these will get indexed automatically.",
+        "user": "U03A2UNJJDD",
+        "ts": "1650689860.878029",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "91a4f79ca4fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3342983706615_91a4f79ca4fe220decc9_72.jpg",
+            "first_name": "Chirag",
+            "real_name": "Chirag Parmar",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "chiragparmar.marketin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RKh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I guess you've exhausted your monthly crawl budget. This happens when you submit your sitemap too many times in a given span of time. You can either use the ping function on google for high priority blogs, or wait for the refresh cycle and these will get indexed automatically."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650689700.804379",
+        "parent_user_id": "U038F88AS0N"
+    },
+    {
+        "client_msg_id": "98b9e9f2-6466-4536-9334-a9df0e15684c",
+        "type": "message",
+        "text": "uhm okay",
+        "user": "U038F88AS0N",
+        "ts": "1650689966.556929",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4d61edd236cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-25\/3293951216915_4d61edd236cc03311be9_72.jpg",
+            "first_name": "Akash",
+            "real_name": "Akash Yadav",
+            "display_name": "Aakash",
+            "team": "T02PFK13YLC",
+            "name": "akash290",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vqPOt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "uhm okay"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650689700.804379",
+        "parent_user_id": "U038F88AS0N"
+    },
+    {
+        "client_msg_id": "10522fd2-2bc7-435e-b840-c657593bf312",
+        "type": "message",
+        "text": "Faced this at my last company and the shortest way to get them indexed is to use this tool: <http:\/\/indexmenow.com|indexmenow.com>\n\nIt works like a charm!\n\nYou can also check my question and the answers that follow: <https:\/\/support.google.com\/webmasters\/thread\/141350805\/all-new-posts-pages-going-to-discovered-currently-not-indexed-for-the-past-40-days?hl=en|https:\/\/support.google.com\/webmasters\/thread\/141350805\/all-new-posts-pages-going-to-discovered-currently-not-indexed-for-the-past-40-days?hl=en>\n\nAnd I'm telling you this, nothing worked except the above tool. Oh, and it won't get indexed automatically even after multiple submissions. We had pages that weren't indexed for a year or so.",
+        "user": "U02VA7QD8UB",
+        "ts": "1650690167.814309",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "84e512c8a3fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2999004078388_84e512c8a3feeb8de835_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "T02PFK13YLC",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02VA7QD8UB",
+            "ts": "1650690229.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eYQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Faced this at my last company and the shortest way to get them indexed is to use this tool: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/indexmenow.com",
+                                "text": "indexmenow.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nIt works like a charm!\n\nYou can also check my question and the answers that follow: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/support.google.com\/webmasters\/thread\/141350805\/all-new-posts-pages-going-to-discovered-currently-not-indexed-for-the-past-40-days?hl=en",
+                                "text": "https:\/\/support.google.com\/webmasters\/thread\/141350805\/all-new-posts-pages-going-to-discovered-currently-not-indexed-for-the-past-40-days?hl=en"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAnd I'm telling you this, nothing worked except the above tool. Oh, and it won't get indexed automatically even after multiple submissions. We had pages that weren't indexed for a year or so."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650689700.804379",
+        "parent_user_id": "U038F88AS0N",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02PDC4883V",
+                    "U038F88AS0N"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2f63f2c6-62a2-4cfc-a82d-9e6a0922d2e4",
+        "type": "message",
+        "text": "Thanks <@U02VA7QD8UB>, I will try this tool and let you know if it works or not. :slightly_smiling_face:",
+        "user": "U038F88AS0N",
+        "ts": "1650690376.434719",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4d61edd236cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-25\/3293951216915_4d61edd236cc03311be9_72.jpg",
+            "first_name": "Akash",
+            "real_name": "Akash Yadav",
+            "display_name": "Aakash",
+            "team": "T02PFK13YLC",
+            "name": "akash290",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dSdR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02VA7QD8UB"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I will try this tool and let you know if it works or not. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650689700.804379",
+        "parent_user_id": "U038F88AS0N"
+    },
+    {
+        "client_msg_id": "2bd66523-e81e-474e-86c8-142f71724adb",
+        "type": "message",
+        "text": "You're welcome! 99% of our pages got indexed. So, it should work.",
+        "user": "U02VA7QD8UB",
+        "ts": "1650690406.486429",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "84e512c8a3fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2999004078388_84e512c8a3feeb8de835_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "T02PFK13YLC",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SMT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You're welcome! 99% of our pages got indexed. So, it should work."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650689700.804379",
+        "parent_user_id": "U038F88AS0N"
+    }
+]

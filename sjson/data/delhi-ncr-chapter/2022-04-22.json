@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "54896ca3-2a67-4e5d-8b08-ae2c65e2cde6",
+        "type": "message",
+        "text": "Any meetup this weekend?",
+        "user": "U02U9C2UTRC",
+        "ts": "1650632578.684149",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bb0b302b31d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2968124554819_bb0b302b31d0bbbe0d0a_72.png",
+            "first_name": "Anurag",
+            "real_name": "Anurag Shukla",
+            "display_name": "Anurag Shukla",
+            "team": "T02PFK13YLC",
+            "name": "anurag.shukla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X32",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any meetup this weekend?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,185 @@
+[
+    {
+        "client_msg_id": "F9675B5A-0306-4BE9-A8C6-3358D787BAC9",
+        "type": "message",
+        "text": "Count me in ",
+        "user": "U031NC9B67L",
+        "ts": "1649488756.472699",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c161f35b6650",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-04\/3041804299015_c161f35b665084316187_72.jpg",
+            "first_name": "Shiyam",
+            "real_name": "Shiyam",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "shiyamsunderj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bcrn5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Count me in "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648473448.573329",
+        "parent_user_id": "U02V92UN0Q2",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U02V92UN0Q2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "875E8640-01B2-4904-8DD3-3234F61EE40E",
+        "type": "message",
+        "text": ":eyes:",
+        "user": "U031NC9B67L",
+        "ts": "1649489858.634049",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c161f35b6650",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-04\/3041804299015_c161f35b665084316187_72.jpg",
+            "first_name": "Shiyam",
+            "real_name": "Shiyam",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "shiyamsunderj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wRlo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "eyes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649261846.455249",
+        "parent_user_id": "U0310DW1Q3T"
+    },
+    {
+        "client_msg_id": "6e4d940a-c7e0-4d8c-b347-0fe07cb577e5",
+        "type": "message",
+        "text": "Thanks guys, for everyone who joined in! I know it was helpful for me and also great to connect with you all :slightly_smiling_face:\nOne learning I took was probably shorter introductions and better structure - so yeah!",
+        "user": "U02UM0SR45Q",
+        "ts": "1649492679.910389",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "0f2f96906c7d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-19\/2975819132676_0f2f96906c7d26ea591f_72.png",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Mathur",
+            "display_name": "Nikhil Mathur",
+            "team": "T02PFK13YLC",
+            "name": "nik.mathur95",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ah5M8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks guys, for everyone who joined in! I know it was helpful for me and also great to connect with you all "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nOne learning I took was probably shorter introductions and better structure - so yeah!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649316014.117849",
+        "parent_user_id": "U02UM0SR45Q"
+    },
+    {
+        "client_msg_id": "24FCD3E4-8A4F-4796-82DC-BDA7657E218A",
+        "type": "message",
+        "text": "Had a very interesting linkedin live session with Bololive founder today. Some stats he shared were mindboggling. Will share the link in shamelessplug channel if you would like to listen.\n\nI am curious if any of you are working on rural india as TA (fintech folks maybe) and have you seen any such platforms? Interesting developments happening in this space! ",
+        "user": "U03AJ8BHKNC",
+        "ts": "1649494524.107239",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "2133b8282666",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-06\/3353492600340_2133b828266683f99ee6_72.png",
+            "first_name": "Doulos",
+            "real_name": "Doulos Jose",
+            "display_name": "dj",
+            "team": "T02PFK13YLC",
+            "name": "mail",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CUO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Had a very interesting linkedin live session with Bololive founder today. Some stats he shared were mindboggling. Will share the link in shamelessplug channel if you would like to listen.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "I am curious if any of you are working on rural india as TA (fintech folks maybe) and have you seen any such platforms? Interesting developments happening in this space! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

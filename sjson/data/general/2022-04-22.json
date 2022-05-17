@@ -1,0 +1,1899 @@
+[
+    {
+        "client_msg_id": "81e23d3d-02fb-4304-8b98-43fbd80cdd1e",
+        "type": "message",
+        "text": "Please DM details.",
+        "user": "U030L4PHVN2",
+        "ts": "1650611456.718619",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "d167b32b77b6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-29\/3012208037127_d167b32b77b6bd735b7a_72.png",
+            "first_name": "Anand",
+            "real_name": "Anand Vatsya",
+            "display_name": "Anand",
+            "team": "T02PFK13YLC",
+            "name": "anandvatsya1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6GZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please DM details."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650610203.443289",
+        "parent_user_id": "U030L4PHVN2"
+    },
+    {
+        "client_msg_id": "c54c8972-6482-4de3-bdaf-a09f8afbe5ff",
+        "type": "message",
+        "text": "Hi, I'd like to track what my team members are doing in a daily basis. Equivalent of a consulting time sheet. So that I can distribute tasks easily and keep a track of available bandwidth. Any ideas how to execute that?",
+        "user": "U039U8K0HKK",
+        "ts": "1650612250.746899",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g9710b85867f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9710b85867f0acd942e1877c0940c2bd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Parth",
+            "real_name": "Parth Soodan",
+            "display_name": "Parth",
+            "team": "T02PFK13YLC",
+            "name": "parth.soodan27",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pgFi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, I'd like to track what my team members are doing in a daily basis. Equivalent of a consulting time sheet. So that I can distribute tasks easily and keep a track of available bandwidth. Any ideas how to execute that?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650612250.746899",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1650948701.725879",
+        "reply_users": [
+            "U030SHA1S2W",
+            "U034DCQFTA4",
+            "U0316K76612",
+            "U03BUHY2UQ3"
+        ],
+        "replies": [
+            {
+                "user": "U030SHA1S2W",
+                "ts": "1650612375.268819"
+            },
+            {
+                "user": "U034DCQFTA4",
+                "ts": "1650613427.084109"
+            },
+            {
+                "user": "U0316K76612",
+                "ts": "1650706649.701529"
+            },
+            {
+                "user": "U0316K76612",
+                "ts": "1650706657.199859"
+            },
+            {
+                "user": "U03BUHY2UQ3",
+                "ts": "1650948701.725879"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f1697c24-ad92-4b71-b537-d0dffb827747",
+        "type": "message",
+        "text": "Use a project management tool - asana, trello, etc. Create a kanban board based on function\/team\/individual. Assign role based access.",
+        "user": "U030SHA1S2W",
+        "ts": "1650612375.268819",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4854b34cf53b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-22\/3163652013408_4854b34cf53b0654333b_72.jpg",
+            "first_name": "Savijeet",
+            "real_name": "Savijeet Singh",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "savijeet-singh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Gg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Use a project management tool - asana, trello, etc. Create a kanban board based on function\/team\/individual. Assign role based access."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650612250.746899",
+        "parent_user_id": "U039U8K0HKK"
+    },
+    {
+        "client_msg_id": "ad198218-e033-4532-ab8b-8cf197b9f2b2",
+        "type": "message",
+        "text": "Trello",
+        "user": "U034DCQFTA4",
+        "ts": "1650613427.084109",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8b7ae35cab96",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-18\/3138295692257_8b7ae35cab965a4b3840_72.png",
+            "first_name": "Sanchita",
+            "real_name": "Sanchita Chakraborti",
+            "display_name": "Sanchita Chakraborti",
+            "team": "T02PFK13YLC",
+            "name": "sanchitachakraborti18",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RA0K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Trello"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650612250.746899",
+        "parent_user_id": "U039U8K0HKK"
+    },
+    {
+        "client_msg_id": "8f48bb02-c563-4a65-9619-5a99946c2ece",
+        "type": "message",
+        "text": "Hey <@U02UUCE1ASD>! Toit at 5.00 pm?",
+        "user": "U030KTTNCRL",
+        "ts": "1650615819.452409",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g8ac521eac25",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8ac521eac257fa723be50bf6ef7f79f0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Vikrant",
+            "real_name": "Vikrant R Rao",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "raovikrant9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V2w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02UUCE1ASD"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Toit at 5.00 pm?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650608627.544189",
+        "parent_user_id": "U02UUCE1ASD"
+    },
+    {
+        "client_msg_id": "b9e7c500-d26e-4345-a5c7-99abfd5180e5",
+        "type": "message",
+        "text": "Hey guys - <https:\/\/www.linkedin.com\/in\/piyush-jn\/|Piyush this side>. I am building Loop - subscription platform for DTC brands. Launched in Sep last year and just crossed $100K ARR and <https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:6923167790191259648\/?commentUrn=urn%3Ali%3Acomment%3A(activity%3A6923167790191259648%2C6923175837328437248)|came out of beta>. Before Loop, I was building LimeTray as Product co-founder.\n\nAt Loop, I am focussing on growth so I am literally learning about marketing on-the-go. Looking to connect with some awesome people who have done ZERO to $1M for US focussed SaaS business and beyond! Already speaking with<@U02PDC4883V> next week but would love to speak with more people so I don't do standard mistakes. Please DM and we will fix-up sometime.\n\nWe are just 6 people right now (all product) and I am looking to expand our team by adding 1 person on content side + marketing side - each. Some people have told me to outsource both content \/ marketing to optimize for speed but I am not keen on this at such an early stage - what do you guys think?\n\nThanks in advance guys! Always up for meet-up in Gurgaon if this is happening, happy to offer my office for 15-20 people gathering to discuss SaaS marketing :slightly_smiling_face:",
+        "user": "U0322F1V64C",
+        "ts": "1650615869.222849",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8650dff097cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-22\/3422906858949_8650dff097cc66532680_72.jpg",
+            "first_name": "Piyush",
+            "real_name": "Piyush Jain",
+            "display_name": "Piyush Jain",
+            "team": "T02PFK13YLC",
+            "name": "piyush716",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:6923167790191259648\/?commentUrn=urn%3Ali%3Acomment%3A(activity%3A6923167790191259648%2C6923175837328437248)",
+                "image_url": "https:\/\/static-exp1.licdn.com\/sc\/h\/c45fy346jw096z9pbphyyhdz7",
+                "image_width": 438,
+                "image_height": 250,
+                "image_bytes": 34857,
+                "service_icon": "https:\/\/static-exp1.licdn.com\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:6923167790191259648\/?commentUrn=urn%3Ali%3Acomment%3A(activity%3A6923167790191259648%2C6923175837328437248)",
+                "fallback": "Piyush Jain on LinkedIn: #saas #saasmarketing #gtm",
+                "text": "At Loop Subscriptions, we are now officially out of beta! We are now working with brands who are doing &gt; $50M GMV. We are now powering subscriptions of...",
+                "title": "Piyush Jain on LinkedIn: #saas #saasmarketing #gtm",
+                "title_link": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:6923167790191259648\/?commentUrn=urn%3Ali%3Acomment%3A(activity%3A6923167790191259648%2C6923175837328437248)",
+                "service_name": "linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Eo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey guys - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/piyush-jn\/",
+                                "text": "Piyush this side"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I am building Loop - subscription platform for DTC brands. Launched in Sep last year and just crossed $100K ARR and "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:6923167790191259648\/?commentUrn=urn%3Ali%3Acomment%3A(activity%3A6923167790191259648%2C6923175837328437248)",
+                                "text": "came out of beta"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Before Loop, I was building LimeTray as Product co-founder.\n\nAt Loop, I am focussing on growth so I am literally learning about marketing on-the-go. Looking to connect with some awesome people who have done ZERO to $1M for US focussed SaaS business and beyond! Already speaking with"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02PDC4883V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " next week but would love to speak with more people so I don't do standard mistakes. Please DM and we will fix-up sometime.\n\nWe are just 6 people right now (all product) and I am looking to expand our team by adding 1 person on content side + marketing side - each. Some people have told me to outsource both content \/ marketing to optimize for speed but I am not keen on this at such an early stage - what do you guys think?\n\nThanks in advance guys! Always up for meet-up in Gurgaon if this is happening, happy to offer my office for 15-20 people gathering to discuss SaaS marketing "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650615869.222849",
+        "reply_count": 11,
+        "reply_users_count": 5,
+        "latest_reply": "1651118367.573719",
+        "reply_users": [
+            "U030SDYNX7V",
+            "U032MN1BESJ",
+            "U0322F1V64C",
+            "U032WTRNRCK",
+            "U02UG3G5X8B"
+        ],
+        "replies": [
+            {
+                "user": "U030SDYNX7V",
+                "ts": "1650616904.013449"
+            },
+            {
+                "user": "U032MN1BESJ",
+                "ts": "1650635869.570749"
+            },
+            {
+                "user": "U0322F1V64C",
+                "ts": "1650639057.664839"
+            },
+            {
+                "user": "U032MN1BESJ",
+                "ts": "1650642412.324979"
+            },
+            {
+                "user": "U032WTRNRCK",
+                "ts": "1650802115.397129"
+            },
+            {
+                "user": "U0322F1V64C",
+                "ts": "1650806370.137029"
+            },
+            {
+                "user": "U0322F1V64C",
+                "ts": "1650806381.990459"
+            },
+            {
+                "user": "U032WTRNRCK",
+                "ts": "1650806920.819249"
+            },
+            {
+                "user": "U0322F1V64C",
+                "ts": "1650877750.687229"
+            },
+            {
+                "user": "U032WTRNRCK",
+                "ts": "1650877837.715709"
+            },
+            {
+                "user": "U02UG3G5X8B",
+                "ts": "1651118367.573719"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1651118367.573719",
+        "reactions": [
+            {
+                "name": "wave::skin-tone-5",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            },
+            {
+                "name": "wave",
+                "users": [
+                    "U030ZR9D0FK",
+                    "U030KTTNCRL",
+                    "U030SHA1S2W",
+                    "U030SDYNX7V",
+                    "U02V9QUDK1Q",
+                    "U02PDC4883V",
+                    "U0361UQSKGQ",
+                    "U03A397SJCF"
+                ],
+                "count": 8
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02V9QUDK1Q",
+                    "U02PDC4883V",
+                    "U0323V4CLRY"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A48845B7-C868-488E-B3CE-BC07B65E0476",
+        "type": "message",
+        "text": "Sure. Currently in Third Wave, but can do Toit at 5 :grimacing:",
+        "user": "U02UUCE1ASD",
+        "ts": "1650615982.796019",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8fc0ff2b8ed7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-22\/3425444312242_8fc0ff2b8ed7f97f960d_72.jpg",
+            "first_name": "Sunil",
+            "real_name": "Sunil Neurgaonkar",
+            "display_name": "Sunil",
+            "team": "T02PFK13YLC",
+            "name": "sunilneurgaonkar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0eJO\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure. Currently in Third Wave, but can do Toit at 5 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grimacing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650608627.544189",
+        "parent_user_id": "U02UUCE1ASD"
+    },
+    {
+        "client_msg_id": "b4389dc2-d2ed-436b-8ed0-014320cc3293",
+        "type": "message",
+        "text": "At office now. Would've come earlier otherwise :slightly_smiling_face: Awesome! See you at 5!",
+        "user": "U030KTTNCRL",
+        "ts": "1650616333.565179",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g8ac521eac25",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8ac521eac257fa723be50bf6ef7f79f0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Vikrant",
+            "real_name": "Vikrant R Rao",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "raovikrant9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oSwFn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "At office now. Would've come earlier otherwise "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Awesome! See you at 5!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650608627.544189",
+        "parent_user_id": "U02UUCE1ASD"
+    },
+    {
+        "client_msg_id": "F1DC5C51-7A5F-47E0-BAF5-0F730565D31F",
+        "type": "message",
+        "text": "Perfect. ",
+        "user": "U02UUCE1ASD",
+        "ts": "1650616360.628179",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8fc0ff2b8ed7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-22\/3425444312242_8fc0ff2b8ed7f97f960d_72.jpg",
+            "first_name": "Sunil",
+            "real_name": "Sunil Neurgaonkar",
+            "display_name": "Sunil",
+            "team": "T02PFK13YLC",
+            "name": "sunilneurgaonkar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pUH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Perfect. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650608627.544189",
+        "parent_user_id": "U02UUCE1ASD"
+    },
+    {
+        "client_msg_id": "7d6fd06b-c19c-4c09-984d-18ccf0026d7d",
+        "type": "message",
+        "text": "IMO hiring in house &gt; agency - even more when the hires of esops (early stage - skin in the game )",
+        "user": "U030SDYNX7V",
+        "ts": "1650616904.013449",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "dcaae4952765",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3019783298486_dcaae495276522b44a55_72.png",
+            "first_name": "Niranjan",
+            "real_name": "Niranjan Bala",
+            "display_name": "Niranjan Bala",
+            "team": "T02PFK13YLC",
+            "name": "nb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N=q8s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "IMO hiring in house > agency - even more when the hires of esops (early stage - skin in the game )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650615869.222849",
+        "parent_user_id": "U0322F1V64C",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0322F1V64C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "af991203-49bf-4bb9-8abe-e1018a984386",
+        "type": "message",
+        "text": "What are some mid-career tips you’d offer to someone with 8-10 years of experience in their field?",
+        "user": "U02VDMMC2Q5",
+        "ts": "1650626536.463519",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f38cbf9c0b8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-22\/3423618332293_7f38cbf9c0b8f63b122f_72.jpg",
+            "first_name": "Mo",
+            "real_name": "Mo",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "mib.shehu.subs",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2U2W1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What are some mid-career tips you’d offer to someone with 8-10 years of experience in their field?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U030LK66KFA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "452c67aa-f049-4d17-9b46-d2ecfc497136",
+        "type": "message",
+        "text": "Hello folks\nI am trying to get started with cold calling. Need tips on where to fetch phone nos, resources etc. Please help for good Karma:pray:.",
+        "user": "U031G83CGCQ",
+        "ts": "1650634586.487589",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8c61e5e78079",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-08\/3057153889863_8c61e5e78079a3df1463_72.jpg",
+            "first_name": "Priyanka",
+            "real_name": "Priyanka Factors.AI",
+            "display_name": "Priyanka",
+            "team": "T02PFK13YLC",
+            "name": "priyanka",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Lxf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello folks\nI am trying to get started with cold calling. Need tips on where to fetch phone nos, resources etc. Please help for good Karma"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650634586.487589",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1650695331.092509",
+        "reply_users": [
+            "U02UGB8DERY",
+            "U031G83CGCQ",
+            "U03560PQ082",
+            "U030T0P2R1B"
+        ],
+        "replies": [
+            {
+                "user": "U02UGB8DERY",
+                "ts": "1650634640.218089"
+            },
+            {
+                "user": "U031G83CGCQ",
+                "ts": "1650635309.606109"
+            },
+            {
+                "user": "U03560PQ082",
+                "ts": "1650635931.585629"
+            },
+            {
+                "user": "U030T0P2R1B",
+                "ts": "1650652830.538909"
+            },
+            {
+                "user": "U031G83CGCQ",
+                "ts": "1650695331.092509"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b14b53ac-831f-4017-bdd6-c436ce6d8278",
+        "type": "message",
+        "text": "Oh boy tons of stuff. Let me get home will do a drop spam",
+        "user": "U02UGB8DERY",
+        "ts": "1650634640.218089",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4cda10dd85c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2962250036230_4cda10dd85c264b66a43_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Rajvanshi",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rahulrajvanshi2501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gYm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh boy tons of stuff. Let me get home will do a drop spam"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650634586.487589",
+        "parent_user_id": "U031G83CGCQ"
+    },
+    {
+        "client_msg_id": "cc900ddd-f28b-4aa8-b2f5-40b387d39277",
+        "type": "message",
+        "text": "Hehe. Thanks Rahul.",
+        "user": "U031G83CGCQ",
+        "ts": "1650635309.606109",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8c61e5e78079",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-08\/3057153889863_8c61e5e78079a3df1463_72.jpg",
+            "first_name": "Priyanka",
+            "real_name": "Priyanka Factors.AI",
+            "display_name": "Priyanka",
+            "team": "T02PFK13YLC",
+            "name": "priyanka",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xO4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hehe. Thanks Rahul."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650634586.487589",
+        "parent_user_id": "U031G83CGCQ"
+    },
+    {
+        "client_msg_id": "44ebc7a7-668f-431d-82a9-e0a5a2739165",
+        "type": "message",
+        "text": "Build a growth model - however simple it is.\n\nIt's the biggest Q I get (\"How will I hit x ARR in y months\".)\n\nYour model will tell you the biggest areas you need to focus on\/experiment with\/focus everyone on to be able to hit your goals.",
+        "user": "U032MN1BESJ",
+        "ts": "1650635869.570749",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g8a12888a77b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a12888a77b019e4e11e0df9171feb29.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Anuj",
+            "real_name": "Anuj Adhiya",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "adhiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5eClk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Build a growth model - however simple it is.\n\nIt's the biggest Q I get (\"How will I hit x ARR in y months\".)\n\nYour model will tell you the biggest areas you need to focus on\/experiment with\/focus everyone on to be able to hit your goals."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650615869.222849",
+        "parent_user_id": "U0322F1V64C"
+    },
+    {
+        "client_msg_id": "c214a377-0db7-4e54-b757-00561b20a017",
+        "type": "message",
+        "text": "<#C0318NH5G3C|shameless-plug> <https:\/\/library.outplayhq.com\/>\n\nThis is a cold call library we launched today. Hope this helps.",
+        "user": "U03560PQ082",
+        "ts": "1650635931.585629",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1db32098d186",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-01\/3176023965474_1db32098d186ac873a3d_72.png",
+            "first_name": "Ahaan",
+            "real_name": "Ahaan Pandit",
+            "display_name": "Ahaan Pandit",
+            "team": "T02PFK13YLC",
+            "name": "ahaan.pandit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/library.outplayhq.com\/",
+                "id": 1,
+                "original_url": "https:\/\/library.outplayhq.com\/",
+                "fallback": "Call of Fame - Spotify for Cold Calls",
+                "text": "Welcome to the Call of Fame - where you can listen to recordings of real-life cold calls made by the best SDRs from A-players of the SaaS world - Chilipiper, LeadIQ, etc.",
+                "title": "Call of Fame - Spotify for Cold Calls",
+                "title_link": "https:\/\/library.outplayhq.com\/",
+                "service_name": "library.outplayhq.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DW0D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "channel",
+                                "channel_id": "C0318NH5G3C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/library.outplayhq.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThis is a cold call library we launched today. Hope this helps."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650634586.487589",
+        "parent_user_id": "U031G83CGCQ"
+    },
+    {
+        "client_msg_id": "0f3cb207-c685-4157-8c53-b36373a05528",
+        "type": "message",
+        "text": "Hey <@U032MN1BESJ> - I am sorry - I don't understand what you mean by building a growth model. Can you elaborate please?",
+        "user": "U0322F1V64C",
+        "ts": "1650639057.664839",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8650dff097cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-22\/3422906858949_8650dff097cc66532680_72.jpg",
+            "first_name": "Piyush",
+            "real_name": "Piyush Jain",
+            "display_name": "Piyush Jain",
+            "team": "T02PFK13YLC",
+            "name": "piyush716",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EPbr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U032MN1BESJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I am sorry - I don't understand what you mean by building a growth model. Can you elaborate please?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650615869.222849",
+        "parent_user_id": "U0322F1V64C"
+    },
+    {
+        "client_msg_id": "E3048CB0-4C95-40F5-B6D0-42461EAF57A0",
+        "type": "message",
+        "text": "Hey all! I’ll be in bangalore this weekend. If anyone has already planned a meetup on sat or sunday, do let me know. :raised_hands::skin-tone-4::grin: let’s catch up!",
+        "user": "U02V5Q7DUPJ",
+        "ts": "1650641689.408379",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "f5771ec4bf33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2995362345603_f5771ec4bf33479993fa_72.png",
+            "first_name": "Vijay",
+            "real_name": "Vijay Raghav",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "vraghavan009",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N9iF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey all! I’ll be in bangalore this weekend. If anyone has already planned a meetup on sat or sunday, do let me know. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "skin_tone": 4
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            },
+                            {
+                                "type": "text",
+                                "text": " let’s catch up!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "34677bd0-cadc-40c3-beb4-caf596c6640d",
+        "type": "message",
+        "text": "<@U0322F1V64C> A growth model is a mathematical representation of how your business grows and sustains its customer base. \n\nIt will depict the inflow of new customers and their journey through your product so you can then predict what you need to do more of (or make more of happen) to hit your revenue goals.",
+        "user": "U032MN1BESJ",
+        "ts": "1650642412.324979",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g8a12888a77b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a12888a77b019e4e11e0df9171feb29.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Anuj",
+            "real_name": "Anuj Adhiya",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "adhiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5IOD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0322F1V64C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " A growth model is a mathematical representation of how your business grows and sustains its customer base. \n\nIt will depict the inflow of new customers and their journey through your product so you can then predict what you need to do more of (or make more of happen) to hit your revenue goals."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650615869.222849",
+        "parent_user_id": "U0322F1V64C",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0322F1V64C",
+                    "U0323V4CLRY"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "099bafa5-069d-4c44-9fbc-6b72687ec214",
+        "type": "message",
+        "text": "For lead gen, are Linkedin Sponsored inmails more effective than the Sponsored content ads? We will be reaching out to CXOs. Which one would you suggest?",
+        "user": "U031P56UZGR",
+        "ts": "1650649019.894359",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "86a5c49735dc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-02\/3044573443283_86a5c49735dc63fc09f0_72.jpg",
+            "first_name": "Jayant",
+            "real_name": "Jayant Kaul",
+            "display_name": "Jayant Kaul",
+            "team": "T02PFK13YLC",
+            "name": "jayant.kaul",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U031P56UZGR",
+            "ts": "1650649086.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X0oxD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For lead gen, are Linkedin Sponsored inmails more effective than the Sponsored content ads? We will be reaching out to CXOs. Which one would you suggest?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650649019.894359",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650652041.291419",
+        "reply_users": [
+            "U02USELSBRT"
+        ],
+        "replies": [
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650652041.291419"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7381a5ab-5d07-4a13-8196-1bcb5080dde9",
+        "type": "message",
+        "text": "both ideally.\n\nwarm them up with sponsored ads 2 weeks prior. then hit them with personalized reachouts through sponsored inmails.",
+        "user": "U02USELSBRT",
+        "ts": "1650652041.291419",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U1Rgq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "both ideally.\n\nwarm them up with sponsored ads 2 weeks prior. then hit them with personalized reachouts through sponsored inmails."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650649019.894359",
+        "parent_user_id": "U031P56UZGR",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U02V22EUXM4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U031P56UZGR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "73ad27ce-63c2-4823-b7cc-c122ef2d1839",
+        "type": "message",
+        "text": "<http:\/\/hunter.io|hunter.io> \/ <http:\/\/adapt.io|adapt.io> for contacts",
+        "user": "U030T0P2R1B",
+        "ts": "1650652830.538909",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bbe27087c42c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3023268057190_bbe27087c42cc0e96234_72.jpg",
+            "first_name": "Ashwin",
+            "real_name": "Ashwin Krishna",
+            "display_name": "Ashwin Krishna",
+            "team": "T02PFK13YLC",
+            "name": "ashwin.arya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Cez",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/hunter.io",
+                                "text": "hunter.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \/ "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/adapt.io",
+                                "text": "adapt.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for contacts"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650634586.487589",
+        "parent_user_id": "U031G83CGCQ"
+    },
+    {
+        "client_msg_id": "f50879e9-699f-4072-b2ce-7ef49f7b3f2e",
+        "type": "message",
+        "text": "Looking for a better alternative to Limechat. Any suggestions for WhatsApp based chatbots for customer service? Much appreciated :pray::grin:",
+        "user": "U0362R42317",
+        "ts": "1650686960.407959",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b29d31fcb2d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-04\/3194263235186_b29d31fcb2d64526ad21_72.jpg",
+            "first_name": "Mehul",
+            "real_name": "Mehul Kanodia",
+            "display_name": "Mehul",
+            "team": "T02PFK13YLC",
+            "name": "kanodiamehul17",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dxXZz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looking for a better alternative to Limechat. Any suggestions for WhatsApp based chatbots for customer service? Much appreciated "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650686960.407959",
+        "reply_count": 11,
+        "reply_users_count": 5,
+        "latest_reply": "1650698546.817859",
+        "reply_users": [
+            "U031BVBGHCK",
+            "U0362R42317",
+            "U02VA7QD8UB",
+            "U02TTEFFU6B",
+            "U02UZ4T10PQ"
+        ],
+        "replies": [
+            {
+                "user": "U031BVBGHCK",
+                "ts": "1650687202.424159"
+            },
+            {
+                "user": "U0362R42317",
+                "ts": "1650687754.463649"
+            },
+            {
+                "user": "U02VA7QD8UB",
+                "ts": "1650688195.468499"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1650691379.529509"
+            },
+            {
+                "user": "U0362R42317",
+                "ts": "1650693385.373099"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1650694208.793639"
+            },
+            {
+                "user": "U02UZ4T10PQ",
+                "ts": "1650696931.391629"
+            },
+            {
+                "user": "U0362R42317",
+                "ts": "1650698268.408339"
+            },
+            {
+                "user": "U02UZ4T10PQ",
+                "ts": "1650698375.050249"
+            },
+            {
+                "user": "U0362R42317",
+                "ts": "1650698398.983679"
+            },
+            {
+                "user": "U02UZ4T10PQ",
+                "ts": "1650698546.817859"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "52c3a204-9b71-4914-9e9b-11dc5564fa06",
+        "type": "message",
+        "text": "<https:\/\/kevit.io\/>\nThey are pretty good when it comes to (whatsapp) chatbot. Happy to connect you with team!",
+        "user": "U031BVBGHCK",
+        "ts": "1650687202.424159",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5dee7ce106e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-02\/3031358466535_5dee7ce106e9da50a485_72.jpg",
+            "first_name": "chintan",
+            "real_name": "chintan bavishi",
+            "display_name": "chintan bavishi",
+            "team": "T02PFK13YLC",
+            "name": "chintanbavishi596",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2TAb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/kevit.io\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nThey are pretty good when it comes to (whatsapp) chatbot. Happy to connect you with team!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650686960.407959",
+        "parent_user_id": "U0362R42317"
+    },
+    {
+        "client_msg_id": "60a6e09b-82ec-49f9-b42e-18f66a0bd6f2",
+        "type": "message",
+        "text": "Oh thanks for sharing Chintan, I'll share it with the team and hit you up for that connect if required! :grin:",
+        "user": "U0362R42317",
+        "ts": "1650687754.463649",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b29d31fcb2d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-04\/3194263235186_b29d31fcb2d64526ad21_72.jpg",
+            "first_name": "Mehul",
+            "real_name": "Mehul Kanodia",
+            "display_name": "Mehul",
+            "team": "T02PFK13YLC",
+            "name": "kanodiamehul17",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F\/U78",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh thanks for sharing Chintan, I'll share it with the team and hit you up for that connect if required! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650686960.407959",
+        "parent_user_id": "U0362R42317",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U031BVBGHCK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "14830e7a-e5de-4272-b727-4c59b29f52c4",
+        "type": "message",
+        "text": "If it's for a Shopify store, then try <https:\/\/www.bitespeed.co\/|https:\/\/www.bitespeed.co\/> &gt;&gt; They're decent and Surge company.",
+        "user": "U02VA7QD8UB",
+        "ts": "1650688195.468499",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "84e512c8a3fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2999004078388_84e512c8a3feeb8de835_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "T02PFK13YLC",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.bitespeed.co\/",
+                "id": 1,
+                "original_url": "https:\/\/www.bitespeed.co\/",
+                "fallback": "BiteSpeed: WhatsApp &amp; FB Messenger marketing for Shopify Stores",
+                "text": "Drive 10% of your Shopify store's revenue from WhatsApp &amp; FB Messenger. Recover abandoned carts, send promotional &amp; shipping messages. Trusted by 1500+ brands!",
+                "title": "BiteSpeed: WhatsApp &amp; FB Messenger marketing for Shopify Stores",
+                "title_link": "https:\/\/www.bitespeed.co\/",
+                "service_name": "bitespeed.co"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1wH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If it's for a Shopify store, then try "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.bitespeed.co\/",
+                                "text": "https:\/\/www.bitespeed.co\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " >> They're decent and Surge company."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650686960.407959",
+        "parent_user_id": "U0362R42317",
+        "reactions": [
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U0362R42317"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d866c093-712e-4577-b8d7-fda1a3bd9159",
+        "type": "message",
+        "text": "Curious, what's the issue with Limechat?",
+        "user": "U02TTEFFU6B",
+        "ts": "1650691379.529509",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ckU3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Curious, what's the issue with Limechat?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650686960.407959",
+        "parent_user_id": "U0362R42317"
+    },
+    {
+        "client_msg_id": "b565f4da-3ad2-4530-93de-c7dd16a192c6",
+        "type": "message",
+        "text": "We haven't implemented it ourselves yet, saw some of the Limechat based chatbots and found it to be not as intuitive as we would like to be honest. Most are based on customer choosing options instead of straight chatting so wondered if there were any alternatives available or not.",
+        "user": "U0362R42317",
+        "ts": "1650693385.373099",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b29d31fcb2d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-04\/3194263235186_b29d31fcb2d64526ad21_72.jpg",
+            "first_name": "Mehul",
+            "real_name": "Mehul Kanodia",
+            "display_name": "Mehul",
+            "team": "T02PFK13YLC",
+            "name": "kanodiamehul17",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MzCBT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We haven't implemented it ourselves yet, saw some of the Limechat based chatbots and found it to be not as intuitive as we would like to be honest. Most are based on customer choosing options instead of straight chatting so wondered if there were any alternatives available or not."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650686960.407959",
+        "parent_user_id": "U0362R42317"
+    },
+    {
+        "type": "message",
+        "text": "Cross posting here :grimacing:\n\nDrop by Bobs Indiranagar around 1 pm today",
+        "user": "U02UUCE1ASD",
+        "ts": "1650693907.012599",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8fc0ff2b8ed7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-22\/3425444312242_8fc0ff2b8ed7f97f960d_72.jpg",
+            "first_name": "Sunil",
+            "real_name": "Sunil Neurgaonkar",
+            "display_name": "Sunil",
+            "team": "T02PFK13YLC",
+            "name": "sunilneurgaonkar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/s11s.slack.com\/archives\/C02SK1UM1U5\/p1650644705095039?thread_ts=1650644705095039&cid=C02SK1UM1U5",
+                "ts": "1650644705.095039",
+                "author_id": "U02UM0VU8MQ",
+                "channel_team": "T02PFK13YLC",
+                "channel_id": "C02SK1UM1U5",
+                "channel_name": "random_coffees",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T02PFK13YLC",
+                        "channel": "C02SK1UM1U5",
+                        "ts": "1650644705.095039",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "IEz",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Hey folks! "
+                                                },
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U02UUCE1ASD"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " and I are catching up tomorrow for lunch in Bangalore? Anyone who'd like to join us? meeting IN PERSON "
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "grimacing"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " not VIRTUAL"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "color": "D0D0D0",
+                "is_share": true,
+                "fallback": "[April 22nd, 2022 9:55 PM] deekshabhargava15: Hey folks! <@U02UUCE1ASD> and I are catching up tomorrow for lunch in Bangalore? Anyone who'd like to join us? meeting IN PERSON :grimacing: not VIRTUAL",
+                "text": "Hey folks! <@U02UUCE1ASD> and I are catching up tomorrow for lunch in Bangalore? Anyone who'd like to join us? meeting IN PERSON :grimacing: not VIRTUAL",
+                "author_name": "Deeksha Bhargava",
+                "author_link": "https:\/\/s11s.slack.com\/team\/U02UM0VU8MQ",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2022-01-19\/2973139800019_f69526302af1e85edb5e_48.jpg",
+                "author_subname": "Deeksha Bhargava",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Thread in #random_coffees"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Ddu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cross posting here "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grimacing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nDrop by Bobs Indiranagar around 1 pm today"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650693907.012599",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1650702118.894159",
+        "reply_users": [
+            "U031AUATXA4"
+        ],
+        "replies": [
+            {
+                "user": "U031AUATXA4",
+                "ts": "1650695386.295949"
+            },
+            {
+                "user": "U031AUATXA4",
+                "ts": "1650702118.894159"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c6ed034e-ea7b-4cfd-8b0f-ff49d921f58f",
+        "type": "message",
+        "text": "Understood.",
+        "user": "U02TTEFFU6B",
+        "ts": "1650694208.793639",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WzFb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Understood."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650686960.407959",
+        "parent_user_id": "U0362R42317"
+    },
+    {
+        "client_msg_id": "bef3f894-648d-4381-bcd0-fbe23dca0e3b",
+        "type": "message",
+        "text": "Thanks folks!",
+        "user": "U031G83CGCQ",
+        "ts": "1650695331.092509",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8c61e5e78079",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-08\/3057153889863_8c61e5e78079a3df1463_72.jpg",
+            "first_name": "Priyanka",
+            "real_name": "Priyanka Factors.AI",
+            "display_name": "Priyanka",
+            "team": "T02PFK13YLC",
+            "name": "priyanka",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gzGjH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks folks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650634586.487589",
+        "parent_user_id": "U031G83CGCQ"
+    },
+    {
+        "client_msg_id": "7BD73983-9DF2-4FA5-97D6-989B94C4A566",
+        "type": "message",
+        "text": "Dropping in by 2 pm, will come say hi! ",
+        "user": "U031AUATXA4",
+        "ts": "1650695386.295949",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5603c9dbfdce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-27\/3023528015140_5603c9dbfdce937bc3fb_72.jpg",
+            "first_name": "Disha",
+            "real_name": "Disha Parekh",
+            "display_name": "Disha",
+            "team": "T02PFK13YLC",
+            "name": "disha.parekh50",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fRuC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dropping in by 2 pm, will come say hi! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650693907.012599",
+        "parent_user_id": "U02UUCE1ASD",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02UUCE1ASD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FCA61D3C-7B07-445D-86A2-29BAE90475EF",
+        "type": "message",
+        "text": "Interesting- did I understand right? so you mostly need the live chat integration with whatsapp and the additional packaged flows to build menu etc. from limechat os refraining you from buying? \n\nHave you explored <http:\/\/haptik.ai|haptik.ai>? Is that bringing to the table what you essentially need?",
+        "user": "U02UZ4T10PQ",
+        "ts": "1650696931.391629",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "0e693f543f3a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-22\/2977217232247_0e693f543f3a4a1d3fd3_72.jpg",
+            "first_name": "Sagnik",
+            "real_name": "Sagnik IntelliServiceAI",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "sagnik.datta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iAyi0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Interesting- did I understand right? so you mostly need the live chat integration with whatsapp and the additional packaged flows to build menu etc. from limechat os refraining you from buying? \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Have you explored haptik.ai? Is that bringing to the table what you essentially need?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650686960.407959",
+        "parent_user_id": "U0362R42317",
+        "reactions": [
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U0362R42317"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

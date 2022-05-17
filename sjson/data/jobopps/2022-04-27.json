@@ -1,0 +1,409 @@
+[
+    {
+        "client_msg_id": "60770e1a-dc5f-4b68-929f-6864e859d421",
+        "type": "message",
+        "text": "Hey <@U03A397SJCF> inFeedo is hiring for a PM.\n\ncc <@U02VBDXNA3E> <@U02V42BGUS2>",
+        "user": "U038WP8PLUA",
+        "ts": "1651089119.294219",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5b79b0c594ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-18\/3406932600996_5b79b0c594ac7aefcab5_72.jpg",
+            "first_name": "Guru",
+            "real_name": "Guru Prasanna",
+            "display_name": "guru",
+            "team": "T02PFK13YLC",
+            "name": "guruprasanna.projects",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YOp1I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03A397SJCF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " inFeedo is hiring for a PM.\n\ncc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02VBDXNA3E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02V42BGUS2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650966833.306659",
+        "parent_user_id": "U03A397SJCF",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03A397SJCF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "62cec764-9297-4933-b8a4-67eeacf58167",
+        "type": "message",
+        "text": "Great idea",
+        "user": "U03B4FAM9FT",
+        "ts": "1651127867.144989",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g02b49edec6e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/02b49edec6ea1d6d81d54fe2084497e7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Aniket",
+            "real_name": "Aniket Lade",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "aniket389",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zUO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great idea"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650877429.508419",
+        "parent_user_id": "U034RJQUQK0"
+    },
+    {
+        "client_msg_id": "a50c120c-14dc-4f04-8bc5-f54b6675a15d",
+        "type": "message",
+        "text": "Hey guys,\n\nSharing an opportunity. If you know of anybody that is suitable for the role, please do share with me.\n\n*Name of company*: Almabase\n\n*Name of role*: Product Marketer\n\n*Years of experience*: 1-2 years of product marketing experience. Some experience in B2B SaaS product marketing would be great.\n\n*Current team composition:*\n• 1 Senior Marketing Manager, 1 Product Marketing Manager, 2 Marketing Specialists, 1 Marketing Operations Associate, 1 Marketing Graphic Designer\n*Location*: Bengaluru, India\n\n*What the role focusses on in the first year?*\n        ▪︎ Customer marketing: Focus on strategizing and working on opportunities that help customer success &amp; sales teams drive retention &amp; expansion. This person will be responsible for planning and executing these strategies to improve outcomes.\n        ▪︎ Sales enablement: Analyze the funnel, and collaborate and build content and strategies to unblock particular blockers and drive key metrics. \n*What will the role be measured on?*\n        ▪︎ Product Adoption (working closely with Customer Success team)\n        ▪︎ Unblocking multiple bottlenecks across the funnel (eg: improve pipeline velocity, conversion rates etc, while working closely with the Sales Enablement team)\n*What's the annual marketing budget range?*\n        ▪︎ We’re mostly looking at organic marketing. We have an approximate marketing budget for ads, conferences, and ad-hoc items which amounts to $200,000.\n*Compensation Range:* 7-12 lacs p.a.\n\n\n<https:\/\/apply.workable.com\/almabase\/j\/C30F9ED990\/|Link to JD>",
+        "user": "U039HH3LP43",
+        "ts": "1651128687.402399",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1144b026b649",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-31\/3336199201073_1144b026b6497d778b90_72.jpg",
+            "first_name": "Adarsh",
+            "real_name": "Adarsh Srivastava",
+            "display_name": "Adarsh Srivastava",
+            "team": "T02PFK13YLC",
+            "name": "ray.realchamp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039HH3LP43",
+            "ts": "1651128733.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/apply.workable.com\/almabase\/j\/C30F9ED990\/",
+                "image_url": "https:\/\/www.workable.com\/assets\/facebook-preview.png",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 23188,
+                "service_icon": "https:\/\/workable-application-form.s3.amazonaws.com\/static\/apple-touch-icon-192x192.png",
+                "id": 1,
+                "original_url": "https:\/\/apply.workable.com\/almabase\/j\/C30F9ED990\/",
+                "fallback": "Product Marketer - Almabase",
+                "text": "About AlmabaseWe are on a mission to make education affordable to everyone by helping universities &amp; schools build better relationships with their alumni, which leads to increased donations. We believe in Democratizing quality education: Qualit...",
+                "title": "Product Marketer - Almabase",
+                "title_link": "https:\/\/apply.workable.com\/almabase\/j\/C30F9ED990\/",
+                "service_name": "apply.workable.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NlqmR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey guys,\n\nSharing an opportunity. If you know of anybody that is suitable for the role, please do share with me.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Name of company",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Almabase\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Name of role",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Product Marketer\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Years of experience",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": 1-2 years of product marketing experience. Some experience in B2B SaaS product marketing would be great.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Current team composition:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "1 Senior Marketing Manager, 1 Product Marketing Manager, 2 Marketing Specialists, 1 Marketing Operations Associate, 1 Marketing Graphic Designer"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Location",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Bengaluru, India\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "What the role focusses on in the first year?",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Customer marketing: Focus on strategizing and working on opportunities that help customer success & sales teams drive retention & expansion. This person will be responsible for planning and executing these strategies to improve outcomes."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Sales enablement: Analyze the funnel, and collaborate and build content and strategies to unblock particular blockers and drive key metrics. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "What will the role be measured on?",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Product Adoption (working closely with Customer Success team)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Unblocking multiple bottlenecks across the funnel (eg: improve pipeline velocity, conversion rates etc, while working closely with the Sales Enablement team)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What's the annual marketing budget range?",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "We’re mostly looking at organic marketing. We have an approximate marketing budget for ads, conferences, and ad-hoc items which amounts to $200,000."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Compensation Range:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 7-12 lacs p.a.\n\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/apply.workable.com\/almabase\/j\/C30F9ED990\/",
+                                "text": "Link to JD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

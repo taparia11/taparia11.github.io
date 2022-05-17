@@ -1,0 +1,906 @@
+[
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "test",
+        "user": "U02SXBR28G1",
+        "ts": "1650959466.602199",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=sV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "test"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "popcorn",
+                "users": [
+                    "U02V5Q6P716",
+                    "U030SHA1S2W",
+                    "U031QKGPNRK",
+                    "U02UM0VU8MQ",
+                    "U031BVBGHCK",
+                    "U039VSWJ85V",
+                    "U02UV03PBB9",
+                    "U03560PQ082"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "Has anyone accepted job offers in EU\/NAM based companies with 0 India presence and successfully negotiated for good pay?",
+        "user": "U02SXBR28G1",
+        "ts": "1650959585.528619",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IFhBl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Has anyone accepted job offers in EU\/NAM based companies with 0 India presence and successfully negotiated for good pay?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650959585.528619",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1651022814.429149",
+        "reply_users": [
+            "U02ULN6EFNV",
+            "U03AF2HBZPX"
+        ],
+        "replies": [
+            {
+                "user": "U02ULN6EFNV",
+                "ts": "1650963529.865609"
+            },
+            {
+                "user": "U03AF2HBZPX",
+                "ts": "1651022814.429149"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "AEE409EF-0483-4B36-9E5B-1E2406A8A3E3",
+        "type": "message",
+        "text": "Me. Happy to help in DMs.",
+        "user": "U02ULN6EFNV",
+        "ts": "1650963529.865609",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g2796bce497e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2796bce497e03edc08c2719052eaae8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Chirayu",
+            "real_name": "Chirayu (Leena AI)",
+            "display_name": "Chirayu",
+            "team": "T02PFK13YLC",
+            "name": "akotiya.chirayu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MV\/xJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Me. Happy to help in DMs."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650959585.528619",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "WHEN WILL PEOPLE REALIZE ASAP DOES NOT MEAN NOW!!!!!!!\n\nRequesting all influencers here to let your followers on LinkedIn know that ASAP ≠ NOW \n\nX_X      T_T",
+        "user": "U02SXBR28G1",
+        "ts": "1650967154.028809",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T4TO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "WHEN WILL PEOPLE REALIZE ASAP DOES NOT MEAN NOW!!!!!!!\n\nRequesting all influencers here to let your followers on LinkedIn know that ASAP ≠ NOW \n\nX_X      T_T"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U02USELSBRT",
+                    "U030ZR9D0FK",
+                    "U03996E48LB",
+                    "U030SDYNX7V",
+                    "U02ULN6EFNV",
+                    "U02UY3EPQDA",
+                    "U02UV03PBB9",
+                    "U03560PQ082"
+                ],
+                "count": 8
+            },
+            {
+                "name": "dart",
+                "users": [
+                    "U03A7KXT45S",
+                    "U03560PQ082"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "People seeking help or advice on any channel, here is some frank, anonymous and unsolicited feedback:\n\n1. please take time to draft your queries. More effort you put to frame your thought, more sincere\/deeper replies you will get if you want strategic or tactical help. If it is just remarks\/comments\/questions about choice\/opinion, feel free to keep it short\/loose\n\n2. be as specific as possible. queries like ‘what are some best practices to grow on social\/my newsletter’ will not solicit deep conversations\/actionable advice beyond some people who have plug play answers for most queries.\n\n3. give as much context as possible on your specific business case or problem space and any additional context which can help the community understand your specific situation. \n\nUNLESS you want cookie cutter answers which you can find on first page of google",
+        "user": "U02SXBR28G1",
+        "ts": "1650967967.700049",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eZodE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "People seeking help or advice on any channel, here is some frank, anonymous and unsolicited feedback:\n\n1. please take time to draft your queries. More effort you put to frame your thought, more sincere\/deeper replies you will get if you want strategic or tactical help. If it is just remarks\/comments\/questions about choice\/opinion, feel free to keep it short\/loose\n\n2. be as specific as possible. queries like ‘what are some best practices to grow on social\/my newsletter’ will not solicit deep conversations\/actionable advice beyond some people who have plug play answers for most queries.\n\n3. give as much context as possible on your specific business case or problem space and any additional context which can help the community understand your specific situation. \n\nUNLESS you want cookie cutter answers which you can find on first page of google"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650967967.700049",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650969042.854459",
+        "reply_users": [
+            "U02USELSBRT"
+        ],
+        "replies": [
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650969042.854459"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U031BVBGHCK",
+                    "U030ZR9D0FK",
+                    "U030SHA1S2W",
+                    "U02VAPDACUQ",
+                    "U02USELSBRT",
+                    "U02TTEFFU6B",
+                    "U031QKGPNRK",
+                    "U033RUXVCAY",
+                    "U02V22EUXM4",
+                    "U03996E48LB",
+                    "U02URBKGVA7",
+                    "U03AHQURB98",
+                    "U02URS98P9B",
+                    "U03A7KXT45S",
+                    "U02U94HSBV4",
+                    "U02UY3EPQDA",
+                    "U039HH3LP43",
+                    "U02V1L48RFH",
+                    "U0362R42317",
+                    "U02VA8GB3KM"
+                ],
+                "count": 20
+            },
+            {
+                "name": "gratitude-thank-you",
+                "users": [
+                    "U02USELSBRT",
+                    "U02TTEFFU6B",
+                    "U033RUXVCAY",
+                    "U037UUE6TV3",
+                    "U02ULN6EFNV"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8fd79cec-d741-4cc7-bccd-4968ffc0cccd",
+        "type": "message",
+        "text": "exactly my thoughts! the effort you put in crafting your query is directly proportional to how much you care about it.\n\nalso, as a first step, which doesn't require any expertise apart from sincerity and discipline:\n\n• google your query\n• make sure you have *understood and tried* most common advices you see from top 4-5 articles\n• only once they don't work, you come back with a specific area where the common advices\/suggestions failed and why",
+        "user": "U02USELSBRT",
+        "ts": "1650969042.854459",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wCdTK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "exactly my thoughts! the effort you put in crafting your query is directly proportional to how much you care about it.\n\nalso, as a first step, which doesn't require any expertise apart from sincerity and discipline:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "google your query"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "make sure you have "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "understood and tried",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " most common advices you see from top 4-5 articles"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "only once they don't work, you come back with a specific area where the common advices\/suggestions failed and why"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650967967.700049",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "point_up_2",
+                "users": [
+                    "U032MN1BESJ",
+                    "U031KD0PNTX"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f5f1cbf1-1fff-4746-89dd-e9ac7842e4c0",
+        "type": "message",
+        "text": "I do this too. ..",
+        "user": "U03A1R58TUP",
+        "ts": "1650993032.239069",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g8cf1f7a4158",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8cf1f7a41582281d09ca8d708b51aaeb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Pavan",
+            "real_name": "Pavan Kumar",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "p4vankum4r",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N\/sQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I do this too. .."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650369159.978499",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "aab34a1b-ed47-4dfb-a966-ac026b02b90a",
+        "type": "message",
+        "text": "Will US work here? DM me",
+        "user": "U03AF2HBZPX",
+        "ts": "1651022814.429149",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g282e41117ee",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/282e41117eea26a162917755cabc65f2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Vikas",
+            "real_name": "Vikas Kalwani",
+            "display_name": "Vikas Kalwani",
+            "team": "T02PFK13YLC",
+            "name": "myself",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r39",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will US work here? DM me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650959585.528619",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "I cannot figure out if this is a genuine rant or a sarcastic one. ",
+        "user": "U02VBNKU9T6",
+        "ts": "1651034803.216019",
+        "thread_ts": "1650862035.514329",
+        "root": {
+            "bot_id": "B02SM1CFD7W",
+            "type": "message",
+            "text": "Alright, so I’ve seen a lot of hate here for Indian Product Marketers so I want to tell you how hard working we all are.\n\nDo you expect us to learn about our own products and also about our ICPs and then come up with value proposition?? What all should we be doing?? \n\nCreating products is tech team’s job. Marketing them is marketing team’s job. Selling them is sales team’s job. We will set up one meeting and put you in it, that is our job. You should figure out between yourselves what to do after that.\n\nWe set up the meeting that makes everything happen, ok? What do Product, Marketing, and Sales do? Just make the product, generate leads, and sell it, right?? It is possible only because of that meeting set up by us and we make sure our CEOs know that so we get the recognition we deserve.\n\nWe write about 10 emails in a day, do you know how tasking that is?! We have to take leaves just to get the stress away!!\n\nThere are three primary skills that we have mastered over years and our MBA school has taught us – sending emails, setting up meetings, and taking leaves. And before you ask, yes, our 40+LPA compensation is less for what we do. \n\nAll Indian B2B Tech SaaS must have mandatory Product Marketer so we have stable job security. HOW CAN YOU FUNCTION WITHOUT US???",
+            "user": "U02SXBR28G1",
+            "ts": "1650862035.514329",
+            "app_id": "ATMC26LBW",
+            "team": "T02PFK13YLC",
+            "bot_profile": {
+                "id": "B02SM1CFD7W",
+                "app_id": "ATMC26LBW",
+                "name": "Anonymous Bot",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+                },
+                "deleted": false,
+                "updated": 1641240871,
+                "team_id": "T02PFK13YLC"
+            },
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "LTHEl",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Alright, so I’ve seen a lot of hate here for Indian Product Marketers so I want to tell you how hard working we all are.\n\nDo you expect us to learn about our own products and also about our ICPs and then come up with value proposition?? What all should we be doing?? \n\nCreating products is tech team’s job. Marketing them is marketing team’s job. Selling them is sales team’s job. We will set up one meeting and put you in it, that is our job. You should figure out between yourselves what to do after that.\n\nWe set up the meeting that makes everything happen, ok? What do Product, Marketing, and Sales do? Just make the product, generate leads, and sell it, right?? It is possible only because of that meeting set up by us and we make sure our CEOs know that so we get the recognition we deserve.\n\nWe write about 10 emails in a day, do you know how tasking that is?! We have to take leaves just to get the stress away!!\n\nThere are three primary skills that we have mastered over years and our MBA school has taught us – sending emails, setting up meetings, and taking leaves. And before you ask, yes, our 40+LPA compensation is less for what we do. \n\nAll Indian B2B Tech SaaS must have mandatory Product Marketer so we have stable job security. HOW CAN YOU FUNCTION WITHOUT US???"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1650862035.514329",
+            "reply_count": 4,
+            "reply_users_count": 4,
+            "latest_reply": "1651040533.287079",
+            "reply_users": [
+                "U030SHA1S2W",
+                "U02VBNKU9T6",
+                "U02USELSBRT",
+                "U02TTEFFU6B"
+            ],
+            "replies": [
+                {
+                    "user": "U030SHA1S2W",
+                    "ts": "1650862123.943449"
+                },
+                {
+                    "user": "U02VBNKU9T6",
+                    "ts": "1651034803.216019"
+                },
+                {
+                    "user": "U02USELSBRT",
+                    "ts": "1651035268.804229"
+                },
+                {
+                    "user": "U02TTEFFU6B",
+                    "ts": "1651040533.287079"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6OhU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I cannot figure out if this is a genuine rant or a sarcastic one. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "BAFD95BC-B1CF-475C-AFBC-4F9A05DF1914"
+    },
+    {
+        "client_msg_id": "D8680457-04DF-4B4D-9C00-55D2C2EAD74D",
+        "type": "message",
+        "text": "Sarcasm :laughing:",
+        "user": "U02USELSBRT",
+        "ts": "1651035268.804229",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hBfFF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sarcasm "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650862035.514329",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U030SDYNX7V",
+                    "U02VBNKU9T6"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e75971c3-b5f1-4e90-8790-a9851635c2ae",
+        "type": "message",
+        "text": "Sarcasm +++",
+        "user": "U02TTEFFU6B",
+        "ts": "1651040533.287079",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nPhoy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sarcasm +++"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650862035.514329",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "f5c4688a-ee02-4fc1-91e2-49a40384a3d3",
+        "type": "message",
+        "text": "Done it twice. And this is not something dependent only on Marketing. PMF, Product, Ops are also equally needed.",
+        "user": "U03560PQ082",
+        "ts": "1651040711.586049",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1db32098d186",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-01\/3176023965474_1db32098d186ac873a3d_72.png",
+            "first_name": "Ahaan",
+            "real_name": "Ahaan Pandit",
+            "display_name": "Ahaan Pandit",
+            "team": "T02PFK13YLC",
+            "name": "ahaan.pandit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03560PQ082",
+            "ts": "1651040775.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "734q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Done it twice. And this is not something dependent only on Marketing. PMF, Product, Ops are also equally needed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650856147.618229",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "\"You B2B guys have it too boring and easy. Asli marketing happens in B2C.\"\n\n\"Oh yeah? What do you do?\"\n\n\"I am Senior Manager, Marketing.\"\n\n\"So agencies and stuff?!\"\n\n\"Yeah.\"",
+        "user": "U02SXBR28G1",
+        "ts": "1651041514.751479",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AKo0S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"You B2B guys have it too boring and easy. Asli marketing happens in B2C.\"\n\n\"Oh yeah? What do you do?\"\n\n\"I am Senior Manager, Marketing.\"\n\n\"So agencies and stuff?!\"\n\n\"Yeah.\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651041514.751479",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1651041591.146759",
+        "reply_users": [
+            "U02USELSBRT"
+        ],
+        "replies": [
+            {
+                "user": "U02USELSBRT",
+                "ts": "1651041591.146759"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U02USELSBRT",
+                    "U02UUMH06BT",
+                    "U0362R42317",
+                    "U03560PQ082",
+                    "U02UMJJJALA",
+                    "U02U94HSBV4",
+                    "U02V22EUXM4",
+                    "U039HH3LP43",
+                    "U030KV8R8RL",
+                    "U030QT8S084",
+                    "U02UMB0T7BM",
+                    "U03D6SBF268",
+                    "U02URS98P9B",
+                    "U032MN1BESJ",
+                    "U030MGFLT7F"
+                ],
+                "count": 15
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9870D4BC-4858-45F3-8718-D0417FD11BDC",
+        "type": "message",
+        "text": "Hiring agencies is too hardcore",
+        "user": "U02USELSBRT",
+        "ts": "1651041591.146759",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "irAb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hiring agencies is too hardcore"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651041514.751479",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02PDC4883V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "Curious to hear your opinion(s) on brand marketers hiring agencies to do brand marketing.\nJust thinking - isn't it brand marketers' job to do brand marketing? If yes, then why outsource something you were hired to do in the first place?",
+        "user": "U02SXBR28G1",
+        "ts": "1651041782.029289",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "We8ne",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Curious to hear your opinion(s) on brand marketers hiring agencies to do brand marketing.\nJust thinking - isn't it brand marketers' job to do brand marketing? If yes, then why outsource something you were hired to do in the first place?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651041782.029289",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1651044013.392769",
+        "reply_users": [
+            "U02USELSBRT",
+            "U02VC7G2RHS"
+        ],
+        "replies": [
+            {
+                "user": "U02USELSBRT",
+                "ts": "1651042997.198239"
+            },
+            {
+                "user": "U02VC7G2RHS",
+                "ts": "1651044013.392769"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

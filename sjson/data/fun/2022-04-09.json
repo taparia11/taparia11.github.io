@@ -1,0 +1,367 @@
+[
+    {
+        "client_msg_id": "497bc690-ff8b-40be-a7be-102d4db112d3",
+        "type": "message",
+        "text": "Wow <@U02V9QUDK1Q>. I am impressed that he knows and gave an option for people like me. Didn't even actually search for a tool. Had just shared with frustration but this is neat",
+        "user": "U031QKGPNRK",
+        "ts": "1649492012.238119",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J\/yk9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wow "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02V9QUDK1Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I am impressed that he knows and gave an option for people like me. Didn't even actually search for a tool. Had just shared with frustration but this is neat"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649475318.736819",
+        "parent_user_id": "U031QKGPNRK"
+    },
+    {
+        "client_msg_id": "62115bc2-47a0-4fcb-894d-5551dae2cec7",
+        "type": "message",
+        "text": "Looks like I'm not only frustrated to see him everywhere :face_with_hand_over_mouth:",
+        "user": "U03AHQURB98",
+        "ts": "1649557865.241919",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1e75ac50be49",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3354970724517_1e75ac50be49acccd7cf_72.jpg",
+            "first_name": "Anindya",
+            "real_name": "Anindya Chakraborty",
+            "display_name": "Anindya Chakraborty",
+            "team": "T02PFK13YLC",
+            "name": "anindya.8336010281",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4eK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks like I'm not only frustrated to see him everywhere "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_hand_over_mouth"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649475318.736819",
+        "parent_user_id": "U031QKGPNRK"
+    },
+    {
+        "client_msg_id": "4c7fe9f8-92ce-4c4f-bea3-86f881a8d4d8",
+        "type": "message",
+        "text": "Blast from the past: <https:\/\/www.youtube.com\/watch?v=GGTWUOxkfGQ>",
+        "user": "U02USELSBRT",
+        "ts": "1649569048.782899",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=GGTWUOxkfGQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/GGTWUOxkfGQ\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/GGTWUOxkfGQ?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=GGTWUOxkfGQ",
+                "fallback": "YouTube Video: 'Senator, we run ads', Mark Zuckerberg",
+                "title": "'Senator, we run ads', Mark Zuckerberg",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=GGTWUOxkfGQ",
+                "author_name": "Loucas Ferekides",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCeWrs3Xoeu5o24NOu05pd1Q",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6vyq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Blast from the past: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=GGTWUOxkfGQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649569048.782899",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1649573911.638939",
+        "reply_users": [
+            "U02PDC4883V",
+            "U02USELSBRT"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649570149.049789"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649571211.869169"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649573911.638939"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1649573911.638939",
+        "reactions": [
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U031F2R0LN4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "99123c87-5013-4442-be7c-cc4003d04162",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/elonmusk\/status\/1512962115270754306?t=AZiEfBlYwI-t3u6-uNIX3w&amp;s=19|https:\/\/twitter.com\/elonmusk\/status\/1512962115270754306?t=AZiEfBlYwI-t3u6-uNIX3w&amp;s=19>",
+        "user": "U02PDC4883V",
+        "ts": "1649570149.049789",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/elonmusk\/status\/1512962115270754306?t=AZiEfBlYwI-t3u6-uNIX3w&amp;s=19",
+                "ts": 1649553252,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/elonmusk\/status\/1512962115270754306?t=AZiEfBlYwI-t3u6-uNIX3w&amp;s=19",
+                "fallback": "<https:\/\/twitter.com\/elonmusk|@elonmusk>: And no ads. The power of corporations to dictate policy is greatly enhanced if Twitter depends on advertising money to survive.",
+                "text": "And no ads. The power of corporations to dictate policy is greatly enhanced if Twitter depends on advertising money to survive.",
+                "author_name": "Elon Musk",
+                "author_link": "https:\/\/twitter.com\/elonmusk\/status\/1512962115270754306",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1503591435324563456\/foUrqiEw_normal.jpg",
+                "author_subname": "@elonmusk",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1B5uc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/elonmusk\/status\/1512962115270754306?t=AZiEfBlYwI-t3u6-uNIX3w&s=19",
+                                "text": "https:\/\/twitter.com\/elonmusk\/status\/1512962115270754306?t=AZiEfBlYwI-t3u6-uNIX3w&s=19"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649569048.782899",
+        "parent_user_id": "U02USELSBRT"
+    },
+    {
+        "client_msg_id": "9fa9297e-b0d9-44bb-ae04-71fb3c34544d",
+        "type": "message",
+        "text": "Ads is like that drug which is hard to resist.\n\nGoogle did it\nAmazon did it\nApple did it\nFacebook did it\nDisney+ did it\nMicrosoft did it and acquired it\nNetflix may plan to do it.\n\nSo Twitter ads will remain, albeit a smaller part with subscriptions.",
+        "user": "U02USELSBRT",
+        "ts": "1649571211.869169",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02USELSBRT",
+            "ts": "1649573070.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E6G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ads is like that drug which is hard to resist.\n\nGoogle did it\nAmazon did it\nApple did it\nFacebook did it\nDisney+ did it\nMicrosoft did it and acquired it\nNetflix may plan to do it.\n\nSo Twitter ads will remain, albeit a smaller part with subscriptions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649569048.782899",
+        "parent_user_id": "U02USELSBRT"
+    },
+    {
+        "type": "message",
+        "text": "Speaking of drugs",
+        "files": [
+            {
+                "id": "F03AY7PCCEQ",
+                "created": 1649573909,
+                "timestamp": 1649573909,
+                "name": "gif2681153304264564030.gif",
+                "title": "gif2681153304264564030.gif",
+                "mimetype": "image\/gif",
+                "filetype": "gif",
+                "pretty_type": "GIF",
+                "user": "U02PDC4883V",
+                "editable": false,
+                "size": 782663,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03AY7PCCEQ\/gif2681153304264564030.gif?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03AY7PCCEQ\/download\/gif2681153304264564030.gif?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AY7PCCEQ-71f4799966\/gif2681153304264564030_64.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AY7PCCEQ-71f4799966\/gif2681153304264564030_80.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AY7PCCEQ-71f4799966\/gif2681153304264564030_360.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 320,
+                "thumb_360_h": 180,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AY7PCCEQ-71f4799966\/gif2681153304264564030_160.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_gif": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AY7PCCEQ-71f4799966\/gif2681153304264564030_360.gif?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "original_w": 320,
+                "original_h": 180,
+                "deanimate": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AY7PCCEQ-71f4799966\/gif2681153304264564030_deanimate.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "deanimate_gif": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AY7PCCEQ-71f4799966\/gif2681153304264564030_deanimate_gif.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_tiny": "AwAbADCjiil70negYoGSKeEx3FJHjeueRVxxujK4A44AoGlcgcgDAqOlPQ5ppNAhCVPUY+lKFB+6ST6YpnarFr92U99tAEOCOPSrlu+9SSTlew71FGSJGA6Yqe3VfMJAAPP86TGiqTuJJ6mmGnuMSMB2JqM9DTEf\/9k=",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U02PDC4883V\/F03AY7PCCEQ\/gif2681153304264564030.gif",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03AY7PCCEQ-cb106731ed",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02PDC4883V",
+        "display_as_bot": false,
+        "ts": "1649573911.638939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G2Hk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Speaking of drugs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U02PDC4883V",
+            "ts": "1649573931.000000"
+        },
+        "client_msg_id": "cd975cd9-5733-41a2-90b3-154278cfcc92",
+        "thread_ts": "1649569048.782899",
+        "parent_user_id": "U02USELSBRT"
+    }
+]

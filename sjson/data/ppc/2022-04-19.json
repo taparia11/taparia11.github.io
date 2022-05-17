@@ -1,0 +1,937 @@
+[
+    {
+        "client_msg_id": "0eaf205c-5c0a-4922-af5e-7db96fe73036",
+        "type": "message",
+        "text": "Our Job title campaigns on Facebook, have very limited reach right now and campaigns have maxed out and have a frequency of 8-9. Wanted to check in the group if anyone has used Clearbit for FB and is it worth it?",
+        "user": "U031G7L2CE4",
+        "ts": "1650357326.079719",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "0d9e5be26c82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3039146221201_0d9e5be26c82dfd1260e_72.png",
+            "first_name": "Pranjal",
+            "real_name": "Pranjal Rajawat",
+            "display_name": "Pranjal Rajawat",
+            "team": "T02PFK13YLC",
+            "name": "pranjal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "03V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Our Job title campaigns on Facebook, have very limited reach right now and campaigns have maxed out and have a frequency of 8-9. Wanted to check in the group if anyone has used Clearbit for FB and is it worth it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650357326.079719",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1650393018.104889",
+        "reply_users": [
+            "U02USELSBRT",
+            "U03158A1WPK"
+        ],
+        "replies": [
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650359342.146939"
+            },
+            {
+                "user": "U03158A1WPK",
+                "ts": "1650392964.274089"
+            },
+            {
+                "user": "U03158A1WPK",
+                "ts": "1650392973.224399"
+            },
+            {
+                "user": "U03158A1WPK",
+                "ts": "1650393018.104889"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6b3cd4e6-8709-46e8-a8f5-b1f0f3d2e052",
+        "type": "message",
+        "text": "Clearbit can work for US audience but still the match rates are relatively low. You may try using Metadata if you want to improve match rates.\n\nOverall, don't recommend using Job targeting for facebook, why not try Linkedin instead?",
+        "user": "U02USELSBRT",
+        "ts": "1650359342.146939",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qTB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Clearbit can work for US audience but still the match rates are relatively low. You may try using Metadata if you want to improve match rates.\n\nOverall, don't recommend using Job targeting for facebook, why not try Linkedin instead?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650357326.079719",
+        "parent_user_id": "U031G7L2CE4"
+    },
+    {
+        "client_msg_id": "91ea5c4b-d068-470e-af45-3da266891857",
+        "type": "message",
+        "text": "Any good agency for managing B2B SaaS Ads",
+        "user": "U03BZJ0KK1R",
+        "ts": "1650369613.405829",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "043af8ffe832",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-19\/3431356209440_043af8ffe832522f4bd9_72.png",
+            "first_name": "kinjal",
+            "real_name": "kinjal vora",
+            "display_name": "kinjal vora",
+            "team": "T02PFK13YLC",
+            "name": "kinj28",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s1ssq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any good agency for managing B2B SaaS Ads"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650369613.405829",
+        "reply_count": 8,
+        "reply_users_count": 7,
+        "latest_reply": "1650784246.160199",
+        "reply_users": [
+            "U02U6080NCX",
+            "U0316K76612",
+            "U03689EJ0U9",
+            "U032QUYKMGV",
+            "U031NC9B67L",
+            "U03BZJ0KK1R",
+            "U02VBQCQ7EG"
+        ],
+        "replies": [
+            {
+                "user": "U02U6080NCX",
+                "ts": "1650369666.947309"
+            },
+            {
+                "user": "U0316K76612",
+                "ts": "1650370571.368389"
+            },
+            {
+                "user": "U03689EJ0U9",
+                "ts": "1650374642.993459"
+            },
+            {
+                "user": "U032QUYKMGV",
+                "ts": "1650385464.392819"
+            },
+            {
+                "user": "U031NC9B67L",
+                "ts": "1650393147.015569"
+            },
+            {
+                "user": "U03BZJ0KK1R",
+                "ts": "1650432531.768619"
+            },
+            {
+                "user": "U02VBQCQ7EG",
+                "ts": "1650437747.152109"
+            },
+            {
+                "user": "U031NC9B67L",
+                "ts": "1650784246.160199"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "521E15E5-3D9E-4673-B1A3-588C428807CD",
+        "type": "message",
+        "text": "Ganapathy, Vajra Global - <tel:+91 90940 33355|+91 90940 33355>",
+        "user": "U02U6080NCX",
+        "ts": "1650369666.947309",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "2eeaeac342d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2972631365986_2eeaeac342d5832bc72e_72.png",
+            "first_name": "Ashwin",
+            "real_name": "Ashwin Kumar",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "ashwin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7f1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ganapathy, Vajra Global - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:+91 90940 33355",
+                                "text": "+91 90940 33355"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650369613.405829",
+        "parent_user_id": "U03BZJ0KK1R"
+    },
+    {
+        "client_msg_id": "6a5c9494-7934-4dcb-a4c9-ad3f0355e57c",
+        "type": "message",
+        "text": "Hey <@U03BZJ0KK1R>,\n\nWe (<https:\/\/speargrowth.com|Spear Growth>) specialise in B2B SaaS Ads.\n\nDMing you to schedule a call to see if this would be a good fit.\n\n<https:\/\/clutch.co\/profile\/spear-growth|Link to verified reviews>.",
+        "user": "U0316K76612",
+        "ts": "1650370571.368389",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "3d8cd7ed21c1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-02\/3067243283408_3d8cd7ed21c19b96a8fb_72.png",
+            "first_name": "Ishaan",
+            "real_name": "Ishaan Shakunt",
+            "display_name": "Ishaan Shakunt",
+            "team": "T02PFK13YLC",
+            "name": "ishaan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/speargrowth.com\/",
+                "ts": 1629832884,
+                "id": 1,
+                "original_url": "https:\/\/speargrowth.com",
+                "fallback": "Spear Growth: Spear Growth - SEO Enablement &amp; Performance Marketing Agency",
+                "text": "Helping B2B SaaS Companies Drive Pipeline &amp; Revenue",
+                "title": "Spear Growth - SEO Enablement &amp; Performance Marketing Agency",
+                "title_link": "https:\/\/speargrowth.com\/",
+                "service_name": "Spear Growth",
+                "fields": [
+                    {
+                        "value": "Ishaan Shakunt",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "Less than a minute",
+                        "title": "Time to read",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ji\/h=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03BZJ0KK1R"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\n\nWe ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/speargrowth.com",
+                                "text": "Spear Growth"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") specialise in B2B SaaS Ads.\n\nDMing you to schedule a call to see if this would be a good fit.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/clutch.co\/profile\/spear-growth",
+                                "text": "Link to verified reviews"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650369613.405829",
+        "parent_user_id": "U03BZJ0KK1R",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02U6080NCX",
+                    "U02UPBP2012"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3a0c2cf1-d4a5-47da-b711-cd4295cc5b7d",
+        "type": "message",
+        "text": "Ishaan and co are great! Would recommend them every time",
+        "user": "U03689EJ0U9",
+        "ts": "1650374642.993459",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "84b68ad98147",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-20\/3428091227601_84b68ad9814733d7823f_72.jpg",
+            "first_name": "Protim",
+            "real_name": "Protim Bhaumik",
+            "display_name": "Pro",
+            "team": "T02PFK13YLC",
+            "name": "protim.bhaumik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mLm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ishaan and co are great! Would recommend them every time"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650369613.405829",
+        "parent_user_id": "U03BZJ0KK1R",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0316K76612"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ff214c9f-8dff-4ab6-939b-5fb5546b42bd",
+        "type": "message",
+        "text": "<tel:+917045657089|+91 70456 57089>\n\nBhumish",
+        "user": "U032QUYKMGV",
+        "ts": "1650385464.392819",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e68ac4a23ed9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-17\/3113923778246_e68ac4a23ed9e0db3d14_72.jpg",
+            "first_name": "Syed",
+            "real_name": "Syed Zainul Haque",
+            "display_name": "Syed Zainul Haque",
+            "team": "T02PFK13YLC",
+            "name": "szainul13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OkbpA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "tel:+917045657089",
+                                "text": "+91 70456 57089"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nBhumish"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650369613.405829",
+        "parent_user_id": "U03BZJ0KK1R"
+    },
+    {
+        "type": "message",
+        "text": "Dear startup marketers how much are you burning on IPL ads? ",
+        "files": [
+            {
+                "id": "F03C2A7FTC3",
+                "created": 1650388529,
+                "timestamp": 1650388529,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U039FQ2SNNN",
+                "editable": false,
+                "size": 54710,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "subtype": "slack_image",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03C2A7FTC3\/image_from_ios.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03C2A7FTC3\/download\/image_from_ios.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C2A7FTC3-d43ec42e4b\/image_from_ios_64.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C2A7FTC3-d43ec42e4b\/image_from_ios_80.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C2A7FTC3-d43ec42e4b\/image_from_ios_360.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 360,
+                "thumb_360_h": 217,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C2A7FTC3-d43ec42e4b\/image_from_ios_480.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 480,
+                "thumb_480_h": 289,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C2A7FTC3-d43ec42e4b\/image_from_ios_160.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C2A7FTC3-d43ec42e4b\/image_from_ios_720.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720_w": 720,
+                "thumb_720_h": 434,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C2A7FTC3-d43ec42e4b\/image_from_ios_800.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_800_w": 800,
+                "thumb_800_h": 482,
+                "original_w": 828,
+                "original_h": 499,
+                "thumb_tiny": "AwAcADC6AO4X\/vml2ccBT\/wGkXy+c7aU+VjjbQAeX7L\/AN81LUX7vj7tO8tf7ooAfRUfljB+Ue1KEHHyigBu7J++h\/Ggvx95D+NMR256UeYx4OPypASb\/wDaT86kqt5jcdPyqzTAKKKKAP\/Z",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U039FQ2SNNN\/F03C2A7FTC3\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03C2A7FTC3-a75b319cc0",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U039FQ2SNNN",
+        "display_as_bot": false,
+        "ts": "1650388533.004289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OMY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dear startup marketers how much are you burning on IPL ads? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "C56E3B0E-372D-4084-92B2-2C186CAB93A1"
+    },
+    {
+        "client_msg_id": "2c246930-6561-47fa-bd35-85109f85f3b4",
+        "type": "message",
+        "text": "Try Primer",
+        "user": "U03158A1WPK",
+        "ts": "1650392964.274089",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5837aa37daee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3029573541474_5837aa37daee415bd34b_72.jpg",
+            "first_name": "Srikrishna",
+            "real_name": "Srikrishna Factors.ai",
+            "display_name": "Srikrishna Factors.ai",
+            "team": "T02PFK13YLC",
+            "name": "srikrishna",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tez",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Try Primer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650357326.079719",
+        "parent_user_id": "U031G7L2CE4"
+    },
+    {
+        "client_msg_id": "ec3cc623-f18f-4be2-9365-80ed24b928ae",
+        "type": "message",
+        "text": "Cheaper than Metadata and Clearbit X",
+        "user": "U03158A1WPK",
+        "ts": "1650392973.224399",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5837aa37daee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3029573541474_5837aa37daee415bd34b_72.jpg",
+            "first_name": "Srikrishna",
+            "real_name": "Srikrishna Factors.ai",
+            "display_name": "Srikrishna Factors.ai",
+            "team": "T02PFK13YLC",
+            "name": "srikrishna",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j+mRK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cheaper than Metadata and Clearbit X"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650357326.079719",
+        "parent_user_id": "U031G7L2CE4"
+    },
+    {
+        "client_msg_id": "911675b7-3732-4010-adea-4772ffa205ad",
+        "type": "message",
+        "text": "Basically, using Linkedin targeting on FB and GDN",
+        "user": "U03158A1WPK",
+        "ts": "1650393018.104889",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5837aa37daee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3029573541474_5837aa37daee415bd34b_72.jpg",
+            "first_name": "Srikrishna",
+            "real_name": "Srikrishna Factors.ai",
+            "display_name": "Srikrishna Factors.ai",
+            "team": "T02PFK13YLC",
+            "name": "srikrishna",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VLtws",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Basically, using Linkedin targeting on FB and GDN"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650357326.079719",
+        "parent_user_id": "U031G7L2CE4"
+    },
+    {
+        "client_msg_id": "F662DC52-FA89-4A5E-B586-6D2D3C59B5CA",
+        "type": "message",
+        "text": "<@U03BZJ0KK1R> any specific requirement? ",
+        "user": "U031NC9B67L",
+        "ts": "1650393147.015569",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c161f35b6650",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-04\/3041804299015_c161f35b665084316187_72.jpg",
+            "first_name": "Shiyam",
+            "real_name": "Shiyam",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "shiyamsunderj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "80bj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03BZJ0KK1R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " any specific requirement? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650369613.405829",
+        "parent_user_id": "U03BZJ0KK1R"
+    },
+    {
+        "type": "message",
+        "text": "Hey all,\n\nA Google Ads noob here.\n\nI have GA4 enabled via Tag Manager in website but my Google Ads keep saying that I have \"Google Analytics tracking is linked to your account, but nothing is installed on your website.\"\n\nCan someone help? I still need to add GA universal analytics tag?",
+        "files": [
+            {
+                "id": "F03BY71VB5L",
+                "created": 1650431764,
+                "timestamp": 1650431764,
+                "name": "Screen Shot 2022-04-20 at 10.44.01.png",
+                "title": "Screen Shot 2022-04-20 at 10.44.01.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02URS98P9B",
+                "editable": false,
+                "size": 28621,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03BY71VB5L\/screen_shot_2022-04-20_at_10.44.01.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03BY71VB5L\/download\/screen_shot_2022-04-20_at_10.44.01.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BY71VB5L-0e4ef74793\/screen_shot_2022-04-20_at_10.44.01_64.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BY71VB5L-0e4ef74793\/screen_shot_2022-04-20_at_10.44.01_80.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BY71VB5L-0e4ef74793\/screen_shot_2022-04-20_at_10.44.01_360.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 360,
+                "thumb_360_h": 67,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BY71VB5L-0e4ef74793\/screen_shot_2022-04-20_at_10.44.01_480.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 480,
+                "thumb_480_h": 89,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BY71VB5L-0e4ef74793\/screen_shot_2022-04-20_at_10.44.01_160.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BY71VB5L-0e4ef74793\/screen_shot_2022-04-20_at_10.44.01_720.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720_w": 720,
+                "thumb_720_h": 134,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BY71VB5L-0e4ef74793\/screen_shot_2022-04-20_at_10.44.01_800.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_800_w": 800,
+                "thumb_800_h": 149,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BY71VB5L-0e4ef74793\/screen_shot_2022-04-20_at_10.44.01_960.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_960_w": 960,
+                "thumb_960_h": 178,
+                "original_w": 990,
+                "original_h": 184,
+                "thumb_tiny": "AwAIADDSwexo+b1FLRQAnzeoo59qWigApKWg9KAP\/9k=",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U02URS98P9B\/F03BY71VB5L\/screen_shot_2022-04-20_at_10.44.01.png",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03BY71VB5L-dea64b06df",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02URS98P9B",
+        "display_as_bot": false,
+        "ts": "1650431805.025709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8KS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey all,\n\nA Google Ads noob here.\n\nI have GA4 enabled via Tag Manager in website but my Google Ads keep saying that I have \"Google Analytics tracking is linked to your account, but nothing is installed on your website.\"\n\nCan someone help? I still need to add GA universal analytics tag?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "948e7dd8-ffd2-40cd-b0cd-184236f14d45",
+        "thread_ts": "1650431805.025709",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1650443133.169559",
+        "reply_users": [
+            "U02USELSBRT",
+            "U031BVBGHCK",
+            "U02URS98P9B"
+        ],
+        "replies": [
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650431945.647139"
+            },
+            {
+                "user": "U031BVBGHCK",
+                "ts": "1650442801.814789"
+            },
+            {
+                "user": "U02URS98P9B",
+                "ts": "1650443133.169559"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d76dff92-e30b-4d36-8f26-d1da1ec6ae68",
+        "type": "message",
+        "text": "try to remove GA4 from your tag manager and then re-install again, then wait for  a few days",
+        "user": "U02USELSBRT",
+        "ts": "1650431945.647139",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K3Kkm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "try to remove GA4 from your tag manager and then re-install again, then wait for  a few days"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650431805.025709",
+        "parent_user_id": "U02URS98P9B",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02URS98P9B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "99065db8-60ac-4a0d-8752-7e5f36504ea0",
+        "type": "message",
+        "text": "Majorly retargeting, display and ABM",
+        "user": "U03BZJ0KK1R",
+        "ts": "1650432531.768619",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "043af8ffe832",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-19\/3431356209440_043af8ffe832522f4bd9_72.png",
+            "first_name": "kinjal",
+            "real_name": "kinjal vora",
+            "display_name": "kinjal vora",
+            "team": "T02PFK13YLC",
+            "name": "kinj28",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nAb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Majorly retargeting, display and ABM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650369613.405829",
+        "parent_user_id": "U03BZJ0KK1R"
+    },
+    {
+        "client_msg_id": "ceb9d653-e7ff-4780-8483-45ae542700ef",
+        "type": "message",
+        "text": "<@U03BZJ0KK1R> Both <@U0316K76612> and <@U031NC9B67L> are good. You don't need an agency to do retargeting. Display and ABM? What do you mean by ABM? Manage display on ABM platform? If you want to do display ads using platforms like Rollworks or 6 Sense, still you don't need an agency. Hire for search and LinkedIn.",
+        "user": "U02VBQCQ7EG",
+        "ts": "1650437747.152109",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "fa5eb8510b89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2995555726371_fa5eb8510b89c7a7a37d_72.jpg",
+            "first_name": "Karthick",
+            "real_name": "Karthick Raajha",
+            "display_name": "Karthick Raajha",
+            "team": "T02PFK13YLC",
+            "name": "kraajha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02VBQCQ7EG",
+            "ts": "1650437809.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KmUw+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03BZJ0KK1R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Both "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0316K76612"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U031NC9B67L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " are good. You don't need an agency to do retargeting. Display and ABM? What do you mean by ABM? Manage display on ABM platform? If you want to do display ads using platforms like Rollworks or 6 Sense, still you don't need an agency. Hire for search and LinkedIn."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650369613.405829",
+        "parent_user_id": "U03BZJ0KK1R",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02U6080NCX",
+                    "U03BZJ0KK1R"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,230 @@
+[
+    {
+        "client_msg_id": "4b891453-c678-400d-8a73-9e22ce037e62",
+        "type": "message",
+        "text": "Jobs at Goldcast. Highly recommended place to work\n\n<https:\/\/jobs.lever.co\/goldcast\/719011dd-d727-455e-8e1e-6aabc7f99d3c>\n\n<https:\/\/jobs.lever.co\/goldcast\/ed89b517-e951-47ae-841d-9704f8f79a53>\n\nKnow the founders personally. Please refer anyone you know",
+        "user": "U03158A1WPK",
+        "ts": "1650273065.981199",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5837aa37daee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3029573541474_5837aa37daee415bd34b_72.jpg",
+            "first_name": "Srikrishna",
+            "real_name": "Srikrishna Factors.ai",
+            "display_name": "Srikrishna Factors.ai",
+            "team": "T02PFK13YLC",
+            "name": "srikrishna",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/jobs.lever.co\/goldcast\/719011dd-d727-455e-8e1e-6aabc7f99d3c",
+                "service_icon": "https:\/\/jobs.lever.co\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/jobs.lever.co\/goldcast\/719011dd-d727-455e-8e1e-6aabc7f99d3c",
+                "fallback": "Goldcast - Product Manager",
+                "text": "What You'll Do As one of the early product managers in the company, you will play a key role in owning product execution and helping existing products mature and gain more adoption. You’ll own a big part of the product strategy and roadmap for the following parts of the product: Registration Product: We are building a full featured registration site builder for event marketers to build. Our registration site builder will feature a drag and drop page builder, embedded forms, and ticketing functionalities and will interface seamlessly with our other event products. You will own Virtual Events Product: The virtual event product is our flagship product. Organizers use it to conduct everything from a webinar to a full scale virtual conference. You will be the product owner for the virtual event product and own all the metrics that define the product's success- NPS, adoption, and value leadership vs competitors.",
+                "title": "Goldcast - Product Manager",
+                "title_link": "https:\/\/jobs.lever.co\/goldcast\/719011dd-d727-455e-8e1e-6aabc7f99d3c",
+                "service_name": "jobs.lever.co",
+                "fields": [
+                    {
+                        "value": "Bangalore",
+                        "title": "Location",
+                        "short": true
+                    },
+                    {
+                        "value": "Product Manager",
+                        "title": "Team",
+                        "short": true
+                    }
+                ]
+            },
+            {
+                "from_url": "https:\/\/jobs.lever.co\/goldcast\/ed89b517-e951-47ae-841d-9704f8f79a53",
+                "service_icon": "https:\/\/jobs.lever.co\/favicon.ico",
+                "id": 2,
+                "original_url": "https:\/\/jobs.lever.co\/goldcast\/ed89b517-e951-47ae-841d-9704f8f79a53",
+                "fallback": "Goldcast - Lead UX Designer",
+                "text": "As a Product Designer, you will collaborate with product managers, engineers, and other designers. Together you will optimize product experiences that drive revenue and improve retention. You will own Goldcast’s user experience and visual design language. You’ll advocate for an exceptional user experience as part of a fully remote team that values experimentation, iteration, and a willingness to take risks. The ideal candidate for this position will be able to visualize an experience in the abstract, break down complex use cases and then be able to drive the vision into solid design deliverables. You think first from the customer’s perspective, use research and data to influence your designs, set relentlessly high standards for yourself and deliver best-in-class customer experiences.",
+                "title": "Goldcast - Lead UX Designer",
+                "title_link": "https:\/\/jobs.lever.co\/goldcast\/ed89b517-e951-47ae-841d-9704f8f79a53",
+                "service_name": "jobs.lever.co",
+                "fields": [
+                    {
+                        "value": "Bangalore",
+                        "title": "Location",
+                        "short": true
+                    },
+                    {
+                        "value": "UX Designer",
+                        "title": "Team",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P9qy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Jobs at Goldcast. Highly recommended place to work\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/jobs.lever.co\/goldcast\/719011dd-d727-455e-8e1e-6aabc7f99d3c"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/jobs.lever.co\/goldcast\/ed89b517-e951-47ae-841d-9704f8f79a53"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nKnow the founders personally. Please refer anyone you know"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U0379TDK6NM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aec89be6-1ea5-4472-a26c-0cb1f3747439",
+        "type": "message",
+        "text": "Hello Everyone, please let me know if anyone is interested or if anyone within your network would be interested in the role. Clootrack is hiring for VP Marketing - <https:\/\/www.linkedin.com\/jobs\/view\/2987176763\/?refId=UJMrfVJpNr%2FceEkvocQWXw%3D%3D&amp;trackingId=aCx6a856bXXb4CAZymXAqA%3D%3D>",
+        "user": "U02UPJSJEDB",
+        "ts": "1650288839.765629",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g204b5914af5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/204b5914af579c658eefec35f128922e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Manuel",
+            "real_name": "Manuel Oothria Raj",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "mba.manuel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5vn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Everyone, please let me know if anyone is interested or if anyone within your network would be interested in the role. Clootrack is hiring for VP Marketing - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/jobs\/view\/2987176763\/?refId=UJMrfVJpNr%2FceEkvocQWXw%3D%3D&trackingId=aCx6a856bXXb4CAZymXAqA%3D%3D"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4ff57a4e-b1b8-4f26-bcb5-e5d53ecf0fac",
+        "type": "message",
+        "text": "D91 Labs is looking for highly qualified and self-driven individuals to support and conduct  research projects. D91 Labs strives to conduct research at the intersection of fintech, financial inclusion and understanding the last-mile customer.\n\nAs a Senior Research Fellow, you will conduct in-house and collaborative projects with partner organisations and share research findings with the fintech community through public channels and forums. D91 Labs focuses on understanding a wide range of financial products and their last-mile delivery mechanism to the people through technology. The Senior Research Fellow will play a pivotal role in the evangelization of building research-driven fintech products for India. This role is a one of its kind opportunity to build in public and make an impact in the fintech space.\n\n<https:\/\/setu.zohorecruit.in\/jobs\/Careers\/15063000006839001\/Senior-Research-Fellow-%E2%80%94-D91-Labs?source=CareerSite>",
+        "user": "U03ABKDJQAD",
+        "ts": "1650344436.880409",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "50d568cc257a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3351659788833_50d568cc257acd6b3187_72.jpg",
+            "first_name": "amrutha",
+            "real_name": "amrutha jalihal",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "amruthajalihal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/setu.zohorecruit.in\/jobs\/Careers\/15063000006839001\/Senior-Research-Fellow-%E2%80%94-D91-Labs?source=CareerSite",
+                "image_url": "https:\/\/setu.zohorecruit.in\/recruit\/viewCareerImage.do?type=meta&page_id=15063000001265050&file_name=Setu_Overview_Master_deck.jpg",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 32074,
+                "service_icon": "https:\/\/static.zohocdn.com\/recruit\/images\/spacer.a46cb99c5320a5dd310550ba5e17b417.gif",
+                "id": 1,
+                "original_url": "https:\/\/setu.zohorecruit.in\/jobs\/Careers\/15063000006839001\/Senior-Research-Fellow-%E2%80%94-D91-Labs?source=CareerSite",
+                "fallback": "Setu: Setu - Senior Research Fellow — D91 Labs in Bangalore",
+                "text": "Setu About D91 Labs D91 Labs is a research arm of Setu. At D91 Labs, we conduct in-depth qualitative and quantitative user studies across various soci",
+                "title": "Setu - Senior Research Fellow — D91 Labs in Bangalore",
+                "title_link": "https:\/\/setu.zohorecruit.in\/jobs\/Careers\/15063000006839001\/Senior-Research-Fellow-%E2%80%94-D91-Labs?source=CareerSite",
+                "service_name": "Setu"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7bDWr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "D91 Labs is looking for highly qualified and self-driven individuals to support and conduct  research projects. D91 Labs strives to conduct research at the intersection of fintech, financial inclusion and understanding the last-mile customer.\n\nAs a Senior Research Fellow, you will conduct in-house and collaborative projects with partner organisations and share research findings with the fintech community through public channels and forums. D91 Labs focuses on understanding a wide range of financial products and their last-mile delivery mechanism to the people through technology. The Senior Research Fellow will play a pivotal role in the evangelization of building research-driven fintech products for India. This role is a one of its kind opportunity to build in public and make an impact in the fintech space.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/setu.zohorecruit.in\/jobs\/Careers\/15063000006839001\/Senior-Research-Fellow-%E2%80%94-D91-Labs?source=CareerSite"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U031MKKKZC2"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U0379TDK6NM"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

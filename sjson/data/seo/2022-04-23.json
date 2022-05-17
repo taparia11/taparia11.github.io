@@ -1,0 +1,50 @@
+[
+    {
+        "client_msg_id": "11029200-0739-48ce-b8b3-67658b7b1021",
+        "type": "message",
+        "text": "Before using indexmenow, just make sure your basics are in place. Like you have a footer with the address, etc., your images are loading properly, etc.\n\nI've seen a couple of these issues result in pages not being indexed and once fixed, within 2-3 weeks, the pages were indexed.",
+        "user": "U0316K76612",
+        "ts": "1650707427.371619",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "3d8cd7ed21c1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-02\/3067243283408_3d8cd7ed21c19b96a8fb_72.png",
+            "first_name": "Ishaan",
+            "real_name": "Ishaan Shakunt",
+            "display_name": "Ishaan Shakunt",
+            "team": "T02PFK13YLC",
+            "name": "ishaan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Se4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Before using indexmenow, just make sure your basics are in place. Like you have a footer with the address, etc., your images are loading properly, etc.\n\nI've seen a couple of these issues result in pages not being indexed and once fixed, within 2-3 weeks, the pages were indexed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650689700.804379",
+        "parent_user_id": "U038F88AS0N"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1650783110.025209",
+        "user": "U03C8SYJGCF",
+        "text": "<@U03C8SYJGCF> has joined the channel",
+        "inviter": "U03DD6EGPKJ"
+    }
+]

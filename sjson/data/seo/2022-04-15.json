@@ -1,0 +1,277 @@
+[
+    {
+        "client_msg_id": "dfc72372-5ca0-4469-9932-c14b1e8dd0a6",
+        "type": "message",
+        "text": "Someone recommended us to add a chatbot on the website for SEO. Does it really help?\nAlso any recommendation for a good chatbot.\n\nThanks in advance",
+        "user": "U033RUXVCAY",
+        "ts": "1650022239.554179",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "eecae6570a19",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-18\/3149477154304_eecae6570a19ea1b9b9d_72.jpg",
+            "first_name": "Divyank",
+            "real_name": "Divyank Jain",
+            "display_name": "Divyank Jain",
+            "team": "T02PFK13YLC",
+            "name": "divyankjn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k1Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Someone recommended us to add a chatbot on the website for SEO. Does it really help?\nAlso any recommendation for a good chatbot.\n\nThanks in advance"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650022239.554179",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1650100915.504719",
+        "reply_users": [
+            "U02USELSBRT",
+            "U032MN1BESJ",
+            "U0316K76612",
+            "U033RUXVCAY"
+        ],
+        "replies": [
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650023110.252449"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650023164.631189"
+            },
+            {
+                "user": "U032MN1BESJ",
+                "ts": "1650027035.346359"
+            },
+            {
+                "user": "U0316K76612",
+                "ts": "1650034004.915109"
+            },
+            {
+                "user": "U033RUXVCAY",
+                "ts": "1650100915.504719"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "25e9d609-0706-46bd-b03f-3c29c945c79d",
+        "type": "message",
+        "text": "Page interaction, through website chat, is a generally a good signal for SEO, provided it doesnt increase your page load times, doesnt cause problems with UX\/navigation and someone on your side actually engages with those chat leads and not make them wait.",
+        "user": "U02USELSBRT",
+        "ts": "1650023110.252449",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6gt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Page interaction, through website chat, is a generally a good signal for SEO, provided it doesnt increase your page load times, doesnt cause problems with UX\/navigation and someone on your side actually engages with those chat leads and not make them wait."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650022239.554179",
+        "parent_user_id": "U033RUXVCAY",
+        "reactions": [
+            {
+                "name": "point_up_2",
+                "users": [
+                    "U032MN1BESJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U033RUXVCAY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ebc739b7-7b82-4a34-b9ea-b64d8cd5273e",
+        "type": "message",
+        "text": "Pickup a chatbot which integrates well with your MA tool because I have seen chat lead attribution to be the biggest issue. If you use Hubspot, they have a chat tool but not sure how good it is.",
+        "user": "U02USELSBRT",
+        "ts": "1650023164.631189",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kUn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pickup a chatbot which integrates well with your MA tool because I have seen chat lead attribution to be the biggest issue. If you use Hubspot, they have a chat tool but not sure how good it is."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650022239.554179",
+        "parent_user_id": "U033RUXVCAY",
+        "reactions": [
+            {
+                "name": "point_up_2",
+                "users": [
+                    "U032MN1BESJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1f59c050-28a4-4dbb-9e57-caa22ae58600",
+        "type": "message",
+        "text": "Give Happyfox chat a look.\nIt's very flexible with a lot of good integrations to tap into your existing workflows",
+        "user": "U032MN1BESJ",
+        "ts": "1650027035.346359",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g8a12888a77b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a12888a77b019e4e11e0df9171feb29.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Anuj",
+            "real_name": "Anuj Adhiya",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "adhiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "59i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Give Happyfox chat a look.\nIt's very flexible with a lot of good integrations to tap into your existing workflows"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650022239.554179",
+        "parent_user_id": "U033RUXVCAY",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U033RUXVCAY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "00614950-d7e0-4506-9391-4654a2930105",
+        "type": "message",
+        "text": "The only way a chatbot may help with SEO, is if it somehow reduced your pages bounce rate.\nIt's more likely to increase load times and affect negatively.\n\nThe only reason I would relate SEO and chatbots is if there are page son your website which are getting good organic traffic and the chatbot helps increase conversion rates. I.e. it's not helping with SEO but helping with converting organic search traffic.",
+        "user": "U0316K76612",
+        "ts": "1650034004.915109",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "3d8cd7ed21c1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-02\/3067243283408_3d8cd7ed21c19b96a8fb_72.png",
+            "first_name": "Ishaan",
+            "real_name": "Ishaan Shakunt",
+            "display_name": "Ishaan Shakunt",
+            "team": "T02PFK13YLC",
+            "name": "ishaan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ukaG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The only way a chatbot may help with SEO, is if it somehow reduced your pages bounce rate.\nIt's more likely to increase load times and affect negatively.\n\nThe only reason I would relate SEO and chatbots is if there are page son your website which are getting good organic traffic and the chatbot helps increase conversion rates. I.e. it's not helping with SEO but helping with converting organic search traffic."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650022239.554179",
+        "parent_user_id": "U033RUXVCAY",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U033RUXVCAY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

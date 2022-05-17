@@ -1,0 +1,1394 @@
+[
+    {
+        "client_msg_id": "b96a0eac-ad45-4941-8bcb-e0946bd26086",
+        "type": "message",
+        "text": "Like ZenDesk (for great microcopy), Zoho (for keeping it simple despite having so many offerings), and VideoAsk (for the use of creativity).",
+        "user": "U030E27CBB3",
+        "ts": "1650353917.070989",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "ec5003a1e337",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/3003735647700_ec5003a1e337e1285f09_72.jpg",
+            "first_name": "Sooraj",
+            "real_name": "Sooraj Divakaran",
+            "display_name": "Sooraj",
+            "team": "T02PFK13YLC",
+            "name": "soorajdivakaran",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uNX1y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Like ZenDesk (for great microcopy), Zoho (for keeping it simple despite having so many offerings), and VideoAsk (for the use of creativity)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648456471.506349",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "I always open marketing emails and click through all the links. My opening the email and clicking on the links is of $0 value. However, I hope that somewhere some marketer can show a slight uptick in open rates and CTR.",
+        "user": "U02SXBR28G1",
+        "ts": "1650369159.978499",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qsc0A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I always open marketing emails and click through all the links. My opening the email and clicking on the links is of $0 value. However, I hope that somewhere some marketer can show a slight uptick in open rates and CTR."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650369159.978499",
+        "reply_count": 11,
+        "reply_users_count": 10,
+        "latest_reply": "1650993032.239069",
+        "reply_users": [
+            "U02PDC4883V",
+            "U038WP8PLUA",
+            "U02V9QUDK1Q",
+            "U0323V4CLRY",
+            "U03560PQ082",
+            "U02TTEFFU6B",
+            "U02U94HSBV4",
+            "U02UY3EPQDA",
+            "U02V22EUXM4",
+            "U03A1R58TUP"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650369457.286979"
+            },
+            {
+                "user": "U038WP8PLUA",
+                "ts": "1650369520.078249"
+            },
+            {
+                "user": "U02V9QUDK1Q",
+                "ts": "1650369758.638519"
+            },
+            {
+                "user": "U0323V4CLRY",
+                "ts": "1650370906.448689"
+            },
+            {
+                "user": "U03560PQ082",
+                "ts": "1650371314.760109"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1650371628.060879"
+            },
+            {
+                "user": "U02U94HSBV4",
+                "ts": "1650373356.608569"
+            },
+            {
+                "user": "U02UY3EPQDA",
+                "ts": "1650374848.153369"
+            },
+            {
+                "user": "U02U94HSBV4",
+                "ts": "1650376756.808199"
+            },
+            {
+                "user": "U02V22EUXM4",
+                "ts": "1650382358.375609"
+            },
+            {
+                "user": "U03A1R58TUP",
+                "ts": "1650993032.239069"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1650993032.239069",
+        "reactions": [
+            {
+                "name": "superhero",
+                "users": [
+                    "U02PDC4883V",
+                    "U030ZR9D0FK",
+                    "U03560PQ082",
+                    "U02V4H04XT8",
+                    "U039VSWJ85V",
+                    "U031KD0PNTX",
+                    "U0325QQQALR",
+                    "U039MLMNSQH",
+                    "U02V75V0YBX",
+                    "U030EJ3DSN5",
+                    "U02ULCHDGB0",
+                    "U033QDFML74",
+                    "U03996E48LB"
+                ],
+                "count": 13
+            },
+            {
+                "name": "superhero::skin-tone-3",
+                "users": [
+                    "U03A7KXT45S"
+                ],
+                "count": 1
+            },
+            {
+                "name": "superhero::skin-tone-4",
+                "users": [
+                    "U02TTEFFU6B",
+                    "U0362R42317"
+                ],
+                "count": 2
+            },
+            {
+                "name": "broken_heart",
+                "users": [
+                    "U02ULN6EFNV",
+                    "U0325QQQALR",
+                    "U039MLMNSQH",
+                    "U030KV8R8RL"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03C0AZQ2E7",
+                "created": 1650369454,
+                "timestamp": 1650369454,
+                "name": "tenor_gif3399743053363680380.gif",
+                "title": "tenor_gif3399743053363680380.gif",
+                "mimetype": "image\/gif",
+                "filetype": "gif",
+                "pretty_type": "GIF",
+                "user": "U02PDC4883V",
+                "editable": false,
+                "size": 397260,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03C0AZQ2E7\/tenor_gif3399743053363680380.gif?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03C0AZQ2E7\/download\/tenor_gif3399743053363680380.gif?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C0AZQ2E7-aaf40a40a7\/tenor_gif3399743053363680380_64.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C0AZQ2E7-aaf40a40a7\/tenor_gif3399743053363680380_80.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C0AZQ2E7-aaf40a40a7\/tenor_gif3399743053363680380_360.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 220,
+                "thumb_360_h": 167,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C0AZQ2E7-aaf40a40a7\/tenor_gif3399743053363680380_160.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_gif": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C0AZQ2E7-aaf40a40a7\/tenor_gif3399743053363680380_360.gif?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "original_w": 220,
+                "original_h": 167,
+                "deanimate": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C0AZQ2E7-aaf40a40a7\/tenor_gif3399743053363680380_deanimate.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "deanimate_gif": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C0AZQ2E7-aaf40a40a7\/tenor_gif3399743053363680380_deanimate_gif.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_tiny": "AwAkADCBVHPApqRgmQZ4AzUkYycdu9KF2GRgQRjBNSWRic2+VVQxI6Go1Jbt+VOkGZQasQE5xgZoGRJ0oYbjinBWznA\/OkdTzgUgJbFRL5megxVdpRtZCwHOT70xlJdlVjszx71GUKnBpkjvMZySe1TwyAAtnn6VEgVSrDBPpTpA27cF2qBzxQNEwUbOvFJ5YOcnpTpA3kqi4yDkmkZJDgqwpDIgME0k3RfrS\/xGkm6L9aOoPYWNQWqWfmaND0PWo4vvfjUk3\/HzFTJJG4YqOmDSA5RfpSv\/AKw\/Smj7qfSkM\/\/Z",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U02PDC4883V\/F03C0AZQ2E7\/tenor_gif3399743053363680380.gif",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03C0AZQ2E7-f3fbeba56e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02PDC4883V",
+        "display_as_bot": false,
+        "ts": "1650369457.286979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yFzBG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "36200781-5f2a-49ca-99df-f7d1d5030be0",
+        "thread_ts": "1650369159.978499",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "20488f0e-dc82-43d5-b6d1-e941a4e3b0d2",
+        "type": "message",
+        "text": "Not all heroes wear capes.",
+        "user": "U038WP8PLUA",
+        "ts": "1650369520.078249",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5b79b0c594ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-18\/3406932600996_5b79b0c594ac7aefcab5_72.jpg",
+            "first_name": "Guru",
+            "real_name": "Guru Prasanna",
+            "display_name": "guru",
+            "team": "T02PFK13YLC",
+            "name": "guruprasanna.projects",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3bX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not all heroes wear capes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650369159.978499",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02VB4H88HE",
+        "type": "message",
+        "text": "cry clap",
+        "user": "U02V9QUDK1Q",
+        "ts": "1650369758.638519",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02VB4H88HE",
+            "app_id": "A0F827J2C",
+            "name": "giphy",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "deleted": false,
+            "updated": 1642583183,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "LJHEJ",
+                "image_url": "https:\/\/media1.giphy.com\/media\/VhXDUZVAUeaUnOPSMI\/giphy-downsized.gif?cid=6104955eirm8g6mlnfgaoruu6mfib7pmlir9u9pbq9vmufar&rid=giphy-downsized.gif&ct=g",
+                "alt_text": "cry clap",
+                "title": {
+                    "type": "plain_text",
+                    "text": "cry clap",
+                    "emoji": true
+                },
+                "image_width": 480,
+                "image_height": 270,
+                "image_bytes": 1348920,
+                "is_animated": true,
+                "fallback": "480x270px image"
+            },
+            {
+                "type": "context",
+                "block_id": "8iYu",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy | GIF by <https:\/\/giphy.com\/londontheatre\/|Official London Theatre>",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650369159.978499",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "f190ca7d-b74d-46ee-aa99-b0229ba435cd",
+        "type": "message",
+        "text": "Another thing to do would be to start educating leaders and marketers on why these vanity metrics don't matter in the long run:-\\",
+        "user": "U0323V4CLRY",
+        "ts": "1650370906.448689",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bda2aafa72dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-22\/3275541779442_bda2aafa72dde9c08430_72.jpg",
+            "first_name": "Samyak",
+            "real_name": "Samyak tripathi",
+            "display_name": "samyak",
+            "team": "T02PFK13YLC",
+            "name": "samyaktripathi060",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0323V4CLRY",
+            "ts": "1650370918.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "na8N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Another thing to do would be to start educating leaders and marketers on why these vanity metrics don't matter in the long run:-\\"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650369159.978499",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "a3fe4993-eb39-4f2f-bb00-307d2545a3f9",
+        "type": "message",
+        "text": "Hope you go the extra mile and buy something sometimes too :smile:",
+        "user": "U03560PQ082",
+        "ts": "1650371314.760109",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1db32098d186",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-01\/3176023965474_1db32098d186ac873a3d_72.png",
+            "first_name": "Ahaan",
+            "real_name": "Ahaan Pandit",
+            "display_name": "Ahaan Pandit",
+            "team": "T02PFK13YLC",
+            "name": "ahaan.pandit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T0\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hope you go the extra mile and buy something sometimes too "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650369159.978499",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U030SDYNX7V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "bot_id": "B02VB4H88HE",
+        "type": "message",
+        "text": "salute",
+        "user": "U02TTEFFU6B",
+        "ts": "1650371628.060879",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02VB4H88HE",
+            "app_id": "A0F827J2C",
+            "name": "giphy",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "deleted": false,
+            "updated": 1642583183,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "cy+R",
+                "image_url": "https:\/\/media2.giphy.com\/media\/umXZ6MNman8TC\/giphy-downsized.gif?cid=6104955e67pad2x4w21bc1bsmz8yj4jcowiw9nex59pbtfcw&rid=giphy-downsized.gif&ct=g",
+                "alt_text": "salute",
+                "title": {
+                    "type": "plain_text",
+                    "text": "salute",
+                    "emoji": true
+                },
+                "image_width": 324,
+                "image_height": 194,
+                "image_bytes": 1013681,
+                "is_animated": true,
+                "fallback": "324x194px image"
+            },
+            {
+                "type": "context",
+                "block_id": "Hda",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650369159.978499",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "c652e86e-e087-4dfa-958e-2ad6a0340f60",
+        "type": "message",
+        "text": "ah so youre the one skewing my a\/b tests tch tch",
+        "user": "U02U94HSBV4",
+        "ts": "1650373356.608569",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e0f144e6826c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2991564885808_e0f144e6826cc213d921_72.jpg",
+            "first_name": "Pulkit",
+            "real_name": "Pulkit Jain",
+            "display_name": "pulkit",
+            "team": "T02PFK13YLC",
+            "name": "pulkitjain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HsQ1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah so youre the one skewing my a\/b tests tch tch"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650369159.978499",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U030KV8R8RL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3ab008fe-b193-45a9-96f8-4f3575cc0939",
+        "type": "message",
+        "text": "Similarly, I don’t click on Ads (from the brand).  I only click on Organic SERP links (of that brand).\n\n\nAlso, for bad\/spam emails, I change the UTM params with Cuss words (on browser URL) and send a click thru!",
+        "user": "U02UY3EPQDA",
+        "ts": "1650374848.153369",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "da155664fe94",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-20\/2981844758147_da155664fe9476fbd35b_72.jpg",
+            "first_name": "sv410_",
+            "real_name": "sv410_",
+            "display_name": "sv410_",
+            "team": "T02PFK13YLC",
+            "name": "bravenuworld",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uVR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Similarly, I don’t click on Ads (from the brand).  I only click on Organic SERP links (of that brand).\n\n\nAlso, for bad\/spam emails, I change the UTM params with Cuss words (on browser URL) and send a click thru!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650369159.978499",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U031KD0PNTX",
+                    "U0318JZUESX",
+                    "U02U6FZRHRV",
+                    "U0361UQSKGQ",
+                    "U030KV8R8RL",
+                    "U02UMJJJALA",
+                    "U0362R42317",
+                    "U03996E48LB",
+                    "U030V8ENMS6"
+                ],
+                "count": 9
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02TTEFFU6B",
+                    "U02V22EUXM4",
+                    "U02UMJJJALA",
+                    "U02URBKGVA7",
+                    "U033QDFML74"
+                ],
+                "count": 5
+            },
+            {
+                "name": "bulb",
+                "users": [
+                    "U038WP8PLUA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "brain",
+                "users": [
+                    "U038WP8PLUA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "exploding_head",
+                "users": [
+                    "U038WP8PLUA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1d763803-b2c2-421e-9f30-c2da74d0bc61",
+        "type": "message",
+        "text": "&gt; I change the UTM params with Cuss words (on browser URL) and send a click thru!\nlove this, gonna steal this",
+        "user": "U02U94HSBV4",
+        "ts": "1650376756.808199",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e0f144e6826c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2991564885808_e0f144e6826cc213d921_72.jpg",
+            "first_name": "Pulkit",
+            "real_name": "Pulkit Jain",
+            "display_name": "pulkit",
+            "team": "T02PFK13YLC",
+            "name": "pulkitjain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K3G",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I change the UTM params with Cuss words (on browser URL) and send a click thru!"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "love this, gonna steal this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650369159.978499",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "381AF9FB-C2B5-4A07-9234-571B35CCA80F",
+        "type": "message",
+        "text": "Noble. Can be done while purchasing something as well. Increase the ROAS for that marketer :wink:",
+        "user": "U02V22EUXM4",
+        "ts": "1650382358.375609",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9f2cfa9248dc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-07\/3075859566289_9f2cfa9248dc9a1dae23_72.jpg",
+            "first_name": "Deepan",
+            "real_name": "Deepan Siddhu",
+            "display_name": "Deepan Siddhu",
+            "team": "T02PFK13YLC",
+            "name": "deepan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j2Lm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Noble. Can be done while purchasing something as well. Increase the ROAS for that marketer "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650369159.978499",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U030SDYNX7V",
+                    "U030T0P2R1B"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "51f7e430-3148-4178-8366-a7ad24458322",
+        "type": "message",
+        "text": "I have worked with Shrimithran. Great reviews so far",
+        "user": "U03158A1WPK",
+        "ts": "1650392899.110159",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5837aa37daee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3029573541474_5837aa37daee415bd34b_72.jpg",
+            "first_name": "Srikrishna",
+            "real_name": "Srikrishna Factors.ai",
+            "display_name": "Srikrishna Factors.ai",
+            "team": "T02PFK13YLC",
+            "name": "srikrishna",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U2z\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have worked with Shrimithran. Great reviews so far"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649420739.450189",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "How to be a SO MUCH GOOD startup employee (or any professional) that whenever you add open-to-work in your linkedin profile, HRs will jump on profiles with exciting offers &amp; all?",
+        "user": "U02SXBR28G1",
+        "ts": "1650421186.229839",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/gm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How to be a SO MUCH GOOD startup employee (or any professional) that whenever you add open-to-work in your linkedin profile, HRs will jump on profiles with exciting offers & all?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650421186.229839",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1650467297.286399",
+        "reply_users": [
+            "U02USELSBRT",
+            "U031KD0PNTX",
+            "U038WP8PLUA"
+        ],
+        "replies": [
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650433806.498389"
+            },
+            {
+                "user": "U031KD0PNTX",
+                "ts": "1650447417.273249"
+            },
+            {
+                "user": "U038WP8PLUA",
+                "ts": "1650467297.286399"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "Friendly reminder, your esops are worth dog:hankey:",
+        "files": [
+            {
+                "id": "F03C70FCYMS",
+                "created": 1650426143,
+                "timestamp": 1650426143,
+                "name": "File.jpg",
+                "title": "File from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U02USELSBRT",
+                "editable": false,
+                "size": 156216,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03C70FCYMS\/file.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03C70FCYMS\/download\/file.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C70FCYMS-02e2bf5bde\/file_64.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C70FCYMS-02e2bf5bde\/file_80.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C70FCYMS-02e2bf5bde\/file_360.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 351,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C70FCYMS-02e2bf5bde\/file_480.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 468,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C70FCYMS-02e2bf5bde\/file_160.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C70FCYMS-02e2bf5bde\/file_720.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720_w": 701,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C70FCYMS-02e2bf5bde\/file_800.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_800_w": 800,
+                "thumb_800_h": 821,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C70FCYMS-02e2bf5bde\/file_960.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_960_w": 935,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C70FCYMS-02e2bf5bde\/file_1024.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_1024_w": 997,
+                "thumb_1024_h": 1024,
+                "original_w": 1125,
+                "original_h": 1155,
+                "thumb_tiny": "AwAwAC6+yyGUMD8vpmlCkjq350jH5iM9ffFJn3\/8eNADwpHf8zS8+1R7u+f1NGff9TQBJz7Uv1qLPHX9TUinIoAaysTkfzNKF45J\/Omt94\/4mj6fzNAD9vufzo2jHU\/nUYP+cmj\/AD1NAD9g9T+dOqLODx+uakUkjnFADG+8f\/r0n0\/rTjt3cg5\/Gg7SOQ360AN\/z3o9P\/r04bQc4b9afQAzefb8jTlOR7\/SlooA\/9k=",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U02USELSBRT\/F03C70FCYMS\/file.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03C70FCYMS-5931a34e35",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U02USELSBRT",
+        "display_as_bot": false,
+        "ts": "1650426187.511909",
+        "thread_ts": "1650426187.511909",
+        "reply_count": 7,
+        "reply_users_count": 4,
+        "latest_reply": "1650448715.580679",
+        "reply_users": [
+            "U032AUA6KFV",
+            "U02USELSBRT",
+            "U02VA7QD8UB",
+            "U02ULN6EFNV"
+        ],
+        "replies": [
+            {
+                "user": "U032AUA6KFV",
+                "ts": "1650427279.756539"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650427482.452469"
+            },
+            {
+                "user": "U032AUA6KFV",
+                "ts": "1650428229.421299"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650429037.825019"
+            },
+            {
+                "user": "U02VA7QD8UB",
+                "ts": "1650429480.810419"
+            },
+            {
+                "user": "U02ULN6EFNV",
+                "ts": "1650447870.466899"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650448715.580679"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U02UY3EPQDA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": ":point_up::skin-tone-4: I did not post this",
+        "user": "U02SXBR28G1",
+        "ts": "1650426474.259419",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0KL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "skin_tone": 4,
+                                "name": "point_up"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I did not post this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650426474.259419",
+        "reply_count": 8,
+        "reply_users_count": 5,
+        "latest_reply": "1650445748.013439",
+        "reply_users": [
+            "U02PDC4883V",
+            "U0318JZUESX",
+            "U02PDC6B0HH",
+            "U02USELSBRT",
+            "U031QKGPNRK"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650426521.347339"
+            },
+            {
+                "user": "U0318JZUESX",
+                "ts": "1650437882.655199"
+            },
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1650440184.739449"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650440343.996589"
+            },
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1650442125.815379"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1650445233.949459"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1650445258.367999"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650445748.013439"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1650445748.013439"
+    },
+    {
+        "client_msg_id": "c55b38a2-00e9-44f2-920e-f6357b23d289",
+        "type": "message",
+        "text": "Absolutely",
+        "user": "U02PDC4883V",
+        "ts": "1650426521.347339",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KVvx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Absolutely"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650426474.259419",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "9a11528a-e175-46ae-a95a-439631a2f6f7",
+        "type": "message",
+        "text": "esops at unicorns*\nrather decacorns",
+        "user": "U032AUA6KFV",
+        "ts": "1650427279.756539",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9189c1943921",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-17\/3239483991639_9189c1943921bc90d5d9_72.jpg",
+            "first_name": "Sumit",
+            "real_name": "Sumit",
+            "display_name": "Sumit",
+            "team": "T02PFK13YLC",
+            "name": "sumitsuman.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f4ji",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "esops at unicorns*\nrather decacorns"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650426187.511909",
+        "parent_user_id": "U02USELSBRT"
+    },
+    {
+        "client_msg_id": "03C6E3B8-C9E5-4AF1-BE1A-42EB9378CEC0",
+        "type": "message",
+        "text": "The point is about ridiculous valuations which can happen at any round. I have seen &lt;10K MRR companies with a $10M valuation.",
+        "user": "U02USELSBRT",
+        "ts": "1650427482.452469",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TFkkP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The point is about ridiculous valuations which can happen at any round. I have seen <10K MRR companies with a $10M valuation."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650426187.511909",
+        "parent_user_id": "U02USELSBRT"
+    },
+    {
+        "client_msg_id": "37d0bdc9-aeaf-4e99-ac2a-61caee8153ec",
+        "type": "message",
+        "text": "Indeed. Def don’t join if you believe the valuation is crazy. However, if you do believe that the 10M valuation company has the right fundamentals and can exit at 1B then your 50K of esops would be worth 5M then.",
+        "user": "U032AUA6KFV",
+        "ts": "1650428229.421299",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9189c1943921",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-17\/3239483991639_9189c1943921bc90d5d9_72.jpg",
+            "first_name": "Sumit",
+            "real_name": "Sumit",
+            "display_name": "Sumit",
+            "team": "T02PFK13YLC",
+            "name": "sumitsuman.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RDYp6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Indeed. Def don’t join if you believe the valuation is crazy. However, if you do believe that the 10M valuation company has the right fundamentals and can exit at 1B then your 50K of esops would be worth 5M then."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650426187.511909",
+        "parent_user_id": "U02USELSBRT"
+    },
+    {
+        "client_msg_id": "1C760D81-E4F3-4375-96A3-81A819B5F4C9",
+        "type": "message",
+        "text": "Yeah you would still end up making good returns but even in your example, if the company was overvalued by say a factor of 3x, then you could've gotten esops worth 150K which would've been worth 15M at the time of eventual exit. Other way to look at it is at the right valuations, you would reach a good return sooner.",
+        "user": "U02USELSBRT",
+        "ts": "1650429037.825019",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sPl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah you would still end up making good returns but even in your example, if the company was overvalued by say a factor of 3x, then you could've gotten esops worth 150K which would've been worth 15M at the time of eventual exit. Other way to look at it is at the right valuations, you would reach a good return sooner."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650426187.511909",
+        "parent_user_id": "U02USELSBRT",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U032AUA6KFV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aeb785f8-e596-4710-9f4f-a1605c2c4d4e",
+        "type": "message",
+        "text": "Don’t we know it – that’s why I ask for straight-up cash instead of ESOPs.",
+        "user": "U02VA7QD8UB",
+        "ts": "1650429480.810419",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "84e512c8a3fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2999004078388_84e512c8a3feeb8de835_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "T02PFK13YLC",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VeF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Don’t we know it – that’s why I ask for straight-up cash instead of ESOPs."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650426187.511909",
+        "parent_user_id": "U02USELSBRT",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "73887c02-12dc-4aed-9a14-f25ed7c691cb",
+        "type": "message",
+        "text": "you should start by having realistic expectations.\nHRs don't usually jump at anything.\n\nthe best you can hope for is to be relevant to the position they're looking for. which means understanding what exact keywords they're looking for (see 20 open job posts for your role to know this) and have these keywords upfront and visible easily on your profile.",
+        "user": "U02USELSBRT",
+        "ts": "1650433806.498389",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FCiW2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you should start by having realistic expectations.\nHRs don't usually jump at anything.\n\nthe best you can hope for is to be relevant to the position they're looking for. which means understanding what exact keywords they're looking for (see 20 open job posts for your role to know this) and have these keywords upfront and visible easily on your profile."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650421186.229839",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "987aad5e-37c5-478f-ac6a-80359e969e25",
+        "type": "message",
+        "text": "Who dat?",
+        "user": "U0318JZUESX",
+        "ts": "1650437882.655199",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "63c51d4ec23b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-01\/3066368472944_63c51d4ec23bc685fdae_72.png",
+            "first_name": "Siddhartha",
+            "real_name": "Siddhartha Kathpalia",
+            "display_name": "Kattu",
+            "team": "T02PFK13YLC",
+            "name": "siddhartha.kathpalia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ciaYV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Who dat?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650426474.259419",
+        "parent_user_id": "U02SXBR28G1"
+    }
+]

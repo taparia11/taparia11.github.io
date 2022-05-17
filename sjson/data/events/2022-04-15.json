@@ -1,0 +1,598 @@
+[
+    {
+        "client_msg_id": "b1d1db09-111d-45ef-83d0-f57d0f72cce3",
+        "type": "message",
+        "text": "How can I access this? <@U02UGB8DERY>",
+        "user": "U0395SBAAQZ",
+        "ts": "1650018351.228989",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "479c4c40489b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3370300622017_479c4c40489beb04299d_72.jpg",
+            "first_name": "Karan",
+            "real_name": "Karan Ashta",
+            "display_name": "Karan Ashta",
+            "team": "T02PFK13YLC",
+            "name": "karanbfmv",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "29H0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How can I access this? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02UGB8DERY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649913756.724779",
+        "parent_user_id": "U02UGB8DERY"
+    },
+    {
+        "client_msg_id": "eb3af952-5d69-434b-aa71-77f664a2e5ac",
+        "type": "message",
+        "text": "<@U0395SBAAQZ> video is rendering should be live soon",
+        "user": "U02UGB8DERY",
+        "ts": "1650018478.242579",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4cda10dd85c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2962250036230_4cda10dd85c264b66a43_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Rajvanshi",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rahulrajvanshi2501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "43U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0395SBAAQZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " video is rendering should be live soon"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649913756.724779",
+        "parent_user_id": "U02UGB8DERY"
+    },
+    {
+        "client_msg_id": "68a527b0-449c-4d52-8f79-2a98d42c4de7",
+        "type": "message",
+        "text": "Cool. Pls send the link here?",
+        "user": "U0395SBAAQZ",
+        "ts": "1650018513.787469",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "479c4c40489b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3370300622017_479c4c40489beb04299d_72.jpg",
+            "first_name": "Karan",
+            "real_name": "Karan Ashta",
+            "display_name": "Karan Ashta",
+            "team": "T02PFK13YLC",
+            "name": "karanbfmv",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3lMf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool. Pls send the link here?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649913756.724779",
+        "parent_user_id": "U02UGB8DERY"
+    },
+    {
+        "client_msg_id": "4b087df2-41e3-4cf4-ba21-f8df391ad5c0",
+        "type": "message",
+        "text": "Keep an eye on <#C02PS0CGPU1|general> and <#C02SC17QD1U|events>",
+        "user": "U02UGB8DERY",
+        "ts": "1650018533.654279",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4cda10dd85c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2962250036230_4cda10dd85c264b66a43_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Rajvanshi",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rahulrajvanshi2501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XkV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Keep an eye on "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C02PS0CGPU1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C02SC17QD1U"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649913756.724779",
+        "parent_user_id": "U02UGB8DERY"
+    },
+    {
+        "client_msg_id": "eb08f5b3-242d-49af-b4e5-7cb4dd11e8e1",
+        "type": "message",
+        "text": "Cool thanks",
+        "user": "U030PQRLHEH",
+        "ts": "1650043178.994299",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "01a1b05516c5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-15\/3410501334369_01a1b05516c5b272fbfa_72.jpg",
+            "first_name": "Yatharth",
+            "real_name": "Yatharth Jain",
+            "display_name": "Yatharth Jain",
+            "team": "T02PFK13YLC",
+            "name": "yatharth.jain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r5o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649913756.724779",
+        "parent_user_id": "U02UGB8DERY"
+    },
+    {
+        "client_msg_id": "70216ac4-72b2-4678-9578-c6389f975ab7",
+        "type": "message",
+        "text": "Folks the video is live- <https:\/\/www.youtube.com\/watch?v=CYjtINz7mFg>",
+        "user": "U02UGB8DERY",
+        "ts": "1650053202.039789",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4cda10dd85c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2962250036230_4cda10dd85c264b66a43_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Rajvanshi",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rahulrajvanshi2501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=CYjtINz7mFg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/CYjtINz7mFg\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/CYjtINz7mFg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=CYjtINz7mFg",
+                "fallback": "YouTube Video: The Ultimate Events and Filed Marketing Playbook | s11s DeepDive Sessions | S01E01",
+                "title": "The Ultimate Events and Filed Marketing Playbook | s11s DeepDive Sessions | S01E01",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=CYjtINz7mFg",
+                "author_name": "s11s",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCW51LanOgUD9GWR3yFAS6yA",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ew=Tk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Folks the video is live- "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=CYjtINz7mFg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649913756.724779",
+        "parent_user_id": "U02UGB8DERY",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02V75V0YBX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d736bb77-bec0-458b-ae89-af99aa3bf89b",
+        "type": "message",
+        "text": "<https:\/\/s11s.slack.com\/archives\/C02SC17QD1U\/p1650053202039789?thread_ts=1649913756.724779&amp;cid=C02SC17QD1U|https:\/\/s11s.slack.com\/archives\/C02SC17QD1U\/p1650053202039789?thread_ts=1649913756.724779&amp;cid=C02SC17QD1U>",
+        "user": "U02PDC6B0HH",
+        "ts": "1650065534.132599",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7ce0a422fcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953759554663_b7ce0a422fcdabf5a771_72.jpg",
+            "first_name": "Shafique",
+            "real_name": "Shafique Gajdhar",
+            "display_name": "Shaf",
+            "team": "T02PFK13YLC",
+            "name": "shafiquegajdhar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/s11s.slack.com\/archives\/C02SC17QD1U\/p1650053202039789?thread_ts=1649913756.724779&amp;cid=C02SC17QD1U",
+                "ts": "1650053202.039789",
+                "author_id": "U02UGB8DERY",
+                "channel_team": "T02PFK13YLC",
+                "channel_id": "C02SC17QD1U",
+                "channel_name": "events",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T02PFK13YLC",
+                        "channel": "C02SC17QD1U",
+                        "ts": "1650053202.039789",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "Ew=Tk",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Folks the video is live- "
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/www.youtube.com\/watch?v=CYjtINz7mFg"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/s11s.slack.com\/archives\/C02SC17QD1U\/p1650053202039789?thread_ts=1649913756.724779&amp;cid=C02SC17QD1U",
+                "fallback": "[April 15th, 2022 1:06 PM] rahulrajvanshi2501: Folks the video is live- <https:\/\/www.youtube.com\/watch?v=CYjtINz7mFg>",
+                "text": "Folks the video is live- <https:\/\/www.youtube.com\/watch?v=CYjtINz7mFg>",
+                "author_name": "Rahul Rajvanshi",
+                "author_link": "https:\/\/s11s.slack.com\/team\/U02UGB8DERY",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2962250036230_4cda10dd85c264b66a43_48.jpg",
+                "author_subname": "Rahul Rajvanshi",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "From a thread in #events"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+CrE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/s11s.slack.com\/archives\/C02SC17QD1U\/p1650053202039789?thread_ts=1649913756.724779&cid=C02SC17QD1U",
+                                "text": "https:\/\/s11s.slack.com\/archives\/C02SC17QD1U\/p1650053202039789?thread_ts=1649913756.724779&cid=C02SC17QD1U"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649688022.982259",
+        "parent_user_id": "U0306HUGT6C"
+    },
+    {
+        "client_msg_id": "0e9c6212-a2ec-40f8-8277-08f498dd94a3",
+        "type": "message",
+        "text": "Good things take time. ;)",
+        "user": "U02PDC6B0HH",
+        "ts": "1650065580.737879",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7ce0a422fcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953759554663_b7ce0a422fcdabf5a771_72.jpg",
+            "first_name": "Shafique",
+            "real_name": "Shafique Gajdhar",
+            "display_name": "Shaf",
+            "team": "T02PFK13YLC",
+            "name": "shafiquegajdhar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZIgD8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good things take time. ;)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649688022.982259",
+        "parent_user_id": "U0306HUGT6C"
+    },
+    {
+        "client_msg_id": "df14787b-da7d-4360-b477-f6aad0ef156a",
+        "type": "message",
+        "text": "Cross Posting\n\n<https:\/\/s11s.slack.com\/archives\/C02PS0CGPU1\/p1650079191182989>",
+        "user": "U02UGB8DERY",
+        "ts": "1650079205.927249",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4cda10dd85c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2962250036230_4cda10dd85c264b66a43_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Rajvanshi",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rahulrajvanshi2501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/s11s.slack.com\/archives\/C02PS0CGPU1\/p1650079191182989",
+                "ts": "1650079191.182989",
+                "author_id": "U02UGB8DERY",
+                "channel_team": "T02PFK13YLC",
+                "channel_id": "C02PS0CGPU1",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T02PFK13YLC",
+                        "channel": "C02PS0CGPU1",
+                        "ts": "1650079191.182989",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "Iph",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Confused what to binge on the weekend? "
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "tv"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n\nWe got your back "
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "raised_hands"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\nLast week, We had "
+                                                },
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U038XFCC598"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "Global Field Marketing Lead at VWO ",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "with us on our DeepDive Session.\n\nYou are in for an absolute banger with this one ---> The build up starts with talking about pre and post pandemic event world and the climax with a some controversy "
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "eyes"
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "stuck_out_tongue"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n\nFrom Pre Event Playbook, Booth locations to Measuring Success Paddy has spilled it all.\n\nPost your key takeaways from the session in this thread\n\n"
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/s11s.notion.site\/s11s-DeepDive-Library-137fee0f4a9d4e668d0ccf41d125fb88",
+                                                    "text": "Link to session notes"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n\nSpecial shoutout to "
+                                                },
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U02VBNKU9T6"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U02UMJJJALA"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " Bhavna for their super smart questions.\n\n "
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/www.youtube.com\/watch?v=CYjtINz7mFg"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/s11s.slack.com\/archives\/C02PS0CGPU1\/p1650079191182989",
+                "fallback": "[April 15th, 2022 8:19 PM] rahulrajvanshi2501: Confused what to binge on the weekend? :tv:\n\nWe got your back :raised_hands:\nLast week, We had <@U038XFCC598> *Global Field Marketing Lead at VWO* with us on our DeepDive Session.\n\nYou are in for an absolute banger with this one ---&gt; The build up starts with talking about pre and post pandemic event world and the climax with a some controversy :eyes::stuck_out_tongue:\n\nFrom Pre Event Playbook, Booth locations to Measuring Success Paddy has spilled it all.\n\nPost your key takeaways from the session in this thread\n\n<https:\/\/s11s.notion.site\/s11s-DeepDive-Library-137fee0f4a9d4e668d0ccf41d125fb88|Link to session notes>\n\nSpecial shoutout to <@U02VBNKU9T6> <@U02UMJJJALA> Bhavna for their super smart questions.\n\n <https:\/\/www.youtube.com\/watch?v=CYjtINz7mFg>",
+                "text": "Confused what to binge on the weekend? :tv:\n\nWe got your back :raised_hands:\nLast week, We had <@U038XFCC598> *Global Field Marketing Lead at VWO* with us on our DeepDive Session.\n\nYou are in for an absolute banger with this one ---&gt; The build up starts with talking about pre and post pandemic event world and the climax with a some controversy :eyes::stuck_out_tongue:\n\nFrom Pre Event Playbook, Booth locations to Measuring Success Paddy has spilled it all.\n\nPost your key takeaways from the session in this thread\n\n<https:\/\/s11s.notion.site\/s11s-DeepDive-Library-137fee0f4a9d4e668d0ccf41d125fb88|Link to session notes>\n\nSpecial shoutout to <@U02VBNKU9T6> <@U02UMJJJALA> Bhavna for their super smart questions.\n\n <https:\/\/www.youtube.com\/watch?v=CYjtINz7mFg>",
+                "author_name": "Rahul Rajvanshi",
+                "author_link": "https:\/\/s11s.slack.com\/team\/U02UGB8DERY",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2962250036230_4cda10dd85c264b66a43_48.jpg",
+                "author_subname": "Rahul Rajvanshi",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Posted in #general"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eGW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cross Posting\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/s11s.slack.com\/archives\/C02PS0CGPU1\/p1650079191182989"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

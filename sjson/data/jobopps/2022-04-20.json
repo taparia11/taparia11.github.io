@@ -1,0 +1,980 @@
+[
+    {
+        "client_msg_id": "68a52f2a-7f2e-4eb8-9012-f566ce172381",
+        "type": "message",
+        "text": "Looking for kickass copywriters for a skincare\/cosmetics brand who can write quirky, witty and 'punny' copies. Please connect in DM for more details.",
+        "user": "U039X1ZS1QA",
+        "ts": "1650458256.273619",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "6c0a330ef0bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3334191206165_6c0a330ef0bc71cc5278_72.jpg",
+            "first_name": "Dishant",
+            "real_name": "Dishant Shah",
+            "display_name": "Dishant Shah",
+            "team": "T02PFK13YLC",
+            "name": "adishantshah996",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aCm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looking for kickass copywriters for a skincare\/cosmetics brand who can write quirky, witty and 'punny' copies. Please connect in DM for more details."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "228c6777-8539-488d-b7a1-b49aacfd4d06",
+        "type": "message",
+        "text": "<!channel>\n\nThe <#C02S4318139|jobopps> channel has been a lawless land for long. All of us, including me have posted jobs in any format under the sun.\n\nIt's changing right now.\n\nHere's the format that needs to be followed for all job postings in the community:\n\n1. Name of company:\n\n2. Name of role:\n\n3. Years of experience:\n\n3. Current team composition:\n\n4. Location:\n\n5. Answers to the following 3 questions:\n5.1 _What do you envision the role will do in the first year?_\n_5.2 What will the role be measured on?_\n_5.3 What's the annual marketing budget range?_\n\n6. Compensation Range:\n\nWe are going to be strict about it. s11s is a curated place and we need to ensure quality in every last bit of this wonderful place.\n\nLet people put some efforts to hire the awesome folks here.",
+        "user": "U02TTEFFU6B",
+        "ts": "1650466669.211459",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02TTEFFU6B",
+            "ts": "1650467775.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2lJEX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThe "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C02S4318139"
+                            },
+                            {
+                                "type": "text",
+                                "text": " channel has been a lawless land for long. All of us, including me have posted jobs in any format under the sun.\n\nIt's changing right now.\n\nHere's the format that needs to be followed for all job postings in the community:\n\n1. Name of company:\n\n2. Name of role:\n\n3. Years of experience:\n\n3. Current team composition:\n\n4. Location:\n\n5. Answers to the following 3 questions:\n5.1 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "What do you envision the role will do in the first year?",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "5.2 What will the role be measured on?",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "5.3 What's the annual marketing budget range?",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n6. Compensation Range:\n\nWe are going to be strict about it. s11s is a curated place and we need to ensure quality in every last bit of this wonderful place.\n\nLet people put some efforts to hire the awesome folks here."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650466669.211459",
+        "reply_count": 9,
+        "reply_users_count": 5,
+        "latest_reply": "1650470760.006579",
+        "reply_users": [
+            "U02PDC4883V",
+            "U031QKGPNRK",
+            "U030SNYHK6Y",
+            "U02USELSBRT",
+            "U02TTEFFU6B"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650466888.311619"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1650468942.549189"
+            },
+            {
+                "user": "U030SNYHK6Y",
+                "ts": "1650468987.114799"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650470156.256249"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1650470339.932339"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650470512.419329"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650470673.806389"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1650470707.668849"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650470760.006579"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1650470760.006579",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U02UQBQQBPD",
+                    "U03ATMUD19N",
+                    "U02PDC4883V",
+                    "U02VA7QD8UB",
+                    "U02V75V0YBX",
+                    "U02U94HSBV4",
+                    "U0304KT4H9P",
+                    "U035MU5PNJE",
+                    "U02V2TXVBHC",
+                    "U035TCX7KK4",
+                    "U03915VTVJT",
+                    "U031N0916KH",
+                    "U0316818QSH",
+                    "U03036PMXRB",
+                    "U02UUCE1ASD",
+                    "U035NQM5BNX",
+                    "U039D6T7U77",
+                    "U02UFQWH2EP",
+                    "U03A397SJCF",
+                    "U037FS1PPRV",
+                    "U031MKKKZC2",
+                    "U02UM9MNGNP",
+                    "U034ZT60QGY",
+                    "U03A1M1L0PR",
+                    "U02UR4US4MA",
+                    "U030V8ENMS6",
+                    "U035NH9AL6N",
+                    "U030QT8S084",
+                    "U0313KCLG8N",
+                    "U02V5Q6P716",
+                    "U030C4GTWA3",
+                    "U031MMSEG4T",
+                    "U033QDFML74",
+                    "U030N8RHURZ",
+                    "U03996E48LB",
+                    "U039HH3LP43",
+                    "U02VAM808KV",
+                    "U038GCYAUB1",
+                    "U03AAV077DL"
+                ],
+                "count": 39
+            },
+            {
+                "name": "gratitude-thank-you",
+                "users": [
+                    "U03560PQ082",
+                    "U02PDC4883V",
+                    "U0308SXEVKK",
+                    "U02V75V0YBX",
+                    "U035MU5PNJE",
+                    "U031C9GJAQ4",
+                    "U02V2SRR9J9",
+                    "U03036PMXRB",
+                    "U031MKKKZC2",
+                    "U031QKGPNRK",
+                    "U0352SBJFGW",
+                    "U02UM9MNGNP",
+                    "U031MMSEG4T",
+                    "U03996E48LB",
+                    "U031NC9B67L",
+                    "U02VAM808KV"
+                ],
+                "count": 16
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U02V9QUDK1Q",
+                    "U0304KT4H9P",
+                    "U035MU5PNJE",
+                    "U02U6EZL5LP",
+                    "U0306R6HSKE",
+                    "U03ATMUD19N",
+                    "U033ASE526S",
+                    "U038CQ4E9SQ",
+                    "U02V2SRR9J9",
+                    "U03A45Y003V",
+                    "U035MLQ3527",
+                    "U0325QQQALR",
+                    "U03036PMXRB",
+                    "U032BCX5GAU",
+                    "U02UMAAUQMQ",
+                    "U031P3UUGN4",
+                    "U031MKKKZC2",
+                    "U031QKGPNRK",
+                    "U034ZT60QGY",
+                    "U031MMSEG4T",
+                    "U0311PN6BN2",
+                    "U031AUATXA4",
+                    "U03CUKHKUFJ",
+                    "U03996E48LB",
+                    "U030XB8C43Y",
+                    "U02VAM808KV",
+                    "U033MGAAL1K",
+                    "U0361UQSKGQ"
+                ],
+                "count": 28
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U035FUA98B0",
+                    "U035MU5PNJE",
+                    "U039FQ2SNNN",
+                    "U030PKX9BC5",
+                    "U038CQ4E9SQ",
+                    "U035SR6DNQ6",
+                    "U0306P63UMD",
+                    "U03ANUA5XN0",
+                    "U02URBKGVA7",
+                    "U03036PMXRB",
+                    "U0308538GDQ",
+                    "U032MN1BESJ",
+                    "U0380S2BZ9A",
+                    "U035RDGB2CU",
+                    "U030JDEFDCY",
+                    "U030E27CBB3",
+                    "U03BZJ0KK1R",
+                    "U0379TDK6NM",
+                    "U02VAM808KV"
+                ],
+                "count": 19
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U0309K0261Z",
+                    "U035MU5PNJE",
+                    "U02V1L48RFH",
+                    "U0316818QSH",
+                    "U039PF71127",
+                    "U03036PMXRB",
+                    "U037FPB8RNK",
+                    "U03A1M1L0PR",
+                    "U0307ASQMU1",
+                    "U0361UQSKGQ"
+                ],
+                "count": 10
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U0309K0261Z",
+                    "U035MU5PNJE",
+                    "U03036PMXRB",
+                    "U02UMCVUFGT"
+                ],
+                "count": 4
+            },
+            {
+                "name": "v",
+                "users": [
+                    "U02V8KAHXFD",
+                    "U031G83CGCQ",
+                    "U036DTKS6KX",
+                    "U03036PMXRB",
+                    "U031MMSEG4T"
+                ],
+                "count": 5
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U0325QQQALR",
+                    "U03036PMXRB",
+                    "U03AEUS8L7P",
+                    "U02UJ3N39PF",
+                    "U02V8NZMWSX",
+                    "U031QKGPNRK",
+                    "U0352SBJFGW",
+                    "U038XFCC598",
+                    "U030V8ENMS6",
+                    "U031MMSEG4T",
+                    "U0361UQSKGQ"
+                ],
+                "count": 11
+            },
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U0362R42317"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray::skin-tone-3",
+                "users": [
+                    "U031QKGPNRK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U031QKGPNRK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U031QKGPNRK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "clap::skin-tone-3",
+                "users": [
+                    "U031QKGPNRK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "v::skin-tone-3",
+                "users": [
+                    "U031QKGPNRK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray::skin-tone-5",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            },
+            {
+                "name": "verified",
+                "users": [
+                    "U03AHQURB98",
+                    "U02UZL0FMC1",
+                    "U031MMSEG4T"
+                ],
+                "count": 3
+            },
+            {
+                "name": "pray::skin-tone-2",
+                "users": [
+                    "U02UHTMEGR3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d2a90a78-b858-4be3-b494-b48c9e32e37f",
+        "type": "message",
+        "text": "This is not meant as a discouragement to folks posting. If you are not sure how to frame your openings, please reach out to us on <#C035C8Q7BGX|admin-public> or individually - we will help!",
+        "user": "U02PDC4883V",
+        "ts": "1650466888.311619",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TA+w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is not meant as a discouragement to folks posting. If you are not sure how to frame your openings, please reach out to us on "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C035C8Q7BGX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or individually - we will help!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650466669.211459",
+        "parent_user_id": "U02TTEFFU6B",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U02TTEFFU6B",
+                    "U037UUE6TV3",
+                    "U02UQBQQBPD",
+                    "U030M1LS1L2",
+                    "U030SNYHK6Y",
+                    "U02ULN6EFNV",
+                    "U0391HCG5ST",
+                    "U030C4GTWA3"
+                ],
+                "count": 8
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U0316818QSH",
+                    "U02UQBQQBPD",
+                    "U02ULN6EFNV"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "85c50fda-cab4-4d6c-a2f4-9f3973250f20",
+        "type": "message",
+        "text": "#Community moderation and enablement FTW",
+        "user": "U031QKGPNRK",
+        "ts": "1650468942.549189",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YU0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#Community moderation and enablement FTW"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650466669.211459",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "1f13234e-de90-4d6f-aa50-642347dc9fc1",
+        "type": "message",
+        "text": "<@U02PDC4883V> reaching out to you on this",
+        "user": "U030SNYHK6Y",
+        "ts": "1650468987.114799",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "0acbaaa9732b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-30\/3051885924576_0acbaaa9732b0983db67_72.jpg",
+            "first_name": "Ankur",
+            "real_name": "Ankur (LongShot.ai - AI system for long form content)",
+            "display_name": "Ankur (LongShot.ai - AI system for long form content)",
+            "team": "T02PFK13YLC",
+            "name": "ankur",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iNF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02PDC4883V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " reaching out to you on this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650466669.211459",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "4B90C183-E279-4FC7-ADCD-F75C858C5297",
+        "type": "message",
+        "text": "So no more “looking for content marketing interns”? :D",
+        "user": "U02USELSBRT",
+        "ts": "1650470156.256249",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vI5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So no more “looking for content marketing interns”? :D"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650466669.211459",
+        "parent_user_id": "U02TTEFFU6B",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U031QKGPNRK",
+                    "U02TTEFFU6B",
+                    "U030SDYNX7V",
+                    "U02ULN6EFNV",
+                    "U030C4GTWA3",
+                    "U02VBDXNA3E"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d4e88899-11c3-4a97-a875-3f9134f834f1",
+        "type": "message",
+        "text": "Hopefully",
+        "user": "U02TTEFFU6B",
+        "ts": "1650470339.932339",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P58",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hopefully"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650466669.211459",
+        "parent_user_id": "U02TTEFFU6B",
+        "reactions": [
+            {
+                "name": "anatomical_heart",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3D64E226-4F7B-4447-8D87-3D04F6D32555",
+        "type": "message",
+        "text": "Whenever I think of hope, I think of Morgan Freeman and then life looks sorted",
+        "user": "U02USELSBRT",
+        "ts": "1650470512.419329",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QJx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Whenever I think of hope, I think of Morgan Freeman and then life looks sorted"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650466669.211459",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "8899BB15-D9E1-4635-BD14-5F19CC3393BD",
+        "type": "message",
+        "text": "<@U02TTEFFU6B> suggestion to make this seamless. Make a google form and link the response spreadsheet to post to jobopps slack channel using basic automation. If you have a structured way to collect the input you remove any cognitive load from the posters end to remember the format. Win-win.",
+        "user": "U02USELSBRT",
+        "ts": "1650470673.806389",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lnu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02TTEFFU6B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " suggestion to make this seamless. Make a google form and link the response spreadsheet to post to jobopps slack channel using basic automation. If you have a structured way to collect the input you remove any cognitive load from the posters end to remember the format. Win-win."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650466669.211459",
+        "parent_user_id": "U02TTEFFU6B",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02UMB0T7BM",
+                    "U030C4GTWA3",
+                    "U02URBKGVA7",
+                    "U02UY3EPQDA",
+                    "U0304KT4H9P",
+                    "U02VAM808KV"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0c38017d-667c-4ecc-994f-6f572e09047e",
+        "type": "message",
+        "text": "I don't know how to do any of that. Help please?",
+        "user": "U02TTEFFU6B",
+        "ts": "1650470707.668849",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8xe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't know how to do any of that. Help please?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650466669.211459",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "260DF674-74A7-46B9-B690-040CE4ED9561",
+        "type": "message",
+        "text": "Haan sure. Form banao. Will help in second part. Also having this data in spreadsheet means easily indexable, searchable, sortable database of open jobs",
+        "user": "U02USELSBRT",
+        "ts": "1650470760.006579",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XDXm6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Haan sure. Form banao. Will help in second part. Also having this data in spreadsheet means easily indexable, searchable, sortable database of open jobs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650466669.211459",
+        "parent_user_id": "U02TTEFFU6B",
+        "reactions": [
+            {
+                "name": "trophy",
+                "users": [
+                    "U02TTEFFU6B",
+                    "U02URBKGVA7",
+                    "U030SHA1S2W"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ABF460BD-2306-4312-9A79-E46033A42D2A",
+        "type": "message",
+        "text": "You can connect with both don't be content and WittyPen, I believe both have covered e-commerce space before. DM me if you need details. ",
+        "user": "U030E27CBB3",
+        "ts": "1650472834.921609",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "ec5003a1e337",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/3003735647700_ec5003a1e337e1285f09_72.jpg",
+            "first_name": "Sooraj",
+            "real_name": "Sooraj Divakaran",
+            "display_name": "Sooraj",
+            "team": "T02PFK13YLC",
+            "name": "soorajdivakaran",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VEe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can connect with both don't be content and WittyPen, I believe both have covered e-commerce space before. DM me if you need details. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649918353.086179",
+        "parent_user_id": "U02V5RTEAA1",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U031KD0PNTX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C9469043-9376-48FE-B0F1-9B75D855A3E5",
+        "type": "message",
+        "text": "Hey Gautham! You can explore Prodraft for sure. We specialise in bulk content delivery. I feel you should definitely connect with <@U039X1ZS1QA> if not done already :grin: Have a great day! ",
+        "user": "U03CDCJ6W12",
+        "ts": "1650518709.409979",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7edfcf3b60c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-20\/3416201144005_b7edfcf3b60c665cf23a_72.jpg",
+            "first_name": "Shreya",
+            "real_name": "Shreya Ananth",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "shreyaananth77",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aXxlO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Gautham! You can explore Prodraft for sure. We specialise in bulk content delivery. I feel you should definitely connect with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U039X1ZS1QA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if not done already "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Have a great day! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649918353.086179",
+        "parent_user_id": "U02V5RTEAA1"
+    }
+]

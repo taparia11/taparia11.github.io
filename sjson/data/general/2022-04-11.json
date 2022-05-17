@@ -1,0 +1,2261 @@
+[
+    {
+        "client_msg_id": "30a4715e-3638-4db7-9066-1e65664bdd15",
+        "type": "message",
+        "text": "Hey Ankit. All requests to admins can be made at <#C035C8Q7BGX|admin-public> channel.",
+        "user": "U02TTEFFU6B",
+        "ts": "1649660762.356159",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dc2r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Ankit. All requests to admins can be made at "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C035C8Q7BGX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " channel."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649660224.349869",
+        "parent_user_id": "U03AQFPP9BL"
+    },
+    {
+        "client_msg_id": "41400dda-cc52-44c1-bcc4-ac6dbf5de886",
+        "type": "message",
+        "text": "Awesome!",
+        "user": "U03AQFPP9BL",
+        "ts": "1649661579.882759",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c9b2329e7c08",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-08\/3377148716193_c9b2329e7c08a95503a8_72.png",
+            "first_name": "Ankit",
+            "real_name": "Ankit Prakash",
+            "display_name": "Ankit Prakash",
+            "team": "T02PFK13YLC",
+            "name": "ankitpr89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xgeL=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649660224.349869",
+        "parent_user_id": "U03AQFPP9BL"
+    },
+    {
+        "client_msg_id": "88568863-23f0-4a8a-bab3-7ee365916819",
+        "type": "message",
+        "text": "better late than never. exciting space <@U03AQFPP9BL>, why don't you start and we will chime in?",
+        "user": "U02USELSBRT",
+        "ts": "1649661581.412599",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jmeJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "better late than never. exciting space "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03AQFPP9BL"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", why don't you start and we will chime in?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649660224.349869",
+        "parent_user_id": "U03AQFPP9BL"
+    },
+    {
+        "client_msg_id": "3d08cc3f-1fc5-431a-85d7-8858aea248ff",
+        "type": "message",
+        "text": "<@U039FQ2SNNN> - Let’s do a dog food cooking meetup sometime. ROI: half the effort in cooking, double the thoughts while staring at the ceiling. CTA: DM to Learn more",
+        "user": "U031KD0PNTX",
+        "ts": "1649661717.210449",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "d8e3a1cc6ed8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3305635315237_d8e3a1cc6ed88c5c929a_72.jpg",
+            "first_name": "Anand",
+            "real_name": "Anand",
+            "display_name": "theanand",
+            "team": "T02PFK13YLC",
+            "name": "anand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dFo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039FQ2SNNN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Let’s do a dog food cooking meetup sometime. ROI: half the effort in cooking, double the thoughts while staring at the ceiling. CTA: DM to Learn more"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649588243.079299",
+        "parent_user_id": "U031JS3RF0V",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U039FQ2SNNN",
+                    "U030N8RHURZ",
+                    "U039HVCS1LL"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d011f13d-ccc6-4b76-b7d4-f404d007b529",
+        "type": "message",
+        "text": "Hey folks. Have you seen success with gift-card for demo ads in the US?\n\nAny gift card vendors you trust?",
+        "user": "U02TTEFFU6B",
+        "ts": "1649671196.125889",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uwJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey folks. Have you seen success with gift-card for demo ads in the US?\n\nAny gift card vendors you trust?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649671196.125889",
+        "reply_count": 20,
+        "reply_users_count": 10,
+        "latest_reply": "1649763683.292909",
+        "reply_users": [
+            "U02UFNZS7NW",
+            "U02TTEFFU6B",
+            "U0306HUGT6C",
+            "U02UMJJJALA",
+            "U02USELSBRT",
+            "U02VBNKU9T6",
+            "U02UGB8DERY",
+            "U037UUE6TV3",
+            "U03A2UNJJDD",
+            "U037VSS964S"
+        ],
+        "replies": [
+            {
+                "user": "U02UFNZS7NW",
+                "ts": "1649671340.872139"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649671473.737469"
+            },
+            {
+                "user": "U0306HUGT6C",
+                "ts": "1649671795.936889"
+            },
+            {
+                "user": "U02UFNZS7NW",
+                "ts": "1649672363.663819"
+            },
+            {
+                "user": "U0306HUGT6C",
+                "ts": "1649672535.957209"
+            },
+            {
+                "user": "U02UFNZS7NW",
+                "ts": "1649672719.775319"
+            },
+            {
+                "user": "U0306HUGT6C",
+                "ts": "1649672916.614639"
+            },
+            {
+                "user": "U02UMJJJALA",
+                "ts": "1649677449.331939"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649677866.471739"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649678565.249559"
+            },
+            {
+                "user": "U02UFNZS7NW",
+                "ts": "1649679030.263909"
+            },
+            {
+                "user": "U02VBNKU9T6",
+                "ts": "1649680672.900439"
+            },
+            {
+                "user": "U02VBNKU9T6",
+                "ts": "1649680707.694299"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649681396.754109"
+            },
+            {
+                "user": "U02UGB8DERY",
+                "ts": "1649683541.275159"
+            },
+            {
+                "user": "U037UUE6TV3",
+                "ts": "1649684637.259809"
+            },
+            {
+                "user": "U0306HUGT6C",
+                "ts": "1649687127.406789"
+            },
+            {
+                "user": "U03A2UNJJDD",
+                "ts": "1649689270.777309"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649689572.433509"
+            },
+            {
+                "user": "U037VSS964S",
+                "ts": "1649763683.292909"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "eb84b5c4-11e3-40a3-97d3-cf5b684d6958",
+        "type": "message",
+        "text": "Used Alyce to send gift cards for demo purpose, worked really great. (platform price is a bit expensive)",
+        "user": "U02UFNZS7NW",
+        "ts": "1649671340.872139",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "79df0bfa30a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-11\/3365716984182_79df0bfa30a8e1910865_72.png",
+            "first_name": "Ankit",
+            "real_name": "Ankit Bishnu Dash",
+            "display_name": "ABD",
+            "team": "T02PFK13YLC",
+            "name": "ankitbishnudash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aUJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Used Alyce to send gift cards for demo purpose, worked really great. (platform price is a bit expensive)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649671196.125889",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "98c311b5-2e35-4130-a0f3-ef2ab5fff032",
+        "type": "message",
+        "text": "Thanks ABD",
+        "user": "U02TTEFFU6B",
+        "ts": "1649671473.737469",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XAt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks ABD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649671196.125889",
+        "parent_user_id": "U02TTEFFU6B",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U030N8RHURZ",
+                    "U02PDC4883V",
+                    "U02UFNZS7NW"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a9a445a3-eb29-4a49-8fc7-8488a665aae4",
+        "type": "message",
+        "text": "Heard of Sendoso but I have not used",
+        "user": "U0306HUGT6C",
+        "ts": "1649671795.936889",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "67b7c6606731",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-21\/2990844434084_67b7c6606731aad40c13_72.jpg",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Mirashi",
+            "display_name": "Nikhil Mirashi",
+            "team": "T02PFK13YLC",
+            "name": "cutenik85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mUv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Heard of Sendoso but I have not used"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649671196.125889",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "95075247-4882-4be7-b673-daf65d527200",
+        "type": "message",
+        "text": "<@U0306HUGT6C> - for us, sendoso worked great in UK region.",
+        "user": "U02UFNZS7NW",
+        "ts": "1649672363.663819",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "79df0bfa30a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-11\/3365716984182_79df0bfa30a8e1910865_72.png",
+            "first_name": "Ankit",
+            "real_name": "Ankit Bishnu Dash",
+            "display_name": "ABD",
+            "team": "T02PFK13YLC",
+            "name": "ankitbishnudash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J4Gl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0306HUGT6C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - for us, sendoso worked great in UK region."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649671196.125889",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "58df0a00-6753-4cf2-990b-e0cbc2087f56",
+        "type": "message",
+        "text": "Playing the devil's advocate- I always feel that isnt gifting a bribe to get people to sit on a demo? Would you get a lot of junk leads or poor conversion from demo to opp to customer? Keen to see what the experience has been?",
+        "user": "U0306HUGT6C",
+        "ts": "1649672535.957209",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "67b7c6606731",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-21\/2990844434084_67b7c6606731aad40c13_72.jpg",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Mirashi",
+            "display_name": "Nikhil Mirashi",
+            "team": "T02PFK13YLC",
+            "name": "cutenik85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I4df",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Playing the devil's advocate- I always feel that isnt gifting a bribe to get people to sit on a demo? Would you get a lot of junk leads or poor conversion from demo to opp to customer? Keen to see what the experience has been?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649671196.125889",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "4cdf53ea-3dc1-4057-85ed-8db725a6c281",
+        "type": "message",
+        "text": "Depends, usually we send gift cards to those who are in the advanced stage in the process or to someone in the decision making position or to someone who showed interest in the past but went cold somewhere (I am talking from ABM perspective).",
+        "user": "U02UFNZS7NW",
+        "ts": "1649672719.775319",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "79df0bfa30a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-11\/3365716984182_79df0bfa30a8e1910865_72.png",
+            "first_name": "Ankit",
+            "real_name": "Ankit Bishnu Dash",
+            "display_name": "ABD",
+            "team": "T02PFK13YLC",
+            "name": "ankitbishnudash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qob9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Depends, usually we send gift cards to those who are in the advanced stage in the process or to someone in the decision making position or to someone who showed interest in the past but went cold somewhere (I am talking from ABM perspective)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649671196.125889",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "4a74c7e6-7f22-4612-9b4f-d45ca21b1339",
+        "type": "message",
+        "text": "ok",
+        "user": "U0306HUGT6C",
+        "ts": "1649672916.614639",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "67b7c6606731",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-21\/2990844434084_67b7c6606731aad40c13_72.jpg",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Mirashi",
+            "display_name": "Nikhil Mirashi",
+            "team": "T02PFK13YLC",
+            "name": "cutenik85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dl3X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649671196.125889",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "e947ca7f-eddb-4927-815a-54e0b877e193",
+        "type": "message",
+        "text": "Alyce, Alyce, go the fuck for Alyce :slightly_smiling_face:. We are using Alyce and the experience has been very good.",
+        "user": "U02UMJJJALA",
+        "ts": "1649677449.331939",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9b9817ebeca8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-19\/2973660754755_9b9817ebeca8c211a97a_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Nair",
+            "display_name": "Rahul Nair",
+            "team": "T02PFK13YLC",
+            "name": "rahultheinvader",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NriDX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Alyce, Alyce, go the fuck for Alyce "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". We are using Alyce and the experience has been very good."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649671196.125889",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "2493f6a4-28f0-4b6e-b741-403883b70248",
+        "type": "message",
+        "text": "<@U0306HUGT6C> In order to solve for unwanted leads, I've seen companies do a check for the leads internally for industry\/job title fitment before releasing the gift.",
+        "user": "U02USELSBRT",
+        "ts": "1649677866.471739",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Ds",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0306HUGT6C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " In order to solve for unwanted leads, I've seen companies do a check for the leads internally for industry\/job title fitment before releasing the gift."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649671196.125889",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "7e5eed57-7648-4ade-9cdb-3f38c77bdc32",
+        "type": "message",
+        "text": "<@U02UMJJJALA> <@U02UFNZS7NW> what was the avg pricing per gift?",
+        "user": "U02USELSBRT",
+        "ts": "1649678565.249559",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KbPvW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02UMJJJALA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02UFNZS7NW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " what was the avg pricing per gift?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649671196.125889",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "b6c98c56-e82d-474d-b843-817ccc41b858",
+        "type": "message",
+        "text": "110 usd se start",
+        "user": "U02UFNZS7NW",
+        "ts": "1649679030.263909",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "79df0bfa30a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-11\/3365716984182_79df0bfa30a8e1910865_72.png",
+            "first_name": "Ankit",
+            "real_name": "Ankit Bishnu Dash",
+            "display_name": "ABD",
+            "team": "T02PFK13YLC",
+            "name": "ankitbishnudash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z9A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "110 usd se start"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649671196.125889",
+        "parent_user_id": "U02TTEFFU6B",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3CA24C59-5855-4702-AC06-AD7A1E2DA12E",
+        "type": "message",
+        "text": "Close your eyes and go with EvaBot <@U02TTEFFU6B> ",
+        "user": "U02VBNKU9T6",
+        "ts": "1649680672.900439",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "cb0a1d3d83f2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/3008104796193_cb0a1d3d83f2e60942d4_72.jpg",
+            "first_name": "Ketan",
+            "real_name": "Ketan Pandit",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "ketan.pandit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "flOt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Close your eyes and go with EvaBot "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02TTEFFU6B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649671196.125889",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "1D031B74-D4DF-4FCB-8814-FD6A1D566748",
+        "type": "message",
+        "text": "I can introduce you to the founders if you want. ",
+        "user": "U02VBNKU9T6",
+        "ts": "1649680707.694299",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "cb0a1d3d83f2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/3008104796193_cb0a1d3d83f2e60942d4_72.jpg",
+            "first_name": "Ketan",
+            "real_name": "Ketan Pandit",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "ketan.pandit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tVBS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can introduce you to the founders if you want. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649671196.125889",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "82cdaaa8-4206-48c9-bbc3-2d96a7621465",
+        "type": "message",
+        "text": "<@U039FQ2SNNN> <@U031KD0PNTX> - Let me also be a part of the dog food cooking meetup. I have the picky-est eater who only eats freshly cooked food 3 times a day. :smile:",
+        "user": "U039HVCS1LL",
+        "ts": "1649681196.041649",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "155d15175e73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-30\/3307059602135_155d15175e73e1b8f169_72.jpg",
+            "first_name": "Priyanka",
+            "real_name": "Priyanka Desai",
+            "display_name": "Priyanka Desai",
+            "team": "T02PFK13YLC",
+            "name": "priyanka261990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QqA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039FQ2SNNN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U031KD0PNTX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Let me also be a part of the dog food cooking meetup. I have the picky-est eater who only eats freshly cooked food 3 times a day. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649588243.079299",
+        "parent_user_id": "U031JS3RF0V",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U039FQ2SNNN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "23a07ee7-df02-46e0-93bc-1ac6870f05dc",
+        "type": "message",
+        "text": "Looks interesting. Will come back to this <@U02VBNKU9T6>",
+        "user": "U02TTEFFU6B",
+        "ts": "1649681396.754109",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "68vcY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks interesting. Will come back to this "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02VBNKU9T6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649671196.125889",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "bf4c588c-48a4-4a4c-881f-6315de1725ec",
+        "type": "message",
+        "text": "<@U031KD0PNTX> <@U039HVCS1LL> a meetup sounds good but meeting up to cook food for the dog sounds like more work LOL. Would rather step out for a bite\/coffee\/drinks!",
+        "user": "U039FQ2SNNN",
+        "ts": "1649682246.717609",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9bb6d1a8280e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-30\/3321818966962_9bb6d1a8280e6c254c07_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rohitguptatoday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BZn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U031KD0PNTX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U039HVCS1LL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a meetup sounds good but meeting up to cook food for the dog sounds like more work LOL. Would rather step out for a bite\/coffee\/drinks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649588243.079299",
+        "parent_user_id": "U031JS3RF0V"
+    },
+    {
+        "client_msg_id": "0a67f006-f271-4cee-955c-a4a226ef44a3",
+        "type": "message",
+        "text": ":laughing: I am totally happy with the latter. :smile:",
+        "user": "U039HVCS1LL",
+        "ts": "1649682899.048489",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "155d15175e73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-30\/3307059602135_155d15175e73e1b8f169_72.jpg",
+            "first_name": "Priyanka",
+            "real_name": "Priyanka Desai",
+            "display_name": "Priyanka Desai",
+            "team": "T02PFK13YLC",
+            "name": "priyanka261990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VhE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "laughing"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I am totally happy with the latter. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649588243.079299",
+        "parent_user_id": "U031JS3RF0V",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U031KD0PNTX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2e0bca31-3e12-4bc4-8368-fe30b619065f",
+        "type": "message",
+        "text": "<@U037UUE6TV3> What was the alternative we used at Outplay which had comparatively generous pricing? Evabot was it?",
+        "user": "U02UGB8DERY",
+        "ts": "1649683541.275159",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4cda10dd85c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2962250036230_4cda10dd85c264b66a43_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Rajvanshi",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rahulrajvanshi2501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z8vbJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U037UUE6TV3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " What was the alternative we used at Outplay which had comparatively generous pricing? Evabot was it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649671196.125889",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "57ddda84-ab7b-47ae-ab67-3a46d65d7199",
+        "type": "message",
+        "text": "Yes, but we did not have a smooth experience with the product.\n\nThe team was earnest in fixing bugs &amp; owning up to mistakes though.\n\n<@U02VBNKU9T6> were you doing gift cards or physical gifts?",
+        "user": "U037UUE6TV3",
+        "ts": "1649684637.259809",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "934b4d6b1287",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-21\/3283947705889_934b4d6b128773575732_72.png",
+            "first_name": "Shobhit",
+            "real_name": "Shobhit Gaur",
+            "display_name": "Shobhit Gaur",
+            "team": "T02PFK13YLC",
+            "name": "shbhtgr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lKoOF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, but we did not have a smooth experience with the product.\n\nThe team was earnest in fixing bugs & owning up to mistakes though.\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02VBNKU9T6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " were you doing gift cards or physical gifts?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649671196.125889",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "161f3058-3685-4280-88fe-a39d753d4ff6",
+        "type": "message",
+        "text": "But checking for leads before releasing gift sounds weird - someone would have signed up just to receive gift. Not gifting them would be disastrous after promising. What was the playbook?",
+        "user": "U0306HUGT6C",
+        "ts": "1649687127.406789",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "67b7c6606731",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-21\/2990844434084_67b7c6606731aad40c13_72.jpg",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Mirashi",
+            "display_name": "Nikhil Mirashi",
+            "team": "T02PFK13YLC",
+            "name": "cutenik85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qkS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But checking for leads before releasing gift sounds weird - someone would have signed up just to receive gift. Not gifting them would be disastrous after promising. What was the playbook?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649671196.125889",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "aee5ce18-c719-4c3b-b0e4-4a2e253c1891",
+        "type": "message",
+        "text": "check out Tango Cards. they work with Gartner and are pretty reliable.",
+        "user": "U03A2UNJJDD",
+        "ts": "1649689270.777309",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "91a4f79ca4fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3342983706615_91a4f79ca4fe220decc9_72.jpg",
+            "first_name": "Chirag",
+            "real_name": "Chirag Parmar",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "chiragparmar.marketin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Chm6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "check out Tango Cards. they work with Gartner and are pretty reliable."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649671196.125889",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "8de0ecee-991e-4b87-b5a6-aaae4f8fb50b",
+        "type": "message",
+        "text": "<@U0306HUGT6C> it's not weird if they say we'll send you a gift if you meet our persona, so setting expectations upfront",
+        "user": "U02USELSBRT",
+        "ts": "1649689572.433509",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6TU8n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0306HUGT6C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " it's not weird if they say we'll send you a gift if you meet our persona, so setting expectations upfront"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649671196.125889",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "type": "message",
+        "text": "Experts on Product Hunt, how do you get a prominent feature in the PH digest like this?",
+        "files": [
+            {
+                "id": "F03B3J1AMU3",
+                "created": 1649736946,
+                "timestamp": 1649736946,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02TTEFFU6B",
+                "editable": false,
+                "size": 231176,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03B3J1AMU3\/image.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03B3J1AMU3\/download\/image.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B3J1AMU3-894afaab9c\/image_64.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B3J1AMU3-894afaab9c\/image_80.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B3J1AMU3-894afaab9c\/image_360.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 360,
+                "thumb_360_h": 230,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B3J1AMU3-894afaab9c\/image_480.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 480,
+                "thumb_480_h": 306,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B3J1AMU3-894afaab9c\/image_160.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B3J1AMU3-894afaab9c\/image_720.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720_w": 720,
+                "thumb_720_h": 459,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B3J1AMU3-894afaab9c\/image_800.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_800_w": 800,
+                "thumb_800_h": 510,
+                "original_w": 856,
+                "original_h": 546,
+                "thumb_tiny": "AwAeADDQ2e9KFApaY0e6RXyfloAkGBRSUnOOlADqKaMkZIK+2aWgApDzxkj3FLSE4oAaAT\/Ew\/EUAersDj1FOwKMc+1ACBT\/AH2\/Sl3ZOMds0jDPOSMUi\/6zk5+X+tAH\/9k=",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U02TTEFFU6B\/F03B3J1AMU3\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03B3J1AMU3-f646270afd",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02TTEFFU6B",
+        "display_as_bot": false,
+        "ts": "1649736950.551829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QAUpI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Experts on Product Hunt, how do you get a prominent feature in the PH digest like this?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "303ed0f8-9d46-42e7-bbe3-9b5ca3e7cec3",
+        "thread_ts": "1649736950.551829",
+        "reply_count": 10,
+        "reply_users_count": 3,
+        "latest_reply": "1649749011.096179",
+        "reply_users": [
+            "U02TTEFFU6B",
+            "U02USELSBRT",
+            "U02V9QUDK1Q"
+        ],
+        "replies": [
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649736957.860369"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649737141.686739"
+            },
+            {
+                "user": "U02V9QUDK1Q",
+                "ts": "1649737237.947529"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649737297.170079"
+            },
+            {
+                "user": "U02V9QUDK1Q",
+                "ts": "1649737311.883109"
+            },
+            {
+                "user": "U02V9QUDK1Q",
+                "ts": "1649737521.791819"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649737539.294419"
+            },
+            {
+                "user": "U02V9QUDK1Q",
+                "ts": "1649737781.820649"
+            },
+            {
+                "user": "U02V9QUDK1Q",
+                "ts": "1649741556.899289"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649749011.096179"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "efee12e1-4eea-45ca-8d1b-9a711871d71e",
+        "type": "message",
+        "text": "Ping to <@U02V9QUDK1Q>",
+        "user": "U02TTEFFU6B",
+        "ts": "1649736957.860369",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E=Wib",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ping to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02V9QUDK1Q"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649736950.551829",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "C75E9C07-4318-4268-945F-52D2599CE39C",
+        "type": "message",
+        "text": "I think they have a paid newsletter promotion option",
+        "user": "U02USELSBRT",
+        "ts": "1649737141.686739",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cuVX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think they have a paid newsletter promotion option"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649736950.551829",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "78068d45-7be9-4793-87ee-f89139df2f2a",
+        "type": "message",
+        "text": "Rohit, this is an exclusive feature and is new. They’re launching Twitter interviews and this is with the Clearbit founder, hence the prominent feature.\nIt’s an exception, not the norm.\n<@U02USELSBRT> - yes, they do. But this is not it",
+        "user": "U02V9QUDK1Q",
+        "ts": "1649737237.947529",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8140d54c5a70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2981230435879_8140d54c5a7085ca9412_72.jpg",
+            "first_name": "Abhash",
+            "real_name": "Abhash Kumar",
+            "display_name": "Abhash",
+            "team": "T02PFK13YLC",
+            "name": "abhash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AXl2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Rohit, this is an exclusive feature and is new. They’re launching Twitter interviews and this is with the Clearbit founder, hence the prominent feature.\nIt’s an exception, not the norm.\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02USELSBRT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - yes, they do. But this is not it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649736950.551829",
+        "parent_user_id": "U02TTEFFU6B",
+        "reactions": [
+            {
+                "name": "trophy",
+                "users": [
+                    "U02TTEFFU6B",
+                    "U02V7TLU5HT"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "35756f8e-383f-4a57-9871-ab6efd092d62",
+        "type": "message",
+        "text": "Got it. Thanks <@U02V9QUDK1Q>\n\nHow do lesser mortals like us get it?",
+        "user": "U02TTEFFU6B",
+        "ts": "1649737297.170079",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wkxsF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Got it. Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02V9QUDK1Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nHow do lesser mortals like us get it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649736950.551829",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "type": "message",
+        "text": "This is the Sponsored newlteer section",
+        "files": [
+            {
+                "id": "F03AP0JCB5M",
+                "created": 1649737306,
+                "timestamp": 1649737306,
+                "name": "Screenshot 2022-04-12 at 9.51.19 AM.png",
+                "title": "Screenshot 2022-04-12 at 9.51.19 AM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02V9QUDK1Q",
+                "editable": false,
+                "size": 356531,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03AP0JCB5M\/screenshot_2022-04-12_at_9.51.19_am.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03AP0JCB5M\/download\/screenshot_2022-04-12_at_9.51.19_am.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AP0JCB5M-098f3f599c\/screenshot_2022-04-12_at_9.51.19_am_64.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AP0JCB5M-098f3f599c\/screenshot_2022-04-12_at_9.51.19_am_80.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AP0JCB5M-098f3f599c\/screenshot_2022-04-12_at_9.51.19_am_360.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 360,
+                "thumb_360_h": 308,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AP0JCB5M-098f3f599c\/screenshot_2022-04-12_at_9.51.19_am_480.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 480,
+                "thumb_480_h": 411,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AP0JCB5M-098f3f599c\/screenshot_2022-04-12_at_9.51.19_am_160.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AP0JCB5M-098f3f599c\/screenshot_2022-04-12_at_9.51.19_am_720.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720_w": 720,
+                "thumb_720_h": 617,
+                "original_w": 732,
+                "original_h": 627,
+                "thumb_tiny": "AwApADDSJxRvX1pH6Uzd9fzoAk3L60ZGAfWmABvX\/vqldgOpwPpQA7IoVlboc4qvJIuF2v0I6VLFIsg+U546YoHYefekGBQ3XrSc+v60CHZFIwVhg8ik\/H9aOfX9aAEMCHHB\/OnKipnaMZpPxpw+uaB3YyQuG+WPcMdc03dJ\/wA8f1qailYd12GryoJXB9KXA9KWimSJgelLRRQB\/9k=",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U02V9QUDK1Q\/F03AP0JCB5M\/screenshot_2022-04-12_at_9.51.19_am.png",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03AP0JCB5M-1b24976395",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02V9QUDK1Q",
+        "display_as_bot": false,
+        "ts": "1649737311.883109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3WY\/e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is the Sponsored newlteer section"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "6e59b149-592a-4312-a5d4-a2d8c0b3c388",
+        "thread_ts": "1649736950.551829",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "d1e09621-341e-4070-852f-d3756f5e4834",
+        "type": "message",
+        "text": "Let me ask folks at PH, Rohit",
+        "user": "U02V9QUDK1Q",
+        "ts": "1649737521.791819",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8140d54c5a70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2981230435879_8140d54c5a7085ca9412_72.jpg",
+            "first_name": "Abhash",
+            "real_name": "Abhash Kumar",
+            "display_name": "Abhash",
+            "team": "T02PFK13YLC",
+            "name": "abhash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qrs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let me ask folks at PH, Rohit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649736950.551829",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "2092f60e-e006-42b8-af81-ed410480b202",
+        "type": "message",
+        "text": "Thanks bhai",
+        "user": "U02TTEFFU6B",
+        "ts": "1649737539.294419",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5qC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks bhai"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649736950.551829",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "47d1dde4-859d-4f0d-bb1f-c9a6a2fc8cd0",
+        "type": "message",
+        "text": "btw, just fyr for PH promotions:\n\n_Here’s how it works:_\n• _Each day we promote 1 product that previously launched on PH._ \n• _The post is fixed in the 4th slot in the feed so that it’s prominently featured in the homepage_\n• _If a user is not interested in the product, a small “X” close button will appear in the top right of the post so they can dismiss it from their feed._\n• _Unlike non-promoted posts on the homepage, clicking the post opens a new tab your website directly. This is intended to focus on driving traffic to your site._\n• _All Promoted Product partners will also be featured in the newsletter with your product logo and 200 character description, reaching more than 350,000 makers._\n_*We promote one product a day for 24 hours (starting midnight PT) and is $4,000\/day (normally $6,000), 2 days for $7000 and 3 days for $10,000.*_",
+        "user": "U02V9QUDK1Q",
+        "ts": "1649737781.820649",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8140d54c5a70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2981230435879_8140d54c5a7085ca9412_72.jpg",
+            "first_name": "Abhash",
+            "real_name": "Abhash Kumar",
+            "display_name": "Abhash",
+            "team": "T02PFK13YLC",
+            "name": "abhash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xw3M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "btw, just fyr for PH promotions:\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Here’s how it works:",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Each day we promote 1 product that previously launched on PH. ",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The post is fixed in the 4th slot in the feed so that it’s prominently featured in the homepage",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "If a user is not interested in the product, a small “X” close button will appear in the top right of the post so they can dismiss it from their feed.",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Unlike non-promoted posts on the homepage, clicking the post opens a new tab your website directly. This is intended to focus on driving traffic to your site.",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "All Promoted Product partners will also be featured in the newsletter with your product logo and 200 character description, reaching more than 350,000 makers.",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We promote one product a day for 24 hours (starting midnight PT) and is $4,000\/day (normally $6,000), 2 days for $7000 and 3 days for $10,000.",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649736950.551829",
+        "parent_user_id": "U02TTEFFU6B",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U030SHA1S2W",
+                    "U031KD0PNTX",
+                    "U02U94HSBV4",
+                    "U02V7TLU5HT",
+                    "U02PDC4883V",
+                    "U02U9C39MAA"
+                ],
+                "count": 6
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U02VD2JL8N8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8777d06f-b7fe-407d-8814-c8550a970d34",
+        "type": "message",
+        "text": "Hello Guys,\n\nI am looking for a vendor who can give me paid reviews for my amazon\/flipkart products(Books).",
+        "user": "U03AEBRAQ4D",
+        "ts": "1649738835.586709",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "gf508de2a8de",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f508de2a8dece1efdf2b23613bc3dc11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Harshwardhan",
+            "real_name": "Harshwardhan Chowdhry",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "harshwardhan.chowdhry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J6zq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Guys,\n\nI am looking for a vendor who can give me paid reviews for my amazon\/flipkart products(Books)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649738835.586709",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1649762322.651169",
+        "reply_users": [
+            "U02UY3EPQDA",
+            "U037VSS964S"
+        ],
+        "replies": [
+            {
+                "user": "U02UY3EPQDA",
+                "ts": "1649756726.276849"
+            },
+            {
+                "user": "U037VSS964S",
+                "ts": "1649762322.651169"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U02UY3EPQDA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d4e7840c-2880-4ef1-b82a-b7e1990d1e03",
+        "type": "message",
+        "text": "\"Hey Abhash - this is not a sponsored feature. We are trying out a few campaigns (like Twitter interview) and therefore it was highlighted by the editorial team to push the campaign and see results.\"\n\n\"So the topic for each NL is curated by our editorial team only and they do not take requests. Usually, interesting product launches become the centrepiece and an editorial is drafted for the same.\n\nHowever, NL sponsorship is also a part of our advertisement package and we write some editorials once in a while. Whenever that's done, we make sure to explicitly mention 'sponsored by' in the editorial.\"",
+        "user": "U02V9QUDK1Q",
+        "ts": "1649741556.899289",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8140d54c5a70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2981230435879_8140d54c5a7085ca9412_72.jpg",
+            "first_name": "Abhash",
+            "real_name": "Abhash Kumar",
+            "display_name": "Abhash",
+            "team": "T02PFK13YLC",
+            "name": "abhash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lMIjC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Hey Abhash - this is not a sponsored feature. We are trying out a few campaigns (like Twitter interview) and therefore it was highlighted by the editorial team to push the campaign and see results.\"\n\n\"So the topic for each NL is curated by our editorial team only and they do not take requests. Usually, interesting product launches become the centrepiece and an editorial is drafted for the same.\n\nHowever, NL sponsorship is also a part of our advertisement package and we write some editorials once in a while. Whenever that's done, we make sure to explicitly mention 'sponsored by' in the editorial.\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649736950.551829",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "0a81e0ff-03ea-4dea-9918-922ef5c0e8dc",
+        "type": "message",
+        "text": "Wagmi",
+        "user": "U03AQFPP9BL",
+        "ts": "1649742541.074929",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c9b2329e7c08",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-08\/3377148716193_c9b2329e7c08a95503a8_72.png",
+            "first_name": "Ankit",
+            "real_name": "Ankit Prakash",
+            "display_name": "Ankit Prakash",
+            "team": "T02PFK13YLC",
+            "name": "ankitpr89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5ac",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wagmi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649660224.349869",
+        "parent_user_id": "U03AQFPP9BL"
+    },
+    {
+        "client_msg_id": "0d4cb9d8-4504-42c7-9cf6-0f362f8aed49",
+        "type": "message",
+        "text": "<@U02USELSBRT> shall we plan the blueprint?",
+        "user": "U03AQFPP9BL",
+        "ts": "1649742613.962259",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c9b2329e7c08",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-08\/3377148716193_c9b2329e7c08a95503a8_72.png",
+            "first_name": "Ankit",
+            "real_name": "Ankit Prakash",
+            "display_name": "Ankit Prakash",
+            "team": "T02PFK13YLC",
+            "name": "ankitpr89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CuOlN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02USELSBRT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " shall we plan the blueprint?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649660224.349869",
+        "parent_user_id": "U03AQFPP9BL"
+    },
+    {
+        "client_msg_id": "086AD52A-3D84-4B55-BCF8-840BA39F217F",
+        "type": "message",
+        "text": "Yes, :+1::skin-tone-3:",
+        "user": "U02USELSBRT",
+        "ts": "1649743181.567059",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HgqC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "skin_tone": 3
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649660224.349869",
+        "parent_user_id": "U03AQFPP9BL"
+    },
+    {
+        "client_msg_id": "27c0da79-d591-4183-a285-4d9cd7276db7",
+        "type": "message",
+        "text": "Asking for a friend,\n\nWhich WP themes would you recommend for a new SaaS company, which are minimalist yet flexible enough to incorporate different page types and campaigns?",
+        "user": "U02USELSBRT",
+        "ts": "1649746551.012589",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uZs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Asking for a friend,\n\nWhich WP themes would you recommend for a new SaaS company, which are minimalist yet flexible enough to incorporate different page types and campaigns?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649746551.012589",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1649749611.413189",
+        "reply_users": [
+            "U02U94HSBV4",
+            "U0323V4CLRY",
+            "U032AUA6KFV"
+        ],
+        "replies": [
+            {
+                "user": "U02U94HSBV4",
+                "ts": "1649746859.555639"
+            },
+            {
+                "user": "U0323V4CLRY",
+                "ts": "1649748423.320459"
+            },
+            {
+                "user": "U032AUA6KFV",
+                "ts": "1649749611.413189"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

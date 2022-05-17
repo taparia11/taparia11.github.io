@@ -1,0 +1,1213 @@
+[
+    {
+        "client_msg_id": "21d2d980-6990-42d2-a921-f2b35cb3b1a0",
+        "type": "message",
+        "text": "As a content marketer, being good with words is your territory :stuck_out_tongue: In any case, I think I haven't fully gotten who these 'people' are. Are these your potential in-laws family members? or are these the potential grooms themselves?\n\nPotential grooms should get what you do ideally if they're not living under a rock. For others, just say that you're a 'business writer', most people should understand that.\n\nI would not suggest you use the term 'marketing' simply because for non-IT folks, it can enlighten images of door-to-door vacuum cleaner salesman as they also do 'marketing' as loosely described by common folks.",
+        "user": "U02USELSBRT",
+        "ts": "1650267763.610219",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KrUDF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As a content marketer, being good with words is your territory "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            },
+                            {
+                                "type": "text",
+                                "text": " In any case, I think I haven't fully gotten who these 'people' are. Are these your potential in-laws family members? or are these the potential grooms themselves?\n\nPotential grooms should get what you do ideally if they're not living under a rock. For others, just say that you're a 'business writer', most people should understand that.\n\nI would not suggest you use the term 'marketing' simply because for non-IT folks, it can enlighten images of door-to-door vacuum cleaner salesman as they also do 'marketing' as loosely described by common folks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650261289.705569",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U030ZR9D0FK",
+                    "U02UJ3N39PF",
+                    "U02V2SRR9J9",
+                    "U031KD0PNTX",
+                    "U0362R42317",
+                    "U02VD2JL8N8",
+                    "U0325QQQALR",
+                    "U02UD525VHT"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "client_msg_id": "26559973-4eed-48c4-a178-802542dc2194",
+        "type": "message",
+        "text": "There there, anon.",
+        "user": "U030N8RHURZ",
+        "ts": "1650270802.016199",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b9e697887a24",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-17\/3118359252754_b9e697887a246674f4f1_72.jpg",
+            "first_name": "Murugappan",
+            "real_name": "Murugappan",
+            "display_name": "Muru",
+            "team": "T02PFK13YLC",
+            "name": "nappagurum",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GBYo4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There there, anon."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650265193.540589",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "dc6bfc4b-e83b-4da4-88d5-77c56947997c",
+        "type": "message",
+        "text": "<@U02USELSBRT> - 100% A few years back I met an uncle on the way to office and he asked what I did, I said “digital marketing” and he was like, “you should have gotten a better mileage bike like splendour than this”",
+        "user": "U031KD0PNTX",
+        "ts": "1650271745.523049",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "d8e3a1cc6ed8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3305635315237_d8e3a1cc6ed88c5c929a_72.jpg",
+            "first_name": "Anand",
+            "real_name": "Anand",
+            "display_name": "theanand",
+            "team": "T02PFK13YLC",
+            "name": "anand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1HUs3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02USELSBRT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - 100% A few years back I met an uncle on the way to office and he asked what I did, I said “digital marketing” and he was like, “you should have gotten a better mileage bike like splendour than this”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650261289.705569",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U02USELSBRT",
+                    "U031P3UUGN4",
+                    "U035GAHAK5L",
+                    "U032MN1BESJ",
+                    "U030SDYNX7V",
+                    "U03AW06L9CN"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Admins, petition to open a matrimonial channel in s11s to help such lost souls",
+        "user": "U02USELSBRT",
+        "ts": "1650282140.060329",
+        "thread_ts": "1650261289.705569",
+        "root": {
+            "bot_id": "B02SM1CFD7W",
+            "type": "message",
+            "text": "I am 28yo and am looking to get married. But being a remote content marketer makes it so difficult to explain to people what I exactly do. \n\nHow do you explain your job to people when they have only heard names like TCS and Infosys.",
+            "user": "U02SXBR28G1",
+            "ts": "1650261289.705569",
+            "app_id": "ATMC26LBW",
+            "team": "T02PFK13YLC",
+            "bot_profile": {
+                "id": "B02SM1CFD7W",
+                "app_id": "ATMC26LBW",
+                "name": "Anonymous Bot",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+                },
+                "deleted": false,
+                "updated": 1641240871,
+                "team_id": "T02PFK13YLC"
+            },
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "\/6r",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "I am 28yo and am looking to get married. But being a remote content marketer makes it so difficult to explain to people what I exactly do. \n\nHow do you explain your job to people when they have only heard names like TCS and Infosys."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1650261289.705569",
+            "reply_count": 17,
+            "reply_users_count": 10,
+            "latest_reply": "1650348915.548799",
+            "reply_users": [
+                "U02VA7QD8UB",
+                "U030KV8R8RL",
+                "U02USELSBRT",
+                "U031KD0PNTX",
+                "U03560PQ082",
+                "U02UGB8DERY",
+                "U032MN1BESJ",
+                "U030EJQ7NAV",
+                "U02V22EUXM4",
+                "U02VC7G2RHS"
+            ],
+            "replies": [
+                {
+                    "user": "U02VA7QD8UB",
+                    "ts": "1650262187.973169"
+                },
+                {
+                    "user": "U030KV8R8RL",
+                    "ts": "1650262876.777549"
+                },
+                {
+                    "user": "U02USELSBRT",
+                    "ts": "1650267763.610219"
+                },
+                {
+                    "user": "U031KD0PNTX",
+                    "ts": "1650271745.523049"
+                },
+                {
+                    "user": "U02USELSBRT",
+                    "ts": "1650282140.060329"
+                },
+                {
+                    "user": "U03560PQ082",
+                    "ts": "1650284609.375009"
+                },
+                {
+                    "user": "U02USELSBRT",
+                    "ts": "1650285224.755539"
+                },
+                {
+                    "user": "U02UGB8DERY",
+                    "ts": "1650285412.713349"
+                },
+                {
+                    "user": "U03560PQ082",
+                    "ts": "1650285513.854799"
+                },
+                {
+                    "user": "U02UGB8DERY",
+                    "ts": "1650285638.495009"
+                },
+                {
+                    "user": "U03560PQ082",
+                    "ts": "1650285687.456749"
+                },
+                {
+                    "user": "U032MN1BESJ",
+                    "ts": "1650285802.255459"
+                },
+                {
+                    "user": "U030EJQ7NAV",
+                    "ts": "1650287869.543019"
+                },
+                {
+                    "user": "U02USELSBRT",
+                    "ts": "1650298671.081269"
+                },
+                {
+                    "user": "U031KD0PNTX",
+                    "ts": "1650299308.453389"
+                },
+                {
+                    "user": "U02V22EUXM4",
+                    "ts": "1650332721.678819"
+                },
+                {
+                    "user": "U02VC7G2RHS",
+                    "ts": "1650348915.548799"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JPQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Admins, petition to open a matrimonial channel in s11s to help such lost souls"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "f0d204c5-e13a-4a9b-8866-2ac4485f6771",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U030ZR9D0FK",
+                    "U035GAHAK5L",
+                    "U03B77PCDNY",
+                    "U030KV8R8RL",
+                    "U0362R42317",
+                    "U02V5RTEAA1"
+                ],
+                "count": 6
+            },
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U0302EPHFC6",
+                    "U02PDC4883V",
+                    "U030M1LS1L2",
+                    "U03B77PCDNY",
+                    "U02ULN6EFNV",
+                    "U02URBKGVA7",
+                    "U030KV8R8RL",
+                    "U03BJ320MPB",
+                    "U030SDYNX7V",
+                    "U02V5RTEAA1",
+                    "U02UD525VHT",
+                    "U038V229WRZ",
+                    "U03CV4XRWTE"
+                ],
+                "count": 13
+            }
+        ]
+    },
+    {
+        "client_msg_id": "37486e5e-5f59-480c-88ec-7451fcc43c4d",
+        "type": "message",
+        "text": "<@U02USELSBRT> not a bad idea actually. But two marketers should never marry",
+        "user": "U03560PQ082",
+        "ts": "1650284609.375009",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1db32098d186",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-01\/3176023965474_1db32098d186ac873a3d_72.png",
+            "first_name": "Ahaan",
+            "real_name": "Ahaan Pandit",
+            "display_name": "Ahaan Pandit",
+            "team": "T02PFK13YLC",
+            "name": "ahaan.pandit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c90S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02USELSBRT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " not a bad idea actually. But two marketers should never marry"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650261289.705569",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "460654d3-bdb6-4896-9058-f72c223803db",
+        "type": "message",
+        "text": "Don't worry this is just a lead gen medium, closure will depend upon sales qualification and free-trial :D",
+        "user": "U02USELSBRT",
+        "ts": "1650285224.755539",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tHP1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Don't worry this is just a lead gen medium, closure will depend upon sales qualification and free-trial :D"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650261289.705569",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "a0243e6e-4e2a-40f6-a836-f0cb273bbdf2",
+        "type": "message",
+        "text": "<@U03560PQ082> why?",
+        "user": "U02UGB8DERY",
+        "ts": "1650285412.713349",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4cda10dd85c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2962250036230_4cda10dd85c264b66a43_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Rajvanshi",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rahulrajvanshi2501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HB8u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03560PQ082"
+                            },
+                            {
+                                "type": "text",
+                                "text": " why?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650261289.705569",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "f4b3e9c9-1583-41d8-a991-10ea1e25363f",
+        "type": "message",
+        "text": "<@U02UGB8DERY> can you imagine the fights between an organic marketer and a media buyer?",
+        "user": "U03560PQ082",
+        "ts": "1650285513.854799",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1db32098d186",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-01\/3176023965474_1db32098d186ac873a3d_72.png",
+            "first_name": "Ahaan",
+            "real_name": "Ahaan Pandit",
+            "display_name": "Ahaan Pandit",
+            "team": "T02PFK13YLC",
+            "name": "ahaan.pandit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mp8E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02UGB8DERY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you imagine the fights between an organic marketer and a media buyer?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650261289.705569",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "e7c26b4f-d9ee-4197-899f-f9c29b195d78",
+        "type": "message",
+        "text": "oops",
+        "user": "U02UGB8DERY",
+        "ts": "1650285638.495009",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4cda10dd85c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2962250036230_4cda10dd85c264b66a43_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Rajvanshi",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rahulrajvanshi2501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bwMEX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oops"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650261289.705569",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "271f9203-368a-4a85-a598-a8441a16a34f",
+        "type": "message",
+        "text": "\" If only we could spend that money on growing our own vegetables instead of buying it\"",
+        "user": "U03560PQ082",
+        "ts": "1650285687.456749",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1db32098d186",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-01\/3176023965474_1db32098d186ac873a3d_72.png",
+            "first_name": "Ahaan",
+            "real_name": "Ahaan Pandit",
+            "display_name": "Ahaan Pandit",
+            "team": "T02PFK13YLC",
+            "name": "ahaan.pandit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JRkZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\" If only we could spend that money on growing our own vegetables instead of buying it\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650261289.705569",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U02UGB8DERY",
+                    "U030KV8R8RL",
+                    "U02USELSBRT",
+                    "U030ZR9D0FK",
+                    "U037N79VBPZ",
+                    "U03AW06L9CN"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4686ef46-66e2-43eb-9e4a-42b9e7d4ef17",
+        "type": "message",
+        "text": "\"I do marketing for websites\".\nAny other explanation so far has been confusing and ends in people thinking I've purposely said words no one understands to hide that I'm really a drug dealer...",
+        "user": "U032MN1BESJ",
+        "ts": "1650285802.255459",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g8a12888a77b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a12888a77b019e4e11e0df9171feb29.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Anuj",
+            "real_name": "Anuj Adhiya",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "adhiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9cC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"I do marketing for websites\".\nAny other explanation so far has been confusing and ends in people thinking I've purposely said words no one understands to hide that I'm really a drug dealer..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650261289.705569",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "pill",
+                "users": [
+                    "U031KD0PNTX",
+                    "U033Q4L80CT",
+                    "U03B77PCDNY"
+                ],
+                "count": 3
+            },
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U02USELSBRT",
+                    "U033Q4L80CT",
+                    "U03B77PCDNY",
+                    "U033QDFML74"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B20EAF3D-C678-48A9-9439-40272889D7A2",
+        "type": "message",
+        "text": "How about field marketer being married to a customer marketer? :joy::joy:",
+        "user": "U030EJQ7NAV",
+        "ts": "1650287869.543019",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "39ad0f3ee87d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-15\/3099176267974_39ad0f3ee87dd8bf30d5_72.png",
+            "first_name": "Tuneer",
+            "real_name": "Tuneer Malik",
+            "display_name": "Tuneer",
+            "team": "T02PFK13YLC",
+            "name": "tuneermalik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fLur",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How about field marketer being married to a customer marketer? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650261289.705569",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "U03560PQ082",
+                    "U030ZR9D0FK",
+                    "U02USELSBRT"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "Experienced well paid Indian SaaS marketer: Indian businesses don’t want to pay for quality software, that’s why we have to focus and sell in US. Companies in India don’t appreciate the way good products improve efficiency and productivity.\n\nSame well paid Indian SaaS marketer: Can you give me a pirated, pdf download of this article from a hard working startup. I appreciate quality but it's just not worth it.",
+        "user": "U02SXBR28G1",
+        "ts": "1650293456.182049",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ruR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Experienced well paid Indian SaaS marketer: Indian businesses don’t want to pay for quality software, that’s why we have to focus and sell in US. Companies in India don’t appreciate the way good products improve efficiency and productivity.\n\nSame well paid Indian SaaS marketer: Can you give me a pirated, pdf download of this article from a hard working startup. I appreciate quality but it's just not worth it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650293456.182049",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650350074.339859",
+        "reply_users": [
+            "U02VDPB8CGH"
+        ],
+        "replies": [
+            {
+                "user": "U02VDPB8CGH",
+                "ts": "1650350074.339859"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "respect your opinion on this. deleting the link for the article pdf",
+        "user": "U02SXBR28G1",
+        "ts": "1650293673.757769",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GJkYl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "respect your opinion on this. deleting the link for the article pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02ULN6EFNV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4971d99c-699d-49f1-b8df-cf1d859f3cd9",
+        "type": "message",
+        "text": "How about a India-based entry level content marketer married to a global US based CMO?",
+        "user": "U02USELSBRT",
+        "ts": "1650298671.081269",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02USELSBRT",
+            "ts": "1650298681.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Ze49",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How about a India-based entry level content marketer married to a global US based CMO?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650261289.705569",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "c5f23faa-631e-4b93-a7f2-4d24751b9616",
+        "type": "message",
+        "text": "_…kyonki SaaS bhi kabhi BOFU thi…._ ",
+        "user": "U031KD0PNTX",
+        "ts": "1650299308.453389",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "d8e3a1cc6ed8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3305635315237_d8e3a1cc6ed88c5c929a_72.jpg",
+            "first_name": "Anand",
+            "real_name": "Anand",
+            "display_name": "theanand",
+            "team": "T02PFK13YLC",
+            "name": "anand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Z8T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "…kyonki SaaS bhi kabhi BOFU thi…. ",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650261289.705569",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "exploding_head",
+                "users": [
+                    "U030KV8R8RL",
+                    "U02V8NZMWSX",
+                    "U0307ASQMU1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U030KV8R8RL",
+                    "U02USELSBRT",
+                    "U033QDFML74"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": ":eyes:",
+        "files": [
+            {
+                "id": "F03BYFXRZJ8",
+                "created": 1650299403,
+                "timestamp": 1650299403,
+                "name": "s11s-anonymous.png",
+                "title": "s11s-anonymous.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U038WP8PLUA",
+                "editable": false,
+                "size": 684008,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03BYFXRZJ8\/s11s-anonymous.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03BYFXRZJ8\/download\/s11s-anonymous.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BYFXRZJ8-4e504c947c\/s11s-anonymous_64.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BYFXRZJ8-4e504c947c\/s11s-anonymous_80.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BYFXRZJ8-4e504c947c\/s11s-anonymous_360.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BYFXRZJ8-4e504c947c\/s11s-anonymous_480.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BYFXRZJ8-4e504c947c\/s11s-anonymous_160.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BYFXRZJ8-4e504c947c\/s11s-anonymous_720.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BYFXRZJ8-4e504c947c\/s11s-anonymous_800.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BYFXRZJ8-4e504c947c\/s11s-anonymous_960.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BYFXRZJ8-4e504c947c\/s11s-anonymous_1024.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "original_w": 1600,
+                "original_h": 900,
+                "thumb_tiny": "AwAbADDTqG6kMMBdeoxxU1V74FrVgMdR1+tAFeO9d1zgZ780sd6zOwIHHTBqmkTckKpGcHmlSCQOW4Hpg0hmvE25AfWn1BZhhbKH681PTEFQXhK2zEdeKnooAxomZH68HrwafHI5mOc4+lapAPWgKB0FKw7jLc5iH1NSUUUxH\/\/Z",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U038WP8PLUA\/F03BYFXRZJ8\/s11s-anonymous.png",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03BYFXRZJ8-a9f01fcd13",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U038WP8PLUA",
+        "display_as_bot": false,
+        "ts": "1650299412.481379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5\/F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "eyes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "ed7825be-98be-4525-98e9-a5424e1a2cf8",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U02PDC4883V",
+                    "U02TTEFFU6B",
+                    "U02VC7G2RHS",
+                    "U031BVBGHCK",
+                    "U02ULN6EFNV",
+                    "U02V22EUXM4",
+                    "U030ZR9D0FK",
+                    "U02URBKGVA7",
+                    "U030SDYNX7V",
+                    "U0362R42317",
+                    "U0363DZU3QF",
+                    "U039MLMNSQH"
+                ],
+                "count": 12
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E5574EC1-AB24-437F-B699-75E82827A5D2",
+        "type": "message",
+        "text": "Haha. Great thread. I stopped explaining Marketing to people who in their brains have engraved ‘Marketing is travelling and door to door selling’. I stick to ‘Advertising’ which at least sounds a little cooler to a lot of them. ",
+        "user": "U02V22EUXM4",
+        "ts": "1650332721.678819",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9f2cfa9248dc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-07\/3075859566289_9f2cfa9248dc9a1dae23_72.jpg",
+            "first_name": "Deepan",
+            "real_name": "Deepan Siddhu",
+            "display_name": "Deepan Siddhu",
+            "team": "T02PFK13YLC",
+            "name": "deepan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bUKh8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Haha. Great thread. I stopped explaining Marketing to people who in their brains have engraved ‘Marketing is travelling and door to door selling’. I stick to ‘Advertising’ which at least sounds a little cooler to a lot of them. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650261289.705569",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U031KD0PNTX",
+                    "U02V8NZMWSX"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fc2ec572-00fd-4b67-b124-2810791a4183",
+        "type": "message",
+        "text": "Lol. No matter how good a marketer you are, answering this question is always tricky for non-marketing folks.\n\nI am sailing in the same boat as you. I initially used to say ‘marketing,’ and the listener interpreted it as ‘door-to-door’ selling. So I started saying ‘digital marketing,’ and listeners interpreted it as ‘Oh, SEO!’ or ‘Oh, you run Facebook ads!’ I didn’t dare explain further and accepted their interpretation :stuck_out_tongue:\n\nIf pressed to explain further, I’ve recently started saying, ‘I help people discover products my company makes.’ The response has been an encouraging ‘hmmm.’",
+        "user": "U02VC7G2RHS",
+        "ts": "1650348915.548799",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c966dfb38a6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2998254187524_c966dfb38a6bbffe337e_72.jpg",
+            "first_name": "Vipul",
+            "real_name": "Vipul Bansal",
+            "display_name": "Vipul Bansal",
+            "team": "T02PFK13YLC",
+            "name": "bansalvipul.111",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+iaD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lol. No matter how good a marketer you are, answering this question is always tricky for non-marketing folks.\n\nI am sailing in the same boat as you. I initially used to say ‘marketing,’ and the listener interpreted it as ‘door-to-door’ selling. So I started saying ‘digital marketing,’ and listeners interpreted it as ‘Oh, SEO!’ or ‘Oh, you run Facebook ads!’ I didn’t dare explain further and accepted their interpretation "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nIf pressed to explain further, I’ve recently started saying, ‘I help people discover products my company makes.’ The response has been an encouraging ‘hmmm.’"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650261289.705569",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U030SS7KNHH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c0fe32ea-0864-4719-9c48-9f9406960c5a",
+        "type": "message",
+        "text": "shit that was me... appreciate you pointing it out and feedback received. thanks :gratitude-thank-you:",
+        "user": "U02VDPB8CGH",
+        "ts": "1650350074.339859",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "ge4739ecfde9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e4739ecfde99690f13a673bbbaae1e33.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Deswal",
+            "display_name": "Siddharth Deswal",
+            "team": "T02PFK13YLC",
+            "name": "siddharthdeswal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fagQT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "shit that was me... appreciate you pointing it out and feedback received. thanks "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "gratitude-thank-you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650293456.182049",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02PDC4883V",
+                    "U02ULN6EFNV",
+                    "U0325QQQALR"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

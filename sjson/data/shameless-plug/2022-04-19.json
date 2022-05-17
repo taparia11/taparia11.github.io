@@ -1,0 +1,96 @@
+[
+    {
+        "client_msg_id": "981593ee-0236-4227-8e98-93817c186231",
+        "type": "message",
+        "text": "Hey folks - are you looking for some inspiration on *how to use humor in SaaS marketing*?\n\nHere's the latest issue of my SaaSHook newsletter that features some cool examples of humourous SaaS brands:\n\n<https:\/\/www.getrevue.co\/profile\/saashook\/issues\/saasy-humors-1138259>\n\nPS - do you have any feedback or comments? feel free to reply in the thread. :raised_hands:",
+        "user": "U0316818QSH",
+        "ts": "1650359493.832299",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "090938b018e1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-02\/3036528451222_090938b018e15bc75fd7_72.png",
+            "first_name": "Rohit",
+            "real_name": "Rohit",
+            "display_name": "Rohit",
+            "team": "T02PFK13YLC",
+            "name": "intro.rohit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.getrevue.co\/profile\/saashook\/issues\/saasy-humors-1138259",
+                "image_url": "https:\/\/s3.amazonaws.com\/revue\/issue_images\/images\/000\/487\/027\/original\/issue_image_1138259.jpg?1650347198",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 249733,
+                "id": 1,
+                "original_url": "https:\/\/www.getrevue.co\/profile\/saashook\/issues\/saasy-humors-1138259",
+                "fallback": "SaaSy Humors",
+                "text": "A few months back, I bookmarked this post on LinkedIn because it really hooked me.",
+                "title": "SaaSy Humors",
+                "title_link": "https:\/\/www.getrevue.co\/profile\/saashook\/issues\/saasy-humors-1138259",
+                "service_name": "getrevue.co"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N+vLw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey folks - are you looking for some inspiration on "
+                            },
+                            {
+                                "type": "text",
+                                "text": "how to use humor in SaaS marketing",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "?\n\nHere's the latest issue of my SaaSHook newsletter that features some cool examples of humourous SaaS brands:\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.getrevue.co\/profile\/saashook\/issues\/saasy-humors-1138259"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nPS - do you have any feedback or comments? feel free to reply in the thread. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02VA7QD8UB",
+                    "U02V4H04XT8"
+                ],
+                "count": 2
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U030KV8R8RL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

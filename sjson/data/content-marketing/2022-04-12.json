@@ -1,0 +1,290 @@
+[
+    {
+        "client_msg_id": "6d36b11c-ce2c-4b6c-b81d-94b441af93d9",
+        "type": "message",
+        "text": "<@U031QKGPNRK> I guess you had some experience here",
+        "user": "U02TTEFFU6B",
+        "ts": "1649749038.773059",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JsRmu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U031QKGPNRK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I guess you had some experience here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649745157.762339",
+        "parent_user_id": "U033KD7GMDJ"
+    },
+    {
+        "client_msg_id": "266e5bdf-aa23-4768-b51c-f81cdf74e500",
+        "type": "message",
+        "text": "<@U033KD7GMDJ> we are using it. Our experience has been good. Easy to use.",
+        "user": "U035UMWEXJM",
+        "ts": "1649750433.674909",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "6ffbcde0e491",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-08\/3192641474823_6ffbcde0e491a7e7a56c_72.jpg",
+            "first_name": "Gaurav",
+            "real_name": "Gaurav Gupta",
+            "display_name": "Gaurav Gupta",
+            "team": "T02PFK13YLC",
+            "name": "gaurav16g",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QJS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U033KD7GMDJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we are using it. Our experience has been good. Easy to use."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649745157.762339",
+        "parent_user_id": "U033KD7GMDJ"
+    },
+    {
+        "client_msg_id": "d1d73e19-93e4-48a2-a30f-094712cf3c9a",
+        "type": "message",
+        "text": "I have used it and we broke our backs migrating blogs from WordPress blog and \/custom website to hubspot cms but this was way back in 2015. The support team was responsible but too laggard in developing pages that looked like our then current version. If you are going ahead i suggest you redesign as well and work on an existing theme in hubspot that is well supported and then migrate. Trying to replicate to retain design might be painful. Sorry don't have recent experience.",
+        "user": "U031QKGPNRK",
+        "ts": "1649750633.295449",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GzR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have used it and we broke our backs migrating blogs from WordPress blog and \/custom website to hubspot cms but this was way back in 2015. The support team was responsible but too laggard in developing pages that looked like our then current version. If you are going ahead i suggest you redesign as well and work on an existing theme in hubspot that is well supported and then migrate. Trying to replicate to retain design might be painful. Sorry don't have recent experience."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649745157.762339",
+        "parent_user_id": "U033KD7GMDJ"
+    },
+    {
+        "client_msg_id": "FE0B7D3F-FED9-44B2-AEB1-36C6C74B43FB",
+        "type": "message",
+        "text": "We host landing pages. It lacks templates but gets the job done. ",
+        "user": "U030KV8R8RL",
+        "ts": "1649764475.219189",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1d58fa7deccd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3044063413425_1d58fa7deccd79b3b2d0_72.jpg",
+            "first_name": "Vartika",
+            "real_name": "Vartika Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "vartika.gupta1911",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "en3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We host landing pages. It lacks templates but gets the job done. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649745157.762339",
+        "parent_user_id": "U033KD7GMDJ"
+    },
+    {
+        "client_msg_id": "ce3ae3a7-6e9c-4365-bb22-217b6a202068",
+        "type": "message",
+        "text": "I'm hearing about CMI and B2B marketing for the first time lol. Will check it out though.",
+        "user": "U030KV8R8RL",
+        "ts": "1649764672.347639",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1d58fa7deccd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3044063413425_1d58fa7deccd79b3b2d0_72.jpg",
+            "first_name": "Vartika",
+            "real_name": "Vartika Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "vartika.gupta1911",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l2Yi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm hearing about CMI and B2B marketing for the first time lol. Will check it out though."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649653079.170199",
+        "parent_user_id": "U030KV8R8RL"
+    },
+    {
+        "client_msg_id": "5a223265-1e3f-4f63-b6fc-dc5acd88dda3",
+        "type": "message",
+        "text": "CMI and B2B marketing are trusted one.",
+        "user": "U03AQFPP9BL",
+        "ts": "1649769116.971589",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c9b2329e7c08",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-08\/3377148716193_c9b2329e7c08a95503a8_72.png",
+            "first_name": "Ankit",
+            "real_name": "Ankit Prakash",
+            "display_name": "Ankit Prakash",
+            "team": "T02PFK13YLC",
+            "name": "ankitpr89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rvI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "CMI and B2B marketing are trusted one."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649653079.170199",
+        "parent_user_id": "U030KV8R8RL"
+    },
+    {
+        "client_msg_id": "04517be1-06d7-4d30-bdcf-c495b3983b55",
+        "type": "message",
+        "text": "We use Hubspot for our website and blog. As mentioned by others, it is very important that you choose the right template before migrating.\nThere are Hubspot partners, who can also help you in making the switch.\nOverall our experience has been great as it’s really easy to run A\/B tests and the interface is quite simple as well.",
+        "user": "U0326BKDQP8",
+        "ts": "1649833109.303349",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "70512d944086",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3399440576370_70512d9440867180ea0e_72.png",
+            "first_name": "Aditya",
+            "real_name": "Aditya Krishna",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "krishna.aditya29",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iW5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We use Hubspot for our website and blog. As mentioned by others, it is very important that you choose the right template before migrating.\nThere are Hubspot partners, who can also help you in making the switch.\nOverall our experience has been great as it’s really easy to run A\/B tests and the interface is quite simple as well."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649745157.762339",
+        "parent_user_id": "U033KD7GMDJ"
+    }
+]

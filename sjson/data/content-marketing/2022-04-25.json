@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "949cd91f-721f-4451-9146-97dce8d43843",
+        "type": "message",
+        "text": "CMI and B2B markating are pretty well known. I like CMI, B2B is kind of ok.",
+        "user": "U02UZMAKWF3",
+        "ts": "1650905636.792749",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "cc37b3691ee8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2985724733281_cc37b3691ee80ea62fe7_72.jpg",
+            "first_name": "Subrata",
+            "real_name": "Subrata freelancewriter",
+            "display_name": "Subrata freelancewriter",
+            "team": "T02PFK13YLC",
+            "name": "subratafreelancewrite",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TKkM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "CMI and B2B markating are pretty well known. I like CMI, B2B is kind of ok."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649653079.170199",
+        "parent_user_id": "U030KV8R8RL"
+    }
+]

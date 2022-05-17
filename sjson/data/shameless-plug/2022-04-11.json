@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "6528a3d8-ed99-41c1-9bbc-b20039cce3a2",
+        "type": "message",
+        "text": "Loved the cinematography, effects and lyrics!",
+        "user": "U030KV8R8RL",
+        "ts": "1649663375.633309",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1d58fa7deccd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3044063413425_1d58fa7deccd79b3b2d0_72.jpg",
+            "first_name": "Vartika",
+            "real_name": "Vartika Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "vartika.gupta1911",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vKO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Loved the cinematography, effects and lyrics!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648826605.760009",
+        "parent_user_id": "U030N8RHURZ"
+    }
+]

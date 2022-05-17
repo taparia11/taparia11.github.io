@@ -1,0 +1,169 @@
+[
+    {
+        "client_msg_id": "59932b68-2b96-474a-84d7-f4d0786bc23d",
+        "type": "message",
+        "text": "I am in Goa from Saturday for a week. Anyone around.. can catch up for beer and general discussion",
+        "user": "U03B4FAM9FT",
+        "ts": "1651127774.146809",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g02b49edec6e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/02b49edec6ea1d6d81d54fe2084497e7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Aniket",
+            "real_name": "Aniket Lade",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "aniket389",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/9lB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am in Goa from Saturday for a week. Anyone around.. can catch up for beer and general discussion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651127774.146809",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1651134097.387879",
+        "reply_users": [
+            "U02USELSBRT",
+            "U0318JZUESX",
+            "U037UUE6TV3",
+            "U03B4FAM9FT"
+        ],
+        "replies": [
+            {
+                "user": "U02USELSBRT",
+                "ts": "1651128027.586059"
+            },
+            {
+                "user": "U0318JZUESX",
+                "ts": "1651133229.021999"
+            },
+            {
+                "user": "U037UUE6TV3",
+                "ts": "1651133467.793219"
+            },
+            {
+                "user": "U03B4FAM9FT",
+                "ts": "1651134010.979549"
+            },
+            {
+                "user": "U03B4FAM9FT",
+                "ts": "1651134097.387879"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "83f2e0c9-7ed2-4abe-a2c1-90b40f7ee9bf",
+        "type": "message",
+        "text": "<@U037UUE6TV3> <@U0318JZUESX>",
+        "user": "U02USELSBRT",
+        "ts": "1651128027.586059",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I5x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U037UUE6TV3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0318JZUESX"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651127774.146809",
+        "parent_user_id": "U03B4FAM9FT",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U037UUE6TV3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "15d815ab-f73c-434e-9886-ab0d76285485",
+        "type": "message",
+        "text": "I am in Mumbai on 11th May. Incase anyone is free, lets catchup.",
+        "user": "U03B77PCDNY",
+        "ts": "1651128684.606259",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9e5ac69cfeb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-15\/3393119759589_9e5ac69cfeb96a6329a1_72.png",
+            "first_name": "SAURABH",
+            "real_name": "SAURABH WANI",
+            "display_name": "SAURABH WANI",
+            "team": "T02PFK13YLC",
+            "name": "saurabh843",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OUK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am in Mumbai on 11th May. Incase anyone is free, lets catchup."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

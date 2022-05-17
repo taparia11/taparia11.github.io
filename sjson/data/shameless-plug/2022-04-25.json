@@ -1,0 +1,99 @@
+[
+    {
+        "type": "message",
+        "text": "Any KGF fans in here hope you enjoy this one :stuck_out_tongue:",
+        "files": [
+            {
+                "id": "F03CSJF73H9",
+                "created": 1650887576,
+                "timestamp": 1650887576,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U038RTW0AF7",
+                "editable": false,
+                "size": 1145739,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03CSJF73H9\/image.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03CSJF73H9\/download\/image.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CSJF73H9-3e666b8673\/image_64.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CSJF73H9-3e666b8673\/image_80.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CSJF73H9-3e666b8673\/image_360.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 359,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CSJF73H9-3e666b8673\/image_480.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 478,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CSJF73H9-3e666b8673\/image_160.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CSJF73H9-3e666b8673\/image_720.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720_w": 717,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CSJF73H9-3e666b8673\/image_800.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_800_w": 800,
+                "thumb_800_h": 803,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CSJF73H9-3e666b8673\/image_960.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_960_w": 956,
+                "thumb_960_h": 960,
+                "original_w": 992,
+                "original_h": 996,
+                "thumb_tiny": "AwAwAC+oqqwwxAAHripkVCOADj6VXRguCVDexp6zYbCxIMn1NKwyfYuPurUMybSpIAXpxUjSnAVYiGqvITu+cfMDzQgL0ewxjKLnp060rInlt8i\/lVe3fcNpHX9KlMmUYZ6cdaQFEDjpQRVxWYRAkkAAURSDeRuJLeo6U7gQpLlgSPrTSqSfOZACe1XcMTSnKrk460gKiqoMe1s4yPrUR4DYHFaIBI5xTZU\/dmhAysZSFUA9AKDcyFshhnGOgqOOVox8uORzUn2yQdGTnn7tMCaOdmTJXJ9qillJ5ahLglzu2HPcqKY85HQRn\/gIoAnglzg++KkmOEbPWqqOGhwcBhJn061LcyAg8gk+hpAf\/9k=",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U038RTW0AF7\/F03CSJF73H9\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03CSJF73H9-00a3a68cee",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U038RTW0AF7",
+        "display_as_bot": false,
+        "ts": "1650887612.022629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S\/5b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any KGF fans in here hope you enjoy this one "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "1d5ccb52-5399-4e7c-a63f-a2a329bfc414",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U02PDC4883V",
+                    "U02UUCE1ASD"
+                ],
+                "count": 2
+            },
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U037UUE6TV3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

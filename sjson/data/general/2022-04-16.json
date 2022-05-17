@@ -1,0 +1,401 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1650106636.131059",
+        "thread_ts": "1650106636.131059",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650108565.761389",
+        "reply_users": [
+            "U02TTEFFU6B"
+        ],
+        "replies": [
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1650108565.761389"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "92b4a55d-1cee-433d-93b6-b6904818765e",
+        "type": "message",
+        "text": "This goes in <#C02S4318139|jobopps>",
+        "user": "U02TTEFFU6B",
+        "ts": "1650108565.761389",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QvjLV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This goes in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C02S4318139"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650106636.131059",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "d941d4eb-ff56-401f-89d4-f7228a14ef81",
+        "type": "message",
+        "text": "Would love to chat with people who attended the GrowthX Demo Day this April about their experience. Trying something similar, want some feedback from you guys : )",
+        "user": "U0323V4CLRY",
+        "ts": "1650166241.845229",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bda2aafa72dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-22\/3275541779442_bda2aafa72dde9c08430_72.jpg",
+            "first_name": "Samyak",
+            "real_name": "Samyak tripathi",
+            "display_name": "samyak",
+            "team": "T02PFK13YLC",
+            "name": "samyaktripathi060",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0323V4CLRY",
+            "ts": "1650166315.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n2R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would love to chat with people who attended the GrowthX Demo Day this April about their experience. Trying something similar, want some feedback from you guys : )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650166241.845229",
+        "reply_count": 12,
+        "reply_users_count": 5,
+        "latest_reply": "1650281344.201269",
+        "reply_users": [
+            "U02VA7QD8UB",
+            "U02UGB8DERY",
+            "U039KP64KQQ",
+            "U0323V4CLRY",
+            "U030KV8R8RL"
+        ],
+        "replies": [
+            {
+                "user": "U02VA7QD8UB",
+                "ts": "1650168263.087209"
+            },
+            {
+                "user": "U02VA7QD8UB",
+                "ts": "1650168368.753229"
+            },
+            {
+                "user": "U02UGB8DERY",
+                "ts": "1650202718.095099"
+            },
+            {
+                "user": "U039KP64KQQ",
+                "ts": "1650210167.337599"
+            },
+            {
+                "user": "U02UGB8DERY",
+                "ts": "1650212127.587769"
+            },
+            {
+                "user": "U039KP64KQQ",
+                "ts": "1650212343.801449"
+            },
+            {
+                "user": "U0323V4CLRY",
+                "ts": "1650212520.206159"
+            },
+            {
+                "user": "U02UGB8DERY",
+                "ts": "1650212819.156139"
+            },
+            {
+                "user": "U039KP64KQQ",
+                "ts": "1650212837.451379"
+            },
+            {
+                "user": "U02UGB8DERY",
+                "ts": "1650213495.498659"
+            },
+            {
+                "user": "U030KV8R8RL",
+                "ts": "1650219923.697519"
+            },
+            {
+                "user": "U039KP64KQQ",
+                "ts": "1650281344.201269"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1d80d2c3-d145-4579-a67a-0c49df4b5b76",
+        "type": "message",
+        "text": "<https:\/\/s11s.slack.com\/archives\/C02PS0CGPU1\/p1648709644682329>\n\n<https:\/\/s11s.slack.com\/archives\/C02TULUG2QJ\/p1646895302143339>\n\nA couple of threads on GrowthX.",
+        "user": "U02VA7QD8UB",
+        "ts": "1650168263.087209",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "84e512c8a3fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2999004078388_84e512c8a3feeb8de835_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "T02PFK13YLC",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/s11s.slack.com\/archives\/C02PS0CGPU1\/p1648709644682329",
+                "ts": "1648709644.682329",
+                "author_id": "U031JS3RF0V",
+                "channel_team": "T02PFK13YLC",
+                "channel_id": "C02PS0CGPU1",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T02PFK13YLC",
+                        "channel": "C02PS0CGPU1",
+                        "ts": "1648709644.682329",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "Avx",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Folks, does it make sense for someone like me (Content & product marketing in B2B SaaS) to apply to GrowthX? Anyone here who has gone through the bootcamp? How did it help you?"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/s11s.slack.com\/archives\/C02PS0CGPU1\/p1648709644682329",
+                "fallback": "[March 30th, 2022 11:54 PM] ihbrusurbhi: Folks, does it make sense for someone like me (Content &amp; product marketing in B2B SaaS) to apply to GrowthX? Anyone here who has gone through the bootcamp? How did it help you?",
+                "text": "Folks, does it make sense for someone like me (Content &amp; product marketing in B2B SaaS) to apply to GrowthX? Anyone here who has gone through the bootcamp? How did it help you?",
+                "author_name": "Surbhi Saraf",
+                "author_link": "https:\/\/s11s.slack.com\/team\/U031JS3RF0V",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2022-02-04\/3050067744806_f40b91b9cd728204ef95_48.jpg",
+                "author_subname": "Surbhi Saraf",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Thread in #general"
+            },
+            {
+                "from_url": "https:\/\/s11s.slack.com\/archives\/C02TULUG2QJ\/p1646895302143339",
+                "ts": "1646895302.143339",
+                "author_id": "U02SXBR28G1",
+                "channel_team": "T02PFK13YLC",
+                "channel_id": "C02TULUG2QJ",
+                "channel_name": "s11s-anonymous",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "id": 2,
+                "original_url": "https:\/\/s11s.slack.com\/archives\/C02TULUG2QJ\/p1646895302143339",
+                "fallback": "[March 9th, 2022 10:55 PM] anonymous: Any honest reviews on GrowthX to sharpen marketing acumen? Is it worth the hype? Please do mention specifics about your experience etc and how it helped.",
+                "text": "Any honest reviews on GrowthX to sharpen marketing acumen? Is it worth the hype? Please do mention specifics about your experience etc and how it helped.",
+                "author_link": "https:\/\/s11s.slack.com\/services\/B02SM1CFD7W",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "author_subname": "anonymous",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Thread in #s11s-anonymous"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xQFY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/s11s.slack.com\/archives\/C02PS0CGPU1\/p1648709644682329"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/s11s.slack.com\/archives\/C02TULUG2QJ\/p1646895302143339"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nA couple of threads on GrowthX."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650166241.845229",
+        "parent_user_id": "U0323V4CLRY"
+    },
+    {
+        "client_msg_id": "2e5cf709-6f6c-4817-8049-e195a40a4a39",
+        "type": "message",
+        "text": "I guess the second one’s replies aren’t stored anymore owing to Slack’s free plan.",
+        "user": "U02VA7QD8UB",
+        "ts": "1650168368.753229",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "84e512c8a3fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2999004078388_84e512c8a3feeb8de835_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "T02PFK13YLC",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T3F5f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I guess the second one’s replies aren’t stored anymore owing to Slack’s free plan."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650166241.845229",
+        "parent_user_id": "U0323V4CLRY"
+    },
+    {
+        "client_msg_id": "65208acd-a8f8-4a23-bb2f-1deaf3ea9a62",
+        "type": "message",
+        "text": "Hi, has anyone implemented influencer marketing (YT, LN, IG, TikTok, FB etc.) for SaaS products? Would be grateful we could chat. :pray::skin-tone-4:",
+        "user": "U0310MMGC8Z",
+        "ts": "1650169800.646179",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "gf03c5a1d928",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f03c5a1d92846349651b34e6fba70d1f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Shireesh",
+            "real_name": "Shireesh Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "combustion197",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U7gz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, has anyone implemented influencer marketing (YT, LN, IG, TikTok, FB etc.) for SaaS products? Would be grateful we could chat. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "skin_tone": 4
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650169800.646179",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1650303944.851229",
+        "reply_users": [
+            "U03B77PCDNY",
+            "U038WP8PLUA"
+        ],
+        "replies": [
+            {
+                "user": "U03B77PCDNY",
+                "ts": "1650260764.434149"
+            },
+            {
+                "user": "U038WP8PLUA",
+                "ts": "1650303944.851229"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

@@ -1,0 +1,652 @@
+[
+    {
+        "client_msg_id": "06b198c8-4337-48c3-9910-93744816769c",
+        "type": "message",
+        "text": "Hi <@U02V22EUXM4>: I'm a founder in the same space. Would love to know bit more your choice.\n\nMy intent is to get a few min to learn from your exp, pain points, thoughts on the space.",
+        "user": "U030SNYHK6Y",
+        "ts": "1650467988.224359",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "0acbaaa9732b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-30\/3051885924576_0acbaaa9732b0983db67_72.jpg",
+            "first_name": "Ankur",
+            "real_name": "Ankur (LongShot.ai - AI system for long form content)",
+            "display_name": "Ankur (LongShot.ai - AI system for long form content)",
+            "team": "T02PFK13YLC",
+            "name": "ankur",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AaGdi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02V22EUXM4"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": I'm a founder in the same space. Would love to know bit more your choice.\n\nMy intent is to get a few min to learn from your exp, pain points, thoughts on the space."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649925076.759519",
+        "parent_user_id": "U033R6MA1DY"
+    },
+    {
+        "client_msg_id": "34e3c355-2a53-432d-8046-69a6965d11d0",
+        "type": "message",
+        "text": "Folks, can someone help me with GA4 implementation and possibly any fixes? I think I mucked it up with a new site and I have no idea what to do.\n\n_Issue_: While I can see traffic in the “real time” report, I can’t see the same in “Traffic Acquisition” from yesterday. It’s just zero. This and a few other issues.\n\nTIA! :crossed_fingers:",
+        "user": "U02VA7QD8UB",
+        "ts": "1650515737.411709",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "84e512c8a3fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2999004078388_84e512c8a3feeb8de835_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "T02PFK13YLC",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02VA7QD8UB",
+            "ts": "1650515761.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x8W4L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Folks, can someone help me with GA4 implementation and possibly any fixes? I think I mucked it up with a new site and I have no idea what to do.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Issue",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": While I can see traffic in the “real time” report, I can’t see the same in “Traffic Acquisition” from yesterday. It’s just zero. This and a few other issues.\n\nTIA! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "crossed_fingers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650515737.411709",
+        "reply_count": 11,
+        "reply_users_count": 6,
+        "latest_reply": "1650525865.985959",
+        "reply_users": [
+            "U02PDC6B0HH",
+            "U02PDC4883V",
+            "U033QDFML74",
+            "U02VA7QD8UB",
+            "U038W1678JX",
+            "U03C4NNJWGK"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1650517511.745059"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650520213.788089"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650520224.309379"
+            },
+            {
+                "user": "U033QDFML74",
+                "ts": "1650520770.987549"
+            },
+            {
+                "user": "U02VA7QD8UB",
+                "ts": "1650521736.343969"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650521771.577799"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650521782.570429"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650521795.380379"
+            },
+            {
+                "user": "U02VA7QD8UB",
+                "ts": "1650521815.738779"
+            },
+            {
+                "user": "U038W1678JX",
+                "ts": "1650523378.293649"
+            },
+            {
+                "user": "U03C4NNJWGK",
+                "ts": "1650525865.985959"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1650525865.985959"
+    },
+    {
+        "client_msg_id": "d57a2ba4-aad5-41ba-bb0f-fe931442eca9",
+        "type": "message",
+        "text": "<@U02UY3EPQDA> <@U02PDC4883V>",
+        "user": "U02PDC6B0HH",
+        "ts": "1650517511.745059",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7ce0a422fcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953759554663_b7ce0a422fcdabf5a771_72.jpg",
+            "first_name": "Shafique",
+            "real_name": "Shafique Gajdhar",
+            "display_name": "Shaf",
+            "team": "T02PFK13YLC",
+            "name": "shafiquegajdhar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fUkq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02UY3EPQDA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02PDC4883V"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650515737.411709",
+        "parent_user_id": "U02VA7QD8UB",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02VA7QD8UB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ea28f084-a248-4fb5-93b8-41d99cabb9c0",
+        "type": "message",
+        "text": "Give it a couple of more hours and then see",
+        "user": "U02PDC4883V",
+        "ts": "1650520213.788089",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uVK+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Give it a couple of more hours and then see"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650515737.411709",
+        "parent_user_id": "U02VA7QD8UB"
+    },
+    {
+        "client_msg_id": "a2d3712c-d4ff-49d4-b89e-2dfc66712329",
+        "type": "message",
+        "text": "If still no data - then let's debug :grin:",
+        "user": "U02PDC4883V",
+        "ts": "1650520224.309379",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kG=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If still no data - then let's debug "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650515737.411709",
+        "parent_user_id": "U02VA7QD8UB"
+    },
+    {
+        "client_msg_id": "3b1be5aa-217f-408a-adff-d34bfb6d277d",
+        "type": "message",
+        "text": "Hi <@U02VA7QD8UB>, I ran into a similar problem when I integrated a few weeks earlier. Could see traffic in real time but nowhere else.\n\nI was suggested by <@U038W1678JX> to wait for a few hours\/a day. And he was right! It looks like Google Analytics takes some time to populate the data.\n\nTake a breath and check tomorrow :slightly_smiling_face: It should be working as expected, if you have added the code\/tags correctly!",
+        "user": "U033QDFML74",
+        "ts": "1650520770.987549",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "397aa356e1c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-30\/3309508150758_397aa356e1c9f468c179_72.jpg",
+            "first_name": "Shubhanjali",
+            "real_name": "Shubhanjali",
+            "display_name": "Shubhanjali",
+            "team": "T02PFK13YLC",
+            "name": "shubhs7692",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1nS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02VA7QD8UB"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I ran into a similar problem when I integrated a few weeks earlier. Could see traffic in real time but nowhere else.\n\nI was suggested by "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U038W1678JX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to wait for a few hours\/a day. And he was right! It looks like Google Analytics takes some time to populate the data.\n\nTake a breath and check tomorrow "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " It should be working as expected, if you have added the code\/tags correctly!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650515737.411709",
+        "parent_user_id": "U02VA7QD8UB",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02UY3EPQDA",
+                    "U02VA7QD8UB"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0bf91fa9-2579-401f-a78c-f9c2cecf0691",
+        "type": "message",
+        "text": "<@U02PDC4883V> <@U033QDFML74> I set it up yesterday night and till now I can’t see any data. Should I wait more? :confused: I really need this to go live!",
+        "user": "U02VA7QD8UB",
+        "ts": "1650521736.343969",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "84e512c8a3fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2999004078388_84e512c8a3feeb8de835_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "T02PFK13YLC",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kyBU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02PDC4883V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U033QDFML74"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I set it up yesterday night and till now I can’t see any data. Should I wait more? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I really need this to go live!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650515737.411709",
+        "parent_user_id": "U02VA7QD8UB"
+    },
+    {
+        "client_msg_id": "f6df0546-3aca-4b30-b4b9-a83daebe12db",
+        "type": "message",
+        "text": "Yup - just wait for another 3-4 hours.",
+        "user": "U02PDC4883V",
+        "ts": "1650521771.577799",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tVtxr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yup - just wait for another 3-4 hours."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650515737.411709",
+        "parent_user_id": "U02VA7QD8UB"
+    },
+    {
+        "client_msg_id": "91862700-8723-48b9-8c35-bb59199335fe",
+        "type": "message",
+        "text": "If still no data then let's debug",
+        "user": "U02PDC4883V",
+        "ts": "1650521782.570429",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a=H\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If still no data then let's debug"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650515737.411709",
+        "parent_user_id": "U02VA7QD8UB"
+    },
+    {
+        "client_msg_id": "8c4be31f-8da8-4c48-a9d2-0ea2cbfeb226",
+        "type": "message",
+        "text": "Technically Google says 24hrs",
+        "user": "U02PDC4883V",
+        "ts": "1650521795.380379",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ovtd3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Technically Google says 24hrs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650515737.411709",
+        "parent_user_id": "U02VA7QD8UB",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02VA7QD8UB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e2595ff2-475e-404d-99f2-14d8eb687047",
+        "type": "message",
+        "text": "Alrighty! Thank you.",
+        "user": "U02VA7QD8UB",
+        "ts": "1650521815.738779",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "84e512c8a3fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2999004078388_84e512c8a3feeb8de835_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "T02PFK13YLC",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DuA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Alrighty! Thank you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650515737.411709",
+        "parent_user_id": "U02VA7QD8UB"
+    },
+    {
+        "client_msg_id": "cbd5c213-2d29-4216-aed0-c4339f3be88e",
+        "type": "message",
+        "text": "Yes would take a day.",
+        "user": "U038W1678JX",
+        "ts": "1650523378.293649",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bf1dfec8ff13",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-27\/3302040294627_bf1dfec8ff13695587fa_72.jpg",
+            "first_name": "Anand",
+            "real_name": "Anand Kumar Sengottaiyan",
+            "display_name": "Anand",
+            "team": "T02PFK13YLC",
+            "name": "anand476",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fXxZy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes would take a day."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650515737.411709",
+        "parent_user_id": "U02VA7QD8UB"
+    }
+]

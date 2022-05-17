@@ -1,0 +1,109 @@
+[
+    {
+        "client_msg_id": "EFD3B744-E336-4519-811B-66E7340C9029",
+        "type": "message",
+        "text": "+1 for Hootsuite. I've also used Buffer earlier for this. ",
+        "user": "U0361UQSKGQ",
+        "ts": "1650808527.761599",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1a645c299449",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-02\/3179324981205_1a645c299449d8e0b3e9_72.jpg",
+            "first_name": "Neha",
+            "real_name": "Neha Sharma",
+            "display_name": "Neha",
+            "team": "T02PFK13YLC",
+            "name": "neha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iEs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "+1 for Hootsuite. I've also used Buffer earlier for this. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650611500.673319",
+        "parent_user_id": "U03AG3YBVDM",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03AG3YBVDM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f1a6e320-9da6-48f5-8d66-47c1bdcafcb8",
+        "type": "message",
+        "text": "Not super but here is oneI had done- <https:\/\/www.prnewswire.com\/news-releases\/cloudmoyo-crew-management-to-deliver-innovation-and-automation-for-rail-industry-on-microsoft-azure-300835393.html|https:\/\/www.prnewswire.com\/news-releases\/cloudmoyo-crew-management-to-deliver-innovati[…]omation-for-rail-industry-on-microsoft-azure-300835393.html>",
+        "user": "U0306HUGT6C",
+        "ts": "1650816056.948149",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "67b7c6606731",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-21\/2990844434084_67b7c6606731aad40c13_72.jpg",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Mirashi",
+            "display_name": "Nikhil Mirashi",
+            "team": "T02PFK13YLC",
+            "name": "cutenik85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.prnewswire.com\/news-releases\/cloudmoyo-crew-management-to-deliver-innovation-and-automation-for-rail-industry-on-microsoft-azure-300835393.html",
+                "service_icon": "https:\/\/www.prnewswire.com\/content\/dam\/prnewswire\/icons\/2019-Q4-PRN-Icon-32-32.png",
+                "id": 1,
+                "original_url": "https:\/\/www.prnewswire.com\/news-releases\/cloudmoyo-crew-management-to-deliver-innovation-and-automation-for-rail-industry-on-microsoft-azure-300835393.html",
+                "fallback": "CloudMoyo Crew Management to deliver innovation and automation for rail industry on Microsoft Azure",
+                "text": "\/PRNewswire\/ -- CloudMoyo, Inc announced today the release of the next-generation CloudMoyo Crew Management (CCM) solution, built on the CloudMoyo...",
+                "title": "CloudMoyo Crew Management to deliver innovation and automation for rail industry on Microsoft Azure",
+                "title_link": "https:\/\/www.prnewswire.com\/news-releases\/cloudmoyo-crew-management-to-deliver-innovation-and-automation-for-rail-industry-on-microsoft-azure-300835393.html",
+                "service_name": "prnewswire.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LRM7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not super but here is oneI had done- "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.prnewswire.com\/news-releases\/cloudmoyo-crew-management-to-deliver-innovation-and-automation-for-rail-industry-on-microsoft-azure-300835393.html",
+                                "text": "https:\/\/www.prnewswire.com\/news-releases\/cloudmoyo-crew-management-to-deliver-innovati[…]omation-for-rail-industry-on-microsoft-azure-300835393.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650703906.437139",
+        "parent_user_id": "U030C8N99TN"
+    }
+]

@@ -1,0 +1,1298 @@
+[
+    {
+        "client_msg_id": "84537216-004B-45D3-B050-54A97900AD25",
+        "type": "message",
+        "text": "Death to hustle. ",
+        "user": "U02VBNKU9T6",
+        "ts": "1649660489.129449",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "cb0a1d3d83f2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/3008104796193_cb0a1d3d83f2e60942d4_72.jpg",
+            "first_name": "Ketan",
+            "real_name": "Ketan Pandit",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "ketan.pandit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EExm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Death to hustle. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649573808.495749",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "Hey guys we are looking for alternatives of Reddit and Facebook to share our thoughts.\nCame across <http:\/\/Twitter.com|Twitter.com>, need reviews thanks! (edited)\n\nTrust me I'm not Elon Musk and I don't hold majority shares of <http:\/\/Twitter.com|Twitter.com>",
+        "user": "U02SXBR28G1",
+        "ts": "1649664835.015779",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D6M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey guys we are looking for alternatives of Reddit and Facebook to share our thoughts.\nCame across "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Twitter.com",
+                                "text": "Twitter.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", need reviews thanks! (edited)\n\nTrust me I'm not Elon Musk and I don't hold majority shares of "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Twitter.com",
+                                "text": "Twitter.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U02U6080NCX",
+                    "U02U94HSBV4",
+                    "U02USELSBRT",
+                    "U038WP8PLUA",
+                    "U02PDC6B0HH",
+                    "U030ZR9D0FK",
+                    "U03560PQ082",
+                    "U02URBKGVA7",
+                    "U0362R42317",
+                    "U03996E48LB"
+                ],
+                "count": 10
+            },
+            {
+                "name": "hot_pepper",
+                "users": [
+                    "U02V9QUDK1Q",
+                    "U030N8RHURZ",
+                    "U037UUE6TV3",
+                    "U02PDC6B0HH",
+                    "U03560PQ082",
+                    "U02URBKGVA7",
+                    "U02PDC4883V"
+                ],
+                "count": 7
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U038L2K4R08",
+                    "U039FQ2SNNN",
+                    "U02PDC6B0HH",
+                    "U03560PQ082"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "Hey guys we are looking for alternatives of Gary Vee to \"inspire\" people.\nCame across Ankur Warikoo, need reviews thanks! (edited) \n\nTrust me I'm not Ankur Warikoo from alt account",
+        "user": "U02SXBR28G1",
+        "ts": "1649665073.346339",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XceVx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey guys we are looking for alternatives of Gary Vee to \"inspire\" people.\nCame across Ankur Warikoo, need reviews thanks! (edited) \n\nTrust me I'm not Ankur Warikoo from alt account"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1649669308.439869",
+        "thread_ts": "1649669308.439869",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1649671092.200189",
+        "reply_users": [
+            "U02TTEFFU6B"
+        ],
+        "replies": [
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649671092.200189"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2ab6d2e2-a2a7-4589-9200-c69b7b9fb42c",
+        "type": "message",
+        "text": "I understand your feelings. However, removing this post for disrespectful language.",
+        "user": "U02TTEFFU6B",
+        "ts": "1649671092.200189",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WwrTI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I understand your feelings. However, removing this post for disrespectful language."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649669308.439869",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "I am working in startup ecosystem for last 2.5 years, mainly in early stage startups &amp; have very well experience.\n\nBut somehow my family still want me to have a government job. Maybe they want stability for me because of our family financial situation. Now they've started saying this on each &amp; every day. It's becoming painful for me.\n\nIs there any way in which I can do a govt job but work in startup environments.  Maybe a particular department which works with startups to help them. Something in the govt's scheme around accelerator program or startup 10000 program or anything like that!\n\nAlso what are the exams name?\n\nPlease suggest me any way out.",
+        "user": "U02SXBR28G1",
+        "ts": "1649682730.788769",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6W+k3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am working in startup ecosystem for last 2.5 years, mainly in early stage startups & have very well experience.\n\nBut somehow my family still want me to have a government job. Maybe they want stability for me because of our family financial situation. Now they've started saying this on each & every day. It's becoming painful for me.\n\nIs there any way in which I can do a govt job but work in startup environments.  Maybe a particular department which works with startups to help them. Something in the govt's scheme around accelerator program or startup 10000 program or anything like that!\n\nAlso what are the exams name?\n\nPlease suggest me any way out."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649682730.788769",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1649686512.284879",
+        "reply_users": [
+            "U02PDC4883V"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649686512.284879"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1649686512.284879"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "&gt; Please suggest me any way out.\n\nStop listening to your parents. This is your life, not theirs. Make your own choices. Be proud of your choices. Or regret them. I don't care. But don't give control of your life to anyone else.\n\nYou will carry this to your offspring(s) and they will to theirs. Break the cycle. Evolve. Become smarter.",
+        "user": "U02SXBR28G1",
+        "ts": "1649686147.835979",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uex",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please suggest me any way out."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nStop listening to your parents. This is your life, not theirs. Make your own choices. Be proud of your choices. Or regret them. I don't care. But don't give control of your life to anyone else.\n\nYou will carry this to your offspring(s) and they will to theirs. Break the cycle. Evolve. Become smarter."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "trophy",
+                "users": [
+                    "U02TTEFFU6B",
+                    "U02URBKGVA7",
+                    "U02UM0VU8MQ",
+                    "U02USELSBRT",
+                    "U02V92UN0Q2",
+                    "U0325QQQALR",
+                    "U030N8RHURZ",
+                    "U02VA7QD8UB",
+                    "U03AG8MUECT",
+                    "U030ZR9D0FK",
+                    "U031JS3RF0V",
+                    "U033Q4L80CT",
+                    "U033QDFML74",
+                    "U030QT8S084",
+                    "U03996E48LB",
+                    "U02VAM808KV"
+                ],
+                "count": 16
+            },
+            {
+                "name": "crown",
+                "users": [
+                    "U02U94HSBV4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U03A7KXT45S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4f79d4df-b3b2-46e6-a92b-e0132e1e165d",
+        "type": "message",
+        "text": "A. Understand what your parents want is the best for you according to them\nB. The world has changed and they may not comprehend what best is\nC. Make them trust your judgement - if you enjoy working with startups, so be it. Tell them you will do this for x more years before deciding anything.\nD. Like the other anon said, become the owner of your choices &amp; consequences. Don’t carry regrets in your heart.",
+        "user": "U02PDC4883V",
+        "ts": "1649686512.284879",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GqQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A. Understand what your parents want is the best for you according to them\nB. The world has changed and they may not comprehend what best is\nC. Make them trust your judgement - if you enjoy working with startups, so be it. Tell them you will do this for x more years before deciding anything.\nD. Like the other anon said, become the owner of your choices & consequences. Don’t carry regrets in your heart."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649682730.788769",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U033Q4L80CT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "I was bit shocked to see the salary survey results yesterday. I am a PMM with 4.5 years of work (2.5 in SaaS) .\n\nMy salary is 25 LPA.\n\nAccording to the survey, my upper ceiling is quite closeby. SaaS marketing doesn’t pay or what? Is becoming an influencer\/joining a US based startup\/starting up the only solution for big bucks?",
+        "user": "U02SXBR28G1",
+        "ts": "1649687124.434709",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R2OP+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was bit shocked to see the salary survey results yesterday. I am a PMM with 4.5 years of work (2.5 in SaaS) .\n\nMy salary is 25 LPA.\n\nAccording to the survey, my upper ceiling is quite closeby. SaaS marketing doesn’t pay or what? Is becoming an influencer\/joining a US based startup\/starting up the only solution for big bucks?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "Wait a minute. I'll be back from depression after reading your message.",
+        "user": "U02SXBR28G1",
+        "ts": "1649687365.404989",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MXv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wait a minute. I'll be back from depression after reading your message."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U02USELSBRT",
+                    "U02PDC6B0HH",
+                    "U031KD0PNTX",
+                    "U030ZR9D0FK",
+                    "U033QDFML74",
+                    "U02V8NZMWSX"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "I'll go second? \nWhere I come from, that's generous. Overworked, verge of breakdowns, all with 13LPA and same experience. But, ofcourse, there's “growth” and laughable stock policy in place to compensate that. \n\nNow if this isn't a part of the hustle culture, then what is? \nWork for us till you die. You can't? Too bad. You aren't built for this kinda fast paced environment.",
+        "user": "U02SXBR28G1",
+        "ts": "1649687643.173189",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7UVbn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll go second? \nWhere I come from, that's generous. Overworked, verge of breakdowns, all with 13LPA and same experience. But, ofcourse, there's “growth” and laughable stock policy in place to compensate that. \n\nNow if this isn't a part of the hustle culture, then what is? \nWork for us till you die. You can't? Too bad. You aren't built for this kinda fast paced environment."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "smiling_face_with_tear",
+                "users": [
+                    "U030ZR9D0FK",
+                    "U02PDC4883V"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "So till date we have managed to maintain an almost 100% “MQL conversion rate” of prospects who accept a calendar invite to those who pay us, by trying to weed out bad customers who seem like they are evaluating better products in the sales process itself - clearly it worked well :)\n\nSadly, we’ve run into our second non-paying customer till date. We were looking forward to Tesla joining us as a customer, But it seems better judgement has prevailed, though I was sort of expecting it :disappointed:\n\n#salesmarketingwoes",
+        "user": "U02SXBR28G1",
+        "ts": "1649694375.100019",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "spOg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So till date we have managed to maintain an almost 100% “MQL conversion rate” of prospects who accept a calendar invite to those who pay us, by trying to weed out bad customers who seem like they are evaluating better products in the sales process itself - clearly it worked well :)\n\nSadly, we’ve run into our second non-paying customer till date. We were looking forward to Tesla joining us as a customer, But it seems better judgement has prevailed, though I was sort of expecting it "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n#salesmarketingwoes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "boom",
+                "users": [
+                    "U02UM0VU8MQ",
+                    "U03560PQ082",
+                    "U033QDFML74"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "When a CEO writes a blog, what do you think he should write about? I can give options but phir woh leading question ho jaayega. the blog is for a company wide update basically.",
+        "user": "U02SXBR28G1",
+        "ts": "1649703390.461409",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YvuBn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When a CEO writes a blog, what do you think he should write about? I can give options but phir woh leading question ho jaayega. the blog is for a company wide update basically."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649703390.461409",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1649738724.194959",
+        "reply_users": [
+            "U030E27CBB3",
+            "U031QKGPNRK"
+        ],
+        "replies": [
+            {
+                "user": "U030E27CBB3",
+                "ts": "1649731808.338449"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1649738724.194959"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "DA6FF443-15B1-4693-88A3-03FB98DA37E7",
+        "type": "message",
+        "text": "They should generally share their thoughts, opinions and perspective on the industry that the company operates in. But beyond business they can share their perspective on values that the companies represents. ",
+        "user": "U030E27CBB3",
+        "ts": "1649731808.338449",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "ec5003a1e337",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/3003735647700_ec5003a1e337e1285f09_72.jpg",
+            "first_name": "Sooraj",
+            "real_name": "Sooraj Divakaran",
+            "display_name": "Sooraj",
+            "team": "T02PFK13YLC",
+            "name": "soorajdivakaran",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rJ2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "They should generally share their thoughts, opinions and perspective on the industry that the company operates in. But beyond business they can share their perspective on values that the companies represents. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649703390.461409",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "a7af8880-d967-4797-9bbf-333a2e8839b9",
+        "type": "message",
+        "text": "In my understanding, it is best if you enable the CEO\/founder actually think like a vlogger\/blogger. List down their areas of interest, passion and what they believe in from the core. Then see areas of overlap between the problem the product is trying to solve and what they are truly passionate about (ideally direct\/but abstract is also fine to start).\n\nSome examples:\n\n• Intercom founder started talking about customer success\/support very early on even before they had a full fledged platform\n• Groovehq founder blogged about his journey from 0 to $100k  MRR and beyond\n• We all know buffer CEO talking about full transparency, P\/L reports\/Salary caps etc\n• David Cancel talks about scaling, leadership\n• and so on\nI would go for an overlap between:\n• what they are truly truly passionate\n• what they have first hand experience in\/expertise\n• alignment with problem\/business model\/cultural value (abstract\/direct)\nI sincerely believe the ideation here should not be delegated to a marketing team\/marketer who is not the founder. help the founder brainstorm\/shortlist. Give feedback on his tone\/tenor\/language but let their creativity loose\n\nHope I didn’t misunderstand your question :slightly_smiling_face: If it is a blog post about funding\/hiring etc there are enough formats\/playbooks but if you want to build a content\/knowledge brand around founder, above observations might help.",
+        "user": "U031QKGPNRK",
+        "ts": "1649738724.194959",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F7i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In my understanding, it is best if you enable the CEO\/founder actually think like a vlogger\/blogger. List down their areas of interest, passion and what they believe in from the core. Then see areas of overlap between the problem the product is trying to solve and what they are truly passionate about (ideally direct\/but abstract is also fine to start).\n\nSome examples:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Intercom founder started talking about customer success\/support very early on even before they had a full fledged platform"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Groovehq founder blogged about his journey from 0 to $100k  MRR and beyond"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "We all know buffer CEO talking about full transparency, P\/L reports\/Salary caps etc"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "David Cancel talks about scaling, leadership"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "and so on"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nI would go for an overlap between:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "what they are truly truly passionate"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "what they have first hand experience in\/expertise"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "alignment with problem\/business model\/cultural value (abstract\/direct)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nI sincerely believe the ideation here should not be delegated to a marketing team\/marketer who is not the founder. help the founder brainstorm\/shortlist. Give feedback on his tone\/tenor\/language but let their creativity loose\n\nHope I didn’t misunderstand your question "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " If it is a blog post about funding\/hiring etc there are enough formats\/playbooks but if you want to build a content\/knowledge brand around founder, above observations might help."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649703390.461409",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03010J15V1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "There are total number of 17,508 islands in Indonesia of which *about 6000* are inhabited.",
+        "user": "U02SXBR28G1",
+        "ts": "1649743243.665879",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ax9Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are total number of 17,508 islands in Indonesia of which "
+                            },
+                            {
+                                "type": "text",
+                                "text": "about 6000",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " are inhabited."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649743243.665879",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1649750233.777409",
+        "reply_users": [
+            "U03560PQ082"
+        ],
+        "replies": [
+            {
+                "user": "U03560PQ082",
+                "ts": "1649750233.777409"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1649743381.228329",
+        "thread_ts": "1649743381.228329",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1649745098.915369",
+        "reply_users": [
+            "U038L2K4R08",
+            "U03A397SJCF",
+            "U031KD0PNTX"
+        ],
+        "replies": [
+            {
+                "user": "U038L2K4R08",
+                "ts": "1649743430.631169"
+            },
+            {
+                "user": "U03A397SJCF",
+                "ts": "1649744737.340409"
+            },
+            {
+                "user": "U031KD0PNTX",
+                "ts": "1649745018.801169"
+            },
+            {
+                "user": "U038L2K4R08",
+                "ts": "1649745065.268679"
+            },
+            {
+                "user": "U03A397SJCF",
+                "ts": "1649745098.915369"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "62076b98-3ab6-455f-b1e3-df221da43f11",
+        "type": "message",
+        "text": "omg <#C0318NH5G3C|shameless-plug> gone wrong",
+        "user": "U038L2K4R08",
+        "ts": "1649743430.631169",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bce1208af1c8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-21\/3265436469957_bce1208af1c8b401d3db_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris John",
+            "display_name": "Chris John",
+            "team": "T02PFK13YLC",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yPv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "omg "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0318NH5G3C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " gone wrong"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649743381.228329",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "if you are using this channel to promote yourself or your product, i hope and pray you get a chance to use the genius brain to do actual organic marketing. You are only hurting your brand and message by pissing off people and lowering your own bar",
+        "user": "U02SXBR28G1",
+        "ts": "1649744194.671949",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bzx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if you are using this channel to promote yourself or your product, i hope and pray you get a chance to use the genius brain to do actual organic marketing. You are only hurting your brand and message by pissing off people and lowering your own bar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02V9QUDK1Q",
+                    "U02URS98P9B",
+                    "U02VAPDACUQ",
+                    "U030ZR9D0FK",
+                    "U031QKGPNRK",
+                    "U0325QQQALR",
+                    "U02UM0VU8MQ",
+                    "U030SDYNX7V",
+                    "U02URBKGVA7",
+                    "U03560PQ082",
+                    "U032U1VN70S",
+                    "U02ULN6EFNV",
+                    "U02PDC4883V",
+                    "U037VSS964S",
+                    "U0362R42317",
+                    "U033QDFML74",
+                    "U038WP8PLUA",
+                    "U030RKNTR6H"
+                ],
+                "count": 18
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bd17cde9-2ebf-42e9-bf52-6107aa2db641",
+        "type": "message",
+        "text": "~1 le lenge kya?~\n\nLet’s buy one",
+        "user": "U03A397SJCF",
+        "ts": "1649744737.340409",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8350509990dc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3357545030005_8350509990dc150e9deb_72.jpg",
+            "first_name": "Anshul",
+            "real_name": "Anshul Bansal",
+            "display_name": "akbansa",
+            "team": "T02PFK13YLC",
+            "name": "bansal.anshul.94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03A397SJCF",
+            "ts": "1649745122.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3fD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1 le lenge kya?",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nLet’s buy one"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649743381.228329",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "5def1ba7-4e25-47e6-bd2c-d5c776cceea5",
+        "type": "message",
+        "text": "reviews needed!",
+        "user": "U031KD0PNTX",
+        "ts": "1649745018.801169",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "d8e3a1cc6ed8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3305635315237_d8e3a1cc6ed88c5c929a_72.jpg",
+            "first_name": "Anand",
+            "real_name": "Anand",
+            "display_name": "theanand",
+            "team": "T02PFK13YLC",
+            "name": "anand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xJvL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "reviews needed!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649743381.228329",
+        "parent_user_id": "USLACKBOT",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U031QKGPNRK",
+                    "U02U94HSBV4",
+                    "U02TTEFFU6B"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "777703b2-f580-4203-93d7-604ccc0ff8d8",
+        "type": "message",
+        "text": "<@U03A397SJCF> lets keep the languages to something everyone can understand",
+        "user": "U038L2K4R08",
+        "ts": "1649745065.268679",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bce1208af1c8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-21\/3265436469957_bce1208af1c8b401d3db_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris John",
+            "display_name": "Chris John",
+            "team": "T02PFK13YLC",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Ybdg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03A397SJCF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " lets keep the languages to something everyone can understand"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649743381.228329",
+        "parent_user_id": "USLACKBOT",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U038WP8PLUA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "83a9495e-ca53-47ed-87df-8e8140f6c55e",
+        "type": "message",
+        "text": "Sure <@U038L2K4R08>",
+        "user": "U03A397SJCF",
+        "ts": "1649745098.915369",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8350509990dc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3357545030005_8350509990dc150e9deb_72.jpg",
+            "first_name": "Anshul",
+            "real_name": "Anshul Bansal",
+            "display_name": "akbansa",
+            "team": "T02PFK13YLC",
+            "name": "bansal.anshul.94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W4J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U038L2K4R08"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649743381.228329",
+        "parent_user_id": "USLACKBOT"
+    }
+]

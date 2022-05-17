@@ -1,0 +1,167 @@
+[
+    {
+        "client_msg_id": "702a2435-f099-40e4-93de-d08d98b52090",
+        "type": "message",
+        "text": "<@U02UY3EPQDA> <@U02PDC4883V> <@U0352SBJFGW> I am a noob in setting up such analytics campaigns but I know how to strategize a measurement plan. My primary problem is setting up in Mixpanel with Segment with Custom Events(With Code or Some GTM Custom Tag). Also do need someone that could help me professionally in this. If you guys are open to talking I would love a chat around this:sweat_smile:",
+        "user": "U0323V4CLRY",
+        "ts": "1649360770.356159",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bda2aafa72dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-22\/3275541779442_bda2aafa72dde9c08430_72.jpg",
+            "first_name": "Samyak",
+            "real_name": "Samyak tripathi",
+            "display_name": "samyak",
+            "team": "T02PFK13YLC",
+            "name": "samyaktripathi060",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0323V4CLRY",
+            "ts": "1649360806.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LA9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02UY3EPQDA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02PDC4883V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0352SBJFGW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I am a noob in setting up such analytics campaigns but I know how to strategize a measurement plan. My primary problem is setting up in Mixpanel with Segment with Custom Events(With Code or Some GTM Custom Tag). Also do need someone that could help me professionally in this. If you guys are open to talking I would love a chat around this"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648908724.533279",
+        "parent_user_id": "U0323V4CLRY"
+    },
+    {
+        "client_msg_id": "27d43e8b-519b-4c84-bab7-ebfe81096e38",
+        "type": "message",
+        "text": "In my experience products that look less like a dashboard and are designed for more intuition are the ones that succeed. When you pre-empt the problems your customer is facing while they’re at the screen and are able to present them the right options at the right time that’s when the ‘love’ can start to generate.\n\nThe best products do this :\n\n1. Guide the user through 1 full completed action one time. \n2. Save this action for easier recyclability and allow the user to replicate on the second, third time etc. \n3. Allows the user to access and analyse data and gain insights into what is and isn’t working. \n4. Requires minimal human interaction. Support should not be far away. ",
+        "user": "U039FQ2SNNN",
+        "ts": "1649399901.393809",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9bb6d1a8280e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-30\/3321818966962_9bb6d1a8280e6c254c07_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rohitguptatoday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039FQ2SNNN",
+            "ts": "1649400009.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0=Yb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In my experience products that look less like a dashboard and are designed for more intuition are the ones that succeed. When you pre-empt the problems your customer is facing while they’re at the screen and are able to present them the right options at the right time that’s when the ‘love’ can start to generate.\n\nThe best products do this :\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Guide the user through 1 full completed action one time. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Save this action for easier recyclability and allow the user to replicate on the second, third time etc. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Allows the user to access and analyse data and gain insights into what is and isn’t working. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Requires minimal human interaction. Support should not be far away. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649172552.265139",
+        "parent_user_id": "U039HH3LP43",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U039HH3LP43"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

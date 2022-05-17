@@ -1,0 +1,192 @@
+[
+    {
+        "client_msg_id": "579CF5D5-BD17-42E4-A5A7-A9505483A9DB",
+        "type": "message",
+        "text": "Since i saw so much love (pun intended) for pepper content in some conversation here, thought you all will be the best folks to ask.\n\nKnow any company for content creation (website, social media &amp; the likes) for a B2B manufacturing company in food ingredients space (Symega)? Could use some referrals :pray:",
+        "user": "U03AJ8BHKNC",
+        "ts": "1649438212.030259",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "2133b8282666",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-06\/3353492600340_2133b828266683f99ee6_72.png",
+            "first_name": "Doulos",
+            "real_name": "Doulos Jose",
+            "display_name": "dj",
+            "team": "T02PFK13YLC",
+            "name": "mail",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Szjus",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Since i saw so much love (pun intended) for pepper content in some conversation here, thought you all will be the best folks to ask.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Know any company for content creation (website, social media & the likes) for a B2B manufacturing company in food ingredients space (Symega)? Could use some referrals "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649438212.030259",
+        "reply_count": 6,
+        "reply_users_count": 5,
+        "latest_reply": "1649681292.280939",
+        "reply_users": [
+            "U03560PQ082",
+            "U03AJ8BHKNC",
+            "U030KV8R8RL",
+            "U0363DZU3QF",
+            "U0389EB28UR"
+        ],
+        "replies": [
+            {
+                "user": "U03560PQ082",
+                "ts": "1649480058.907149"
+            },
+            {
+                "user": "U03AJ8BHKNC",
+                "ts": "1649486741.577849"
+            },
+            {
+                "user": "U030KV8R8RL",
+                "ts": "1649664744.830059"
+            },
+            {
+                "user": "U0363DZU3QF",
+                "ts": "1649677876.705109"
+            },
+            {
+                "user": "U030KV8R8RL",
+                "ts": "1649679976.160319"
+            },
+            {
+                "user": "U0389EB28UR",
+                "ts": "1649681292.280939"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5882a0d0-30ce-4db5-9a7f-bc19165046cf",
+        "type": "message",
+        "text": "<@U035SR6DNQ6> can help :slightly_smiling_face:",
+        "user": "U03560PQ082",
+        "ts": "1649480058.907149",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1db32098d186",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-01\/3176023965474_1db32098d186ac873a3d_72.png",
+            "first_name": "Ahaan",
+            "real_name": "Ahaan Pandit",
+            "display_name": "Ahaan Pandit",
+            "team": "T02PFK13YLC",
+            "name": "ahaan.pandit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tOtAe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U035SR6DNQ6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can help "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649438212.030259",
+        "parent_user_id": "U03AJ8BHKNC",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03AJ8BHKNC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F63A5D9D-57B0-44D1-B4E5-041DC55DE651",
+        "type": "message",
+        "text": "<@U035SR6DNQ6> do let me know if you are interested ",
+        "user": "U03AJ8BHKNC",
+        "ts": "1649486741.577849",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "2133b8282666",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-06\/3353492600340_2133b828266683f99ee6_72.png",
+            "first_name": "Doulos",
+            "real_name": "Doulos Jose",
+            "display_name": "dj",
+            "team": "T02PFK13YLC",
+            "name": "mail",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ri8=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U035SR6DNQ6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do let me know if you are interested "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649438212.030259",
+        "parent_user_id": "U03AJ8BHKNC"
+    }
+]

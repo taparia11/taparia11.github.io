@@ -1,0 +1,496 @@
+[
+    {
+        "client_msg_id": "07f823fd-f6d8-4891-83f0-35752af13edf",
+        "type": "message",
+        "text": "Wanna know what sectors your competitor is bullish on?\n\nWell there are lot of tools that can tell you but what if the your competitor would tell it to you.\n\nSounds Interesting click on the link and see how can it be possible\n\n<https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:6922426274111967232\/>",
+        "user": "U03AG8VB44S",
+        "ts": "1650442000.971069",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "3b7a00320cf4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-06\/3349651550262_3b7a00320cf4755a19e7_72.jpg",
+            "first_name": "Sanmaya",
+            "real_name": "Sanmaya Biswal",
+            "display_name": "Sanmaya Biswal",
+            "team": "T02PFK13YLC",
+            "name": "sanmaya.growth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:6922426274111967232\/",
+                "image_url": "https:\/\/static-exp1.licdn.com\/sc\/h\/c45fy346jw096z9pbphyyhdz7",
+                "image_width": 438,
+                "image_height": 250,
+                "image_bytes": 34857,
+                "service_icon": "https:\/\/static-exp1.licdn.com\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:6922426274111967232\/",
+                "fallback": "Sanmaya Biswal on LinkedIn: #growth #funding #marketing",
+                "text": "How to know what's your competitor growth channels? Well, that's a simple answer right! There are a lot of tools to get an overview of what your competitor's...",
+                "title": "Sanmaya Biswal on LinkedIn: #growth #funding #marketing",
+                "title_link": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:6922426274111967232\/",
+                "service_name": "linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OH\/QX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wanna know what sectors your competitor is bullish on?\n\nWell there are lot of tools that can tell you but what if the your competitor would tell it to you.\n\nSounds Interesting click on the link and see how can it be possible\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:6922426274111967232\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "33755f2f-3f27-4de3-a396-448b7f9f09ce",
+        "type": "message",
+        "text": "Feedback request :pray:\n\nWe just built a free, all-in-one SEO tool- SuiteJar\n\nWould like to hear your thoughts and suggestions on it.\n\nYou can signup here: <http:\/\/suitejar.com|suitejar.com>",
+        "user": "U030763A7PT",
+        "ts": "1650451841.954359",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g392311796a0",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/392311796a02e84a9644bba9937bf012.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jose",
+            "real_name": "Jose Gonsalo",
+            "display_name": "Jose Gonsalo",
+            "team": "T02PFK13YLC",
+            "name": "jose",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zW6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Feedback request "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nWe just built a free, all-in-one SEO tool- SuiteJar\n\nWould like to hear your thoughts and suggestions on it.\n\nYou can signup here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/suitejar.com",
+                                "text": "suitejar.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650451841.954359",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1650453624.141379",
+        "reply_users": [
+            "U02TTEFFU6B",
+            "U030763A7PT"
+        ],
+        "replies": [
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1650452278.623839"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1650452298.869239"
+            },
+            {
+                "user": "U030763A7PT",
+                "ts": "1650453478.621049"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1650453576.449729"
+            },
+            {
+                "user": "U030763A7PT",
+                "ts": "1650453624.141379"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "92fb6479-a40f-4ee4-8cb3-670a0f787eaa",
+        "type": "message",
+        "text": "Remove supercharge from headline",
+        "user": "U02TTEFFU6B",
+        "ts": "1650452278.623839",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WhG+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Remove supercharge from headline"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650451841.954359",
+        "parent_user_id": "U030763A7PT",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U030763A7PT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a67528b6-64a5-4d84-8aad-aee07186263e",
+        "type": "message",
+        "text": "Also, why would I trust your tool than ahref, when it seems like you do exactly what ahref does?",
+        "user": "U02TTEFFU6B",
+        "ts": "1650452298.869239",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ugbr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, why would I trust your tool than ahref, when it seems like you do exactly what ahref does?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650451841.954359",
+        "parent_user_id": "U030763A7PT"
+    },
+    {
+        "client_msg_id": "9a95cec5-ec10-49b9-9f20-fb0947ca2e8b",
+        "type": "message",
+        "text": "Hi <@U02TTEFFU6B>\n\nI was about to reach out to you. But <@U02V9QUDK1Q> responded to my message on LinkedIn. :slightly_smiling_face:\n\nAnd thank you so much for responding here.\n\nWell, I don't say anyone needs to trust us by just seeing the website. You may please signup and see if it helps you with insights in improving the website organic traffic.\n\nAlso, we're not in a position to compete with Ahrefs\/Semrush as of now. :smile:\n\nHowever, a few things to note:\n1. Ahrefs is expensive\n2. No free trial\n3. No option to find outdated website content (the trigger to build SuiteJar)\nOn top, SuiteJar is free!",
+        "user": "U030763A7PT",
+        "ts": "1650453478.621049",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g392311796a0",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/392311796a02e84a9644bba9937bf012.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jose",
+            "real_name": "Jose Gonsalo",
+            "display_name": "Jose Gonsalo",
+            "team": "T02PFK13YLC",
+            "name": "jose",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z2+VC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02TTEFFU6B"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI was about to reach out to you. But "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02V9QUDK1Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " responded to my message on LinkedIn. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAnd thank you so much for responding here.\n\nWell, I don't say anyone needs to trust us by just seeing the website. You may please signup and see if it helps you with insights in improving the website organic traffic.\n\nAlso, we're not in a position to compete with Ahrefs\/Semrush as of now. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nHowever, a few things to note:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Ahrefs is expensive"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "No free trial"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "No option to find outdated website content (the trigger to build SuiteJar)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nOn top, SuiteJar is free!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650451841.954359",
+        "parent_user_id": "U030763A7PT"
+    },
+    {
+        "client_msg_id": "3d5ec081-36f4-4d21-b7f1-97c8e7ad6c37",
+        "type": "message",
+        "text": "Ok. My point was, these are objections a marketer who uses all your competitor has. Use it to make your website homepage more appealing and answer these upfront. because like me, everyone will have these doubts.",
+        "user": "U02TTEFFU6B",
+        "ts": "1650453576.449729",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kLe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok. My point was, these are objections a marketer who uses all your competitor has. Use it to make your website homepage more appealing and answer these upfront. because like me, everyone will have these doubts."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650451841.954359",
+        "parent_user_id": "U030763A7PT"
+    },
+    {
+        "client_msg_id": "1b2eccac-6b50-46aa-9640-2233a1720a8d",
+        "type": "message",
+        "text": "Sure, got it :thumbsup:",
+        "user": "U030763A7PT",
+        "ts": "1650453624.141379",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g392311796a0",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/392311796a02e84a9644bba9937bf012.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jose",
+            "real_name": "Jose Gonsalo",
+            "display_name": "Jose Gonsalo",
+            "team": "T02PFK13YLC",
+            "name": "jose",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8\/5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure, got it "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thumbsup"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650451841.954359",
+        "parent_user_id": "U030763A7PT"
+    },
+    {
+        "client_msg_id": "f845ac36-c571-4d3d-9ba9-a0849db861d1",
+        "type": "message",
+        "text": "Going to start live conversation with @trevorsookraj on building marketing teams at startups. Join us here - <https:\/\/www.youtube.com\/watch?v=ZjTd6tkiLUg>",
+        "user": "U031MLA8NKC",
+        "ts": "1650459426.983569",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "gde02bf816c3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/de02bf816c3b24977795ed346131ed70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Aquibur",
+            "real_name": "Aquibur Rahman",
+            "display_name": "Aquibur Rahman",
+            "team": "T02PFK13YLC",
+            "name": "aquib",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=ZjTd6tkiLUg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/ZjTd6tkiLUg\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/ZjTd6tkiLUg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=ZjTd6tkiLUg",
+                "fallback": "YouTube Video: Building Growth Teams at Startups",
+                "title": "Building Growth Teams at Startups",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=ZjTd6tkiLUg",
+                "author_name": "Mailmodo",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UC5TnX577VlzogZj04alfnNg",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RlNi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Going to start live conversation with @trevorsookraj on building marketing teams at startups. Join us here - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=ZjTd6tkiLUg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

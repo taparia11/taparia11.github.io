@@ -1,0 +1,338 @@
+[
+    {
+        "client_msg_id": "9950cffa-e1b5-42c1-acd9-307cdcb17df5",
+        "type": "message",
+        "text": "Any great examples of a good product launch blog that you love marketers?",
+        "user": "U030C8N99TN",
+        "ts": "1650703906.437139",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7258c8b1fd86",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-26\/3033728340432_7258c8b1fd86fe1502f3_72.png",
+            "first_name": "Aparna",
+            "real_name": "Aparna Kulkarni",
+            "display_name": "Aparna Kulkarni",
+            "team": "T02PFK13YLC",
+            "name": "aparna",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b5jD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any great examples of a good product launch blog that you love marketers?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650703906.437139",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1650816056.948149",
+        "reply_users": [
+            "U031QKGPNRK",
+            "U030C8N99TN",
+            "U0306HUGT6C"
+        ],
+        "replies": [
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1650714087.167619"
+            },
+            {
+                "user": "U030C8N99TN",
+                "ts": "1650714126.314429"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1650714800.365009"
+            },
+            {
+                "user": "U030C8N99TN",
+                "ts": "1650715852.552839"
+            },
+            {
+                "user": "U0306HUGT6C",
+                "ts": "1650816056.948149"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "266a392b-3a09-4901-bdab-816a53d12f99",
+        "type": "message",
+        "text": "happy to help with some references, just to be sure, you looking for product feature launch examples or actual full fledged product releases?",
+        "user": "U031QKGPNRK",
+        "ts": "1650714087.167619",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8o+i8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "happy to help with some references, just to be sure, you looking for product feature launch examples or actual full fledged product releases?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650703906.437139",
+        "parent_user_id": "U030C8N99TN"
+    },
+    {
+        "client_msg_id": "a6de1e7f-d992-425c-94eb-877887ee368d",
+        "type": "message",
+        "text": "Full fledged launch for a new product!",
+        "user": "U030C8N99TN",
+        "ts": "1650714126.314429",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7258c8b1fd86",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-26\/3033728340432_7258c8b1fd86fe1502f3_72.png",
+            "first_name": "Aparna",
+            "real_name": "Aparna Kulkarni",
+            "display_name": "Aparna Kulkarni",
+            "team": "T02PFK13YLC",
+            "name": "aparna",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XEx17",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Full fledged launch for a new product!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650703906.437139",
+        "parent_user_id": "U030C8N99TN",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U031QKGPNRK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f933afc0-d5f2-4ac4-959a-512ebf322ef8",
+        "type": "message",
+        "text": "I have for long admired Intercom for launches.\n\nI have bookmarked these 2 assets which I find really actionable:\n\n*<https:\/\/coda.io\/@jasmine\/intercoms-announcement-template|1. Their product announcement doc (talks about planning and activities needed for product launch from marketing\/messaging side)>*\n\n*<https:\/\/www.intercom.com\/blog\/announcing-intercom-switch\/|2.  Sample blog post>*\n\nI hope you are not focussing too much effort on a blog post structure\/presentation. More than it’s structure, how it interlinks with other launch activities and the visitor journey through different channels is important I think to make sure you pique interest, and learn from their behaviour\/interest.",
+        "user": "U031QKGPNRK",
+        "ts": "1650714800.365009",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U031QKGPNRK",
+            "ts": "1650714877.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/coda.io\/@jasmine\/intercoms-announcement-template",
+                "service_icon": "https:\/\/cdn.coda.io\/icons\/png\/color\/commercial-apple-120.png",
+                "id": 1,
+                "original_url": "https:\/\/coda.io\/@jasmine\/intercoms-announcement-template",
+                "fallback": "Coda Link: Intercom's Announcement Template",
+                "text": "Guideline for any launch you might be planning as a product marketer. You can use it to define the messaging, determine the level of investment based on the importance of the milestone, and outline all the activities needed to get it out the door.",
+                "title": "Intercom's Announcement Template",
+                "title_link": "https:\/\/coda.io\/@jasmine\/intercoms-announcement-template",
+                "author_name": "Jasmine J",
+                "service_name": "Coda",
+                "service_url": "https:\/\/coda.io\/"
+            },
+            {
+                "from_url": "https:\/\/www.intercom.com\/blog\/announcing-intercom-switch\/",
+                "ts": 1649174555,
+                "image_url": "https:\/\/blog.intercomassets.com\/blog\/wp-content\/uploads\/2022\/04\/Intercom-Switch-blog-header-1.jpg.optimal.jpg",
+                "image_width": 534,
+                "image_height": 250,
+                "image_bytes": 70589,
+                "service_icon": "https:\/\/blog.intercomassets.com\/blog\/wp-content\/uploads\/2018\/10\/cropped-cropped-site-icon-2-180x180.png",
+                "id": 2,
+                "original_url": "https:\/\/www.intercom.com\/blog\/announcing-intercom-switch\/",
+                "fallback": "Inside Intercom: Switch on the next generation of phone support",
+                "text": "We’re excited to introduce Intercom Switch: the easiest way to move inbound call volume to messaging – and scale your support offering.",
+                "title": "Switch on the next generation of phone support",
+                "title_link": "https:\/\/www.intercom.com\/blog\/announcing-intercom-switch\/",
+                "service_name": "Inside Intercom",
+                "fields": [
+                    {
+                        "value": "Tanner Elvidge",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "5 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FLqG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have for long admired Intercom for launches.\n\nI have bookmarked these 2 assets which I find really actionable:\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coda.io\/@jasmine\/intercoms-announcement-template",
+                                "text": "1. Their product announcement doc (talks about planning and activities needed for product launch from marketing\/messaging side)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.intercom.com\/blog\/announcing-intercom-switch\/",
+                                "text": "2.  Sample blog post",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI hope you are not focussing too much effort on a blog post structure\/presentation. More than it’s structure, how it interlinks with other launch activities and the visitor journey through different channels is important I think to make sure you pique interest, and learn from their behaviour\/interest."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650703906.437139",
+        "parent_user_id": "U030C8N99TN"
+    },
+    {
+        "client_msg_id": "9e2a0cbe-9505-4a2a-ba31-e60949b93cc1",
+        "type": "message",
+        "text": "Oh yay! This seems good! Thanks <@U031QKGPNRK>!",
+        "user": "U030C8N99TN",
+        "ts": "1650715852.552839",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7258c8b1fd86",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-26\/3033728340432_7258c8b1fd86fe1502f3_72.png",
+            "first_name": "Aparna",
+            "real_name": "Aparna Kulkarni",
+            "display_name": "Aparna Kulkarni",
+            "team": "T02PFK13YLC",
+            "name": "aparna",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fURMO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh yay! This seems good! Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U031QKGPNRK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650703906.437139",
+        "parent_user_id": "U030C8N99TN",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U031QKGPNRK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1650783023.012109",
+        "user": "U03C8SYJGCF",
+        "text": "<@U03C8SYJGCF> has joined the channel",
+        "inviter": "U03DD6EGPKJ"
+    }
+]

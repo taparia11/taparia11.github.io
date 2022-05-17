@@ -1,0 +1,661 @@
+[
+    {
+        "client_msg_id": "c1db30ab-c0a4-4c35-9f39-e6f4ba923602",
+        "type": "message",
+        "text": "Right .. get that .. Thank you!",
+        "user": "U03CZ7PV5KN",
+        "ts": "1650956857.814089",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "2456e3c15870",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3432290626454_2456e3c15870e25f21c8_72.jpg",
+            "first_name": "Gurpreet",
+            "real_name": "Gurpreet Singh Kharbanda",
+            "display_name": "Gurpreet",
+            "team": "T02PFK13YLC",
+            "name": "gurpreet7686",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lls",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Right .. get that .. Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650955285.442669",
+        "parent_user_id": "U03CZ7PV5KN"
+    },
+    {
+        "client_msg_id": "d4f08a99-3c0a-4bad-b3bf-d2a2f6f8c74f",
+        "type": "message",
+        "text": "So, setting up quotas -&gt;  using them to drive your strategy -&gt; Executing campaigns -&gt; measuring the campaigns against defined quotas .. does it typically work in the same sequence?",
+        "user": "U03CZ7PV5KN",
+        "ts": "1650956882.781559",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "2456e3c15870",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3432290626454_2456e3c15870e25f21c8_72.jpg",
+            "first_name": "Gurpreet",
+            "real_name": "Gurpreet Singh Kharbanda",
+            "display_name": "Gurpreet",
+            "team": "T02PFK13YLC",
+            "name": "gurpreet7686",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qfKF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So, setting up quotas ->  using them to drive your strategy -> Executing campaigns -> measuring the campaigns against defined quotas .. does it typically work in the same sequence?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650955285.442669",
+        "parent_user_id": "U03CZ7PV5KN"
+    },
+    {
+        "client_msg_id": "ff9ef6ce-ced7-4ce0-b21a-135aca6d15b5",
+        "type": "message",
+        "text": "The alternate being, running and measuring campaigns but them not being correlated with any revenue goals ..",
+        "user": "U03CZ7PV5KN",
+        "ts": "1650956914.452659",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "2456e3c15870",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3432290626454_2456e3c15870e25f21c8_72.jpg",
+            "first_name": "Gurpreet",
+            "real_name": "Gurpreet Singh Kharbanda",
+            "display_name": "Gurpreet",
+            "team": "T02PFK13YLC",
+            "name": "gurpreet7686",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9bTQh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The alternate being, running and measuring campaigns but them not being correlated with any revenue goals .."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650955285.442669",
+        "parent_user_id": "U03CZ7PV5KN"
+    },
+    {
+        "client_msg_id": "9da7b623-5737-4cee-83b5-06807b19297f",
+        "type": "message",
+        "text": "yes, ideally most business functions will work that ways i guess: define &gt; plan &gt; execute &gt; measure &gt; iterate\n\nin reality, define and plan will work as usual.\n\nduring execution, many teams may face challenges like:\n\n• lack of resources (money\/people), \n• \"urgent requests from CXOs\", \n• black swan events, \n• losing belief that the plan will work\/changing strategies mid-way\/not getting desired results,\nwhile during measurement, teams may face challenges like:\n\n• not having a single source of truth\n• not being able to accurately measure outcomes\n• not being able to accurately attribute outcomes to specific activities\/actions\n• not having a regular eye and course correction based on data and teams just working on whatever current plan in a state of inertia\nduring iteration, teams may face challenges like:\n\n• not reflecting on what worked and what didn't\n• not incorporating lessons\/failures from past campaigns\n• team changes leading to loss of knowledge\/know-how",
+        "user": "U02USELSBRT",
+        "ts": "1650957831.325509",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HwK+=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, ideally most business functions will work that ways i guess: define > plan > execute > measure > iterate\n\nin reality, define and plan will work as usual.\n\nduring execution, many teams may face challenges like:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "lack of resources (money\/people), "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "\"urgent requests from CXOs\", "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "black swan events, "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "losing belief that the plan will work\/changing strategies mid-way\/not getting desired results,"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nwhile during measurement, teams may face challenges like:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "not having a single source of truth"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "not being able to accurately measure outcomes"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "not being able to accurately attribute outcomes to specific activities\/actions"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "not having a regular eye and course correction based on data and teams just working on whatever current plan in a state of inertia"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nduring iteration, teams may face challenges like:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "not reflecting on what worked and what didn't"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "not incorporating lessons\/failures from past campaigns"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "team changes leading to loss of knowledge\/know-how"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650955285.442669",
+        "parent_user_id": "U03CZ7PV5KN",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03CZ7PV5KN",
+                    "U030KTTNCRL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02VD2JL8N8",
+                    "U032MN1BESJ",
+                    "U031QKGPNRK"
+                ],
+                "count": 3
+            },
+            {
+                "name": "trophy",
+                "users": [
+                    "U02V22EUXM4",
+                    "U031QKGPNRK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d6c5501a-7e66-499b-ba26-de0c6ec21fe7",
+        "type": "message",
+        "text": "Superb! Many thanks Aniruddh!",
+        "user": "U03CZ7PV5KN",
+        "ts": "1650963254.969509",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "2456e3c15870",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3432290626454_2456e3c15870e25f21c8_72.jpg",
+            "first_name": "Gurpreet",
+            "real_name": "Gurpreet Singh Kharbanda",
+            "display_name": "Gurpreet",
+            "team": "T02PFK13YLC",
+            "name": "gurpreet7686",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "50RO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Superb! Many thanks Aniruddh!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650955285.442669",
+        "parent_user_id": "U03CZ7PV5KN",
+        "reactions": [
+            {
+                "name": "blush",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6336148b-124b-4b29-92a9-c592501995ee",
+        "type": "message",
+        "text": "Hi All..\n\nExploring tools like RocketReach for info gathering on ICP business stakeholders.\n\nWe're typically looking for e-mail ids, phone numbers and designations for marketing and selling B2B offerings.\n\nWhat is the feedback on Rocket Reach and any other tools that y'all recommend?",
+        "user": "U031BB161J8",
+        "ts": "1650976662.255849",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g3477e8bec55",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3477e8bec55550efe3c9b97c75cc13f1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Ishaan",
+            "real_name": "Ishaan Sharma",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "ishaanhksharma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Cz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi All..\n\nExploring tools like RocketReach for info gathering on ICP business stakeholders.\n\nWe're typically looking for e-mail ids, phone numbers and designations for marketing and selling B2B offerings.\n\nWhat is the feedback on Rocket Reach and any other tools that y'all recommend?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650976662.255849",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1651052855.315889",
+        "reply_users": [
+            "U037QSG25PG",
+            "U031BB161J8"
+        ],
+        "replies": [
+            {
+                "user": "U037QSG25PG",
+                "ts": "1651042824.500479"
+            },
+            {
+                "user": "U031BB161J8",
+                "ts": "1651043576.771589"
+            },
+            {
+                "user": "U037QSG25PG",
+                "ts": "1651050070.163199"
+            },
+            {
+                "user": "U031BB161J8",
+                "ts": "1651051341.545429"
+            },
+            {
+                "user": "U037QSG25PG",
+                "ts": "1651052855.315889"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "59abbdfa-d2f5-440d-a294-7b91146aea2b",
+        "type": "message",
+        "text": "```The alternate being, running and measuring campaigns but them not being correlated with any revenue goals ```\nThis will work if you have revenue from other sources already and\/or marketing function is not under revenue pressures from the top. In this stage you are exploring various channels to see ROI and quality so that you can decide where you want to scale on when you have the funding\/goals ready.",
+        "user": "U031KD0PNTX",
+        "ts": "1650984494.426569",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "d8e3a1cc6ed8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3305635315237_d8e3a1cc6ed88c5c929a_72.jpg",
+            "first_name": "Anand",
+            "real_name": "Anand",
+            "display_name": "theanand",
+            "team": "T02PFK13YLC",
+            "name": "anand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bfmoc",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The alternate being, running and measuring campaigns but them not being correlated with any revenue goals "
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This will work if you have revenue from other sources already and\/or marketing function is not under revenue pressures from the top. In this stage you are exploring various channels to see ROI and quality so that you can decide where you want to scale on when you have the funding\/goals ready."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650955285.442669",
+        "parent_user_id": "U03CZ7PV5KN"
+    },
+    {
+        "client_msg_id": "2806b34f-d0b5-4301-a0da-ed7fdb685db0",
+        "type": "message",
+        "text": "Hey <@U031BB161J8> - Our implementation team uses Rocket Reach and they are happy with the product. I am happy to take any specific questions and share answers after checking with my team.",
+        "user": "U03CEHJRUR1",
+        "ts": "1650998124.786659",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "f104c21de83c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-21\/3422597040451_f104c21de83c3ff0fe60_72.jpg",
+            "first_name": "Anjali",
+            "real_name": "Anjali Das",
+            "display_name": "Anjali Das",
+            "team": "T02PFK13YLC",
+            "name": "anjali",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pF7i8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U031BB161J8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Our implementation team uses Rocket Reach and they are happy with the product. I am happy to take any specific questions and share answers after checking with my team."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650998124.786659",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1651041123.201499",
+        "reply_users": [
+            "U031BB161J8"
+        ],
+        "replies": [
+            {
+                "user": "U031BB161J8",
+                "ts": "1651040823.636839"
+            },
+            {
+                "user": "U031BB161J8",
+                "ts": "1651041123.201499"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U031BB161J8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5fa4bdc9-0060-4a7b-9eb7-55a1aed0b01e",
+        "type": "message",
+        "text": "Thanks a Ton <@U03CEHJRUR1> ! Yes, just want to understand benchmark in terms of other Cos that you guys checked and pricing deets if you can share",
+        "user": "U031BB161J8",
+        "ts": "1651040823.636839",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g3477e8bec55",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3477e8bec55550efe3c9b97c75cc13f1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Ishaan",
+            "real_name": "Ishaan Sharma",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "ishaanhksharma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IZSP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks a Ton "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CEHJRUR1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ! Yes, just want to understand benchmark in terms of other Cos that you guys checked and pricing deets if you can share"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650998124.786659",
+        "parent_user_id": "U03CEHJRUR1"
+    },
+    {
+        "client_msg_id": "2cbc5b5d-1076-44a5-a738-e5f61bd257bd",
+        "type": "message",
+        "text": "Also the accuracy of the information!",
+        "user": "U031BB161J8",
+        "ts": "1651041123.201499",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g3477e8bec55",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3477e8bec55550efe3c9b97c75cc13f1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Ishaan",
+            "real_name": "Ishaan Sharma",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "ishaanhksharma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LOLWc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also the accuracy of the information!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650998124.786659",
+        "parent_user_id": "U03CEHJRUR1"
+    }
+]

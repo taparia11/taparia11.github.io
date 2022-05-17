@@ -1,0 +1,111 @@
+[
+    {
+        "client_msg_id": "0206B051-BA68-4A43-AD16-696A108D1454",
+        "type": "message",
+        "text": "When we do employee branding and brand awareness campaigns, what are other mediums other than videos will work?\n\nAny ideas for the employee branding video campaigns?\n\nP.S. I loved the PYT’s recent campaign \n<https:\/\/www.linkedin.com\/posts\/pickyourtrail_were-looking-for-fools-pickyourtrail-activity-6915558182685728768-Vrp7?utm_source=linkedin_share&amp;utm_medium=ios_app|https:\/\/www.linkedin.com\/posts\/pickyourtrail_were-looking-for-fools-pickyourtrail-activity-6915558182685728768-Vrp7?utm_source=linkedin_share&amp;utm_medium=ios_app>",
+        "user": "U039H3ZSRD3",
+        "ts": "1649394145.052539",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c24495f57ceb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-31\/3326012121218_c24495f57cebeec29c94_72.jpg",
+            "first_name": "Bharath",
+            "real_name": "Bharath Vittal",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "bharath",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/posts\/pickyourtrail_were-looking-for-fools-pickyourtrail-activity-6915558182685728768-Vrp7?utm_source=linkedin_share&utm_medium=ios_app",
+                "thumb_url": "https:\/\/media-exp1.licdn.com\/dms\/image\/C5605AQG-FXhYvfXeOA\/feedshare-thumbnail_720_1280\/0\/1648797309012?e=2147483647&v=beta&t=B4rNYBC1SHHJIByjeyYjy7vGdefRh7Aeu2Qp8b14lkI",
+                "thumb_width": 1280,
+                "thumb_height": 720,
+                "image_url": "https:\/\/media-exp1.licdn.com\/dms\/image\/C5605AQG-FXhYvfXeOA\/feedshare-thumbnail_720_1280\/0\/1648797309012?e=2147483647&v=beta&t=B4rNYBC1SHHJIByjeyYjy7vGdefRh7Aeu2Qp8b14lkI",
+                "image_width": 1280,
+                "image_height": 720,
+                "image_bytes": 135706,
+                "service_icon": "https:\/\/static-exp1.licdn.com\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/posts\/pickyourtrail_were-looking-for-fools-pickyourtrail-activity-6915558182685728768-Vrp7?utm_source=linkedin_share&amp;utm_medium=ios_app",
+                "fallback": "Pickyourtrail on LinkedIn: We’re looking for Fools | Pickyourtrail | April Fool’s Day | 10 comments",
+                "text": "On this April Fool’s Day, we’re honoured to celebrate the biggest fools we know - Our troopers! Their foolish dreams are what fuelled Pickyourtrail’s ... 10 comments on LinkedIn",
+                "title": "Pickyourtrail on LinkedIn: We’re looking for Fools | Pickyourtrail | April Fool’s Day | 10 comments",
+                "title_link": "https:\/\/www.linkedin.com\/posts\/pickyourtrail_were-looking-for-fools-pickyourtrail-activity-6915558182685728768-Vrp7?utm_source=linkedin_share&utm_medium=ios_app",
+                "service_name": "linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qUzk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When we do employee branding and brand awareness campaigns, what are other mediums other than videos will work?\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Any ideas for the employee branding video campaigns?\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "P.S. I loved the PYT’s recent campaign \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/pickyourtrail_were-looking-for-fools-pickyourtrail-activity-6915558182685728768-Vrp7?utm_source=linkedin_share&utm_medium=ios_app",
+                                "text": "https:\/\/www.linkedin.com\/posts\/pickyourtrail_were-looking-for-fools-pickyourtrail-activity-6915558182685728768-Vrp7?utm_source=linkedin_share&utm_medium=ios_app"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649394145.052539",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1649498656.227259",
+        "reply_users": [
+            "U030ML6FL00",
+            "U03ANN5FLSX"
+        ],
+        "replies": [
+            {
+                "user": "U030ML6FL00",
+                "ts": "1649404685.476219"
+            },
+            {
+                "user": "U03ANN5FLSX",
+                "ts": "1649498656.227259"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U030ML6FL00",
+                    "U03ANN5FLSX"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

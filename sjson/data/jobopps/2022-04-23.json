@@ -1,0 +1,195 @@
+[
+    {
+        "client_msg_id": "02c6ebb9-b055-4edb-9396-e7e2496584d4",
+        "type": "message",
+        "text": "Hi guys, a friend is looking for a content and\/or product marketing lead role. She has 5 years of experience. Preferred location: Bangalore.\nLet me know if you know of relevant openings.",
+        "user": "U030M1LS1L2",
+        "ts": "1650709049.990659",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "46fe0b61f0df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-27\/3014387749574_46fe0b61f0df0a7ec710_72.png",
+            "first_name": "Falguni",
+            "real_name": "Falguni Jain",
+            "display_name": "Falguni Jain",
+            "team": "T02PFK13YLC",
+            "name": "falgunijain500",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U030M1LS1L2",
+            "ts": "1650714421.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tw+M3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi guys, a friend is looking for a content and\/or product marketing lead role. She has 5 years of experience. Preferred location: Bangalore.\nLet me know if you know of relevant openings."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650709049.990659",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1651040928.349709",
+        "reply_users": [
+            "U0309B5AYTB",
+            "U031QKGPNRK",
+            "U02V22EUXM4",
+            "U039PF71127",
+            "U033R6MA1DY",
+            "U030M1LS1L2"
+        ],
+        "replies": [
+            {
+                "user": "U0309B5AYTB",
+                "ts": "1650710709.187019"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1650712657.987129"
+            },
+            {
+                "user": "U02V22EUXM4",
+                "ts": "1650819807.644839"
+            },
+            {
+                "user": "U039PF71127",
+                "ts": "1650831478.626469"
+            },
+            {
+                "user": "U033R6MA1DY",
+                "ts": "1651040669.995259"
+            },
+            {
+                "user": "U030M1LS1L2",
+                "ts": "1651040928.349709"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "751f9484-1e1c-49a6-a6de-1054bc64487f",
+        "type": "message",
+        "text": "100ms is hiring. Can you share the resume at kritika@100ms.live",
+        "user": "U0309B5AYTB",
+        "ts": "1650710709.187019",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g6bad1727953",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6bad17279530f5b504af460548c9d797.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Kritika",
+            "real_name": "Kritika Swarup (100ms)",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "kritika.swarup",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3TWOU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "100ms is hiring. Can you share the resume at kritika@100ms.live"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650709049.990659",
+        "parent_user_id": "U030M1LS1L2",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U030M1LS1L2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0b57f35d-75e2-4a6d-b31b-149cc88906c9",
+        "type": "message",
+        "text": "Smart leadership team there @100ms :+1::skin-tone-3:",
+        "user": "U031QKGPNRK",
+        "ts": "1650712657.987129",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k06",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Smart leadership team there @100ms "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "skin_tone": 3
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650709049.990659",
+        "parent_user_id": "U030M1LS1L2",
+        "reactions": [
+            {
+                "name": "gratitude-thank-you",
+                "users": [
+                    "U0309B5AYTB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1650783059.971569",
+        "user": "U03C8SYJGCF",
+        "text": "<@U03C8SYJGCF> has joined the channel",
+        "inviter": "U03DD6EGPKJ"
+    }
+]

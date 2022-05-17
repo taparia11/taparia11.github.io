@@ -1,0 +1,115 @@
+[
+    {
+        "client_msg_id": "61581134-4ff9-4fda-8758-db3ae44fba7e",
+        "type": "message",
+        "text": "Hola! want to start with ABM as strategy. Can anyone point out good resources to learn and implement?",
+        "user": "U03AUT302TU",
+        "ts": "1650529640.230099",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "13440c8f3f00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368921022210_13440c8f3f00727979cd_72.png",
+            "first_name": "Swagata",
+            "real_name": "Swagata Kumar",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "swagata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T3WQ9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola! want to start with ABM as strategy. Can anyone point out good resources to learn and implement?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650529640.230099",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650602824.606209",
+        "reply_users": [
+            "U02VBQCQ7EG"
+        ],
+        "replies": [
+            {
+                "user": "U02VBQCQ7EG",
+                "ts": "1650602824.606209"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U038WP8PLUA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fb074513-30e7-4d94-b04d-4f0a000a1780",
+        "type": "message",
+        "text": "Follow 6 Sense, Demandbase, Terminus and Rollworks. Follow Sangram and do his LinkedIn course to get a basic understanding. Personal suggestion: Understand all marketing channels and how it works on an executional level. This is the best way to learn ABM.",
+        "user": "U02VBQCQ7EG",
+        "ts": "1650602824.606209",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "fa5eb8510b89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2995555726371_fa5eb8510b89c7a7a37d_72.jpg",
+            "first_name": "Karthick",
+            "real_name": "Karthick Raajha",
+            "display_name": "Karthick Raajha",
+            "team": "T02PFK13YLC",
+            "name": "kraajha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zNA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Follow 6 Sense, Demandbase, Terminus and Rollworks. Follow Sangram and do his LinkedIn course to get a basic understanding. Personal suggestion: Understand all marketing channels and how it works on an executional level. This is the best way to learn ABM."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650529640.230099",
+        "parent_user_id": "U03AUT302TU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U035NQM5BNX",
+                    "U031B53R3U4",
+                    "U02UPCR01SQ"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

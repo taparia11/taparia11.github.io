@@ -1,0 +1,47 @@
+[
+    {
+        "client_msg_id": "1c58e4c6-450a-43b9-8a4e-af04f39f8fae",
+        "type": "message",
+        "text": "Yep! Faced this and tried to fix it for 2 months. I finally found this tool that gets it indexed: <http:\/\/indexmenow.com|indexmenow.com>",
+        "user": "U02VA7QD8UB",
+        "ts": "1649494698.196089",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "84e512c8a3fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2999004078388_84e512c8a3feeb8de835_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "T02PFK13YLC",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V55C3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yep! Faced this and tried to fix it for 2 months. I finally found this tool that gets it indexed: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/indexmenow.com",
+                                "text": "indexmenow.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649482469.280849",
+        "parent_user_id": "U038F88AS0N"
+    }
+]

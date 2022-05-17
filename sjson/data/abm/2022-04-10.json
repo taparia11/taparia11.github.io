@@ -1,0 +1,116 @@
+[
+    {
+        "client_msg_id": "830681fc-e890-4517-b854-61688f927f75",
+        "type": "message",
+        "text": "This is amazing, are you aware of any such playbooks for inbound <@U03158A1WPK> <@U037UUE6TV3>?",
+        "user": "U02UZQJMP8R",
+        "ts": "1649584837.690219",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5b699fa22c9c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-27\/3015844518067_5b699fa22c9c78ddce04_72.jpg",
+            "first_name": "Ria",
+            "real_name": "Ria Sardana",
+            "display_name": "Ria",
+            "team": "T02PFK13YLC",
+            "name": "sardanaria98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aW3F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is amazing, are you aware of any such playbooks for inbound "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03158A1WPK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U037UUE6TV3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649339896.067949",
+        "parent_user_id": "U02UPASEMU4",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U030D7DN2DD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "db2a81e3-3ec0-4c21-805e-1019ba1a746e",
+        "type": "message",
+        "text": "I thought inbound is direct intent based on Ads. So didnt look at playbooks but still used playbooks",
+        "user": "U03158A1WPK",
+        "ts": "1649646753.666749",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5837aa37daee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3029573541474_5837aa37daee415bd34b_72.jpg",
+            "first_name": "Srikrishna",
+            "real_name": "Srikrishna Factors.ai",
+            "display_name": "Srikrishna Factors.ai",
+            "team": "T02PFK13YLC",
+            "name": "srikrishna",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mM3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I thought inbound is direct intent based on Ads. So didnt look at playbooks but still used playbooks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649339896.067949",
+        "parent_user_id": "U02UPASEMU4",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02UZQJMP8R"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

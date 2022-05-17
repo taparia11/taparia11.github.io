@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "1374569e-6cdc-438d-acca-884d4e784381",
+        "type": "message",
+        "text": "Not a fan of tools like lyne. Very obvious that the lines are not written by a human for the most part.",
+        "user": "U035NH9AL6N",
+        "ts": "1649446514.544049",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "d230f04cb80f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-04\/3178002493239_d230f04cb80f5f08fcc7_72.jpg",
+            "first_name": "Sanjay",
+            "real_name": "Sanjay Krishna",
+            "display_name": "Sanjay Krishna",
+            "team": "T02PFK13YLC",
+            "name": "sanjay.nluj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "049Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not a fan of tools like lyne. Very obvious that the lines are not written by a human for the most part."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649339896.067949",
+        "parent_user_id": "U02UPASEMU4",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02UPASEMU4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

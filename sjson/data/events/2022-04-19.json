@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "db0293ed-fff5-4feb-ba9b-16d0dfad66f0",
+        "type": "message",
+        "text": ":man-raising-hand:",
+        "user": "U038W1678JX",
+        "ts": "1650429023.086139",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bf1dfec8ff13",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-27\/3302040294627_bf1dfec8ff13695587fa_72.jpg",
+            "first_name": "Anand",
+            "real_name": "Anand Kumar Sengottaiyan",
+            "display_name": "Anand",
+            "team": "T02PFK13YLC",
+            "name": "anand476",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4qcID",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "man-raising-hand"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650263416.187479",
+        "parent_user_id": "U02V9A0470S"
+    }
+]

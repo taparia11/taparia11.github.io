@@ -1,0 +1,240 @@
+[
+    {
+        "client_msg_id": "cff9926c-c427-4c75-a54f-83d3cff4d095",
+        "type": "message",
+        "text": "Bahut shandaar",
+        "user": "U02TTEFFU6B",
+        "ts": "1650783738.379219",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8S0z8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bahut shandaar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650634777.884939",
+        "parent_user_id": "U02UGB8DERY"
+    },
+    {
+        "client_msg_id": "bec64847-3bff-4ef6-80db-c0d4acf5901a",
+        "type": "message",
+        "text": "Woah quite an interesting thread mayank",
+        "user": "U03C4NNJWGK",
+        "ts": "1650784700.898539",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "552a262ea031",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-19\/3436512969744_552a262ea031d186cba3_72.jpg",
+            "first_name": "Tejas",
+            "real_name": "Tejas Rane",
+            "display_name": "Tejas Rane",
+            "team": "T02PFK13YLC",
+            "name": "tejas3732",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mN2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Woah quite an interesting thread mayank"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "231c3e47-357c-46f2-86d2-c2d14f77c2f3",
+        "type": "message",
+        "text": "But many B2B companies rely on SEO to get their sales, ofcourse there are other marketing &amp; sales strategies to get more revenue, but you simply can't ignore SEO as a B2B company too. I used to work at Donorbox (Fintech Company- Fundraising platform for nonprofits) and lead their SEO.\n\nTheir almost entire company is dependent on SEO. Ofcourse that's a risk factor too. Being too dependent on Google can be very very risky. But the point is, diversification of marketing and sales channels and not being overly dependent on a single one like SEO.",
+        "user": "U03C4NNJWGK",
+        "ts": "1650784884.811939",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "552a262ea031",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-19\/3436512969744_552a262ea031d186cba3_72.jpg",
+            "first_name": "Tejas",
+            "real_name": "Tejas Rane",
+            "display_name": "Tejas Rane",
+            "team": "T02PFK13YLC",
+            "name": "tejas3732",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "drPu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But many B2B companies rely on SEO to get their sales, ofcourse there are other marketing & sales strategies to get more revenue, but you simply can't ignore SEO as a B2B company too. I used to work at Donorbox (Fintech Company- Fundraising platform for nonprofits) and lead their SEO.\n\nTheir almost entire company is dependent on SEO. Ofcourse that's a risk factor too. Being too dependent on Google can be very very risky. But the point is, diversification of marketing and sales channels and not being overly dependent on a single one like SEO."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650784884.811939",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1650790507.329319",
+        "reply_users": [
+            "U02UQBQQBPD",
+            "U03C4NNJWGK"
+        ],
+        "replies": [
+            {
+                "user": "U02UQBQQBPD",
+                "ts": "1650785431.600519"
+            },
+            {
+                "user": "U03C4NNJWGK",
+                "ts": "1650790507.329319"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02UQBQQBPD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "32eb3572-0f32-40ec-87dd-7dca75432883",
+        "type": "message",
+        "text": "Yes, absolutely. All businesses have different revenue pullers and SEO is not a bad thing to have but it’s mostly tackling the idea that just doing SEO is good enough marketing and that’s a fallacy. Most B2B businesses waste time on optimizing SEO when they could be really thinking through their buyer journeys and doing stuff that helps them convert more.",
+        "user": "U02UQBQQBPD",
+        "ts": "1650785431.600519",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "83e0eb641124",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-20\/2979253536098_83e0eb641124b44e8910_72.png",
+            "first_name": "Mayank",
+            "real_name": "Mayank Jain",
+            "display_name": "Mayank",
+            "team": "T02PFK13YLC",
+            "name": "mayank",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vfN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, absolutely. All businesses have different revenue pullers and SEO is not a bad thing to have but it’s mostly tackling the idea that just doing SEO is good enough marketing and that’s a fallacy. Most B2B businesses waste time on optimizing SEO when they could be really thinking through their buyer journeys and doing stuff that helps them convert more."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650784884.811939",
+        "parent_user_id": "U03C4NNJWGK"
+    },
+    {
+        "client_msg_id": "af7a1bab-134a-413a-acfa-039374265e4a",
+        "type": "message",
+        "text": "True. Improving conversion rates, thinking about customer buying journey is important too.\n\nBut when it comes to the bread and butter of the company, often people would first think about SEO &amp; then other growth strategies.\n\nAgreed to your point :raised_hands:",
+        "user": "U03C4NNJWGK",
+        "ts": "1650790507.329319",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "552a262ea031",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-19\/3436512969744_552a262ea031d186cba3_72.jpg",
+            "first_name": "Tejas",
+            "real_name": "Tejas Rane",
+            "display_name": "Tejas Rane",
+            "team": "T02PFK13YLC",
+            "name": "tejas3732",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N1R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "True. Improving conversion rates, thinking about customer buying journey is important too.\n\nBut when it comes to the bread and butter of the company, often people would first think about SEO & then other growth strategies.\n\nAgreed to your point "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650784884.811939",
+        "parent_user_id": "U03C4NNJWGK",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02UQBQQBPD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

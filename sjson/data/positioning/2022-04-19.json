@@ -1,0 +1,700 @@
+[
+    {
+        "client_msg_id": "15fbf663-e982-41cd-8fa7-2a9f1b4eb046",
+        "type": "message",
+        "text": "*Positioning 101*\n• Context Matters\n    ◦ A great product put in a wrong context can make people not understand it so people won't pay.\n    ◦ Shift the context to heighten the perceived value.\n    ◦ \"Positioning defines how your product is the best in the world at providing some value that a well-defined set of customers cares a lot about\"\n    ◦ What do well-positioned products have in common?\n        ▪︎ Easy to understand what the product is.\n        ▪︎ Clarity about the product's value.\n        ▪︎ Clear who this product is for.\n    ◦ Good positioning makes the product stand out for people who'd really want it. It conveys clarity of purpose and leaves no place for ambiguity, doubt.\n    ◦ According to a research, differentiated positioning works better than no positioning. Conclusion? Make your product stand out and convey that message properly.\n    ◦ What's the path to positioning?\n        ▪︎ Competitive alternatives: Look at how others are selling themselves. _What's common in them?_\n        ▪︎ Unique attributes: Clarity on what's unique about your product\n        ▪︎ Differentiated value: Just being unique won't help. Convey how the uniqueness will help the potential customers)\n        ▪︎ Best-Fit Customers: Finding the ideal customer type. _Who is it for?_\n        ▪︎ Market Category: Have clarity on the category you fit in (e.g. email client applications, texting applications, content delivery network providers, firewalls)\n    ◦ *Key Learnings*\n        ▪︎ Positioning is like context-setting; even a great product can fail in the wrong context.\n        ▪︎ Positioning is fundamental to sucessful marketing and sales: bad input equals bad output.\n        ▪︎ Positioning is a deliberate step-by-step process.",
+        "user": "U02UGB8DERY",
+        "ts": "1650374562.475309",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4cda10dd85c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2962250036230_4cda10dd85c264b66a43_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Rajvanshi",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rahulrajvanshi2501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02UGB8DERY",
+            "ts": "1650374584.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zI7i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Positioning 101",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Context Matters"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "A great product put in a wrong context can make people not understand it so people won't pay."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Shift the context to heighten the perceived value."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "\"Positioning defines how your product is the best in the world at providing some value that a well-defined set of customers cares a lot about\""
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What do well-positioned products have in common?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Easy to understand what the product is."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Clarity about the product's value."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Clear who this product is for."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Good positioning makes the product stand out for people who'd really want it. It conveys clarity of purpose and leaves no place for ambiguity, doubt."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "According to a research, differentiated positioning works better than no positioning. Conclusion? Make your product stand out and convey that message properly."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What's the path to positioning?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Competitive alternatives: Look at how others are selling themselves. "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "What's common in them?",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Unique attributes: Clarity on what's unique about your product"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Differentiated value: Just being unique won't help. Convey how the uniqueness will help the potential customers)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Best-Fit Customers: Finding the ideal customer type. "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Who is it for?",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Market Category: Have clarity on the category you fit in (e.g. email client applications, texting applications, content delivery network providers, firewalls)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Key Learnings",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Positioning is like context-setting; even a great product can fail in the wrong context."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Positioning is fundamental to sucessful marketing and sales: bad input equals bad output."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Positioning is a deliberate step-by-step process."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U031GENLMQ8",
+                    "U038ZH5QQ04",
+                    "U02USELSBRT"
+                ],
+                "count": 3
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U038ZH5QQ04",
+                    "U02USELSBRT",
+                    "U030L4PHVN2"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2C16BFE8-2903-48E0-8033-75345823B7C3",
+        "type": "message",
+        "text": "Changing the world - one ___ at a time",
+        "user": "U02USELSBRT",
+        "ts": "1650382959.027239",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KLN+9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Changing the world - one ___ at a time"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648566545.699469",
+        "parent_user_id": "U035SL5MWPM"
+    },
+    {
+        "client_msg_id": "c9fa61b2-b362-449b-84ba-4976b1eb7dd2",
+        "type": "message",
+        "text": "For eg: \"Changing the world - one :hankey: at a time\"",
+        "user": "U032MN1BESJ",
+        "ts": "1650383157.876379",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g8a12888a77b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a12888a77b019e4e11e0df9171feb29.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Anuj",
+            "real_name": "Anuj Adhiya",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "adhiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ii1BF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For eg: \"Changing the world - one "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hankey"
+                            },
+                            {
+                                "type": "text",
+                                "text": " at a time\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648566545.699469",
+        "parent_user_id": "U035SL5MWPM"
+    },
+    {
+        "client_msg_id": "b02fee7e-0615-4d91-8327-dd3654e40096",
+        "type": "message",
+        "text": "*Janna Systems Case Study on Positioning*\n\n    ◦ Janna Systems was an enterprise CRM in the late 90s. Back at that time, Siebel dominated the enterprise CRM market with hundreds of millions in revenue. Janna Systems couldn't really compete with them and during sales pitches, everyone asked them how Janna was better than Siebel (it wasn't). \n    ◦ They once identified that their software had a unique feature that could model relationships based on people regardless of their companies they worked at and no other CRMs at that time offered this feature (identifying the uniqueness) People at Janna didn't understand the value of this particular feature and it was often perceived less valuable. \n    ◦ They once pitched it to Goldman Sachs and this feature particularly stood out. They recognized that bankers dig this feature (identifying best-fit customers) and Janna proceeded to re-position themselves as \"Enterprise CRM for investment bankers\", their long-term plan was to target the entire banking market and sell their product to them. \n    ◦ They grew from $2M in revenue to more than $80M. Janna ended up getting acquired by Siebel Systems for $1.2bn.\n    ◦ *Key Takeaways*\n        ▪︎ It's easier to start with a narrow marke focus and expand from there.\n        ▪︎ You need good positioning to do good marketing and sales.\n        ▪︎ Strong positioning gives you the ability to position your competitors (you could have the power to change the perceived value of competitor products in the eyes of potential customers)\n",
+        "user": "U02UGB8DERY",
+        "ts": "1650384478.070889",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4cda10dd85c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2962250036230_4cda10dd85c264b66a43_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Rajvanshi",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rahulrajvanshi2501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Qw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Janna Systems Case Study on Positioning",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Janna Systems was an enterprise CRM in the late 90s. Back at that time, Siebel dominated the enterprise CRM market with hundreds of millions in revenue. Janna Systems couldn't really compete with them and during sales pitches, everyone asked them how Janna was better than Siebel (it wasn't). "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "They once identified that their software had a unique feature that could model relationships based on people regardless of their companies they worked at and no other CRMs at that time offered this feature (identifying the uniqueness) People at Janna didn't understand the value of this particular feature and it was often perceived less valuable. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "They once pitched it to Goldman Sachs and this feature particularly stood out. They recognized that bankers dig this feature (identifying best-fit customers) and Janna proceeded to re-position themselves as \"Enterprise CRM for investment bankers\", their long-term plan was to target the entire banking market and sell their product to them. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "They grew from $2M in revenue to more than $80M. Janna ended up getting acquired by Siebel Systems for $1.2bn."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Key Takeaways",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "It's easier to start with a narrow marke focus and expand from there."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "You need good positioning to do good marketing and sales."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Strong positioning gives you the ability to position your competitors (you could have the power to change the perceived value of competitor products in the eyes of potential customers)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650384478.070889",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1650443212.696759",
+        "reply_users": [
+            "U030N8RHURZ",
+            "U02UGB8DERY",
+            "U039HH3LP43"
+        ],
+        "replies": [
+            {
+                "user": "U030N8RHURZ",
+                "ts": "1650419410.848679"
+            },
+            {
+                "user": "U02UGB8DERY",
+                "ts": "1650419476.492339"
+            },
+            {
+                "user": "U039HH3LP43",
+                "ts": "1650443212.696759"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02ULN6EFNV",
+                    "U030SDYNX7V",
+                    "U039HH3LP43"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "14476cfa-39b9-489d-a54e-b752f4a92fa6",
+        "type": "message",
+        "text": "Love this <@U02UGB8DERY>, keep them coming! Think I first read about this on Obviously Awesome.",
+        "user": "U030N8RHURZ",
+        "ts": "1650419410.848679",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b9e697887a24",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-17\/3118359252754_b9e697887a246674f4f1_72.jpg",
+            "first_name": "Murugappan",
+            "real_name": "Murugappan",
+            "display_name": "Muru",
+            "team": "T02PFK13YLC",
+            "name": "nappagurum",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qvtG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Love this "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02UGB8DERY"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", keep them coming! Think I first read about this on Obviously Awesome."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650384478.070889",
+        "parent_user_id": "U02UGB8DERY"
+    },
+    {
+        "client_msg_id": "6c6996a3-02a0-4196-9ea3-51fc5d93bcf8",
+        "type": "message",
+        "text": "<@U030N8RHURZ> This series is basically my notes from <https:\/\/www.section4.com\/courses\/marketing\/product-positioning-sprint>",
+        "user": "U02UGB8DERY",
+        "ts": "1650419476.492339",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4cda10dd85c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2962250036230_4cda10dd85c264b66a43_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Rajvanshi",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rahulrajvanshi2501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.section4.com\/courses\/marketing\/product-positioning-sprint",
+                "image_url": "https:\/\/assets-global.website-files.com\/61e0a4e2168074fcf5ed43d0\/6228d848e9ec3ef6b98fb874_product-positioning-meta.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 120882,
+                "id": 1,
+                "original_url": "https:\/\/www.section4.com\/courses\/marketing\/product-positioning-sprint",
+                "fallback": "The Product Positioning Sprint | Section4",
+                "text": "Learn to define what makes your products the best in the world.",
+                "title": "The Product Positioning Sprint | Section4",
+                "title_link": "https:\/\/www.section4.com\/courses\/marketing\/product-positioning-sprint",
+                "service_name": "section4.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UMkQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U030N8RHURZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " This series is basically my notes from "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.section4.com\/courses\/marketing\/product-positioning-sprint"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650384478.070889",
+        "parent_user_id": "U02UGB8DERY"
+    }
+]

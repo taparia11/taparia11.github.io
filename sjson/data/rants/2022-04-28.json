@@ -1,0 +1,139 @@
+[
+    {
+        "client_msg_id": "f1e3cdc1-78ab-406f-a131-c080bc7626c6",
+        "type": "message",
+        "text": "I'm worried as I grow older I'm not going to remember my passwords and will eventually get signed out of everything. The password requirements are so hard nowadays that I've exhausted all possible combinations that I feel comfortable with. I use multiple devices, multiple emails, multiple tools, I don't know how to consolidate them and keep them updated (I'm aware of 1password). I'm worried that when I die, how will my nominees (wife) get all my money which is digital and stored in so many places (however small).",
+        "user": "U0318JZUESX",
+        "ts": "1651133138.759589",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "63c51d4ec23b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-01\/3066368472944_63c51d4ec23bc685fdae_72.png",
+            "first_name": "Siddhartha",
+            "real_name": "Siddhartha Kathpalia",
+            "display_name": "Kattu",
+            "team": "T02PFK13YLC",
+            "name": "siddhartha.kathpalia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AoKYT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm worried as I grow older I'm not going to remember my passwords and will eventually get signed out of everything. The password requirements are so hard nowadays that I've exhausted all possible combinations that I feel comfortable with. I use multiple devices, multiple emails, multiple tools, I don't know how to consolidate them and keep them updated (I'm aware of 1password). I'm worried that when I die, how will my nominees (wife) get all my money which is digital and stored in so many places (however small)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651133138.759589",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1651134275.790249",
+        "reply_users": [
+            "U030SHA1S2W"
+        ],
+        "replies": [
+            {
+                "user": "U030SHA1S2W",
+                "ts": "1651134275.790249"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e7ffb408-c682-4fc2-b89c-b342b59aca0f",
+        "type": "message",
+        "text": "<@U03B77PCDNY> what are you talking about! A poll on how do you breathe with nose, mouth, and both as options makes total sense.",
+        "user": "U02V1L48RFH",
+        "ts": "1651133509.461379",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "017376f1f561",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-28\/3476139597488_017376f1f56194ed3b8c_72.jpg",
+            "first_name": "Alok",
+            "real_name": "Alok Suman",
+            "display_name": "Alok Suman",
+            "team": "T02PFK13YLC",
+            "name": "alok19021997",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vFf6l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03B77PCDNY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " what are you talking about! A poll on how do you breathe with nose, mouth, and both as options makes total sense."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651043238.146669",
+        "parent_user_id": "U030EJQ7NAV"
+    },
+    {
+        "client_msg_id": "99b493f4-e59a-430a-abd1-5900cdd4f116",
+        "type": "message",
+        "text": "Use a diary to store all your passwords for major accounts - banking, investments, etc. Keep it in a bank locker or home safe.",
+        "user": "U030SHA1S2W",
+        "ts": "1651134275.790249",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4854b34cf53b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-22\/3163652013408_4854b34cf53b0654333b_72.jpg",
+            "first_name": "Savijeet",
+            "real_name": "Savijeet Singh",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "savijeet-singh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GBjW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Use a diary to store all your passwords for major accounts - banking, investments, etc. Keep it in a bank locker or home safe."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651133138.759589",
+        "parent_user_id": "U0318JZUESX"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "client_msg_id": "d3eabd5e-48ef-44bb-b87b-1d0135c029f4",
+        "type": "message",
+        "text": "happy to :slightly_smiling_face:",
+        "user": "U030ML6FL00",
+        "ts": "1650278867.771429",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "859596675c61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2991355622470_859596675c61a4d1b2c1_72.jpg",
+            "first_name": "Pooja",
+            "real_name": "Pooja Sriram",
+            "display_name": "Pooja Sriram",
+            "team": "T02PFK13YLC",
+            "name": "pooja",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "muS47",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "happy to "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650081951.348509",
+        "parent_user_id": "U03ACCJ4CVC"
+    }
+]

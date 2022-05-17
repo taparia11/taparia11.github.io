@@ -1,0 +1,373 @@
+[
+    {
+        "client_msg_id": "b04afaaa-b011-40f0-a813-35754a5e438a",
+        "type": "message",
+        "text": "Have seen exhibitors in US events use all kinds of things to pull in people for a conversation! Coffee, Donuts, that hammer strength thingy, baloon pops. Almost like a carnival!\n\nSmell is a whole new level. imagining conversations back in office like - “lets book a demo with the SaaS product. No, not the one that smelt like whiskey, that other one which smelt like first rains hitting the earth wala!”",
+        "user": "U031KD0PNTX",
+        "ts": "1649674247.273589",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "d8e3a1cc6ed8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3305635315237_d8e3a1cc6ed88c5c929a_72.jpg",
+            "first_name": "Anand",
+            "real_name": "Anand",
+            "display_name": "theanand",
+            "team": "T02PFK13YLC",
+            "name": "anand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VoK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Have seen exhibitors in US events use all kinds of things to pull in people for a conversation! Coffee, Donuts, that hammer strength thingy, baloon pops. Almost like a carnival!\n\nSmell is a whole new level. imagining conversations back in office like - “lets book a demo with the SaaS product. No, not the one that smelt like whiskey, that other one which smelt like first rains hitting the earth wala!”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649323019.779549",
+        "parent_user_id": "U0395SBAAQZ",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U0395SBAAQZ",
+                    "U02VDPB8CGH",
+                    "U02VD2JL8N8"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "553da7c9-435a-4da4-85c6-892bcc57dabf",
+        "type": "message",
+        "text": "Admins - is the recording of the events session by Paddy available? <@U02ULN6EFNV> <@U02TTEFFU6B> <@U02PDC4883V>",
+        "user": "U0306HUGT6C",
+        "ts": "1649688022.982259",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "67b7c6606731",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-21\/2990844434084_67b7c6606731aad40c13_72.jpg",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Mirashi",
+            "display_name": "Nikhil Mirashi",
+            "team": "T02PFK13YLC",
+            "name": "cutenik85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jF3k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Admins - is the recording of the events session by Paddy available? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02ULN6EFNV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02TTEFFU6B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02PDC4883V"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649688022.982259",
+        "reply_count": 8,
+        "reply_users_count": 5,
+        "latest_reply": "1650065580.737879",
+        "reply_users": [
+            "U02PDC6B0HH",
+            "U030KSSTADU",
+            "U02UGB8DERY",
+            "U0306HUGT6C",
+            "U02TTEFFU6B"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1649694436.770579"
+            },
+            {
+                "user": "U030KSSTADU",
+                "ts": "1649697741.989279"
+            },
+            {
+                "user": "U02UGB8DERY",
+                "ts": "1649734797.106519"
+            },
+            {
+                "user": "U0306HUGT6C",
+                "ts": "1649738028.189379"
+            },
+            {
+                "user": "U0306HUGT6C",
+                "ts": "1649910435.503659"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649910458.976859"
+            },
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1650065534.132599"
+            },
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1650065580.737879"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1650065580.737879",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U038WP8PLUA",
+                    "U0361UQSKGQ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d3eed8b6-1ad5-4eb4-ae7e-8a426345ae80",
+        "type": "message",
+        "text": "<@U02UGB8DERY>",
+        "user": "U02PDC6B0HH",
+        "ts": "1649694436.770579",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7ce0a422fcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953759554663_b7ce0a422fcdabf5a771_72.jpg",
+            "first_name": "Shafique",
+            "real_name": "Shafique Gajdhar",
+            "display_name": "Shaf",
+            "team": "T02PFK13YLC",
+            "name": "shafiquegajdhar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8t2G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02UGB8DERY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649688022.982259",
+        "parent_user_id": "U0306HUGT6C"
+    },
+    {
+        "client_msg_id": "ca6671cc-0fb5-4155-8e4a-d3f5df79770f",
+        "type": "message",
+        "text": "That depends on the process and seniority. Do you know any such agency?",
+        "user": "U02UM2AS9PV",
+        "ts": "1649696741.860499",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "eb2676f144e4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3354672505381_eb2676f144e43d0dbf4e_72.jpg",
+            "first_name": "Umar",
+            "real_name": "Umar Amin",
+            "display_name": "Umar Amin",
+            "team": "T02PFK13YLC",
+            "name": "mir.umaramin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5znzo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That depends on the process and seniority. Do you know any such agency?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649324265.624329",
+        "parent_user_id": "U02UM2AS9PV"
+    },
+    {
+        "client_msg_id": "B636C390-855B-437D-81B7-61F4A117EC02",
+        "type": "message",
+        "text": " Following",
+        "user": "U030KSSTADU",
+        "ts": "1649697741.989279",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "57b118c1f8b8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-29\/3028881925876_57b118c1f8b864fcd329_72.png",
+            "first_name": "Neha",
+            "real_name": "Neha Pujari",
+            "display_name": "Neha",
+            "team": "T02PFK13YLC",
+            "name": "neha.pujari02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hf1U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " Following"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649688022.982259",
+        "parent_user_id": "U0306HUGT6C"
+    },
+    {
+        "client_msg_id": "8d41f270-e243-49c2-bae6-e33de459300f",
+        "type": "message",
+        "text": "<@U0306HUGT6C> Hey Nikhil!\nIt's coming out today. Thanks for the patience.",
+        "user": "U02UGB8DERY",
+        "ts": "1649734797.106519",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4cda10dd85c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2962250036230_4cda10dd85c264b66a43_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Rajvanshi",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rahulrajvanshi2501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N\/u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0306HUGT6C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hey Nikhil!\nIt's coming out today. Thanks for the patience."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649688022.982259",
+        "parent_user_id": "U0306HUGT6C"
+    },
+    {
+        "client_msg_id": "d56fddf7-4857-4c3f-9b6c-8a8cd9a189d3",
+        "type": "message",
+        "text": "Thnaks",
+        "user": "U0306HUGT6C",
+        "ts": "1649738028.189379",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "67b7c6606731",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-21\/2990844434084_67b7c6606731aad40c13_72.jpg",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Mirashi",
+            "display_name": "Nikhil Mirashi",
+            "team": "T02PFK13YLC",
+            "name": "cutenik85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pE8wN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thnaks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649688022.982259",
+        "parent_user_id": "U0306HUGT6C"
+    }
+]

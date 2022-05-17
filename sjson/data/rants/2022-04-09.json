@@ -1,0 +1,175 @@
+[
+    {
+        "client_msg_id": "e8d665e8-fb3d-48da-9bc9-4a86d1183b9a",
+        "type": "message",
+        "text": "What's these Unacademy stores all about?",
+        "user": "U02TTEFFU6B",
+        "ts": "1649500508.842289",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "COlx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What's these Unacademy stores all about?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649500508.842289",
+        "reply_count": 7,
+        "reply_users_count": 6,
+        "latest_reply": "1650004994.116399",
+        "reply_users": [
+            "U031QKGPNRK",
+            "U033ASE526S",
+            "U031KD0PNTX",
+            "U039DHTUVQF",
+            "U02USELSBRT",
+            "U02V8NZMWSX"
+        ],
+        "replies": [
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1649515162.045459"
+            },
+            {
+                "user": "U033ASE526S",
+                "ts": "1649530851.495229"
+            },
+            {
+                "user": "U031KD0PNTX",
+                "ts": "1649675479.091749"
+            },
+            {
+                "user": "U039DHTUVQF",
+                "ts": "1649747767.925239"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649914061.772299"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1649914418.885659"
+            },
+            {
+                "user": "U02V8NZMWSX",
+                "ts": "1650004994.116399"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U0362R42317",
+                    "U031QKGPNRK",
+                    "U03560PQ082"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a2890248-1052-4c4f-addb-784871ae745b",
+        "type": "message",
+        "text": "Looks like Mini textbook\/supporting library + rows of computers and headsets for students\/parents to try the classes online. \n\nIf they have it in tier 2\/3 cities or towns i can appreciate the attempt as it gives more accessibility? But if tier 1 me hi daal denge to bhaia humko samajh nai awega",
+        "user": "U031QKGPNRK",
+        "ts": "1649515162.045459",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xJ9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks like Mini textbook\/supporting library + rows of computers and headsets for students\/parents to try the classes online. \n\nIf they have it in tier 2\/3 cities or towns i can appreciate the attempt as it gives more accessibility? But if tier 1 me hi daal denge to bhaia humko samajh nai awega"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649500508.842289",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "b61ccd3a-2e08-4abb-b83b-4cabaa4161c8",
+        "type": "message",
+        "text": "Apparently it is for learners to 'browse brand offerings offline and connect with folks of similar interests'. Could this be a substitute\/alternate to the regular classroom in Tier 1 cities? (Maybe an 'extended learning center' of sorts?)",
+        "user": "U033ASE526S",
+        "ts": "1649530851.495229",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "cf9826152813",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-24\/3289470554068_cf9826152813650e8efe_72.jpg",
+            "first_name": "Tanmay",
+            "real_name": "Tanmay Choudhury",
+            "display_name": "Tanmay Choudhury",
+            "team": "T02PFK13YLC",
+            "name": "tanmay1612",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VRA6a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Apparently it is for learners to 'browse brand offerings offline and connect with folks of similar interests'. Could this be a substitute\/alternate to the regular classroom in Tier 1 cities? (Maybe an 'extended learning center' of sorts?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649500508.842289",
+        "parent_user_id": "U02TTEFFU6B"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "eec6fdd4-f3fa-49e9-8c95-601e70d0b29a",
+        "type": "message",
+        "text": "Thanks <@U03158A1WPK> and <@U02PDC6B0HH>, happy to answer questions!",
+        "user": "U034RJQUQK0",
+        "ts": "1650866134.539149",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g4f7643afc47",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4f7643afc47181f56f7ef90c398ce622.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Arpit",
+            "real_name": "Arpit Choudhury",
+            "display_name": "Arpit Choudhury",
+            "team": "T02PFK13YLC",
+            "name": "arpitc0707",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jahZp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03158A1WPK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02PDC6B0HH"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", happy to answer questions!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650635511.279519",
+        "parent_user_id": "U03158A1WPK"
+    }
+]

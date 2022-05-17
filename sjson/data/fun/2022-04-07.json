@@ -1,0 +1,226 @@
+[
+    {
+        "type": "message",
+        "text": "How left out am I as a SaaS Marketer in Delhi?",
+        "files": [
+            {
+                "id": "F03A6R646H5",
+                "created": 1649364187,
+                "timestamp": 1649364187,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0323V4CLRY",
+                "editable": false,
+                "size": 18056,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03A6R646H5\/image.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03A6R646H5\/download\/image.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03A6R646H5-e8e7c8d4b3\/image_64.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03A6R646H5-e8e7c8d4b3\/image_80.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03A6R646H5-e8e7c8d4b3\/image_360.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 360,
+                "thumb_360_h": 84,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03A6R646H5-e8e7c8d4b3\/image_480.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 480,
+                "thumb_480_h": 112,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03A6R646H5-e8e7c8d4b3\/image_160.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "original_w": 645,
+                "original_h": 151,
+                "thumb_tiny": "AwALADC4Yj9o8zecY6VKF9\/1pcD0FLQAc+tHPrRRQAc+tFFFAH\/\/2Q==",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U0323V4CLRY\/F03A6R646H5\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03A6R646H5-069b73e1c5",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0323V4CLRY",
+        "display_as_bot": false,
+        "ts": "1649364191.670989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3ggx2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How left out am I as a SaaS Marketer in Delhi?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U0323V4CLRY",
+            "ts": "1649364245.000000"
+        },
+        "client_msg_id": "2a909e8a-7d0f-40ff-b416-213ce4feebdc",
+        "thread_ts": "1649364191.670989",
+        "reply_count": 12,
+        "reply_users_count": 6,
+        "latest_reply": "1649591993.862159",
+        "reply_users": [
+            "U02PDC4883V",
+            "U02ULN6EFNV",
+            "U0323V4CLRY",
+            "U031QKGPNRK",
+            "U02USELSBRT",
+            "U02UZQJMP8R"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649392252.729879"
+            },
+            {
+                "user": "U02ULN6EFNV",
+                "ts": "1649395344.784039"
+            },
+            {
+                "user": "U0323V4CLRY",
+                "ts": "1649403319.946799"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1649417134.794119"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1649417148.131729"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649417430.999599"
+            },
+            {
+                "user": "U02ULN6EFNV",
+                "ts": "1649417715.161559"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649417779.199159"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649417807.452989"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649417818.735309"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649417838.280639"
+            },
+            {
+                "user": "U02UZQJMP8R",
+                "ts": "1649591993.862159"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1649591993.862159"
+    },
+    {
+        "client_msg_id": "a8f0cc55-ab33-45c5-b948-7dbfa2f2fc5f",
+        "type": "message",
+        "text": "Meet <@U02ULN6EFNV>",
+        "user": "U02PDC4883V",
+        "ts": "1649392252.729879",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MW2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Meet "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02ULN6EFNV"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649364191.670989",
+        "parent_user_id": "U0323V4CLRY"
+    },
+    {
+        "client_msg_id": "3EDB2DF4-D50C-41CE-B734-BC1257E11A04",
+        "type": "message",
+        "text": "Hey, Samyak\nWe have a decent number of saas marketers in Delhi NCR",
+        "user": "U02ULN6EFNV",
+        "ts": "1649395344.784039",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g2796bce497e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2796bce497e03edc08c2719052eaae8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Chirayu",
+            "real_name": "Chirayu (Leena AI)",
+            "display_name": "Chirayu",
+            "team": "T02PFK13YLC",
+            "name": "akotiya.chirayu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WT9ID",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, Samyak\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "We have a decent number of saas marketers in Delhi NCR"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649364191.670989",
+        "parent_user_id": "U0323V4CLRY"
+    }
+]

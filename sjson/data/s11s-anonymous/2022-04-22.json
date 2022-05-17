@@ -1,0 +1,601 @@
+[
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "at this point I feel we need a separate channel just to give people feedback on Peppercontent. :grin:",
+        "user": "U02SXBR28G1",
+        "ts": "1650610994.782349",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5My",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "at this point I feel we need a separate channel just to give people feedback on Peppercontent. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650610994.782349",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650816472.731119",
+        "reply_users": [
+            "U02VBNKU9T6"
+        ],
+        "replies": [
+            {
+                "user": "U02VBNKU9T6",
+                "ts": "1650816472.731119"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U031BVBGHCK",
+                    "U02USELSBRT",
+                    "U030N8RHURZ",
+                    "U02ULN6EFNV",
+                    "U031AUATXA4",
+                    "U030SDYNX7V",
+                    "U030ZR9D0FK",
+                    "U031YH4D36U",
+                    "U02V5Q6P716",
+                    "U02URBKGVA7",
+                    "U039VSWJ85V",
+                    "U0316818QSH",
+                    "U030KV8R8RL",
+                    "U02TTEFFU6B",
+                    "U0325QQQALR",
+                    "U039FQ2SNNN",
+                    "U03560PQ082",
+                    "U037X3LJ8D8",
+                    "U032MN1BESJ",
+                    "U0361UQSKGQ",
+                    "U02U94HSBV4",
+                    "U03208N6E2G"
+                ],
+                "count": 22
+            }
+        ]
+    },
+    {
+        "client_msg_id": "15e1bc66-384f-4cf6-b9ec-61a18b5425be",
+        "type": "message",
+        "text": "Absolutely agree. Something I have been speaking of and advocating within my peers time and again, only to fall on deaf ears (usually). Especially the last paragraph. More people need to understand this. But unfortunately there isn't a lot of data (esp in India) to back this, and so the crusade continues to try and make people see logic. :)",
+        "user": "U03996E48LB",
+        "ts": "1650611797.941299",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "0cf2c8bead74",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-30\/3327943588641_0cf2c8bead74fb0869b9_72.jpg",
+            "first_name": "Antara",
+            "real_name": "Antara Singhania",
+            "display_name": "Antara Singhania",
+            "team": "T02PFK13YLC",
+            "name": "antara.singhania",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pn2\/J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Absolutely agree. Something I have been speaking of and advocating within my peers time and again, only to fall on deaf ears (usually). Especially the last paragraph. More people need to understand this. But unfortunately there isn't a lot of data (esp in India) to back this, and so the crusade continues to try and make people see logic. :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650606727.357779",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "\nI'm about to start my first fully remote role. I'm excited yet terrified out of my wits. While I prefer a hybrid model, the opportunity, for now, seems too good to let go. It's new in all possible ways- role, work timings, team. \nI'm reassuring myself that growth is outside the comfort zone and la la la. Still. \n\nAny tips to help me with this?\n\nP.S. Already investing in a solid yet reasonable home office set up. Any suggestions for a good ergo chair is welcomed with open arms! (:",
+        "user": "U02SXBR28G1",
+        "ts": "1650618750.147819",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dRif",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm about to start my first fully remote role. I'm excited yet terrified out of my wits. While I prefer a hybrid model, the opportunity, for now, seems too good to let go. It's new in all possible ways- role, work timings, team. \nI'm reassuring myself that growth is outside the comfort zone and la la la. Still. \n\nAny tips to help me with this?\n\nP.S. Already investing in a solid yet reasonable home office set up. Any suggestions for a good ergo chair is welcomed with open arms! (:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650618750.147819",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1650803632.758939",
+        "reply_users": [
+            "U02TTEFFU6B",
+            "U02V9QUDK1Q",
+            "U030LK66KFA",
+            "U03AF2HBZPX"
+        ],
+        "replies": [
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1650618837.098899"
+            },
+            {
+                "user": "U02V9QUDK1Q",
+                "ts": "1650619107.784249"
+            },
+            {
+                "user": "U02V9QUDK1Q",
+                "ts": "1650619402.130099"
+            },
+            {
+                "user": "U030LK66KFA",
+                "ts": "1650619965.419419"
+            },
+            {
+                "user": "U03AF2HBZPX",
+                "ts": "1650803632.758939"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "33d90eb7-4554-48f4-bd1f-09d4363692a2",
+        "type": "message",
+        "text": "<@U02V9QUDK1Q> can help",
+        "user": "U02TTEFFU6B",
+        "ts": "1650618837.098899",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EfT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02V9QUDK1Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can help"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650618750.147819",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "171d1e64-5d53-4686-bd08-1393a7e65af3",
+        "type": "message",
+        "text": "The most important thing: Err on the side of over-communication. No information is trivial. Share everything on your team channels and avoid taking decisions in closed DMs.",
+        "user": "U02V9QUDK1Q",
+        "ts": "1650619107.784249",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8140d54c5a70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2981230435879_8140d54c5a7085ca9412_72.jpg",
+            "first_name": "Abhash",
+            "real_name": "Abhash Kumar",
+            "display_name": "Abhash",
+            "team": "T02PFK13YLC",
+            "name": "abhash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e3Xq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The most important thing: Err on the side of over-communication. No information is trivial. Share everything on your team channels and avoid taking decisions in closed DMs."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650618750.147819",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02USELSBRT",
+                    "U030ZR9D0FK",
+                    "U031KD0PNTX",
+                    "U02UFCPL84F",
+                    "U030LK66KFA",
+                    "U02VD2JL8N8",
+                    "U02PDC4883V",
+                    "U038V229WRZ"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dc5d1e02-1d79-4509-b276-92acdbe8a1a4",
+        "type": "message",
+        "text": "chair, I use this: <https:\/\/www.amazon.in\/Featherlite-Helix-HB-Office-Chair\/dp\/B08PPBYL4W?ref_=ast_slp_dp>\nif this is out of budget, then go for Featherlite “Liberate”\nGreensoul is good too.",
+        "user": "U02V9QUDK1Q",
+        "ts": "1650619402.130099",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8140d54c5a70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2981230435879_8140d54c5a7085ca9412_72.jpg",
+            "first_name": "Abhash",
+            "real_name": "Abhash Kumar",
+            "display_name": "Abhash",
+            "team": "T02PFK13YLC",
+            "name": "abhash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yTJzG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "chair, I use this: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.in\/Featherlite-Helix-HB-Office-Chair\/dp\/B08PPBYL4W?ref_=ast_slp_dp"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nif this is out of budget, then go for Featherlite “Liberate”\nGreensoul is good too."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650618750.147819",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "e8f9208f-7a7a-403d-b071-8b2c91534099",
+        "type": "message",
+        "text": "Being in a fully remote role myself for last 9 months, i would strongly suggest to go and meet your team in person, work with them for  for a week or 15 days,  as early as possible ( if that is an option). Gives you a better understanding of your team\/organization priorities etc. Hope this helps",
+        "user": "U030LK66KFA",
+        "ts": "1650619965.419419",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "gc710c3e38ae",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c710c3e38aebfceb566ba7b2e96b9077.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Saurabh",
+            "real_name": "Saurabh Kelkar",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "saurabhkelkar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U030LK66KFA",
+            "ts": "1650619991.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KnU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Being in a fully remote role myself for last 9 months, i would strongly suggest to go and meet your team in person, work with them for  for a week or 15 days,  as early as possible ( if that is an option). Gives you a better understanding of your team\/organization priorities etc. Hope this helps"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650618750.147819",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "I have been offered a part-time marketing consultant role at an early-stage, bootstrapped SaaS company. Basically, the company has no marketing team apart from a content person. The founder wants help with setting up the performance marketing and CRO engine.\n\nI am confused on how much I should quote them wrt compensation, The founder is open to fixed\/hourly\/fixed + performance variable.\n\nPlease help :pray:",
+        "user": "U02SXBR28G1",
+        "ts": "1650696153.155279",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nb+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have been offered a part-time marketing consultant role at an early-stage, bootstrapped SaaS company. Basically, the company has no marketing team apart from a content person. The founder wants help with setting up the performance marketing and CRO engine.\n\nI am confused on how much I should quote them wrt compensation, The founder is open to fixed\/hourly\/fixed + performance variable.\n\nPlease help "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "I like it when founders think the only thing stopping them from earning revenue from their product is a payment gateway implementation.",
+        "user": "U02SXBR28G1",
+        "ts": "1650696157.602589",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OuWM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I like it when founders think the only thing stopping them from earning revenue from their product is a payment gateway implementation."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U02PDC4883V",
+                    "U03560PQ082",
+                    "U02VD2JL8N8"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "I have been offered a part-time marketing consultant role at an early-stage, bootstrapped SaaS company. Basically, the company has no marketing team apart from a content person. The founder wants help with setting up the performance marketing and CRO engine.\n\nI am confused on how much I should quote them wrt compensation, The founder is open to fixed\/hourly\/fixed + performance variable.\n\nPlease help :pray:",
+        "user": "U02SXBR28G1",
+        "ts": "1650696254.784969",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yIL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have been offered a part-time marketing consultant role at an early-stage, bootstrapped SaaS company. Basically, the company has no marketing team apart from a content person. The founder wants help with setting up the performance marketing and CRO engine.\n\nI am confused on how much I should quote them wrt compensation, The founder is open to fixed\/hourly\/fixed + performance variable.\n\nPlease help "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650696254.784969",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1650703480.461499",
+        "reply_users": [
+            "U02UZ4T10PQ",
+            "U02USELSBRT",
+            "U0362R42317",
+            "U02ULN6EFNV"
+        ],
+        "replies": [
+            {
+                "user": "U02UZ4T10PQ",
+                "ts": "1650696350.130069"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650700585.599609"
+            },
+            {
+                "user": "U0362R42317",
+                "ts": "1650701764.613139"
+            },
+            {
+                "user": "U02ULN6EFNV",
+                "ts": "1650703480.461499"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "842B8F18-2F5A-432C-9F8E-5B92D93C54C6",
+        "type": "message",
+        "text": "Yoe?",
+        "user": "U02UZ4T10PQ",
+        "ts": "1650696350.130069",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "0e693f543f3a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-22\/2977217232247_0e693f543f3a4a1d3fd3_72.jpg",
+            "first_name": "Sagnik",
+            "real_name": "Sagnik IntelliServiceAI",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "sagnik.datta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vT6a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yoe?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650696254.784969",
+        "parent_user_id": "U02SXBR28G1"
+    }
+]

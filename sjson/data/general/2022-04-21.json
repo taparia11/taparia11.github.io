@@ -1,0 +1,841 @@
+[
+    {
+        "client_msg_id": "635e5586-9c00-441f-a77d-d87663e8a636",
+        "type": "message",
+        "text": "Hey folks! Do we know of a similar group for marketers based out of Europe",
+        "user": "U030ZQMHNE5",
+        "ts": "1650525066.092389",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g62073ef5b9e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/62073ef5b9e65b71cb0bc5eefc0110b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Ashwin",
+            "real_name": "Ashwin Jain",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "meashwinjain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uHZD3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey folks! Do we know of a similar group for marketers based out of Europe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650525066.092389",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1650529375.373219",
+        "reply_users": [
+            "U02ULN6EFNV",
+            "U02VBQCQ7EG",
+            "U030ZQMHNE5"
+        ],
+        "replies": [
+            {
+                "user": "U02ULN6EFNV",
+                "ts": "1650528883.426059"
+            },
+            {
+                "user": "U02VBQCQ7EG",
+                "ts": "1650528978.666929"
+            },
+            {
+                "user": "U030ZQMHNE5",
+                "ts": "1650529375.373219"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "65ffdd49-9b6a-43c4-b221-6144e4bedec7",
+        "type": "message",
+        "text": "They will all come here soon.",
+        "user": "U02ULN6EFNV",
+        "ts": "1650528883.426059",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g2796bce497e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2796bce497e03edc08c2719052eaae8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Chirayu",
+            "real_name": "Chirayu (Leena AI)",
+            "display_name": "Chirayu",
+            "team": "T02PFK13YLC",
+            "name": "akotiya.chirayu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02ULN6EFNV",
+            "ts": "1650529046.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b=ykv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "They will all come here soon."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650525066.092389",
+        "parent_user_id": "U030ZQMHNE5",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U02PDC4883V",
+                    "U030ZQMHNE5",
+                    "U02V9QUDK1Q",
+                    "U033QDFML74",
+                    "U0361UQSKGQ"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "362af2da-8bb7-4b32-aa17-891b8cc7b8b6",
+        "type": "message",
+        "text": "Demand generation movement.",
+        "user": "U02VBQCQ7EG",
+        "ts": "1650528978.666929",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "fa5eb8510b89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2995555726371_fa5eb8510b89c7a7a37d_72.jpg",
+            "first_name": "Karthick",
+            "real_name": "Karthick Raajha",
+            "display_name": "Karthick Raajha",
+            "team": "T02PFK13YLC",
+            "name": "kraajha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2LuX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Demand generation movement."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650525066.092389",
+        "parent_user_id": "U030ZQMHNE5"
+    },
+    {
+        "client_msg_id": "bad2c98c-cbc5-4d87-b2fe-361ccef94e6b",
+        "type": "message",
+        "text": "Why Marketo and demandbase for in-app account based experience? When it is in-app how will Marketo and Demandbase help?",
+        "user": "U02VBQCQ7EG",
+        "ts": "1650529056.626349",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "fa5eb8510b89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2995555726371_fa5eb8510b89c7a7a37d_72.jpg",
+            "first_name": "Karthick",
+            "real_name": "Karthick Raajha",
+            "display_name": "Karthick Raajha",
+            "team": "T02PFK13YLC",
+            "name": "kraajha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Hy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Why Marketo and demandbase for in-app account based experience? When it is in-app how will Marketo and Demandbase help?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650469429.075279",
+        "parent_user_id": "U0323V4CLRY"
+    },
+    {
+        "client_msg_id": "e3a1c197-ee94-4bc1-9060-3ad489a63948",
+        "type": "message",
+        "text": "Haha well I have already brought in one :)",
+        "user": "U030ZQMHNE5",
+        "ts": "1650529375.373219",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g62073ef5b9e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/62073ef5b9e65b71cb0bc5eefc0110b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Ashwin",
+            "real_name": "Ashwin Jain",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "meashwinjain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cuG0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Haha well I have already brought in one :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650525066.092389",
+        "parent_user_id": "U030ZQMHNE5"
+    },
+    {
+        "client_msg_id": "2ae7b280-46d1-4e2d-b191-6e46bebe34e2",
+        "type": "message",
+        "text": "<@U02VBQCQ7EG> by in-app I meant on your website, not email sequences, or popups etc. Just custom pages and analytics based on an account level",
+        "user": "U0323V4CLRY",
+        "ts": "1650533938.549069",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bda2aafa72dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-22\/3275541779442_bda2aafa72dde9c08430_72.jpg",
+            "first_name": "Samyak",
+            "real_name": "Samyak tripathi",
+            "display_name": "samyak",
+            "team": "T02PFK13YLC",
+            "name": "samyaktripathi060",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0323V4CLRY",
+            "ts": "1650533954.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c=g40",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02VBQCQ7EG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " by in-app I meant on your website, not email sequences, or popups etc. Just custom pages and analytics based on an account level"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650469429.075279",
+        "parent_user_id": "U0323V4CLRY"
+    },
+    {
+        "client_msg_id": "453e2b2d-cdb0-4cbd-ae33-383ab4775eeb",
+        "type": "message",
+        "text": "Hey folks, can someone guide me on demand generation tactics for enterprise or B2B ed-tech industries. Your coffee\/beer is on me.",
+        "user": "U02ULCHDGB0",
+        "ts": "1650542427.911649",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "0d19402d4d9e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-20\/3416613047252_0d19402d4d9e357ac3e2_72.jpg",
+            "first_name": "Nrusingha",
+            "real_name": "Nrusingha Sahoo",
+            "display_name": "Nrusingha",
+            "team": "T02PFK13YLC",
+            "name": "sahoo.nrusingha87",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pk0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey folks, can someone guide me on demand generation tactics for enterprise or B2B ed-tech industries. Your coffee\/beer is on me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c5f1d79c-1399-49e8-b6fe-3e41776a7a36",
+        "type": "message",
+        "text": "Do we have any examples of SaaS serving the E-commerce market succeeding on LinkedIn?(please share any relevant personal profiles also:pray:)",
+        "user": "U0323V4CLRY",
+        "ts": "1650556009.770959",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bda2aafa72dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-22\/3275541779442_bda2aafa72dde9c08430_72.jpg",
+            "first_name": "Samyak",
+            "real_name": "Samyak tripathi",
+            "display_name": "samyak",
+            "team": "T02PFK13YLC",
+            "name": "samyaktripathi060",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0323V4CLRY",
+            "ts": "1650556739.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9SgQN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do we have any examples of SaaS serving the E-commerce market succeeding on LinkedIn?(please share any relevant personal profiles also"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650556009.770959",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1650556713.782499",
+        "reply_users": [
+            "U02U6080NCX",
+            "U0323V4CLRY"
+        ],
+        "replies": [
+            {
+                "user": "U02U6080NCX",
+                "ts": "1650556069.262509"
+            },
+            {
+                "user": "U0323V4CLRY",
+                "ts": "1650556713.782499"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "934885B9-E891-470D-AD0E-CB24C1DBBBF5",
+        "type": "message",
+        "text": "<http:\/\/Yellow.ai|Yellow.ai> ",
+        "user": "U02U6080NCX",
+        "ts": "1650556069.262509",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "2eeaeac342d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2972631365986_2eeaeac342d5832bc72e_72.png",
+            "first_name": "Ashwin",
+            "real_name": "Ashwin Kumar",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "ashwin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g8PI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yellow.ai "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650556009.770959",
+        "parent_user_id": "U0323V4CLRY"
+    },
+    {
+        "client_msg_id": "14170398-c7ed-4667-81ed-35c51725b431",
+        "type": "message",
+        "text": "<@U02U6080NCX> please share any relevant personal profiles also for <http:\/\/yellow.ai|yellow.ai>",
+        "user": "U0323V4CLRY",
+        "ts": "1650556713.782499",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bda2aafa72dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-22\/3275541779442_bda2aafa72dde9c08430_72.jpg",
+            "first_name": "Samyak",
+            "real_name": "Samyak tripathi",
+            "display_name": "samyak",
+            "team": "T02PFK13YLC",
+            "name": "samyaktripathi060",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0323V4CLRY",
+            "ts": "1650556751.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l=P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02U6080NCX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " please share any relevant personal profiles also for "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/yellow.ai",
+                                "text": "yellow.ai"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650556009.770959",
+        "parent_user_id": "U0323V4CLRY"
+    },
+    {
+        "client_msg_id": "53750355-B829-4F78-9CE4-2070FAE97CA4",
+        "type": "message",
+        "text": "Both DB &amp; Marketo offers web personalisation modules. But at what stage are you in, Samyak? Have you already taken the decision to go with one of them or considering? Generally their onboarding team will work with your engineering to take the product live. Then you will have to set conditions, for which you will still need your engineering team's support. It's way complex &amp; hyped for the very little impact it offers. I have worked with Acquia in the past. I am guessing DB &amp; Marketo personalisation works in a similar way. ",
+        "user": "U02V22EUXM4",
+        "ts": "1650562326.943199",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9f2cfa9248dc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-07\/3075859566289_9f2cfa9248dc9a1dae23_72.jpg",
+            "first_name": "Deepan",
+            "real_name": "Deepan Siddhu",
+            "display_name": "Deepan Siddhu",
+            "team": "T02PFK13YLC",
+            "name": "deepan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q+H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Both DB & Marketo offers web personalisation modules. But at what stage are you in, Samyak? Have you already taken the decision to go with one of them or considering? Generally their onboarding team will work with your engineering to take the product live. Then you will have to set conditions, for which you will still need your engineering team's support. It's way complex & hyped for the very little impact it offers. I have worked with Acquia in the past. I am guessing DB & Marketo personalisation works in a similar way. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650469429.075279",
+        "parent_user_id": "U0323V4CLRY"
+    },
+    {
+        "client_msg_id": "0cab064d-b7cf-4e1b-a8f2-c860666e1eda",
+        "type": "message",
+        "text": "<@U02V22EUXM4> Would love to check Acquia out, thanks for the input. How much does it cost?",
+        "user": "U0323V4CLRY",
+        "ts": "1650566436.501379",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bda2aafa72dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-22\/3275541779442_bda2aafa72dde9c08430_72.jpg",
+            "first_name": "Samyak",
+            "real_name": "Samyak tripathi",
+            "display_name": "samyak",
+            "team": "T02PFK13YLC",
+            "name": "samyaktripathi060",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CZZgo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02V22EUXM4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Would love to check Acquia out, thanks for the input. How much does it cost?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650469429.075279",
+        "parent_user_id": "U0323V4CLRY"
+    },
+    {
+        "client_msg_id": "cfee8092-9887-431c-88d1-ee7bd3415bf9",
+        "type": "message",
+        "text": "In Bangalore for a while, anyone up for coffee\/beer catchup at ~4pm to ~7pm today somewhere in Indiranagar? :grimacing:",
+        "user": "U02UUCE1ASD",
+        "ts": "1650608627.544189",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8fc0ff2b8ed7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-22\/3425444312242_8fc0ff2b8ed7f97f960d_72.jpg",
+            "first_name": "Sunil",
+            "real_name": "Sunil Neurgaonkar",
+            "display_name": "Sunil",
+            "team": "T02PFK13YLC",
+            "name": "sunilneurgaonkar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02UUCE1ASD",
+            "ts": "1650608752.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AEHb5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In Bangalore for a while, anyone up for coffee\/beer catchup at ~4pm to ~7pm today somewhere in Indiranagar? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grimacing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650608627.544189",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1650616360.628179",
+        "reply_users": [
+            "U02UM0VU8MQ",
+            "U02UUCE1ASD",
+            "U030KTTNCRL"
+        ],
+        "replies": [
+            {
+                "user": "U02UM0VU8MQ",
+                "ts": "1650608802.536909"
+            },
+            {
+                "user": "U02UUCE1ASD",
+                "ts": "1650608842.804649"
+            },
+            {
+                "user": "U030KTTNCRL",
+                "ts": "1650615819.452409"
+            },
+            {
+                "user": "U02UUCE1ASD",
+                "ts": "1650615982.796019"
+            },
+            {
+                "user": "U030KTTNCRL",
+                "ts": "1650616333.565179"
+            },
+            {
+                "user": "U02UUCE1ASD",
+                "ts": "1650616360.628179"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e7802055-e147-43fe-ba00-e255a3dfeb5f",
+        "type": "message",
+        "text": "Available for catch up over the weekend?",
+        "user": "U02UM0VU8MQ",
+        "ts": "1650608802.536909",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "f69526302af1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-19\/2973139800019_f69526302af1e85edb5e_72.jpg",
+            "first_name": "Deeksha",
+            "real_name": "Deeksha Bhargava",
+            "display_name": "Deeksha",
+            "team": "T02PFK13YLC",
+            "name": "deekshabhargava15",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7ZM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Available for catch up over the weekend?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650608627.544189",
+        "parent_user_id": "U02UUCE1ASD"
+    },
+    {
+        "client_msg_id": "767d9eff-288c-4ad3-a4d9-3c259fecc6ae",
+        "type": "message",
+        "text": "Can do Saturday. Travelling to SaaSBoomi on Sunday.",
+        "user": "U02UUCE1ASD",
+        "ts": "1650608842.804649",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8fc0ff2b8ed7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-22\/3425444312242_8fc0ff2b8ed7f97f960d_72.jpg",
+            "first_name": "Sunil",
+            "real_name": "Sunil Neurgaonkar",
+            "display_name": "Sunil",
+            "team": "T02PFK13YLC",
+            "name": "sunilneurgaonkar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "snl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can do Saturday. Travelling to SaaSBoomi on Sunday."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650608627.544189",
+        "parent_user_id": "U02UUCE1ASD"
+    },
+    {
+        "client_msg_id": "c270180f-e5f4-4e7a-9725-5289c038d8f4",
+        "type": "message",
+        "text": "Anyone familiar with agencies specialising in webflow design and development? Please help with recommendations.\n\nThanks!",
+        "user": "U030L4PHVN2",
+        "ts": "1650610203.443289",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "d167b32b77b6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-29\/3012208037127_d167b32b77b6bd735b7a_72.png",
+            "first_name": "Anand",
+            "real_name": "Anand Vatsya",
+            "display_name": "Anand",
+            "team": "T02PFK13YLC",
+            "name": "anandvatsya1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UA=e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone familiar with agencies specialising in webflow design and development? Please help with recommendations.\n\nThanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650610203.443289",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1650894058.721289",
+        "reply_users": [
+            "U02VA7QD8UB",
+            "U030L4PHVN2",
+            "U037N79VBPZ"
+        ],
+        "replies": [
+            {
+                "user": "U02VA7QD8UB",
+                "ts": "1650610264.130419"
+            },
+            {
+                "user": "U030L4PHVN2",
+                "ts": "1650611456.718619"
+            },
+            {
+                "user": "U037N79VBPZ",
+                "ts": "1650894058.721289"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1db040a7-f5db-4c1c-9819-589a65737958",
+        "type": "message",
+        "text": "Yep, I know a great one but they’re slightly expensive.",
+        "user": "U02VA7QD8UB",
+        "ts": "1650610264.130419",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "84e512c8a3fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2999004078388_84e512c8a3feeb8de835_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "T02PFK13YLC",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hHYM8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yep, I know a great one but they’re slightly expensive."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650610203.443289",
+        "parent_user_id": "U030L4PHVN2"
+    }
+]

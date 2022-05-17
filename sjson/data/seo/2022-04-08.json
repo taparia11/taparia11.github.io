@@ -1,0 +1,166 @@
+[
+    {
+        "client_msg_id": "436f6f8d-5998-4407-900c-24af8f3ea672",
+        "type": "message",
+        "text": "Hi Guys,\n\nI'm getting this \"*Discovered – currently not indexed*\" issue for the past 10-20 days. Earlier the pages were indexed on the google search engine. But for the past few days, it is showing this error on the google search console.\n\nCan anybody help me to sort this issue out?",
+        "user": "U038F88AS0N",
+        "ts": "1649482469.280849",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4d61edd236cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-25\/3293951216915_4d61edd236cc03311be9_72.jpg",
+            "first_name": "Akash",
+            "real_name": "Akash Yadav",
+            "display_name": "Aakash",
+            "team": "T02PFK13YLC",
+            "name": "akash290",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kK40",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Guys,\n\nI'm getting this \""
+                            },
+                            {
+                                "type": "text",
+                                "text": "Discovered – currently not indexed",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\" issue for the past 10-20 days. Earlier the pages were indexed on the google search engine. But for the past few days, it is showing this error on the google search console.\n\nCan anybody help me to sort this issue out?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649482469.280849",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1649494698.196089",
+        "reply_users": [
+            "U0325QQQALR",
+            "U02VA7QD8UB"
+        ],
+        "replies": [
+            {
+                "user": "U0325QQQALR",
+                "ts": "1649483306.821109"
+            },
+            {
+                "user": "U02VA7QD8UB",
+                "ts": "1649494698.196089"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1C2B3671-7B6C-42B6-B880-8F3A5770E942",
+        "type": "message",
+        "text": "Hi Akash!\nMaybe this thread could be of help?\n<https:\/\/s11s.slack.com\/archives\/C02V6F2JYSH\/p1648104437897389|https:\/\/s11s.slack.com\/archives\/C02V6F2JYSH\/p1648104437897389>",
+        "user": "U0325QQQALR",
+        "ts": "1649483306.821109",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "027715c28842",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-05\/3046616728471_027715c288428653e385_72.png",
+            "first_name": "Aiswarya",
+            "real_name": "Aiswarya Menon",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "aiswaryakaimal95",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/s11s.slack.com\/archives\/C02V6F2JYSH\/p1648104437897389",
+                "ts": "1648104437.897389",
+                "author_id": "U0309B5AYTB",
+                "channel_team": "T02PFK13YLC",
+                "channel_id": "C02V6F2JYSH",
+                "channel_name": "seo",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T02PFK13YLC",
+                        "channel": "C02V6F2JYSH",
+                        "ts": "1648104437.897389",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "dV8",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "We are stuck with a technical SEO issue. Our blog posts are not getting indexed even though they are in the sitemap, have internal links, backlinks. Anyone can please point me in a direction that can solve this, please?!"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/s11s.slack.com\/archives\/C02V6F2JYSH\/p1648104437897389",
+                "fallback": "[March 23rd, 2022 11:47 PM] kritika.swarup: We are stuck with a technical SEO issue. Our blog posts are not getting indexed even though they are in the sitemap, have internal links, backlinks. Anyone can please point me in a direction that can solve this, please?!",
+                "text": "We are stuck with a technical SEO issue. Our blog posts are not getting indexed even though they are in the sitemap, have internal links, backlinks. Anyone can please point me in a direction that can solve this, please?!",
+                "author_name": "Kritika Swarup (100ms)",
+                "author_link": "https:\/\/s11s.slack.com\/team\/U0309B5AYTB",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/6bad17279530f5b504af460548c9d797.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-48.png",
+                "author_subname": "Kritika Swarup (100ms)",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Thread in #seo"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EA5LZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Akash!\nMaybe this thread could be of help?\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/s11s.slack.com\/archives\/C02V6F2JYSH\/p1648104437897389",
+                                "text": "https:\/\/s11s.slack.com\/archives\/C02V6F2JYSH\/p1648104437897389"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649482469.280849",
+        "parent_user_id": "U038F88AS0N"
+    }
+]

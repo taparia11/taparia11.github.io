@@ -1,0 +1,187 @@
+[
+    {
+        "client_msg_id": "ebca7f7f-8d69-47fc-877b-a951db012ade",
+        "type": "message",
+        "text": "Hello Everyone,\nI am a Talent Consultant with Meyrahkee Advisors. Have been in the recruitment industry for almost an year now and love the change brought about in my career, where I get to share some great opportunities to talents out there. Have worked in sales before moving towards recruitment as this the field where I actually get to speak to new people everyday.",
+        "user": "U03CV0Y1Q4C",
+        "ts": "1650948337.395819",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "585757bd29b8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3432227969638_585757bd29b843728c3c_72.jpg",
+            "first_name": "Shreyas",
+            "real_name": "Shreyas Jain",
+            "display_name": "Shreyas Jain",
+            "team": "T02PFK13YLC",
+            "name": "shreyas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CtE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Everyone,\nI am a Talent Consultant with Meyrahkee Advisors. Have been in the recruitment industry for almost an year now and love the change brought about in my career, where I get to share some great opportunities to talents out there. Have worked in sales before moving towards recruitment as this the field where I actually get to speak to new people everyday."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650948337.395819",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1650949419.631449",
+        "reply_users": [
+            "U02PDC4883V",
+            "U02TTEFFU6B"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650948407.360369"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1650949419.631449"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1650949419.631449",
+        "reactions": [
+            {
+                "name": "wave::skin-tone-5",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            },
+            {
+                "name": "wave",
+                "users": [
+                    "U039HH3LP43",
+                    "U02V9QUDK1Q",
+                    "U03AQFPP9BL",
+                    "U031P3UUGN4",
+                    "U03AW06L9CN",
+                    "U02UJBHEQVA"
+                ],
+                "count": 6
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02V9QUDK1Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c6cbe89d-c1f9-416d-9936-b2d02b8a7256",
+        "type": "message",
+        "text": "Welcome Shreyas to the community!",
+        "user": "U02PDC4883V",
+        "ts": "1650948407.360369",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/U4TJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome Shreyas to the community!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650948337.395819",
+        "parent_user_id": "U03CV0Y1Q4C",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CV0Y1Q4C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9fc141be-01bd-44df-a839-68ff1438808e",
+        "type": "message",
+        "text": "Awesome. Good career choice Shreyas ;)",
+        "user": "U02TTEFFU6B",
+        "ts": "1650949419.631449",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sJ63j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome. Good career choice Shreyas ;)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650948337.395819",
+        "parent_user_id": "U03CV0Y1Q4C",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03CV0Y1Q4C"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

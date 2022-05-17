@@ -1,0 +1,90 @@
+[
+    {
+        "client_msg_id": "6a2d46cb-09f9-4e76-ac0e-dbd6e2abeb83",
+        "type": "message",
+        "text": "Thanks all",
+        "user": "U031RCMMT5E",
+        "ts": "1650268451.074449",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c3e4f8964f39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3038426823604_c3e4f8964f39f9889acb_72.jpg",
+            "first_name": "Dhriti",
+            "real_name": "Dhriti Goyal",
+            "display_name": "Dhriti Goyal",
+            "team": "T02PFK13YLC",
+            "name": "dg25293",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MEwTx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks all"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649049747.603689",
+        "parent_user_id": "U031RCMMT5E"
+    },
+    {
+        "client_msg_id": "7abfc01a-225f-45db-a4f9-051d91871989",
+        "type": "message",
+        "text": "<@U031RCMMT5E> is definitely not a DAU here. :disappointed:",
+        "user": "U02ULN6EFNV",
+        "ts": "1650276989.825129",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g2796bce497e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2796bce497e03edc08c2719052eaae8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Chirayu",
+            "real_name": "Chirayu (Leena AI)",
+            "display_name": "Chirayu",
+            "team": "T02PFK13YLC",
+            "name": "akotiya.chirayu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wH6y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U031RCMMT5E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is definitely not a DAU here. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649049747.603689",
+        "parent_user_id": "U031RCMMT5E"
+    }
+]

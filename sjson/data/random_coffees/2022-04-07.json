@@ -1,0 +1,106 @@
+[
+    {
+        "client_msg_id": "F4319F7F-82EA-4BF3-88E3-38471B5CDB03",
+        "type": "message",
+        "text": "Heyo!  seeking ideas, inspirations and throughputs for social media in the the B2B SAAS space, anyone up for a virtual coffee for this weekend? DM pls",
+        "user": "U038T9FVDC5",
+        "ts": "1649396821.390779",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "fa262599bcb6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-27\/3299322082533_fa262599bcb6e2244736_72.png",
+            "first_name": "Rashmi",
+            "real_name": "Rashmi Adwani",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rashmi0704adwani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cYQZB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Heyo!  seeking ideas, inspirations and throughputs for social media in the the B2B SAAS space, anyone up for a virtual coffee for this weekend? DM pls"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U02URBKGVA7",
+                    "U035SL5MWPM",
+                    "U030ML6FL00",
+                    "U039FQ2SNNN",
+                    "U031P3UUGN4",
+                    "U03B77PCDNY"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cb81470a-5f9b-426d-bf41-c2f061bbbd18",
+        "type": "message",
+        "text": "Hi <@U030V8ENMS6>, fellow product marketer here :slightly_smiling_face:",
+        "user": "U02URBKGVA7",
+        "ts": "1649397229.589289",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "83f6ba054014",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-16\/3135401616416_83f6ba054014370bda1e_72.jpg",
+            "first_name": "Amisha",
+            "real_name": "Amisha Garg",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "gargamisha25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lHOdA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U030V8ENMS6"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", fellow product marketer here "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649314500.983539",
+        "parent_user_id": "U030V8ENMS6"
+    }
+]

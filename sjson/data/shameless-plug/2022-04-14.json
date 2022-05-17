@@ -1,0 +1,149 @@
+[
+    {
+        "client_msg_id": "63e8e6c4-b081-4fb6-ab1a-9f461dab339a",
+        "type": "message",
+        "text": "Folks, I'm travelling to Pune and hosting a breakfast meet-up there this Saturday morning, 16-April-22, 9 AM.\n\nWe all are going to meet interesting people working in Web3 space, this will include DeFi, CBDC, DAO, NFT, Metaverse, Tokenization and more.\n\nI will discuss and explain how digital marketing is getting reshaped again along the Web3 world.\n\nPS: Facebook is running out of active data faster than ever, due to decentralisation. The cost to run the Ads and get high converting customers will go up multifold in coming quarters!\n\nIf you are in Pune; we should catch up.\nHere is the registration detail:\n<https:\/\/lu.ma\/ogclubpunebkr>\n\nLocation for the meetup will be sent by tomorrow evening.",
+        "user": "U03AQFPP9BL",
+        "ts": "1649940780.796649",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c9b2329e7c08",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-08\/3377148716193_c9b2329e7c08a95503a8_72.png",
+            "first_name": "Ankit",
+            "real_name": "Ankit Prakash",
+            "display_name": "Ankit Prakash",
+            "team": "T02PFK13YLC",
+            "name": "ankitpr89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/lu.ma\/ogclubpunebkr",
+                "image_url": "https:\/\/cdn.lu.ma\/cdn-cgi\/image\/format=auto,fit=cover,dpr=2,quality=75,width=1000,height=500\/event-social-images\/z2\/ca256f25-af16-4429-b867-8f514ca45cf5",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 451112,
+                "service_icon": "https:\/\/lu.ma\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/lu.ma\/ogclubpunebkr",
+                "fallback": "OGCLUB Breakfast Meetup Pune Edition- Powered by GraphProtocol",
+                "text": "Hosting an invite-only @OgclubDAO breakfast meet-up this Friday i.e 8th April powered by @graphprotocol Venue: TBD",
+                "title": "OGCLUB Breakfast Meetup Pune Edition- Powered by GraphProtocol",
+                "title_link": "https:\/\/lu.ma\/ogclubpunebkr",
+                "service_name": "lu.ma"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LWCM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Folks, I'm travelling to Pune and hosting a breakfast meet-up there this Saturday morning, 16-April-22, 9 AM.\n\nWe all are going to meet interesting people working in Web3 space, this will include DeFi, CBDC, DAO, NFT, Metaverse, Tokenization and more.\n\nI will discuss and explain how digital marketing is getting reshaped again along the Web3 world.\n\nPS: Facebook is running out of active data faster than ever, due to decentralisation. The cost to run the Ads and get high converting customers will go up multifold in coming quarters!\n\nIf you are in Pune; we should catch up.\nHere is the registration detail:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/lu.ma\/ogclubpunebkr"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nLocation for the meetup will be sent by tomorrow evening."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dae43806-f1e4-47c8-9fd0-c9149fa68367",
+        "type": "message",
+        "text": "Hello people,\nI have been working on my newsletter - “AdTech Bytes” for about a year now. I cover the latest trends of the Ad-tech industry and add my two cents to it. I am trying to reach 500 subscribers by this month end (currently at 436).\nIn the latest edition I have covered the current gaps in contextual advertising standards and how the publisher-advertiser relationship can fix it.\nHere’s the link - <https:\/\/www.linkedin.com\/pulse\/adtech-bytes-55-publishers-advertisers-need-work-towards-krishna\/>\nPlease drop in your comments and share it with people whom you think it would be relevant :)",
+        "user": "U0326BKDQP8",
+        "ts": "1650001936.064099",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "70512d944086",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3399440576370_70512d9440867180ea0e_72.png",
+            "first_name": "Aditya",
+            "real_name": "Aditya Krishna",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "krishna.aditya29",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/pulse\/adtech-bytes-55-publishers-advertisers-need-work-towards-krishna\/",
+                "image_url": "https:\/\/media-exp1.licdn.com\/dms\/image\/C4D12AQEUg7TtBXrOjQ\/article-cover_image-shrink_720_1280\/0\/1650001071166?e=2147483647&v=beta&t=mZppmuoYk9-xk82ucxB0Gjai4mOZS96FbmWXNp7B5Gk",
+                "image_width": 417,
+                "image_height": 250,
+                "image_bytes": 308262,
+                "service_icon": "https:\/\/static-exp1.licdn.com\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/pulse\/adtech-bytes-55-publishers-advertisers-need-work-towards-krishna\/",
+                "fallback": "AdTech Bytes #55 - Publishers &amp; Advertisers Need To Work Towards Custom Content Taxonomy",
+                "text": "Before I start off with this week’s story, the IAB Internet Advertising Revenue Report for 2021 is out. Compared to the previous year, the overall digital ad revenue has increased by 35% with video being the fastest growing channel contributing $39.",
+                "title": "AdTech Bytes #55 - Publishers &amp; Advertisers Need To Work Towards Custom Content Taxonomy",
+                "title_link": "https:\/\/www.linkedin.com\/pulse\/adtech-bytes-55-publishers-advertisers-need-work-towards-krishna\/",
+                "service_name": "linkedin.com",
+                "fields": [
+                    {
+                        "value": "Aditya Krishna",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "3 min read",
+                        "title": "Reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "278DS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello people,\nI have been working on my newsletter - “AdTech Bytes” for about a year now. I cover the latest trends of the Ad-tech industry and add my two cents to it. I am trying to reach 500 subscribers by this month end (currently at 436).\nIn the latest edition I have covered the current gaps in contextual advertising standards and how the publisher-advertiser relationship can fix it.\nHere’s the link - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/pulse\/adtech-bytes-55-publishers-advertisers-need-work-towards-krishna\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPlease drop in your comments and share it with people whom you think it would be relevant :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U031KD0PNTX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

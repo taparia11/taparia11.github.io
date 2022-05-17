@@ -1,0 +1,190 @@
+[
+    {
+        "client_msg_id": "3d7d6761-71ab-4994-b277-798b3fbc5211",
+        "type": "message",
+        "text": "Springworks uses <https:\/\/www.springworks.in\/the-shape-of-work-podcast\/|The Shape Of Work> to connect with potential clients, nurture leads and maintain relationship with customers &amp; partners.",
+        "user": "U038GCYAUB1",
+        "ts": "1650285619.035579",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8e966d99e107",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-28\/3300156299957_8e966d99e107e0156412_72.jpg",
+            "first_name": "Shwetha",
+            "real_name": "Shwetha Parshi",
+            "display_name": "Shwetha Parshi",
+            "team": "T02PFK13YLC",
+            "name": "shwethaparshi07",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.springworks.in\/the-shape-of-work-podcast\/",
+                "image_url": "https:\/\/assets.website-files.com\/61ee97ebd55f19c52bdb0994\/6225a1ac6d13efebb16b5660_TSOW%20podcast%20SM%20image%20(1).jpg",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 233358,
+                "service_icon": "https:\/\/www.springworks.in\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.springworks.in\/the-shape-of-work-podcast\/",
+                "fallback": "The Shape of Work Podcast | Springworks",
+                "text": "A podcast by Springworks bringing you insights from top People Managers on the Future of Work - how it's shaping our workplace, people, and the ones who manage them.",
+                "title": "The Shape of Work Podcast | Springworks",
+                "title_link": "https:\/\/www.springworks.in\/the-shape-of-work-podcast\/",
+                "service_name": "springworks.in"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CwR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Springworks uses "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.springworks.in\/the-shape-of-work-podcast\/",
+                                "text": "The Shape Of Work"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to connect with potential clients, nurture leads and maintain relationship with customers & partners."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649943318.935109",
+        "parent_user_id": "U031PUU5Z0U"
+    },
+    {
+        "client_msg_id": "65a2829d-6863-486e-a148-c7e508096d1c",
+        "type": "message",
+        "text": "Hi Everyone,\nI'm looking for a course that can help me Structure Sales Enablement and Measure Results better in my org. Any Sales Enablement specific courses that are worth taking up?\n\nI found this on Hubspot - <https:\/\/academy.hubspot.com\/courses\/sales-enablement>\nAny reviews on this? Or any other recommendations?",
+        "user": "U038GCYAUB1",
+        "ts": "1650286594.027589",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8e966d99e107",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-28\/3300156299957_8e966d99e107e0156412_72.jpg",
+            "first_name": "Shwetha",
+            "real_name": "Shwetha Parshi",
+            "display_name": "Shwetha Parshi",
+            "team": "T02PFK13YLC",
+            "name": "shwethaparshi07",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/academy.hubspot.com\/courses\/sales-enablement",
+                "image_url": "https:\/\/academy.hubspot.com\/hubfs\/assets\/hubspot.com\/academy\/images\/default-share-image.png#keepProtocol",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 45701,
+                "service_icon": "https:\/\/academy.hubspot.com\/hubfs\/HubSpot_Logos\/HubSpot-Inversed-Favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/academy.hubspot.com\/courses\/sales-enablement",
+                "fallback": "Courses &amp; Lessons | HubSpot Academy",
+                "text": "In this free certification course, you’ll learn how to develop a sales enablement strategy and align your marketing and sales teams around business goals.",
+                "title": "Courses &amp; Lessons | HubSpot Academy",
+                "title_link": "https:\/\/academy.hubspot.com\/courses\/sales-enablement",
+                "service_name": "academy.hubspot.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3=yk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Everyone,\nI'm looking for a course that can help me Structure Sales Enablement and Measure Results better in my org. Any Sales Enablement specific courses that are worth taking up?\n\nI found this on Hubspot - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/academy.hubspot.com\/courses\/sales-enablement"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nAny reviews on this? Or any other recommendations?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650286594.027589",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650467618.702539",
+        "reply_users": [
+            "U03ACCJ4CVC"
+        ],
+        "replies": [
+            {
+                "user": "U03ACCJ4CVC",
+                "ts": "1650467618.702539"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c7fc0fb9-5432-4960-9029-ee53d55c8cf4",
+        "type": "message",
+        "text": "<@U038GCYAUB1> thanks for sharing",
+        "user": "U031PUU5Z0U",
+        "ts": "1650298997.387899",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4d85314bb1c8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-03\/3049007994662_4d85314bb1c83972ac58_72.png",
+            "first_name": "Rohit",
+            "real_name": "Rohit Naidu",
+            "display_name": "Rohit Naidu",
+            "team": "T02PFK13YLC",
+            "name": "mr.rohit.naidu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1bT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U038GCYAUB1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thanks for sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649943318.935109",
+        "parent_user_id": "U031PUU5Z0U"
+    }
+]

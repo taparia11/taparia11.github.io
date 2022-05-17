@@ -1,0 +1,284 @@
+[
+    {
+        "client_msg_id": "e6a00923-1fb9-4e46-a9d0-d2839f6ceb91",
+        "type": "message",
+        "text": "Scaler is pursuing something similar with Oyo. They've dubbed it ScalerVerse. Simulating a university hostel setting while learning online.",
+        "user": "U039DHTUVQF",
+        "ts": "1649747767.925239",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "601c75dc1bdb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3403186021568_601c75dc1bdb14bd22aa_72.jpg",
+            "first_name": "Shashi",
+            "real_name": "Shashi Maurya",
+            "display_name": "Shashi",
+            "team": "T02PFK13YLC",
+            "name": "0382022shashi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nYIla",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Scaler is pursuing something similar with Oyo. They've dubbed it ScalerVerse. Simulating a university hostel setting while learning online."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649500508.842289",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "07f10939-1882-4003-9a32-82a2d336ced8",
+        "type": "message",
+        "text": "Has anyone else faced a situation where founder comes to you and asks you to evaluate a tool from a startup in the the VC portfolio, and gives no other reason. I faced it 3 years back - 2\/3 times and there were not other reasons given. Just spend the teams time trying out a new tool\n\nGot reminded of it as I just got an email from a founder\/friend who is part of a VC portfolio and another portfolio company just raised funding and wants to contact me\/my team",
+        "user": "U031QKGPNRK",
+        "ts": "1649763521.715459",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U031QKGPNRK",
+            "ts": "1649763640.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "71IRN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Has anyone else faced a situation where founder comes to you and asks you to evaluate a tool from a startup in the the VC portfolio, and gives no other reason. I faced it 3 years back - 2\/3 times and there were not other reasons given. Just spend the teams time trying out a new tool\n\nGot reminded of it as I just got an email from a founder\/friend who is part of a VC portfolio and another portfolio company just raised funding and wants to contact me\/my team"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649763521.715459",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1649939648.084069",
+        "reply_users": [
+            "U030SHA1S2W",
+            "U03A397SJCF",
+            "U02USELSBRT",
+            "U03AQFPP9BL"
+        ],
+        "replies": [
+            {
+                "user": "U030SHA1S2W",
+                "ts": "1649764584.051019"
+            },
+            {
+                "user": "U03A397SJCF",
+                "ts": "1649764720.354639"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649913999.387199"
+            },
+            {
+                "user": "U03AQFPP9BL",
+                "ts": "1649939648.084069"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U030SHA1S2W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9102b348-4285-476e-9de9-d05c78bf4e20",
+        "type": "message",
+        "text": "Faced it multiple times with different organisations. The VC spoc was an alec whose every recommendation was treated as Gospel by my RM. Team did the due diligence, sat through the demo, suffered through the email and LinkedIn reach outs and ultimately declined to transition from our current tool. \nGuy took it really personal and railed at us for missing out on the next big thing in the next investor meet.",
+        "user": "U030SHA1S2W",
+        "ts": "1649764584.051019",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4854b34cf53b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-22\/3163652013408_4854b34cf53b0654333b_72.jpg",
+            "first_name": "Savijeet",
+            "real_name": "Savijeet Singh",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "savijeet-singh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9PEC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Faced it multiple times with different organisations. The VC spoc was an alec whose every recommendation was treated as Gospel by my RM. Team did the due diligence, sat through the demo, suffered through the email and LinkedIn reach outs and ultimately declined to transition from our current tool. \nGuy took it really personal and railed at us for missing out on the next big thing in the next investor meet."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649763521.715459",
+        "parent_user_id": "U031QKGPNRK"
+    },
+    {
+        "client_msg_id": "353e2fd3-0310-4356-9312-1f890efcfebb",
+        "type": "message",
+        "text": "There are a couple of reasons from my experience:\n\n1. Early-stage founders are usually a part of accelerators\/communities, it’s more like a stunt for them to present the analysis to the ones who are part of their journey (can be investors\/friends).\n2. For growing\/large companies, they only ask when there is a competition OR they are planning to add another business vertical in the company. I’ve been there 2-3 times.\n",
+        "user": "U03A397SJCF",
+        "ts": "1649764720.354639",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8350509990dc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3357545030005_8350509990dc150e9deb_72.jpg",
+            "first_name": "Anshul",
+            "real_name": "Anshul Bansal",
+            "display_name": "akbansa",
+            "team": "T02PFK13YLC",
+            "name": "bansal.anshul.94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l8Xvx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are a couple of reasons from my experience:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Early-stage founders are usually a part of accelerators\/communities, it’s more like a stunt for them to present the analysis to the ones who are part of their journey (can be investors\/friends)."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "For growing\/large companies, they only ask when there is a competition OR they are planning to add another business vertical in the company. I’ve been there 2-3 times."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649763521.715459",
+        "parent_user_id": "U031QKGPNRK"
+    },
+    {
+        "client_msg_id": "a3526d86-8de4-422d-b05f-bca834e7a3ba",
+        "type": "message",
+        "text": "My friend and I tried Hirect for two weeks for a role (as a candidate). One of those \"great intentions but poor execution\" experience in my opinion. You take your time to put the right filters, make your profile to be as impressive as possible, select just the right companies\/start-ups which have directly founders instead of HR managers or third party agents hiring, send the perfect first impression message through Hirect chat (after 4 drafts) and voila - NO RESPONSE. \nWell, you're as good as LinkedIn Easy apply then no? :face_with_hand_over_mouth:",
+        "user": "U0362R42317",
+        "ts": "1649765639.972279",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b29d31fcb2d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-04\/3194263235186_b29d31fcb2d64526ad21_72.jpg",
+            "first_name": "Mehul",
+            "real_name": "Mehul Kanodia",
+            "display_name": "Mehul",
+            "team": "T02PFK13YLC",
+            "name": "kanodiamehul17",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2YOrw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My friend and I tried Hirect for two weeks for a role (as a candidate). One of those \"great intentions but poor execution\" experience in my opinion. You take your time to put the right filters, make your profile to be as impressive as possible, select just the right companies\/start-ups which have directly founders instead of HR managers or third party agents hiring, send the perfect first impression message through Hirect chat (after 4 drafts) and voila - NO RESPONSE. \nWell, you're as good as LinkedIn Easy apply then no? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_hand_over_mouth"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02UHTMEGR3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

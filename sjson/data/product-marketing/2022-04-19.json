@@ -1,0 +1,127 @@
+[
+    {
+        "client_msg_id": "45f30d81-273a-430d-9d46-7fd8b0d5fe01",
+        "type": "message",
+        "text": "Anyone knows a great roadmap of courses to learn product marketing for someone at a noob level?",
+        "user": "U03A5S0KQMA",
+        "ts": "1650352213.523069",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "88e919ee0538",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3345884762756_88e919ee053802facac0_72.jpg",
+            "first_name": "Sampath",
+            "real_name": "Sampath Putrevu",
+            "display_name": "Sampath Putrevu",
+            "team": "T02PFK13YLC",
+            "name": "sampath",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Osh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone knows a great roadmap of courses to learn product marketing for someone at a noob level?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650352213.523069",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1650572586.366539",
+        "reply_users": [
+            "U02V5Q6P716",
+            "U03A5S0KQMA"
+        ],
+        "replies": [
+            {
+                "user": "U02V5Q6P716",
+                "ts": "1650356188.761969"
+            },
+            {
+                "user": "U03A5S0KQMA",
+                "ts": "1650572586.366539"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c8136419-7688-4266-a769-c469eaef35ce",
+        "type": "message",
+        "text": "Check out <https:\/\/www.amazon.in\/Product-Marketing-Manager-Responsibilities-Technology-ebook\/dp\/B076S6WN3L|this book>. Really helpful to understand the very basics",
+        "user": "U02V5Q6P716",
+        "ts": "1650356188.761969",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "2b363e44f8ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-14\/3390925287155_2b363e44f8ec9b71d4bc_72.jpg",
+            "first_name": "Sushmitha",
+            "real_name": "Sushmitha",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "saisushmitha999",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02V5Q6P716",
+            "ts": "1650356201.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vp9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Check out "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.in\/Product-Marketing-Manager-Responsibilities-Technology-ebook\/dp\/B076S6WN3L",
+                                "text": "this book"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Really helpful to understand the very basics"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650352213.523069",
+        "parent_user_id": "U03A5S0KQMA",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03B77PCDNY",
+                    "U03BJ320MPB",
+                    "U02V22EUXM4",
+                    "U038GCYAUB1",
+                    "U03A5S0KQMA",
+                    "U032WS5LK5G"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

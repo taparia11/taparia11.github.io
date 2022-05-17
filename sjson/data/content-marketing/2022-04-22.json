@@ -1,0 +1,1247 @@
+[
+    {
+        "client_msg_id": "37b7af73-1fed-4c31-bf06-4d9a935dfbe2",
+        "type": "message",
+        "text": "Any recommendations for posting on social media and replying to mentions? We are currently using zoho social but unsatisfied because of (1) limitations on types of posts we can make (2) tagging other folks is extremely hard (most times we don't find users even if we have their exact handles).",
+        "user": "U03AG3YBVDM",
+        "ts": "1650611500.673319",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g4c5654476f5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4c5654476f5b2a8c4dbd4d6bacda9c96.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Richie",
+            "real_name": "Richie Khandelwal",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "richie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bq3S\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any recommendations for posting on social media and replying to mentions? We are currently using zoho social but unsatisfied because of (1) limitations on types of posts we can make (2) tagging other folks is extremely hard (most times we don't find users even if we have their exact handles)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650611500.673319",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1650808527.761599",
+        "reply_users": [
+            "U02VA7QD8UB",
+            "U038T9FVDC5",
+            "U0361UQSKGQ"
+        ],
+        "replies": [
+            {
+                "user": "U02VA7QD8UB",
+                "ts": "1650611701.604289"
+            },
+            {
+                "user": "U038T9FVDC5",
+                "ts": "1650627188.387179"
+            },
+            {
+                "user": "U0361UQSKGQ",
+                "ts": "1650808527.761599"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "3a91437a-9d30-4ac2-8ffe-339ed072cde3",
+        "type": "message",
+        "text": "<https:\/\/sproutsocial.com\/> would be a good tool for this!",
+        "user": "U02VA7QD8UB",
+        "ts": "1650611701.604289",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "84e512c8a3fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2999004078388_84e512c8a3feeb8de835_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "T02PFK13YLC",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/sproutsocial.com\/",
+                "image_url": "https:\/\/media.sproutsocial.com\/uploads\/Sprout-Home-2021-Open-Graph@2x-1.png",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 499580,
+                "service_icon": "https:\/\/media.sproutsocial.com\/uploads\/180_app_icon_3.png",
+                "id": 1,
+                "original_url": "https:\/\/sproutsocial.com\/",
+                "fallback": "Sprout Social: Sprout Social: Social Media Management Solutions",
+                "text": "Reimagine how social media can grow your business with Sprout Social. See our social media management tools in action. Start your own free trial today.",
+                "title": "Sprout Social: Social Media Management Solutions",
+                "title_link": "https:\/\/sproutsocial.com\/",
+                "service_name": "Sprout Social"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y+zqk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sproutsocial.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " would be a good tool for this!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650611500.673319",
+        "parent_user_id": "U03AG3YBVDM"
+    },
+    {
+        "client_msg_id": "e1df61fa-e4e7-4c93-8cac-4abaaf2b88f4",
+        "type": "message",
+        "text": "<@U039HH3LP43> chartmongul is top notch stuff as well",
+        "user": "U02UGB8DERY",
+        "ts": "1650611951.151479",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4cda10dd85c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2962250036230_4cda10dd85c264b66a43_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Rajvanshi",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rahulrajvanshi2501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2==",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039HH3LP43"
+                            },
+                            {
+                                "type": "text",
+                                "text": " chartmongul is top notch stuff as well"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650600586.771889",
+        "parent_user_id": "U03158A1WPK",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U039HH3LP43"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8b7fb7d1-d034-4ee9-8511-da257e7f71d1",
+        "type": "message",
+        "text": "Hey Friends, Need your help. Do you have a content segmentation grid or a framework, which can help me to understand what type of content is best suited for different stages of the sales cycle ( combined with buying process\/persona)? I know there is no one size fits all theory for this. But maybe I can find a pattern from the information shared by you. Thanks:blush:",
+        "user": "U02UU8Q5F9R",
+        "ts": "1650612152.801739",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5e5465ba2dff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-02\/3046407119668_5e5465ba2dff251ebc3a_72.png",
+            "first_name": "Rahul",
+            "real_name": "Rahul Muralidharan Nair",
+            "display_name": "Rahul Nair",
+            "team": "T02PFK13YLC",
+            "name": "rahul",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ddOkE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Friends, Need your help. Do you have a content segmentation grid or a framework, which can help me to understand what type of content is best suited for different stages of the sales cycle ( combined with buying process\/persona)? I know there is no one size fits all theory for this. But maybe I can find a pattern from the information shared by you. Thanks"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650612152.801739",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650631618.715139",
+        "reply_users": [
+            "U02UJ3N39PF"
+        ],
+        "replies": [
+            {
+                "user": "U02UJ3N39PF",
+                "ts": "1650631618.715139"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "210ea1dc-f53d-4d9c-9bd2-c38b09cfd1a4",
+        "type": "message",
+        "text": "Okay, if you can add the genre of blogs, that might help. Technical, generic, product-led (if yes, will there be a tool provided for keywords)?",
+        "user": "U031AUATXA4",
+        "ts": "1650619041.000689",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5603c9dbfdce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-27\/3023528015140_5603c9dbfdce937bc3fb_72.jpg",
+            "first_name": "Disha",
+            "real_name": "Disha Parekh",
+            "display_name": "Disha",
+            "team": "T02PFK13YLC",
+            "name": "disha.parekh50",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xgu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay, if you can add the genre of blogs, that might help. Technical, generic, product-led (if yes, will there be a tool provided for keywords)?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650607146.944009",
+        "parent_user_id": "U02VBQCQ7EG"
+    },
+    {
+        "client_msg_id": "ce44b095-ca3b-4e53-be20-788a087f784c",
+        "type": "message",
+        "text": "Being a generalist comes only after you have specialised in something. Pick a niche, go deep and become an expert. Later, you can zoom out and take up other marketing responsibilities (at a younger startup) - digital, partners, product etc",
+        "user": "U033ASE526S",
+        "ts": "1650619521.006409",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "cf9826152813",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-24\/3289470554068_cf9826152813650e8efe_72.jpg",
+            "first_name": "Tanmay",
+            "real_name": "Tanmay Choudhury",
+            "display_name": "Tanmay Choudhury",
+            "team": "T02PFK13YLC",
+            "name": "tanmay1612",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F0s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Being a generalist comes only after you have specialised in something. Pick a niche, go deep and become an expert. Later, you can zoom out and take up other marketing responsibilities (at a younger startup) - digital, partners, product etc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650599664.617489",
+        "parent_user_id": "U030XB8C43Y",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U030XB8C43Y"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7dede981-c300-4dfc-ba8f-28d82502758f",
+        "type": "message",
+        "text": "Would love to hear from you as well, <@U02TTEFFU6B>!",
+        "user": "U033ASE526S",
+        "ts": "1650619628.742249",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "cf9826152813",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-24\/3289470554068_cf9826152813650e8efe_72.jpg",
+            "first_name": "Tanmay",
+            "real_name": "Tanmay Choudhury",
+            "display_name": "Tanmay Choudhury",
+            "team": "T02PFK13YLC",
+            "name": "tanmay1612",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qDG1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would love to hear from you as well, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02TTEFFU6B"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650599664.617489",
+        "parent_user_id": "U030XB8C43Y",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U030XB8C43Y"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Thanks for the tag <@U02TTEFFU6B>\n\n<@U030N8RHURZ> I have seen Quora work for 3 teams\/5 i have worked with. Some key takeaways:\n\n1. Wrote answers that were self sufficient and not clickbaity. Lot of context and copyediting to make it as actionable and useful as possible (continuously modified my bio to make it as relevant to topic) \n2. Works primarily for indian and us audience. Rest of all geo traffic belonged to a long tail\n3. It is a very rich source of content topics and titles to write posts on your own website\/blog. I have even verbatim used titles from there and it works great for SEO\n4. Haven’t tried or seen great examples of enterprise b2b do well there. but for smb b2b \/ consumer facing, have seen repeatable success (note: last playbook i tried was in <http:\/\/typito.com|typito.com> 1.5 years back so dont have recent first hand learning)\n5. Embed videos and gifs to make content more engaging. answers with gifs got us around 30% more traffic from quora compared to answers without\n6. You can use the ads manager feature to identify specific questions that get more views (rather than trying to answer all questions). you dont need to run a paid campaign. you just need to add your card and go to dashboard with intent to start and target. then dont start. \njust scrape the questions around specific keywords. Quora will show which questions get more traffic when you give them a list of keywords you want to contextually target. I found this as a much better way than just searching quora for relevant questions from the search bar. Here in the screenshot you can see what Quora throws up in targeting when you give keyword like ab testing",
+        "files": [
+            {
+                "id": "F03CWKZ7KNV",
+                "created": 1650619745,
+                "timestamp": 1650619745,
+                "name": "Screenshot 2022-04-22 at 2.59.02 PM.png",
+                "title": "Screenshot 2022-04-22 at 2.59.02 PM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U031QKGPNRK",
+                "editable": false,
+                "size": 1287967,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03CWKZ7KNV\/screenshot_2022-04-22_at_2.59.02_pm.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03CWKZ7KNV\/download\/screenshot_2022-04-22_at_2.59.02_pm.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CWKZ7KNV-7d1b4ca49b\/screenshot_2022-04-22_at_2.59.02_pm_64.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CWKZ7KNV-7d1b4ca49b\/screenshot_2022-04-22_at_2.59.02_pm_80.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CWKZ7KNV-7d1b4ca49b\/screenshot_2022-04-22_at_2.59.02_pm_360.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 360,
+                "thumb_360_h": 225,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CWKZ7KNV-7d1b4ca49b\/screenshot_2022-04-22_at_2.59.02_pm_480.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 480,
+                "thumb_480_h": 300,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CWKZ7KNV-7d1b4ca49b\/screenshot_2022-04-22_at_2.59.02_pm_160.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CWKZ7KNV-7d1b4ca49b\/screenshot_2022-04-22_at_2.59.02_pm_720.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720_w": 720,
+                "thumb_720_h": 449,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CWKZ7KNV-7d1b4ca49b\/screenshot_2022-04-22_at_2.59.02_pm_800.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_800_w": 800,
+                "thumb_800_h": 499,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CWKZ7KNV-7d1b4ca49b\/screenshot_2022-04-22_at_2.59.02_pm_960.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_960_w": 960,
+                "thumb_960_h": 599,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CWKZ7KNV-7d1b4ca49b\/screenshot_2022-04-22_at_2.59.02_pm_1024.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 639,
+                "original_w": 2230,
+                "original_h": 1392,
+                "thumb_tiny": "AwAdADCpijFFFAGlbW8TwIWjUkjkmpfskH\/PJabaf8e6fSpwTQBH9kt\/+eS1Tv4Y41Ty0C5JzWhn\/Oap6n92P6mgDPooooA1bT\/j2T6VNzWfFe+VGqeWDjvmnf2j\/wBMh\/31QBoA1S1P7sf1NRtfs33U2\/Q1DNO0ygN2OaAP\/9k=",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U031QKGPNRK\/F03CWKZ7KNV\/screenshot_2022-04-22_at_2.59.02_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03CWKZ7KNV-9fefb1b33e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U031QKGPNRK",
+        "display_as_bot": false,
+        "ts": "1650619751.690529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3v+C2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the tag "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02TTEFFU6B"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U030N8RHURZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I have seen Quora work for 3 teams\/5 i have worked with. Some key takeaways:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Wrote answers that were self sufficient and not clickbaity. Lot of context and copyediting to make it as actionable and useful as possible (continuously modified my bio to make it as relevant to topic) "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Works primarily for indian and us audience. Rest of all geo traffic belonged to a long tail"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "It is a very rich source of content topics and titles to write posts on your own website\/blog. I have even verbatim used titles from there and it works great for SEO"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Haven’t tried or seen great examples of enterprise b2b do well there. but for smb b2b \/ consumer facing, have seen repeatable success (note: last playbook i tried was in "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/typito.com",
+                                        "text": "typito.com"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 1.5 years back so dont have recent first hand learning)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Embed videos and gifs to make content more engaging. answers with gifs got us around 30% more traffic from quora compared to answers without"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "You can use the ads manager feature to identify specific questions that get more views (rather than trying to answer all questions). you dont need to run a paid campaign. you just need to add your card and go to dashboard with intent to start and target. then dont start. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\njust scrape the questions around specific keywords. Quora will show which questions get more traffic when you give them a list of keywords you want to contextually target. I found this as a much better way than just searching quora for relevant questions from the search bar. Here in the screenshot you can see what Quora throws up in targeting when you give keyword like ab testing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U031QKGPNRK",
+            "ts": "1650619926.000000"
+        },
+        "client_msg_id": "c7c13292-04b2-4214-97a9-01e073187e67",
+        "thread_ts": "1650542308.447089",
+        "parent_user_id": "U030N8RHURZ",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02ULN6EFNV",
+                    "U030N8RHURZ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U031KD0PNTX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "343064cf-1c3a-4198-b249-6a2e1e0adeca",
+        "type": "message",
+        "text": "it takes weeks and months to setup for scale but rewards are long term especially if you are one or few in your industry to do it. google still rewards quora and its bounce rate is very low for most topics so I would say very much worth a test in a quarter with a methodical process oriented breakdown. In the past I have tracked more than $50000 worth of revenue directly attributable to signups that come from quora, and much more with quora as a touchpoint, didnt have mature tracking system to see that attribution",
+        "user": "U031QKGPNRK",
+        "ts": "1650620036.434429",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U031QKGPNRK",
+            "ts": "1650620103.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gjB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it takes weeks and months to setup for scale but rewards are long term especially if you are one or few in your industry to do it. google still rewards quora and its bounce rate is very low for most topics so I would say very much worth a test in a quarter with a methodical process oriented breakdown. In the past I have tracked more than $50000 worth of revenue directly attributable to signups that come from quora, and much more with quora as a touchpoint, didnt have mature tracking system to see that attribution"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650542308.447089",
+        "parent_user_id": "U030N8RHURZ"
+    },
+    {
+        "client_msg_id": "4a62697f-aa2f-45b7-a0a7-a8e1decf77a8",
+        "type": "message",
+        "text": "<@U031QKGPNRK> this $50K is with Quora as first touch? for typito?",
+        "user": "U02USELSBRT",
+        "ts": "1650620098.593019",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vrBSV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U031QKGPNRK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this $50K is with Quora as first touch? for typito?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650542308.447089",
+        "parent_user_id": "U030N8RHURZ"
+    },
+    {
+        "client_msg_id": "5adfe9e8-d19f-4df6-a457-f3def29d396d",
+        "type": "message",
+        "text": "i can’t disclose which specific company sorry but yea 50000 from what I remember from 1 of the recent startups i worked at.\n\nas recorded by heap analytics with <http:\/\/quora.com|quora.com> as the referral url and utm identifying the specific answer. Not sure exactly if it is first touch point or last, didn’t break down a deatiled attribution report to figure out touch point distribution",
+        "user": "U031QKGPNRK",
+        "ts": "1650620341.754949",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wwcdd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i can’t disclose which specific company sorry but yea 50000 from what I remember from 1 of the recent startups i worked at.\n\nas recorded by heap analytics with "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/quora.com",
+                                "text": "quora.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " as the referral url and utm identifying the specific answer. Not sure exactly if it is first touch point or last, didn’t break down a deatiled attribution report to figure out touch point distribution"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650542308.447089",
+        "parent_user_id": "U030N8RHURZ"
+    },
+    {
+        "client_msg_id": "c3d06a5d-c394-4c12-8471-222121040c0b",
+        "type": "message",
+        "text": "Sorry not able to remember exact number as I am generally bad at recall but 50,000 is a conservative low figure. we got several thousands of signups",
+        "user": "U031QKGPNRK",
+        "ts": "1650620386.669909",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "glCe7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry not able to remember exact number as I am generally bad at recall but 50,000 is a conservative low figure. we got several thousands of signups"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650542308.447089",
+        "parent_user_id": "U030N8RHURZ"
+    },
+    {
+        "client_msg_id": "e1b2674c-de84-460d-ae6a-4dd5829d4bc5",
+        "type": "message",
+        "text": "caution: quora channel churn was also higher than other channels. so the revenue above was with average LTV of less than a year - 7-8 months. it helped us early in the journey not later",
+        "user": "U031QKGPNRK",
+        "ts": "1650620458.021849",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mVyT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "caution: quora channel churn was also higher than other channels. so the revenue above was with average LTV of less than a year - 7-8 months. it helped us early in the journey not later"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650542308.447089",
+        "parent_user_id": "U030N8RHURZ"
+    },
+    {
+        "client_msg_id": "872386dd-808a-4817-8b68-be23297644ee",
+        "type": "message",
+        "text": "Such a detailed response, <@U031QKGPNRK>. Thank you! Super interesting.",
+        "user": "U030N8RHURZ",
+        "ts": "1650620549.306379",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b9e697887a24",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-17\/3118359252754_b9e697887a246674f4f1_72.jpg",
+            "first_name": "Murugappan",
+            "real_name": "Murugappan",
+            "display_name": "Muru",
+            "team": "T02PFK13YLC",
+            "name": "nappagurum",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Gp=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Such a detailed response, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U031QKGPNRK"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Thank you! Super interesting."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650542308.447089",
+        "parent_user_id": "U030N8RHURZ"
+    },
+    {
+        "type": "message",
+        "text": "<@U031QKGPNRK> from your answers profile, assuming it was typito. in either case, $50K is good value.",
+        "files": [
+            {
+                "id": "F03CJ3EM7PC",
+                "created": 1650620685,
+                "timestamp": 1650620685,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02USELSBRT",
+                "editable": false,
+                "size": 117285,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03CJ3EM7PC\/image.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03CJ3EM7PC\/download\/image.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CJ3EM7PC-e8b5408ea7\/image_64.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CJ3EM7PC-e8b5408ea7\/image_80.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CJ3EM7PC-e8b5408ea7\/image_360.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 297,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CJ3EM7PC-e8b5408ea7\/image_480.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 397,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CJ3EM7PC-e8b5408ea7\/image_160.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "original_w": 580,
+                "original_h": 702,
+                "thumb_tiny": "AwAwACe7cStGF2rnNP3Nn7o\/OnMSP4SfpSbz\/cagBMv\/AHR\/31S5f+6Pzp1FAAOnNFFFADJd+B5frzQQ27g8emKjugSq4kCZ4px2buWGe\/JoAlopkezPynJ+tPoAKKKKAK90kbhfMzxyMHFSFjn7p\/MUk5kGPLQN65pTu9R\/3zQOw4McfdP5ilBJPKkU0bs\/eGPTFPzQIKKM0ZoA\/9k=",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U02USELSBRT\/F03CJ3EM7PC\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03CJ3EM7PC-9621647c2f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02USELSBRT",
+        "display_as_bot": false,
+        "ts": "1650620710.082019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OT=c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U031QKGPNRK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " from your answers profile, assuming it was typito. in either case, $50K is good value."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "429a0466-c5de-4691-b340-88ff125ad3ea",
+        "thread_ts": "1650542308.447089",
+        "parent_user_id": "U030N8RHURZ"
+    },
+    {
+        "client_msg_id": "cd67747d-ca2a-411f-ad05-0928e8c3e220",
+        "type": "message",
+        "text": ":smile: the founder is cagey about sharing revenue attribution or learning. as long as i am not the one disclosing am good",
+        "user": "U031QKGPNRK",
+        "ts": "1650620852.376639",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U031QKGPNRK",
+            "ts": "1650621094.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OsN8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the founder is cagey about sharing revenue attribution or learning. as long as i am not the one disclosing am good"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650542308.447089",
+        "parent_user_id": "U030N8RHURZ"
+    },
+    {
+        "client_msg_id": "bb1de7d5-808a-4579-9373-21eabf31c6b8",
+        "type": "message",
+        "text": "lol, nobody has to know.....dear typito founder, there is nothing to see here",
+        "user": "U02USELSBRT",
+        "ts": "1650620889.759989",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JO1O8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lol, nobody has to know.....dear typito founder, there is nothing to see here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650542308.447089",
+        "parent_user_id": "U030N8RHURZ",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U031QKGPNRK",
+                    "U031KD0PNTX",
+                    "U0361UQSKGQ",
+                    "U038WP8PLUA"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "AF7A1E8A-212E-4942-B814-659C94447E5B",
+        "type": "message",
+        "text": "Hootsuite super best ",
+        "user": "U038T9FVDC5",
+        "ts": "1650627188.387179",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "fa262599bcb6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-27\/3299322082533_fa262599bcb6e2244736_72.png",
+            "first_name": "Rashmi",
+            "real_name": "Rashmi Adwani",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rashmi0704adwani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gyNIz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hootsuite super best "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650611500.673319",
+        "parent_user_id": "U03AG3YBVDM",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03AG3YBVDM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "This guide from LinkedIn has a framework on different pieces of content for different buying stages.",
+        "files": [
+            {
+                "id": "F03C46TLG2K",
+                "created": 1650631575,
+                "timestamp": 1650631575,
+                "name": "LinkedIn_ABM_Guide_Final_201113.pdf",
+                "title": "LinkedIn_ABM_Guide_Final_201113.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U02UJ3N39PF",
+                "editable": false,
+                "size": 9572318,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03C46TLG2K\/linkedin_abm_guide_final_201113.pdf?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03C46TLG2K\/download\/linkedin_abm_guide_final_201113.pdf?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03C46TLG2K-85f3ad850a\/linkedin_abm_guide_final_201113_thumb_pdf.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/s11s.slack.com\/files\/U02UJ3N39PF\/F03C46TLG2K\/linkedin_abm_guide_final_201113.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03C46TLG2K-349d096722",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02UJ3N39PF",
+        "display_as_bot": false,
+        "ts": "1650631618.715139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rlOI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This guide from LinkedIn has a framework on different pieces of content for different buying stages."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "df6605c7-7071-4e35-8171-ae7daac57c2f",
+        "thread_ts": "1650612152.801739",
+        "parent_user_id": "U02UU8Q5F9R",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U033RUXVCAY"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U02UU8Q5F9R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8d5b8bd8-666b-451e-a9e1-2b759e8eb41b",
+        "type": "message",
+        "text": "<https:\/\/www.landingfolio.com\/inspiration\/pricing>",
+        "user": "U03158A1WPK",
+        "ts": "1650635876.817939",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5837aa37daee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3029573541474_5837aa37daee415bd34b_72.jpg",
+            "first_name": "Srikrishna",
+            "real_name": "Srikrishna Factors.ai",
+            "display_name": "Srikrishna Factors.ai",
+            "team": "T02PFK13YLC",
+            "name": "srikrishna",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.landingfolio.com\/inspiration\/pricing",
+                "image_url": "https:\/\/www.landingfolio.com\/_nuxt\/img\/main.e006d8b.png",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 637838,
+                "service_icon": "https:\/\/www.landingfolio.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.landingfolio.com\/inspiration\/pricing",
+                "fallback": "The Best   Pricing Design Inspiration &amp; Examples",
+                "text": "Landingfolio features the best pricing designs on the web. Get inspiration from real pricing examples, curated by us to ensure the highest quality.",
+                "title": "The Best   Pricing Design Inspiration &amp; Examples",
+                "title_link": "https:\/\/www.landingfolio.com\/inspiration\/pricing",
+                "service_name": "landingfolio.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Xgal",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.landingfolio.com\/inspiration\/pricing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650600586.771889",
+        "parent_user_id": "U03158A1WPK"
+    },
+    {
+        "client_msg_id": "0516f2d5-71a9-4b2c-9446-a2f57371a5d7",
+        "type": "message",
+        "text": "Hey friends,\n\nHas anyone used any content writing test available online to recruit content writers for the organisation?\n\nAny suggestions.",
+        "user": "U033RUXVCAY",
+        "ts": "1650694617.327039",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "eecae6570a19",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-18\/3149477154304_eecae6570a19ea1b9b9d_72.jpg",
+            "first_name": "Divyank",
+            "real_name": "Divyank Jain",
+            "display_name": "Divyank Jain",
+            "team": "T02PFK13YLC",
+            "name": "divyankjn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ymz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey friends,\n\nHas anyone used any content writing test available online to recruit content writers for the organisation?\n\nAny suggestions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U0361UQSKGQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

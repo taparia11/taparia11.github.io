@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "7dc29ee9-a9ee-4128-9bb3-6dcd1dedfd2a",
+        "type": "message",
+        "text": "Hey peeps, I am in Bangalore from 17th-19th. Would love to catch up and meet a few of you",
+        "user": "U02UZQJMP8R",
+        "ts": "1649835785.465499",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5b699fa22c9c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-27\/3015844518067_5b699fa22c9c78ddce04_72.jpg",
+            "first_name": "Ria",
+            "real_name": "Ria Sardana",
+            "display_name": "Ria",
+            "team": "T02PFK13YLC",
+            "name": "sardanaria98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Fc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey peeps, I am in Bangalore from 17th-19th. Would love to catch up and meet a few of you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039FQ2SNNN",
+                    "U02PDC4883V",
+                    "U02URS98P9B",
+                    "U0325QQQALR",
+                    "U02ULCHDGB0"
+                ],
+                "count": 5
+            },
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U0362R42317"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

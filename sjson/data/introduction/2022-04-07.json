@@ -1,0 +1,524 @@
+[
+    {
+        "client_msg_id": "24039c8c-c31e-4808-93aa-c16686327ad7",
+        "type": "message",
+        "text": "Hi Chirag. Looking forward to learn from you on the side hustle with marketing aspect. :wave::skin-tone-3:",
+        "user": "U03A7KXT45S",
+        "ts": "1649392868.637769",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "48a968d86675",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3342503134101_48a968d8667535791add_72.png",
+            "first_name": "Shruti",
+            "real_name": "Shruti Sah",
+            "display_name": "Shruti Sah",
+            "team": "T02PFK13YLC",
+            "name": "shrutisah92",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5X5xc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Chirag. Looking forward to learn from you on the side hustle with marketing aspect. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "skin_tone": 3
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649326092.838979",
+        "parent_user_id": "U03A2UNJJDD"
+    },
+    {
+        "client_msg_id": "8d021117-49e0-416d-a865-8a3062b69162",
+        "type": "message",
+        "text": "sure <@U03A7KXT45S> DM your questions and I'd be more than happy to answer those.",
+        "user": "U03A2UNJJDD",
+        "ts": "1649394120.566639",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "91a4f79ca4fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3342983706615_91a4f79ca4fe220decc9_72.jpg",
+            "first_name": "Chirag",
+            "real_name": "Chirag Parmar",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "chiragparmar.marketin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WDWqO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sure "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03A7KXT45S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " DM your questions and I'd be more than happy to answer those."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649326092.838979",
+        "parent_user_id": "U03A2UNJJDD"
+    },
+    {
+        "client_msg_id": "a7b02f38-485e-45ab-a8e3-c46b254f2a7c",
+        "type": "message",
+        "text": "Hello all, myself charmis pala. I am a marketer by passion and I practise SEO for a living. I've over a decade of experience in the same and have worked for organisations like - Cleartip, <http:\/\/Housing.com|Housing.com>, Hotstar etc. My current stint is with Games24x7 (rummycircle &amp; my11circle) I've been a ambassador for some of the tools like semrush &amp; apptweak and also have contributed my chapter about SEO in a book about growth hacking book - volume 2. I love to teach organic marketing (SEO) in my free time and have worked with institutes like upgrad and edupristine for the same.\n\nI'm here to network with marketers, startup founders and industry veterans and love to learn mutually. My linkedin can be accessed here - <https:\/\/in.linkedin.com\/in\/charmispala>\n\nLet's connect :)",
+        "user": "U039HLKQXSB",
+        "ts": "1649396154.506559",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c444c926cd2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3350916931985_c444c926cd2e3671a93c_72.png",
+            "first_name": "charmis",
+            "real_name": "charmis pala",
+            "display_name": "charmis pala",
+            "team": "T02PFK13YLC",
+            "name": "charmispala",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039HLKQXSB",
+            "ts": "1649396238.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eNMSg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello all, myself charmis pala. I am a marketer by passion and I practise SEO for a living. I've over a decade of experience in the same and have worked for organisations like - Cleartip, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Housing.com",
+                                "text": "Housing.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Hotstar etc. My current stint is with Games24x7 (rummycircle & my11circle) I've been a ambassador for some of the tools like semrush & apptweak and also have contributed my chapter about SEO in a book about growth hacking book - volume 2. I love to teach organic marketing (SEO) in my free time and have worked with institutes like upgrad and edupristine for the same.\n\nI'm here to network with marketers, startup founders and industry veterans and love to learn mutually. My linkedin can be accessed here - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/in.linkedin.com\/in\/charmispala"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nLet's connect :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649396154.506559",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1649397477.985519",
+        "reply_users": [
+            "U039FQ2SNNN",
+            "U031QKGPNRK"
+        ],
+        "replies": [
+            {
+                "user": "U039FQ2SNNN",
+                "ts": "1649396474.383239"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1649396766.314249"
+            },
+            {
+                "user": "U039FQ2SNNN",
+                "ts": "1649397477.985519"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U02PDC4883V",
+                    "U039FQ2SNNN",
+                    "U030ZR9D0FK",
+                    "U03A1M1L0PR",
+                    "U02VAPDACUQ",
+                    "U02V9QUDK1Q",
+                    "U037UUE6TV3",
+                    "U02V5F2JFME",
+                    "U031P3UUGN4",
+                    "U03AG8MUECT",
+                    "U02UHQYEF70",
+                    "U02V92UN0Q2",
+                    "U031KD0PNTX",
+                    "U0380S2BZ9A",
+                    "U02VAM808KV",
+                    "U02U6FZRHRV",
+                    "U039L895FA4",
+                    "U0361UQSKGQ"
+                ],
+                "count": 18
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02V9QUDK1Q",
+                    "U02ULCHDGB0",
+                    "U03AG8MUECT",
+                    "U03AQFPP9BL"
+                ],
+                "count": 4
+            },
+            {
+                "name": "wave::skin-tone-5",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "11b2c3c0-13ef-4a5f-aa6e-32a673128d7b",
+        "type": "message",
+        "text": "Cannot connect can only follow.",
+        "user": "U039FQ2SNNN",
+        "ts": "1649396474.383239",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9bb6d1a8280e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-30\/3321818966962_9bb6d1a8280e6c254c07_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rohitguptatoday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rcM=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cannot connect can only follow."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649396154.506559",
+        "parent_user_id": "U039HLKQXSB"
+    },
+    {
+        "client_msg_id": "4f5e6a44-b0c2-4c4d-91dc-df19eddd0bc4",
+        "type": "message",
+        "text": "B2C SEO is sexy. Welcome onboard brother.",
+        "user": "U031QKGPNRK",
+        "ts": "1649396766.314249",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AohX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "B2C SEO is sexy. Welcome onboard brother."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649396154.506559",
+        "parent_user_id": "U039HLKQXSB"
+    },
+    {
+        "type": "message",
+        "text": "inside joke?",
+        "files": [
+            {
+                "id": "F03AP3F08QK",
+                "created": 1649397471,
+                "timestamp": 1649397471,
+                "name": "Screenshot 2022-04-08 at 11.27.35 AM.png",
+                "title": "Screenshot 2022-04-08 at 11.27.35 AM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U039FQ2SNNN",
+                "editable": false,
+                "size": 31038,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03AP3F08QK\/screenshot_2022-04-08_at_11.27.35_am.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03AP3F08QK\/download\/screenshot_2022-04-08_at_11.27.35_am.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AP3F08QK-cb6e9fe660\/screenshot_2022-04-08_at_11.27.35_am_64.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AP3F08QK-cb6e9fe660\/screenshot_2022-04-08_at_11.27.35_am_80.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AP3F08QK-cb6e9fe660\/screenshot_2022-04-08_at_11.27.35_am_360.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 360,
+                "thumb_360_h": 193,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AP3F08QK-cb6e9fe660\/screenshot_2022-04-08_at_11.27.35_am_160.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "original_w": 371,
+                "original_h": 199,
+                "thumb_tiny": "AwAZADC6z4YjzVHsR0p2H\/56D8qjkhdnYjGD71Lj25+lSm+pTSS0H5HrRketMwMdP0oAHXA\/KqJH5HrRkU3C\/wB39KUKB0AoAWmkcn5M\/jTqKAGY5+5+tKB6rj8adRQAAAdKKKKAP\/\/Z",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U039FQ2SNNN\/F03AP3F08QK\/screenshot_2022-04-08_at_11.27.35_am.png",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03AP3F08QK-2bab7dd10b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U039FQ2SNNN",
+        "display_as_bot": false,
+        "ts": "1649397477.985519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8oN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "inside joke?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "f477642b-af2e-4173-995d-c13c29ecaed2",
+        "thread_ts": "1649396154.506559",
+        "parent_user_id": "U039HLKQXSB"
+    },
+    {
+        "client_msg_id": "62485c4e-7039-48f4-8747-fda2055e8eb3",
+        "type": "message",
+        "text": "Hey everyone,\n\nRatnakar here, from OkCredit. I take care of the overall SEO growth of the product. My previous stints include working with ed-tech and digital media companies like Testbook and NewsBytes in content marketing and SEO roles.\n\nI have been following the members of this community on LinkedIn for a while, and just got to know about this platform.\nExcited to be here and I would love to connect with you all on LinkedIn- <https:\/\/www.linkedin.com\/in\/ratnakar-shukla\/|Ratnakar Shukla>\n\nCheers!",
+        "user": "U03AG8MUECT",
+        "ts": "1649399614.259219",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4fdac4d7a543",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-06\/3353413068949_4fdac4d7a543ccd5c10e_72.jpg",
+            "first_name": "Ratnakar",
+            "real_name": "Ratnakar Shukla",
+            "display_name": "Ratnakar Shukla",
+            "team": "T02PFK13YLC",
+            "name": "shukla.ratnakar7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4eI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone,\n\nRatnakar here, from OkCredit. I take care of the overall SEO growth of the product. My previous stints include working with ed-tech and digital media companies like Testbook and NewsBytes in content marketing and SEO roles.\n\nI have been following the members of this community on LinkedIn for a while, and just got to know about this platform.\nExcited to be here and I would love to connect with you all on LinkedIn- "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/ratnakar-shukla\/",
+                                "text": "Ratnakar Shukla"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nCheers!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649399614.259219",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1649404380.375839",
+        "reply_users": [
+            "U039FQ2SNNN",
+            "U02TTEFFU6B",
+            "U03AG8MUECT",
+            "U02PDC4883V"
+        ],
+        "replies": [
+            {
+                "user": "U039FQ2SNNN",
+                "ts": "1649400055.494009"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649401332.219619"
+            },
+            {
+                "user": "U03AG8MUECT",
+                "ts": "1649401478.929839"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649403011.989779"
+            },
+            {
+                "user": "U03AG8MUECT",
+                "ts": "1649404380.375839"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1649404380.375839",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U031KD0PNTX",
+                    "U02V9QUDK1Q",
+                    "U02V92UN0Q2",
+                    "U038V229WRZ",
+                    "U02PDC4883V",
+                    "U02UHQYEF70",
+                    "U0325QQQALR",
+                    "U0380S2BZ9A",
+                    "U031P3UUGN4"
+                ],
+                "count": 9
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02V9QUDK1Q",
+                    "U02ULCHDGB0",
+                    "U03AQFPP9BL"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a7ad6700-a76b-4c4a-ab35-6548e3114b9f",
+        "type": "message",
+        "text": "Good to meet Ratnakar!",
+        "user": "U039FQ2SNNN",
+        "ts": "1649400055.494009",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9bb6d1a8280e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-30\/3321818966962_9bb6d1a8280e6c254c07_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rohitguptatoday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s=Ovh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good to meet Ratnakar!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649399614.259219",
+        "parent_user_id": "U03AG8MUECT",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03AG8MUECT"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

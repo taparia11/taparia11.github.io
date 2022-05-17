@@ -1,0 +1,683 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649424134.412579",
+        "user": "U02ULN6EFNV",
+        "text": "<@U02ULN6EFNV> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1649424134.730279",
+        "user": "U02ULN6EFNV",
+        "text": "set the channel description: For in person meetups in Delhi NCR",
+        "purpose": "For in person meetups in Delhi NCR"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649424149.033999",
+        "user": "U02USELSBRT",
+        "text": "<@U02USELSBRT> has joined the channel",
+        "inviter": "U02ULN6EFNV"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649424149.105529",
+        "user": "U031QKGPNRK",
+        "text": "<@U031QKGPNRK> has joined the channel",
+        "inviter": "U02ULN6EFNV"
+    },
+    {
+        "client_msg_id": "30bdea70-c8f4-4b92-9bcb-71d14f117a35",
+        "type": "message",
+        "text": "Let's add more people here.",
+        "user": "U02ULN6EFNV",
+        "ts": "1649424180.625219",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g2796bce497e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2796bce497e03edc08c2719052eaae8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Chirayu",
+            "real_name": "Chirayu (Leena AI)",
+            "display_name": "Chirayu",
+            "team": "T02PFK13YLC",
+            "name": "akotiya.chirayu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XfQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let's add more people here."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649424294.831539",
+        "user": "U0306EA4DNK",
+        "text": "<@U0306EA4DNK> has joined the channel",
+        "inviter": "U02USELSBRT"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649424294.890319",
+        "user": "U02UG2H1GHY",
+        "text": "<@U02UG2H1GHY> has joined the channel",
+        "inviter": "U02USELSBRT"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649424294.949679",
+        "user": "U038F88AS0N",
+        "text": "<@U038F88AS0N> has joined the channel",
+        "inviter": "U02USELSBRT"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649424295.015219",
+        "user": "U030M1LS1L2",
+        "text": "<@U030M1LS1L2> has joined the channel",
+        "inviter": "U02USELSBRT"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649424295.098269",
+        "user": "U02UMB0T7BM",
+        "text": "<@U02UMB0T7BM> has joined the channel",
+        "inviter": "U02USELSBRT"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649424333.278959",
+        "user": "U02U9C2UTRC",
+        "text": "<@U02U9C2UTRC> has joined the channel",
+        "inviter": "U02USELSBRT"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649424333.403369",
+        "user": "U02URBKGVA7",
+        "text": "<@U02URBKGVA7> has joined the channel",
+        "inviter": "U02USELSBRT"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649424333.461509",
+        "user": "U039L895FA4",
+        "text": "<@U039L895FA4> has joined the channel",
+        "inviter": "U02USELSBRT"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649424365.355399",
+        "user": "U039CMMQ3DK",
+        "text": "<@U039CMMQ3DK> has joined the channel",
+        "inviter": "U02USELSBRT"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649424365.423089",
+        "user": "U02UD51HZ9B",
+        "text": "<@U02UD51HZ9B> has joined the channel",
+        "inviter": "U02USELSBRT"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649424365.584599",
+        "user": "U0323V4CLRY",
+        "text": "<@U0323V4CLRY> has joined the channel",
+        "inviter": "U02USELSBRT"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649424388.286109",
+        "user": "U039KP64KQQ",
+        "text": "<@U039KP64KQQ> has joined the channel",
+        "inviter": "U02USELSBRT"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649424388.453789",
+        "user": "U03A397SJCF",
+        "text": "<@U03A397SJCF> has joined the channel",
+        "inviter": "U02USELSBRT"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649424452.517679",
+        "user": "U03AJ8BHKNC",
+        "text": "<@U03AJ8BHKNC> has joined the channel",
+        "inviter": "U02USELSBRT"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649424512.466789",
+        "user": "U0361UQSKGQ",
+        "text": "<@U0361UQSKGQ> has joined the channel",
+        "inviter": "U02USELSBRT"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649424527.125789",
+        "user": "U030MGFLT7F",
+        "text": "<@U030MGFLT7F> has joined the channel",
+        "inviter": "U02USELSBRT"
+    },
+    {
+        "client_msg_id": "c28786b9-8a2d-47a8-9540-e4079eb1b985",
+        "type": "message",
+        "text": "Added some folks from Delhi-NCR, please add others you know",
+        "user": "U02USELSBRT",
+        "ts": "1649424564.261959",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02USELSBRT",
+            "ts": "1649424573.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JDdu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Added some folks from Delhi-NCR, please add others you know"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649425302.577919",
+        "user": "U030EJQ7NAV",
+        "text": "<@U030EJQ7NAV> has joined the channel"
+    },
+    {
+        "client_msg_id": "949359DE-9906-4A1C-BC8F-58EBAA4BA525",
+        "type": "message",
+        "text": "In delhi only for 6 more days folks :man-shrugging::skin-tone-4::sweat_smile:",
+        "user": "U03AJ8BHKNC",
+        "ts": "1649425347.736749",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "2133b8282666",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-06\/3353492600340_2133b828266683f99ee6_72.png",
+            "first_name": "Doulos",
+            "real_name": "Doulos Jose",
+            "display_name": "dj",
+            "team": "T02PFK13YLC",
+            "name": "mail",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KIr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In delhi only for 6 more days folks "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-shrugging",
+                                "skin_tone": 4
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649425575.542909",
+        "user": "U02UCSR9E2Z",
+        "text": "<@U02UCSR9E2Z> has joined the channel",
+        "inviter": "U02ULN6EFNV"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649425575.607779",
+        "user": "U02URQ2NCGJ",
+        "text": "<@U02URQ2NCGJ> has joined the channel",
+        "inviter": "U02ULN6EFNV"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649425575.663929",
+        "user": "U038X1FRDNE",
+        "text": "<@U038X1FRDNE> has joined the channel",
+        "inviter": "U02ULN6EFNV"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649425575.716939",
+        "user": "U034V7RQMHD",
+        "text": "<@U034V7RQMHD> has joined the channel",
+        "inviter": "U02ULN6EFNV"
+    },
+    {
+        "bot_id": "B03002JE4F7",
+        "type": "message",
+        "text": "<@U02USELSBRT> has a polly for you!",
+        "user": "U03030X0DMH",
+        "ts": "1649433059.428169",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B03002JE4F7",
+            "app_id": "A04E6JX41",
+            "name": "Polly",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-10-26\/1466083688641_05afc842ead4d799a4fc_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-10-26\/1466083688641_05afc842ead4d799a4fc_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-26\/1466083688641_05afc842ead4d799a4fc_72.png"
+            },
+            "deleted": true,
+            "updated": 1650606943,
+            "team_id": "T02PFK13YLC"
+        },
+        "edited": {
+            "user": "B03002JE4F7",
+            "ts": "1649943447.000000"
+        },
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "sGn",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*When should we catchup in-person?*\nYou may vote for multiple options",
+                    "verbatim": true
+                },
+                "accessory": {
+                    "type": "overflow",
+                    "action_id": "PollMessage(5vDjNqN4PfnA42Xrg).PollMessageOverflowMenu()",
+                    "options": [
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": "Settings",
+                                "emoji": true
+                            },
+                            "value": "settings"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "actions",
+                "block_id": "kPW7V",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "PollMessage(5vDjNqN4PfnA42Xrg).VotingButton(0)",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "1",
+                            "emoji": true
+                        },
+                        "value": "one"
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "PollMessage(5vDjNqN4PfnA42Xrg).VotingButton(1)",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "2",
+                            "emoji": true
+                        },
+                        "value": "two"
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "PollMessage(5vDjNqN4PfnA42Xrg).VotingButton(2)",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "3",
+                            "emoji": true
+                        },
+                        "value": "three"
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "PollMessage(5vDjNqN4PfnA42Xrg).VotingButton(3)",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "4",
+                            "emoji": true
+                        },
+                        "value": "four"
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "PollMessage(5vDjNqN4PfnA42Xrg).VotingButton(4)",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "5",
+                            "emoji": true
+                        },
+                        "value": "five"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "block_id": "1i0E",
+                "fields": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "*1*: \"This weekend (9th-10th April)\"  \n\n`█ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢`  |  5% (1)\n\n<@U03A397SJCF>",
+                        "verbatim": true
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "*2*: \"Next weekend (16th-17th April)\"  \n\n`██████ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢`  |  26% (5)\n\n<@U030M1LS1L2>, <@U02USELSBRT>, <@U02URBKGVA7> + 2 more",
+                        "verbatim": true
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "block_id": "B7PcF",
+                "fields": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "*3*: \"Next-to-next weekend (23rd-24th April)\"  \n\n`██████████ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢`  |  42% (8)\n\n<@U03010J15V1>, <@U0306EA4DNK>, <@U02UZQJMP8R> + 5 more",
+                        "verbatim": true
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "*4*: \"Last weekend of the month (30th April - 1st May)\"  \n\n`█████ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢`  |  21% (4)\n\n<@U030M1LS1L2>, <@U02UZQJMP8R>, <@U02USELSBRT> + 1 more",
+                        "verbatim": true
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "block_id": "7PM",
+                "fields": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "*5*: \"I would rather see my plants grow than meet this bunch\"  \n\n`█ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢`  |  5% (1)\n\n<@U030M1LS1L2>",
+                        "verbatim": true
+                    }
+                ]
+            },
+            {
+                "type": "context",
+                "block_id": "A5E",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "*Total Votes*: 12",
+                        "verbatim": true
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "block_id": "e\/zL",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Comments (1 Total)*\n:speech_balloon: <@U0323V4CLRY>: I would say this Sunday or the next to next weekend, cause the next weekend is king of the holiday week\n",
+                    "verbatim": true
+                }
+            },
+            {
+                "type": "actions",
+                "block_id": "p+d1",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "PollMessage(5vDjNqN4PfnA42Xrg).AddCommentButton",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Add a Comment",
+                            "emoji": true
+                        }
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "PollMessage(5vDjNqN4PfnA42Xrg).ViewAllResponsesButton",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "View All Responses",
+                            "emoji": true
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "e7z"
+            },
+            {
+                "type": "context",
+                "block_id": "wsuD",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Sender: @Aniruddh Jain | :unlock: *Responses:* Non-Anonymous | *:clock930: Closes: *<!date^1650037858^{date_short} at {time}|Apr 15, 2022 at 15:50 PM>\n\n:zap: Try sending your own polly using one of <https:\/\/app.polly.ai\/templates?source=SlackPollMessage&amp;utm_source=slack&amp;utm_medium=app&amp;utm_term=view_templates|our templates>",
+                        "verbatim": true
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649433059.428169",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1649950280.968039",
+        "reply_users": [
+            "U02USELSBRT",
+            "U030M1LS1L2"
+        ],
+        "replies": [
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649433142.846229"
+            },
+            {
+                "user": "U030M1LS1L2",
+                "ts": "1649943589.008749"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649949819.506159"
+            },
+            {
+                "user": "U030M1LS1L2",
+                "ts": "1649950280.968039"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0437ba48-1088-40ca-902d-8a1c39595ab8",
+        "type": "message",
+        "text": "ignore the double quotes :stuck_out_tongue:",
+        "user": "U02USELSBRT",
+        "ts": "1649433142.846229",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a3X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ignore the double quotes "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649433059.428169",
+        "parent_user_id": "U03030X0DMH"
+    },
+    {
+        "client_msg_id": "bf3a3a98-d93e-4ea1-bb3b-fe6e18134a5d",
+        "type": "message",
+        "text": "Hi Guys, could anyone please let me know what is the purpose of creating this group?",
+        "user": "U038F88AS0N",
+        "ts": "1649476372.647089",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4d61edd236cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-25\/3293951216915_4d61edd236cc03311be9_72.jpg",
+            "first_name": "Akash",
+            "real_name": "Akash Yadav",
+            "display_name": "Aakash",
+            "team": "T02PFK13YLC",
+            "name": "akash290",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n3LlA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Guys, could anyone please let me know what is the purpose of creating this group?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8D01D087-1448-475F-B7A7-DEA01B5AA57E",
+        "type": "message",
+        "text": "We are planning a meet up with folks in NCR.",
+        "user": "U02ULN6EFNV",
+        "ts": "1649479112.347479",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g2796bce497e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2796bce497e03edc08c2719052eaae8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Chirayu",
+            "real_name": "Chirayu (Leena AI)",
+            "display_name": "Chirayu",
+            "team": "T02PFK13YLC",
+            "name": "akotiya.chirayu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lIEN0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We are planning a meet up with folks in NCR."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

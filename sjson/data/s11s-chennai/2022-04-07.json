@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "414d3acc-1584-43d9-96ac-bb05e43a6c1a",
+        "type": "message",
+        "text": "Hello everyone, I haven't been much active on s11s for sometime now :( Glad to be apart of this channel!",
+        "user": "U039L0HCSHW",
+        "ts": "1649395842.297539",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g1cb749f6c77",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1cb749f6c770d1650985cd2cf5ae7718.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Pratistha",
+            "real_name": "Pratistha",
+            "display_name": "Pratistha",
+            "team": "T02PFK13YLC",
+            "name": "pratistha.suhasini",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oq7h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello everyone, I haven't been much active on s11s for sometime now :( Glad to be apart of this channel!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649395842.297539",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1649437587.452969",
+        "reply_users": [
+            "U038WP8PLUA"
+        ],
+        "replies": [
+            {
+                "user": "U038WP8PLUA",
+                "ts": "1649437587.452969"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

@@ -1,0 +1,1096 @@
+[
+    {
+        "client_msg_id": "1aa5c505-47df-42f6-80af-fe930f0307dd",
+        "type": "message",
+        "text": "That's quite common. When they see the value you offer going away, then they take you seriously. No one is busy. It's about priorities.",
+        "user": "U03AF2HBZPX",
+        "ts": "1649381632.489849",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g282e41117ee",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/282e41117eea26a162917755cabc65f2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Vikas",
+            "real_name": "Vikas Kalwani",
+            "display_name": "Vikas Kalwani",
+            "team": "T02PFK13YLC",
+            "name": "myself",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o1Ty",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's quite common. When they see the value you offer going away, then they take you seriously. No one is busy. It's about priorities."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649329092.999219",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U030M1LS1L2",
+                    "U030ZR9D0FK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f38085b2-ecc3-4e93-8fa1-ece0c53d891f",
+        "type": "message",
+        "text": "Mostly depends on the location. Well-established US-based companies could pay 75k$+ whereas well-established Indian companies could pay 15L+",
+        "user": "U03AF2HBZPX",
+        "ts": "1649381771.149879",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g282e41117ee",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/282e41117eea26a162917755cabc65f2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Vikas",
+            "real_name": "Vikas Kalwani",
+            "display_name": "Vikas Kalwani",
+            "team": "T02PFK13YLC",
+            "name": "myself",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Ez",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mostly depends on the location. Well-established US-based companies could pay 75k$+ whereas well-established Indian companies could pay 15L+"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649314225.627969",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "Me during the weekly team meeting :point_right: Including a picture of my pet in outreach emails has improved the conversation rate from 10% to 15%\n\nOur CEO :point_right: Send me a picture of your pet, we'll add your pet to the company's Team page.\n\nMe :point_right: Haan toh mai naukri chod du? :grinning: ",
+        "user": "U02SXBR28G1",
+        "ts": "1649382139.687569",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "deleted": false,
+            "name": "Anonymous Bot",
+            "updated": 1641240871,
+            "app_id": "ATMC26LBW",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2KV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Me during the weekly team meeting "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Including a picture of my pet in outreach emails has improved the conversation rate from 10% to 15%\n\nOur CEO "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Send me a picture of your pet, we'll add your pet to the company's Team page.\n\nMe "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Haan toh mai naukri chod du? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grinning"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649382139.687569",
+        "reply_count": 9,
+        "reply_users_count": 8,
+        "latest_reply": "1649417051.485569",
+        "reply_users": [
+            "U032MN1BESJ",
+            "U02USELSBRT",
+            "U037UUE6TV3",
+            "U02PDC4883V",
+            "U030M1LS1L2",
+            "U02V04833FT",
+            "U02UY3EPQDA",
+            "U02V8KAHXFD"
+        ],
+        "replies": [
+            {
+                "user": "U032MN1BESJ",
+                "ts": "1649388787.150369"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649391523.868669"
+            },
+            {
+                "user": "U037UUE6TV3",
+                "ts": "1649391668.302879"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649392711.542139"
+            },
+            {
+                "user": "U030M1LS1L2",
+                "ts": "1649393081.885759"
+            },
+            {
+                "user": "U02V04833FT",
+                "ts": "1649397704.119939"
+            },
+            {
+                "user": "U02UY3EPQDA",
+                "ts": "1649400909.618129"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649402829.494399"
+            },
+            {
+                "user": "U02V8KAHXFD",
+                "ts": "1649417051.485569"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1649417051.485569",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U030ZR9D0FK",
+                    "U03560PQ082",
+                    "U031QKGPNRK",
+                    "U03AG8MUECT",
+                    "U02U6FZRHRV",
+                    "U03996E48LB"
+                ],
+                "count": 6
+            },
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U030M1LS1L2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "424c97c7-e12d-4937-8deb-eda85219302f",
+        "type": "message",
+        "text": "This provides a whole new meaning to \"Paapi pet ka sawaal hai\"",
+        "user": "U032MN1BESJ",
+        "ts": "1649388787.150369",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g8a12888a77b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a12888a77b019e4e11e0df9171feb29.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Anuj",
+            "real_name": "Anuj Adhiya",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "adhiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AStj3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This provides a whole new meaning to \"Paapi pet ka sawaal hai\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649382139.687569",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U030SDYNX7V",
+                    "U02USELSBRT",
+                    "U02PDC4883V",
+                    "U030M1LS1L2",
+                    "U037UUE6TV3",
+                    "U02ULN6EFNV",
+                    "U02UY3EPQDA",
+                    "U02VAM808KV"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "*How can I increase my salary to 1 lakh 35 thousand from only 35 thousand within 6-8 months?*\n\n*Please share your valuable inputs &amp; ideas!* ",
+        "user": "U02SXBR28G1",
+        "ts": "1649391323.886629",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6SJij",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How can I increase my salary to 1 lakh 35 thousand from only 35 thousand within 6-8 months?",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Please share your valuable inputs & ideas!",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649391323.886629",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1649398668.542919",
+        "reply_users": [
+            "U037UUE6TV3",
+            "U039FQ2SNNN",
+            "U02USELSBRT",
+            "U03A2UNJJDD"
+        ],
+        "replies": [
+            {
+                "user": "U037UUE6TV3",
+                "ts": "1649391886.763559"
+            },
+            {
+                "user": "U039FQ2SNNN",
+                "ts": "1649393998.488349"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649396830.848799"
+            },
+            {
+                "user": "U03A2UNJJDD",
+                "ts": "1649398668.542919"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "03B809F7-541E-47AA-917A-47325D316C47",
+        "type": "message",
+        "text": "pet-ty crimes",
+        "user": "U02USELSBRT",
+        "ts": "1649391523.868669",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KuB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pet-ty crimes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649382139.687569",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U030M1LS1L2",
+                    "U02UY3EPQDA"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f4818c30-0bc6-4e23-bcc5-dd63aaaac661",
+        "type": "message",
+        "text": "Anything is paw-sible when you have a *dog*.",
+        "user": "U037UUE6TV3",
+        "ts": "1649391668.302879",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "934b4d6b1287",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-21\/3283947705889_934b4d6b128773575732_72.png",
+            "first_name": "Shobhit",
+            "real_name": "Shobhit Gaur",
+            "display_name": "Shobhit Gaur",
+            "team": "T02PFK13YLC",
+            "name": "shbhtgr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g=HrJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anything is paw-sible when you have a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "dog",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649382139.687569",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U030M1LS1L2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e512e6a1-e94a-4d3a-82bb-43b0a0b37b92",
+        "type": "message",
+        "text": "<https:\/\/news.ycombinator.com\/item?id=27454589>",
+        "user": "U037UUE6TV3",
+        "ts": "1649391886.763559",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "934b4d6b1287",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-21\/3283947705889_934b4d6b128773575732_72.png",
+            "first_name": "Shobhit",
+            "real_name": "Shobhit Gaur",
+            "display_name": "Shobhit Gaur",
+            "team": "T02PFK13YLC",
+            "name": "shbhtgr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JVbD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/news.ycombinator.com\/item?id=27454589"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649391323.886629",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "87bb24af-1a06-4e64-8565-d345d8f8cc27",
+        "type": "message",
+        "text": "This is pawsome",
+        "user": "U02PDC4883V",
+        "ts": "1649392711.542139",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bWpH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is pawsome"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649382139.687569",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U030M1LS1L2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "Typical salary range of a Senior Marketing Analyst with 5+ yrs of experience?",
+        "user": "U02SXBR28G1",
+        "ts": "1649393043.806409",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EmKuV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Typical salary range of a Senior Marketing Analyst with 5+ yrs of experience?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649393043.806409",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1649393428.505359",
+        "reply_users": [
+            "U02V9QUDK1Q"
+        ],
+        "replies": [
+            {
+                "user": "U02V9QUDK1Q",
+                "ts": "1649393428.505359"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e8fc0524-a7a2-49f1-8d14-acca751ea318",
+        "type": "message",
+        "text": "Let's just acknowledge the sheer talent in this community. :sweat_smile::joy:",
+        "user": "U030M1LS1L2",
+        "ts": "1649393081.885759",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "46fe0b61f0df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-27\/3014387749574_46fe0b61f0df0a7ec710_72.png",
+            "first_name": "Falguni",
+            "real_name": "Falguni Jain",
+            "display_name": "Falguni Jain",
+            "team": "T02PFK13YLC",
+            "name": "falgunijain500",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cVRYk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let's just acknowledge the sheer talent in this community. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649382139.687569",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02VA4JGMH9",
+                    "U02PDC4883V",
+                    "U02UY3EPQDA"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c3c035a5-587f-4cc6-a07d-4402322e16cf",
+        "type": "message",
+        "text": "<https:\/\/datastudio.google.com\/u\/0\/reporting\/8abf7a11-455e-4a94-881c-d7ab60ada69a\/page\/p_44lhj5actc>",
+        "user": "U02V9QUDK1Q",
+        "ts": "1649393428.505359",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8140d54c5a70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2981230435879_8140d54c5a7085ca9412_72.jpg",
+            "first_name": "Abhash",
+            "real_name": "Abhash Kumar",
+            "display_name": "Abhash",
+            "team": "T02PFK13YLC",
+            "name": "abhash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/datastudio.google.com\/u\/0\/reporting\/8abf7a11-455e-4a94-881c-d7ab60ada69a\/page\/p_44lhj5actc",
+                "image_url": "http:\/\/datastudio.google.com\/reporting\/8abf7a11-455e-4a94-881c-d7ab60ada69a\/page\/p_44lhj5actc\/thumbnail?sz=full&feature=opengraph",
+                "image_width": 320,
+                "image_height": 240,
+                "image_bytes": 28364,
+                "service_icon": "https:\/\/datastudio.google.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/datastudio.google.com\/u\/0\/reporting\/8abf7a11-455e-4a94-881c-d7ab60ada69a\/page\/p_44lhj5actc",
+                "fallback": "Google Data Studio: s11s BenchMark Report Data",
+                "text": "Google Data Studio turns your data into informative dashboards and reports that are easy to read, easy to share, and fully customizable.",
+                "title": "s11s BenchMark Report Data",
+                "title_link": "https:\/\/datastudio.google.com\/u\/0\/reporting\/8abf7a11-455e-4a94-881c-d7ab60ada69a\/page\/p_44lhj5actc",
+                "service_name": "Google Data Studio"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zKC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/datastudio.google.com\/u\/0\/reporting\/8abf7a11-455e-4a94-881c-d7ab60ada69a\/page\/p_44lhj5actc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649393043.806409",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "A01489DE-8F75-4F59-9C10-6B02070DEBD0",
+        "type": "message",
+        "text": "Learn Skills like UI UX, web3, inside sales, Python - become a full stack developer and join an angel funded startup.",
+        "user": "U039FQ2SNNN",
+        "ts": "1649393998.488349",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9bb6d1a8280e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-30\/3321818966962_9bb6d1a8280e6c254c07_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rohitguptatoday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Kr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Learn Skills like UI UX, web3, inside sales, Python - become a full stack developer and join an angel funded startup."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649391323.886629",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "2894382d-9ab0-4949-878f-dd1532f02a80",
+        "type": "message",
+        "text": "Well there are only two ways to earn more:\n\n1. Offer same value that you're currently offering but do it for more hours\n2. Offer higher value than what you offer currently with or without more hours\nIf you pick path 1, hardwork is your go-to strategy. Start picking more clients for what you do, work more hours. This will also likely work best for the 6-8 month timeline.\n\nIf you pick path 2, you need to think about how you can offer more value per hour of your work. There can be 2 ways to do it:\n\n• Gain additional skills in the vicinity of your current skillset or become extremely specialized at your core skillset. For example, If you do email marketing, learn data enrichment, content or markops and become fullstack at whatever you do. The idea is not to do everything yourself but by having a fullstack approach, you will have understanding of more \"knobs\" that you can tweak to get the final outcome and can drive teams\/specialized people to do so.\n• Mean more to someone else. You maybe working in a big company but you've seen the processes and the workflows, which can be very valuable to smaller companies just starting out. They will pay for you to come and setup these systems from scratch aka more value for them with the same \"skillset\".\nBefore you do these, just some low hanging fruits:\n\n• Benchmark your salary with others in the industry. Are your skills + experience + location really worth 35K? Or can you bump it up to 50-60K with a few company shifts?\n• Can you change geographies where the same skillset can be valued more, keeping in mind the living costs might also increase?\n",
+        "user": "U02USELSBRT",
+        "ts": "1649396830.848799",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6ad",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well there are only two ways to earn more:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Offer same value that you're currently offering but do it for more hours"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Offer higher value than what you offer currently with or without more hours"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nIf you pick path 1, hardwork is your go-to strategy. Start picking more clients for what you do, work more hours. This will also likely work best for the 6-8 month timeline.\n\nIf you pick path 2, you need to think about how you can offer more value per hour of your work. There can be 2 ways to do it:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Gain additional skills in the vicinity of your current skillset or become extremely specialized at your core skillset. For example, If you do email marketing, learn data enrichment, content or markops and become fullstack at whatever you do. The idea is not to do everything yourself but by having a fullstack approach, you will have understanding of more \"knobs\" that you can tweak to get the final outcome and can drive teams\/specialized people to do so."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Mean more to someone else. You maybe working in a big company but you've seen the processes and the workflows, which can be very valuable to smaller companies just starting out. They will pay for you to come and setup these systems from scratch aka more value for them with the same \"skillset\"."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nBefore you do these, just some low hanging fruits:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Benchmark your salary with others in the industry. Are your skills + experience + location really worth 35K? Or can you bump it up to 50-60K with a few company shifts?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Can you change geographies where the same skillset can be valued more, keeping in mind the living costs might also increase?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649391323.886629",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U031F2R0LN4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8ab015a9-dca3-4d6d-a447-f69b99f68da5",
+        "type": "message",
+        "text": "Time to negotiate pay for paws.",
+        "user": "U02V04833FT",
+        "ts": "1649397704.119939",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "001b4249df83",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3135003300419_001b4249df8304206994_72.png",
+            "first_name": "Ganesh",
+            "real_name": "Ganesh N",
+            "display_name": "Ganesh",
+            "team": "T02PFK13YLC",
+            "name": "ganeshnarayan88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d6N+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Time to negotiate pay for paws."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649382139.687569",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02UY3EPQDA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "test",
+        "user": "U02SXBR28G1",
+        "ts": "1649398274.265379",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p8ZX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "test"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "41ab127b-9d27-484e-9fad-66a0a0ffa8a9",
+        "type": "message",
+        "text": "4x in 6-8 months? I'd love to know the trick too...",
+        "user": "U03A2UNJJDD",
+        "ts": "1649398668.542919",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "91a4f79ca4fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3342983706615_91a4f79ca4fe220decc9_72.jpg",
+            "first_name": "Chirag",
+            "real_name": "Chirag Parmar",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "chiragparmar.marketin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "15cfa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "4x in 6-8 months? I'd love to know the trick too..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649391323.886629",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "8b6055d4-6444-4342-a14b-ad4659f0816a",
+        "type": "message",
+        "text": "Packs Paw-erful email pitch!",
+        "user": "U02UY3EPQDA",
+        "ts": "1649400909.618129",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "da155664fe94",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-20\/2981844758147_da155664fe9476fbd35b_72.jpg",
+            "first_name": "sv410_",
+            "real_name": "sv410_",
+            "display_name": "sv410_",
+            "team": "T02PFK13YLC",
+            "name": "bravenuworld",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0R1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Packs Paw-erful email pitch!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649382139.687569",
+        "parent_user_id": "U02SXBR28G1"
+    }
+]

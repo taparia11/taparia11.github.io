@@ -1,0 +1,130 @@
+[
+    {
+        "client_msg_id": "6e6f85db-7c51-4f81-adad-fe34de243a40",
+        "type": "message",
+        "text": "<@U03560PQ082> could you also intro me, will be good to chat with them",
+        "user": "U030PQRLHEH",
+        "ts": "1650043041.592159",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "01a1b05516c5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-15\/3410501334369_01a1b05516c5b272fbfa_72.jpg",
+            "first_name": "Yatharth",
+            "real_name": "Yatharth Jain",
+            "display_name": "Yatharth Jain",
+            "team": "T02PFK13YLC",
+            "name": "yatharth.jain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lKp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03560PQ082"
+                            },
+                            {
+                                "type": "text",
+                                "text": " could you also intro me, will be good to chat with them"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649911291.939689",
+        "parent_user_id": "U03B6AGE0HE"
+    },
+    {
+        "client_msg_id": "7c24d126-516d-4857-b664-c7f3e3cc5299",
+        "type": "message",
+        "text": "<@U030PQRLHEH> I'll intro you too!",
+        "user": "U03560PQ082",
+        "ts": "1650080028.702719",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1db32098d186",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-01\/3176023965474_1db32098d186ac873a3d_72.png",
+            "first_name": "Ahaan",
+            "real_name": "Ahaan Pandit",
+            "display_name": "Ahaan Pandit",
+            "team": "T02PFK13YLC",
+            "name": "ahaan.pandit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5vhY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U030PQRLHEH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I'll intro you too!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649911291.939689",
+        "parent_user_id": "U03B6AGE0HE"
+    },
+    {
+        "client_msg_id": "0ee0aef3-891c-4da5-944c-274628a48351",
+        "type": "message",
+        "text": "Thanks",
+        "user": "U030PQRLHEH",
+        "ts": "1650084652.835469",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "01a1b05516c5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-15\/3410501334369_01a1b05516c5b272fbfa_72.jpg",
+            "first_name": "Yatharth",
+            "real_name": "Yatharth Jain",
+            "display_name": "Yatharth Jain",
+            "team": "T02PFK13YLC",
+            "name": "yatharth.jain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LAt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649911291.939689",
+        "parent_user_id": "U03B6AGE0HE"
+    }
+]

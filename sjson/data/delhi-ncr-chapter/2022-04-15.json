@@ -1,0 +1,190 @@
+[
+    {
+        "bot_id": "B03002JE4F7",
+        "type": "message",
+        "text": "<@U02USELSBRT> has a polly for you!",
+        "user": "U03030X0DMH",
+        "ts": "1650018352.767179",
+        "app_id": "A04E6JX41",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B03002JE4F7",
+            "app_id": "A04E6JX41",
+            "name": "Polly",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-10-26\/1466083688641_05afc842ead4d799a4fc_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-10-26\/1466083688641_05afc842ead4d799a4fc_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-26\/1466083688641_05afc842ead4d799a4fc_72.png"
+            },
+            "deleted": true,
+            "updated": 1650606943,
+            "team_id": "T02PFK13YLC"
+        },
+        "edited": {
+            "user": "B03002JE4F7",
+            "ts": "1650331685.000000"
+        },
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "mnf",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*For the meetup, choose your preferred location*\nYou may vote for multiple options",
+                    "verbatim": true
+                },
+                "accessory": {
+                    "type": "overflow",
+                    "action_id": "PollMessage(FsmTKfcAHCHo3Aqjw).PollMessageOverflowMenu()",
+                    "options": [
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": "Settings",
+                                "emoji": true
+                            },
+                            "value": "settings"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "actions",
+                "block_id": "ggQ",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "PollMessage(FsmTKfcAHCHo3Aqjw).VotingButton(0)",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "1",
+                            "emoji": true
+                        },
+                        "value": "one"
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "PollMessage(FsmTKfcAHCHo3Aqjw).VotingButton(1)",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "2",
+                            "emoji": true
+                        },
+                        "value": "two"
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "PollMessage(FsmTKfcAHCHo3Aqjw).VotingButton(2)",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "3",
+                            "emoji": true
+                        },
+                        "value": "three"
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "PollMessage(FsmTKfcAHCHo3Aqjw).VotingButton(3)",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "4",
+                            "emoji": true
+                        },
+                        "value": "four"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "block_id": "NwOC",
+                "fields": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "*1*: Central Delhi (CP)  \n\n`██████████ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢`  |  41% (7)\n\n<@U030M1LS1L2>, <@U031QKGPNRK>, <@U02URBKGVA7> + 4 more",
+                        "verbatim": true
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "*2*: South Delhi (GK, Khan Market)  \n\n`███████ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢`  |  29% (5)\n\n<@U02U9C2UTRC>, <@U02UD51HZ9B>, <@U02URBKGVA7> + 2 more",
+                        "verbatim": true
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "block_id": "+Nk",
+                "fields": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "*3*: Gurugram  \n\n`██████ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢`  |  24% (4)\n\n<@U0361UQSKGQ>, <@U038X1FRDNE>, <@U02ULN6EFNV> + 1 more",
+                        "verbatim": true
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "*4*: Others (mention in comments)  \n\n`█ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢`  |  6% (1)\n\n<@U02USELSBRT>",
+                        "verbatim": true
+                    }
+                ]
+            },
+            {
+                "type": "context",
+                "block_id": "N2z",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "*Total Votes*: 12",
+                        "verbatim": true
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "block_id": "Bwf",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Comments (3 Total)*\n:speech_balloon: <@U02USELSBRT>: North\/West Delhi\n:speech_balloon: <@U02URBKGVA7>: +1 North\/West Delhi\n:speech_balloon: <@U02U9C2UTRC>: 2\n",
+                    "verbatim": true
+                }
+            },
+            {
+                "type": "actions",
+                "block_id": "JHLW",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "PollMessage(FsmTKfcAHCHo3Aqjw).AddCommentButton",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Add a Comment",
+                            "emoji": true
+                        }
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "PollMessage(FsmTKfcAHCHo3Aqjw).ViewAllResponsesButton",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "View All Responses",
+                            "emoji": true
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "6gC"
+            },
+            {
+                "type": "context",
+                "block_id": "dFbPK",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Sender: @Aniruddh Jain | :unlock: *Responses:* Non-Anonymous | *:clock930: Closes: *<!date^1650623151^{date_short} at {time}|Apr 22, 2022 at 10:25 AM>\n\n:zap: Try sending your own polly using one of <https:\/\/app.polly.ai\/templates?source=SlackPollMessage&amp;utm_source=slack&amp;utm_medium=app&amp;utm_term=view_templates|our templates>",
+                        "verbatim": true
+                    }
+                ]
+            }
+        ]
+    }
+]

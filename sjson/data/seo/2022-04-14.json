@@ -1,0 +1,91 @@
+[
+    {
+        "client_msg_id": "a0b94285-3c02-44e4-b43b-987d38e18886",
+        "type": "message",
+        "text": "Happy to help Nihal!",
+        "user": "U03014JNGMQ",
+        "ts": "1649924020.423629",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "6028a3765f89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-25\/3001224156355_6028a3765f893a12dda2_72.png",
+            "first_name": "Vignesh",
+            "real_name": "Vignesh S Krishnan",
+            "display_name": "Vignesh S Krishnan",
+            "team": "T02PFK13YLC",
+            "name": "learnwekey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iVvC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy to help Nihal!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649776801.784799",
+        "parent_user_id": "U02U9C39MAA"
+    },
+    {
+        "client_msg_id": "b36e4239-7008-4418-865d-102e127796a0",
+        "type": "message",
+        "text": "My team uses Ahrefs!",
+        "user": "U03AQFPP9BL",
+        "ts": "1649939478.328289",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c9b2329e7c08",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-08\/3377148716193_c9b2329e7c08a95503a8_72.png",
+            "first_name": "Ankit",
+            "real_name": "Ankit Prakash",
+            "display_name": "Ankit Prakash",
+            "team": "T02PFK13YLC",
+            "name": "ankitpr89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oBiK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My team uses Ahrefs!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649751227.885619",
+        "parent_user_id": "U02V991KYHZ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0363DZU3QF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

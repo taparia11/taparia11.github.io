@@ -1,0 +1,2184 @@
+[
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "Special place in heaven for *first-time* founders who want people with *relevant experience*.",
+        "user": "U02SXBR28G1",
+        "ts": "1650524834.116169",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YDYM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Special place in heaven for "
+                            },
+                            {
+                                "type": "text",
+                                "text": "first-time",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " founders who want people with "
+                            },
+                            {
+                                "type": "text",
+                                "text": "relevant experience",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650524834.116169",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1650547542.073379",
+        "reply_users": [
+            "U03834B6CS0",
+            "U02UY3EPQDA"
+        ],
+        "replies": [
+            {
+                "user": "U03834B6CS0",
+                "ts": "1650544505.088849"
+            },
+            {
+                "user": "U02UY3EPQDA",
+                "ts": "1650547542.073379"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U030ZR9D0FK",
+                    "U030SHA1S2W",
+                    "U03560PQ082",
+                    "U0306AT9H0D",
+                    "U030SDYNX7V",
+                    "U02PDC6B0HH",
+                    "U02PDC4883V",
+                    "U0380S2BZ9A",
+                    "U0379TDK6NM",
+                    "U02UV03PBB9",
+                    "U02TTEFFU6B",
+                    "U02UFQWH2EP",
+                    "U030N8RHURZ",
+                    "U0362R42317",
+                    "U02V2SRR9J9",
+                    "U02URS98P9B"
+                ],
+                "count": 16
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "About the first-time founder's thing. This is my reply:\n\nOne man came to Mozart and asked him how to write a symphony. Mozart replied, “You are too young to write a symphony.” The man said, “You were writing symphonies when you were 10 years of age, and I am 21.” Mozart said, “Yes, but I didn’t run around asking people how to do it.”",
+        "user": "U02SXBR28G1",
+        "ts": "1650533546.323889",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dmSi1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "About the first-time founder's thing. This is my reply:\n\nOne man came to Mozart and asked him how to write a symphony. Mozart replied, “You are too young to write a symphony.” The man said, “You were writing symphonies when you were 10 years of age, and I am 21.” Mozart said, “Yes, but I didn’t run around asking people how to do it.”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650533546.323889",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650534366.791039",
+        "reply_users": [
+            "U02USELSBRT"
+        ],
+        "replies": [
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650534366.791039"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02UGB8DERY",
+                    "U02PDC4883V",
+                    "U02VDPB8CGH",
+                    "U02ULN6EFNV",
+                    "U033RUXVCAY",
+                    "U033QDFML74",
+                    "U03996E48LB",
+                    "U02UFQWH2EP",
+                    "U030SHA1S2W"
+                ],
+                "count": 9
+            },
+            {
+                "name": "trophy",
+                "users": [
+                    "U02TTEFFU6B",
+                    "U02PDC4883V",
+                    "U02VDPB8CGH",
+                    "U02USELSBRT",
+                    "U02ULN6EFNV",
+                    "U030KV8R8RL"
+                ],
+                "count": 6
+            },
+            {
+                "name": "raised_hands::skin-tone-5",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "447b0ee7-71ef-4bf7-85bd-3a1d40fb3180",
+        "type": "message",
+        "text": "It would have been dope if Mozart had replied to being asked how he was writing symphonies at age 10, \"Yes, but I was Mozart and you are not\"",
+        "user": "U02USELSBRT",
+        "ts": "1650534366.791039",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g6qEY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It would have been dope if Mozart had replied to being asked how he was writing symphonies at age 10, \"Yes, but I was Mozart and you are not\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650533546.323889",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U02ULN6EFNV",
+                    "U033RUXVCAY",
+                    "U030SDYNX7V",
+                    "U033QDFML74",
+                    "U02UJ3N39PF",
+                    "U030ZR9D0FK",
+                    "U0362R42317"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a1fdb1b3-49fb-4e90-a51a-cef6faf86384",
+        "type": "message",
+        "text": "Ok Test",
+        "user": "U02UY3EPQDA",
+        "ts": "1650543118.705749",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "da155664fe94",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-20\/2981844758147_da155664fe9476fbd35b_72.jpg",
+            "first_name": "sv410_",
+            "real_name": "sv410_",
+            "display_name": "sv410_",
+            "team": "T02PFK13YLC",
+            "name": "bravenuworld",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1YIM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok Test"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "Hey folks, need some help.\n\nI am currently planning to take a short sabbatical from work after spending around 8 years in the workforce. Currently in one of the larger B2B SaaS companies in India and getting paid decently well. However, I'm facing burnout and lack of enthusiasm at work for a while, so want to chill out for a month and get my mojo back before diving into the next stage of my career. I have 2 questions\n\n1. How difficult do you think it will be to find an equivalent role given this break?\n2. Should I expect a drop in my negotiating power since I won't have the luxury of staying at my current role?",
+        "user": "U02SXBR28G1",
+        "ts": "1650544079.168959",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=HeC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey folks, need some help.\n\nI am currently planning to take a short sabbatical from work after spending around 8 years in the workforce. Currently in one of the larger B2B SaaS companies in India and getting paid decently well. However, I'm facing burnout and lack of enthusiasm at work for a while, so want to chill out for a month and get my mojo back before diving into the next stage of my career. I have 2 questions\n\n1. How difficult do you think it will be to find an equivalent role given this break?\n2. Should I expect a drop in my negotiating power since I won't have the luxury of staying at my current role?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650544079.168959",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1650558428.561679",
+        "reply_users": [
+            "U037VSS964S",
+            "U030KV8R8RL"
+        ],
+        "replies": [
+            {
+                "user": "U037VSS964S",
+                "ts": "1650550892.355189"
+            },
+            {
+                "user": "U030KV8R8RL",
+                "ts": "1650558428.561679"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039L0HCSHW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "I certainly appreciate the humor zest with which this is posted but on a serious note I don't see it as a bad thing. A first time founder is looking for someone with relevant experience because that founder knows the candidate will not have any guidance or mentorship in that specific area from him or anyone else in the company.",
+        "user": "U03834B6CS0",
+        "ts": "1650544505.088849",
+        "thread_ts": "1650524834.116169",
+        "root": {
+            "bot_id": "B02SM1CFD7W",
+            "type": "message",
+            "text": "Special place in heaven for *first-time* founders who want people with *relevant experience*.",
+            "user": "U02SXBR28G1",
+            "ts": "1650524834.116169",
+            "app_id": "ATMC26LBW",
+            "team": "T02PFK13YLC",
+            "bot_profile": {
+                "id": "B02SM1CFD7W",
+                "app_id": "ATMC26LBW",
+                "name": "Anonymous Bot",
+                "icons": {
+                    "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                    "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                    "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+                },
+                "deleted": false,
+                "updated": 1641240871,
+                "team_id": "T02PFK13YLC"
+            },
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Ytv",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Special place in heaven for "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "first-time",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " founders who want people with "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "relevant experience",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1650524834.116169",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1650547542.073379",
+            "reply_users": [
+                "U03834B6CS0",
+                "U02UY3EPQDA"
+            ],
+            "replies": [
+                {
+                    "user": "U03834B6CS0",
+                    "ts": "1650544505.088849"
+                },
+                {
+                    "user": "U02UY3EPQDA",
+                    "ts": "1650547542.073379"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LCyl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I certainly appreciate the humor zest with which this is posted but on a serious note I don't see it as a bad thing. A first time founder is looking for someone with relevant experience because that founder knows the candidate will not have any guidance or mentorship in that specific area from him or anyone else in the company."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "735de4ef-f9a0-43f6-bd99-25a110366bc0",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02VD2JL8N8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4e233256-6a97-4c90-8d29-2e78e87274be",
+        "type": "message",
+        "text": "1st time founders, _more than anyone else,_ need people with relevant experience.  It’s really smart of them.  (only thing is they should outsource the interview process to the experts).\n\nHeck, I see larger companies (200+ ppl) fail every time in putting the right\/relevant talent with the right project\/role.",
+        "user": "U02UY3EPQDA",
+        "ts": "1650547542.073379",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "da155664fe94",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-20\/2981844758147_da155664fe9476fbd35b_72.jpg",
+            "first_name": "sv410_",
+            "real_name": "sv410_",
+            "display_name": "sv410_",
+            "team": "T02PFK13YLC",
+            "name": "bravenuworld",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "deLw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1st time founders, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "more than anyone else,",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " need people with relevant experience.  It’s really smart of them.  (only thing is they should outsource the interview process to the experts).\n\nHeck, I see larger companies (200+ ppl) fail every time in putting the right\/relevant talent with the right project\/role."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650524834.116169",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "Having trouble interpreting results of salary survey shared earlier.Can the experienced folks here indicate approx salary levels for 3,5,8,10 and 15 years experienced folks in SaaS.Also , what is the ceiling in terms of salary for leadership marketing roles ?\n\nHow would the salary trends shape up in the next 5 years ?",
+        "user": "U02SXBR28G1",
+        "ts": "1650547663.711109",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "phN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Having trouble interpreting results of salary survey shared earlier.Can the experienced folks here indicate approx salary levels for 3,5,8,10 and 15 years experienced folks in SaaS.Also , what is the ceiling in terms of salary for leadership marketing roles ?\n\nHow would the salary trends shape up in the next 5 years ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650547663.711109",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650551069.516319",
+        "reply_users": [
+            "U02PDC6B0HH"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1650551069.516319"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "98e5da30-f8fa-4ece-819f-a6327eaab029",
+        "type": "message",
+        "text": "If it is only a month or 2 and you want to come back to the same role &amp; company then consider taking a sabbatical. You will not loose what you've in hand.\n\nIf you plan to contemplate and decide some alternate course during your break then, enjoy and utilize your break fully. Do things that you always wanted to do but could not because of lack of time at length.\n\nI think if you give a good fit to your next role, you will not have to compromise on anything.",
+        "user": "U037VSS964S",
+        "ts": "1650550892.355189",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "gc9611ef10f2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c9611ef10f20ce3a01819dcc2ce0dffc.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Rohit",
+            "real_name": "Rohit Roy",
+            "display_name": "Rohit Roy",
+            "team": "T02PFK13YLC",
+            "name": "rohitroy123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zlt2L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If it is only a month or 2 and you want to come back to the same role & company then consider taking a sabbatical. You will not loose what you've in hand.\n\nIf you plan to contemplate and decide some alternate course during your break then, enjoy and utilize your break fully. Do things that you always wanted to do but could not because of lack of time at length.\n\nI think if you give a good fit to your next role, you will not have to compromise on anything."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650544079.168959",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "33862f62-c9bd-4a27-a13a-14001267e9b3",
+        "type": "message",
+        "text": "Don't look too much into the survey results as it is heavily dependent on the sample size and highly skewed because of the same",
+        "user": "U02PDC6B0HH",
+        "ts": "1650551069.516319",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7ce0a422fcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953759554663_b7ce0a422fcdabf5a771_72.jpg",
+            "first_name": "Shafique",
+            "real_name": "Shafique Gajdhar",
+            "display_name": "Shaf",
+            "team": "T02PFK13YLC",
+            "name": "shafiquegajdhar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aOO=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Don't look too much into the survey results as it is heavily dependent on the sample size and highly skewed because of the same"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650547663.711109",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "57e72eb5-1a1a-4e04-b9ec-dbd4fa442f6d",
+        "type": "message",
+        "text": "Went on a sabbatical from November '19 to August '20 — 10 months. Consulted a few companies on my own time but nothing too stressful. No recruiter cared about \"the gap\".\n\nIf they'd ask, I would openly speak about deteriorating mental health and burnout.\n\nStarted my job search, got one in less than a month with 50% hike, exactly the product I'd wanted, and a terrific work-life balance.\n\nI'm a HUGE advocate of taking a breather if you have the means for it. It's more harmful and detrimental to your mental health to continue if you're fearing the future, and god forbid if you manage a team; you are only hindering other people's career growth.\n\nHope this helps :slightly_smiling_face:",
+        "user": "U030KV8R8RL",
+        "ts": "1650558428.561679",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1d58fa7deccd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3044063413425_1d58fa7deccd79b3b2d0_72.jpg",
+            "first_name": "Vartika",
+            "real_name": "Vartika Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "vartika.gupta1911",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2=FN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Went on a sabbatical from November '19 to August '20 — 10 months. Consulted a few companies on my own time but nothing too stressful. No recruiter cared about \"the gap\".\n\nIf they'd ask, I would openly speak about deteriorating mental health and burnout.\n\nStarted my job search, got one in less than a month with 50% hike, exactly the product I'd wanted, and a terrific work-life balance.\n\nI'm a HUGE advocate of taking a breather if you have the means for it. It's more harmful and detrimental to your mental health to continue if you're fearing the future, and god forbid if you manage a team; you are only hindering other people's career growth.\n\nHope this helps "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650544079.168959",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U02V7TLU5HT",
+                    "U02USELSBRT",
+                    "U02V9QUDK1Q",
+                    "U035SL5MWPM",
+                    "U030ML6FL00"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "Sorry for this much irrelevant ask, \nBut can you guys suggest some new age dating apps for early career professionals :no_mouth:",
+        "user": "U02SXBR28G1",
+        "ts": "1650565318.992559",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OFr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry for this much irrelevant ask, \nBut can you guys suggest some new age dating apps for early career professionals "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "no_mouth"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650565318.992559",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1650568679.834019",
+        "reply_users": [
+            "U039HH3LP43",
+            "U03A5S0KQMA"
+        ],
+        "replies": [
+            {
+                "user": "U039HH3LP43",
+                "ts": "1650567658.999629"
+            },
+            {
+                "user": "U03A5S0KQMA",
+                "ts": "1650568577.218639"
+            },
+            {
+                "user": "U03A5S0KQMA",
+                "ts": "1650568679.834019"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0fbd75c6-fb2c-4d14-b873-190331505707",
+        "type": "message",
+        "text": "LinkedIn, apparently, if you're any good at product leadership.",
+        "user": "U039HH3LP43",
+        "ts": "1650567658.999629",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1144b026b649",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-31\/3336199201073_1144b026b6497d778b90_72.jpg",
+            "first_name": "Adarsh",
+            "real_name": "Adarsh Srivastava",
+            "display_name": "Adarsh Srivastava",
+            "team": "T02PFK13YLC",
+            "name": "ray.realchamp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6rCU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "LinkedIn, apparently, if you're any good at product leadership."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650565318.992559",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U02VD2JL8N8",
+                    "U032MN1BESJ",
+                    "U030SHA1S2W",
+                    "U030ZR9D0FK",
+                    "U030KV8R8RL",
+                    "U02UZL0FMC1",
+                    "U02V9QUDK1Q",
+                    "U030N8RHURZ",
+                    "U031YH4D36U",
+                    "U02TTEFFU6B",
+                    "U030EAA4YA2",
+                    "U02U6FZRHRV",
+                    "U0325QQQALR",
+                    "U03BJ320MPB"
+                ],
+                "count": 14
+            }
+        ]
+    },
+    {
+        "client_msg_id": "885909DF-B253-4D18-ABEA-F3F2E1BABADB",
+        "type": "message",
+        "text": "A user research pointer I’d heard from <http:\/\/betterhalf.ai|betterhalf.ai> earlier, there's a massive demand for founders on Bangalore dating apps.",
+        "user": "U03A5S0KQMA",
+        "ts": "1650568577.218639",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "88e919ee0538",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3345884762756_88e919ee053802facac0_72.jpg",
+            "first_name": "Sampath",
+            "real_name": "Sampath Putrevu",
+            "display_name": "Sampath Putrevu",
+            "team": "T02PFK13YLC",
+            "name": "sampath",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VTZm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A user research pointer I’d heard from betterhalf.ai earlier, there's a massive demand for founders on Bangalore dating apps."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650565318.992559",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "9BC139E2-3F7E-4F77-A9BB-C0BBEBA06734",
+        "type": "message",
+        "text": "TAM itself is TOFU :hear_no_evil:",
+        "user": "U03A5S0KQMA",
+        "ts": "1650568679.834019",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "88e919ee0538",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3345884762756_88e919ee053802facac0_72.jpg",
+            "first_name": "Sampath",
+            "real_name": "Sampath Putrevu",
+            "display_name": "Sampath Putrevu",
+            "team": "T02PFK13YLC",
+            "name": "sampath",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YA2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "TAM itself is TOFU "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hear_no_evil"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650565318.992559",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "how come literally no company acknowledges caste when they talk about inclusion diversity etc? gender diversity is absolutely important but the cold hard truth is that in india, caste divide is bigger than gender divide when it comes to equal pay",
+        "user": "U02SXBR28G1",
+        "ts": "1650601111.231999",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aW+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "how come literally no company acknowledges caste when they talk about inclusion diversity etc? gender diversity is absolutely important but the cold hard truth is that in india, caste divide is bigger than gender divide when it comes to equal pay"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650601111.231999",
+        "reply_count": 18,
+        "reply_users_count": 5,
+        "latest_reply": "1650609422.290819",
+        "reply_users": [
+            "U02TTEFFU6B",
+            "U031QKGPNRK",
+            "U030SDYNX7V",
+            "U02USELSBRT",
+            "U0318JZUESX"
+        ],
+        "replies": [
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1650601618.295969"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1650601896.795469"
+            },
+            {
+                "user": "U030SDYNX7V",
+                "ts": "1650603237.359669"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1650603269.912589"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650604215.703009"
+            },
+            {
+                "user": "U030SDYNX7V",
+                "ts": "1650605417.249899"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1650605427.478219"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1650605555.836019"
+            },
+            {
+                "user": "U0318JZUESX",
+                "ts": "1650605829.289859"
+            },
+            {
+                "user": "U030SDYNX7V",
+                "ts": "1650605871.702919"
+            },
+            {
+                "user": "U030SDYNX7V",
+                "ts": "1650605947.106159"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1650607094.500129"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650607101.044479"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1650608449.467229"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1650608770.829759"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650608796.003459"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1650609358.740829"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650609422.290819"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "flushed",
+                "users": [
+                    "U02V22EUXM4",
+                    "U030ZR9D0FK",
+                    "U030KV8R8RL",
+                    "U03996E48LB",
+                    "U03560PQ082"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a0683d85-6f20-481d-b06d-c96d4251a19c",
+        "type": "message",
+        "text": "Does it happen in start-ups too?",
+        "user": "U02TTEFFU6B",
+        "ts": "1650601618.295969",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VUn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does it happen in start-ups too?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650601111.231999",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "d56495ec-6097-49ae-98b3-36f32520e577",
+        "type": "message",
+        "text": "Thank you for bringing this up. Have wondered it myself not necessarily in same context but I have taken part in discussions where people get more passionate than rational when looking at facts. So hoping to scratch some surfaces here.\n\nJust to understand your observation a bit better\/extend it, do you think the issue is with hiring in startups where there is subconscious or conscious exclusion OR is it more because of gaps that inherently exist even when hiring platform is inclusive (which can be caused due to disparity in education\/opportunity pre-hiring).\n\nI am sure there are issues pre\/post but where do you think the bigger gap is? I haven’t dived deep into the topic with research but have observed that we don’t discuss\/observe it much. Wether is it because it’s not there or is it because its an uncomfortable topic, I want to explore",
+        "user": "U031QKGPNRK",
+        "ts": "1650601896.795469",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oxs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you for bringing this up. Have wondered it myself not necessarily in same context but I have taken part in discussions where people get more passionate than rational when looking at facts. So hoping to scratch some surfaces here.\n\nJust to understand your observation a bit better\/extend it, do you think the issue is with hiring in startups where there is subconscious or conscious exclusion OR is it more because of gaps that inherently exist even when hiring platform is inclusive (which can be caused due to disparity in education\/opportunity pre-hiring).\n\nI am sure there are issues pre\/post but where do you think the bigger gap is? I haven’t dived deep into the topic with research but have observed that we don’t discuss\/observe it much. Wether is it because it’s not there or is it because its an uncomfortable topic, I want to explore"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650601111.231999",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "b6b7a813-6eae-4b97-9883-7a6254e6eeba",
+        "type": "message",
+        "text": "<@U02TTEFFU6B> if anyone did a survey at startups on %ge split by caste categories (only including people at slightly senior levels) you will know the situation :slightly_smiling_face:",
+        "user": "U030SDYNX7V",
+        "ts": "1650603237.359669",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "dcaae4952765",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3019783298486_dcaae495276522b44a55_72.png",
+            "first_name": "Niranjan",
+            "real_name": "Niranjan Bala",
+            "display_name": "Niranjan Bala",
+            "team": "T02PFK13YLC",
+            "name": "nb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OdC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02TTEFFU6B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if anyone did a survey at startups on %ge split by caste categories (only including people at slightly senior levels) you will know the situation "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650601111.231999",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "a41f9234-0fd1-4ba7-9fbd-447c8b22078a",
+        "type": "message",
+        "text": "I am not negating it. Just never occurred to me. Genuinely curious about this now.",
+        "user": "U02TTEFFU6B",
+        "ts": "1650603269.912589",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rVU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am not negating it. Just never occurred to me. Genuinely curious about this now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650601111.231999",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "8A3DB396-3B7F-469E-989B-8F44C5FF30E1",
+        "type": "message",
+        "text": "We should also have regional diversity. Also genetic diversity. Also skin color diversity. Also age diversity. Let's keep merit at the very end of this f**king list. Who needs it anyway when political correctness can get us places?",
+        "user": "U02USELSBRT",
+        "ts": "1650604215.703009",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BqtPY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We should also have regional diversity. Also genetic diversity. Also skin color diversity. Also age diversity. Let's keep merit at the very end of this f**king list. Who needs it anyway when political correctness can get us places?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650601111.231999",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U02UZ4T10PQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3beff301-1a6f-4bfa-b787-b3a607a0f0a2",
+        "type": "message",
+        "text": "<@U02TTEFFU6B> its a very challenging problem - which can be only solved at grassroot level",
+        "user": "U030SDYNX7V",
+        "ts": "1650605417.249899",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "dcaae4952765",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3019783298486_dcaae495276522b44a55_72.png",
+            "first_name": "Niranjan",
+            "real_name": "Niranjan Bala",
+            "display_name": "Niranjan Bala",
+            "team": "T02PFK13YLC",
+            "name": "nb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+kH5A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02TTEFFU6B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " its a very challenging problem - which can be only solved at grassroot level"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650601111.231999",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "7da6408f-6e04-4593-9e12-79b15162420c",
+        "type": "message",
+        "text": "<@U02USELSBRT> I sense you have strong opinions which I definitely understand. Since i respect your way of thinking about marketing and a range of topics, this opinion left me curious. Hope you don’t mind addressing here or in DM. I do agree primarily it should be merit ofcourse (can’t think of a better way)\n\nbut do you think social circumstance\/stigma or context of place of living\/upbringing and opprotunities etc has any impact on someone’s merit? If it doesn’t, I would respectfully disengage from conversation with you right there as I think we are in different ends of the world in this aspect.\n\nIf you do think that circumstance and context\/history of the community\/caste\/religion has an impact on merit (good and bad), then do you think current system is adequate to address it and provide equal opportunity in hiring?",
+        "user": "U031QKGPNRK",
+        "ts": "1650605427.478219",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U031QKGPNRK",
+            "ts": "1650605508.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F=z2P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02USELSBRT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I sense you have strong opinions which I definitely understand. Since i respect your way of thinking about marketing and a range of topics, this opinion left me curious. Hope you don’t mind addressing here or in DM. I do agree primarily it should be merit ofcourse (can’t think of a better way)\n\nbut do you think social circumstance\/stigma or context of place of living\/upbringing and opprotunities etc has any impact on someone’s merit? If it doesn’t, I would respectfully disengage from conversation with you right there as I think we are in different ends of the world in this aspect.\n\nIf you do think that circumstance and context\/history of the community\/caste\/religion has an impact on merit (good and bad), then do you think current system is adequate to address it and provide equal opportunity in hiring?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650601111.231999",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U030SDYNX7V",
+                    "U030N8RHURZ",
+                    "U033QDFML74",
+                    "U031BVBGHCK",
+                    "U03996E48LB"
+                ],
+                "count": 5
+            },
+            {
+                "name": "dizzy",
+                "users": [
+                    "U02UFCPL84F"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02PDC6B0HH",
+                    "U02UV03PBB9"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bf8ef859-543b-4960-939b-ce2c84dd6fef",
+        "type": "message",
+        "text": "Acknowledging a problem doesn’t mean one has to agree with proposed solutions, does it?",
+        "user": "U031QKGPNRK",
+        "ts": "1650605555.836019",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U031QKGPNRK",
+            "ts": "1650605563.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LjGxw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Acknowledging a problem doesn’t mean one has to agree with proposed solutions, does it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650601111.231999",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U030KV8R8RL",
+                    "U030N8RHURZ",
+                    "U030SDYNX7V",
+                    "U03996E48LB",
+                    "U02UFCPL84F",
+                    "U03834B6CS0",
+                    "U02UV03PBB9"
+                ],
+                "count": 7
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02PDC6B0HH",
+                    "U02UV03PBB9"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "01b3b76a-bd6d-4c93-9a18-174662dc088f",
+        "type": "message",
+        "text": "Once you start seeing it, the caste divide becomes very evident. I've seen it in all orgs. I've worked at. There are two problems:\n1. Orgs. don't take special interest in inclusivity. They are not incentivized to because their success depends on human resource merit.\n2. There aren't many applicants from non-upper castes because the divide starts at birth, not at graduation or employment. (heck, not even birth of the candidate, but the candidate's ancestors). The low representation at applicant level reflects in employee percentages. Naturally, this further dwindles with seniority. \nOrganizations will have to take a conscious step to hiring the best non-upper caste folks. These best folks will provide the stepping stone for the next generation. But they are not obligated (except 0.1% revenue contribution towards CSR).\nAnother possible solution is if upper-caste folks mentor or guide non-upper caste professionals so the entire disregarded community benefits and trickles down through generations. The community doesn't have as many successful folks who can work as mentors or even people to look up to. Yes, there are outliers.\n\nThe solution is not as simple as \"lack of inclusivity\" which is an easy observation.",
+        "user": "U0318JZUESX",
+        "ts": "1650605829.289859",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "63c51d4ec23b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-01\/3066368472944_63c51d4ec23bc685fdae_72.png",
+            "first_name": "Siddhartha",
+            "real_name": "Siddhartha Kathpalia",
+            "display_name": "Kattu",
+            "team": "T02PFK13YLC",
+            "name": "siddhartha.kathpalia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Q2U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Once you start seeing it, the caste divide becomes very evident. I've seen it in all orgs. I've worked at. There are two problems:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Orgs. don't take special interest in inclusivity. They are not incentivized to because their success depends on human resource merit."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "There aren't many applicants from non-upper castes because the divide starts at birth, not at graduation or employment. (heck, not even birth of the candidate, but the candidate's ancestors). The low representation at applicant level reflects in employee percentages. Naturally, this further dwindles with seniority. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Organizations will have to take a conscious step to hiring the best non-upper caste folks. These best folks will provide the stepping stone for the next generation. But they are not obligated (except 0.1% revenue contribution towards CSR).\nAnother possible solution is if upper-caste folks mentor or guide non-upper caste professionals so the entire disregarded community benefits and trickles down through generations. The community doesn't have as many successful folks who can work as mentors or even people to look up to. Yes, there are outliers.\n\nThe solution is not as simple as \"lack of inclusivity\" which is an easy observation."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650601111.231999",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U030SDYNX7V",
+                    "U0307CZ6CRF",
+                    "U030N8RHURZ",
+                    "U03996E48LB",
+                    "U03847S3MJN"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "83d76b8e-b6b4-4ff5-a94b-7d5feaf9f729",
+        "type": "message",
+        "text": "personally - i have never had anyone judge me by caste for most part of my career except once in my internship  - where my boss thought i belonged to the same caste as him (brahmin) - just cos i was hanging out in office with other guys (who was also brahmin)",
+        "user": "U030SDYNX7V",
+        "ts": "1650605871.702919",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "dcaae4952765",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3019783298486_dcaae495276522b44a55_72.png",
+            "first_name": "Niranjan",
+            "real_name": "Niranjan Bala",
+            "display_name": "Niranjan Bala",
+            "team": "T02PFK13YLC",
+            "name": "nb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oyQO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "personally - i have never had anyone judge me by caste for most part of my career except once in my internship  - where my boss thought i belonged to the same caste as him (brahmin) - just cos i was hanging out in office with other guys (who was also brahmin)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650601111.231999",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "42cc8841-c7ce-41cc-9fd7-edf6e4d7e0ef",
+        "type": "message",
+        "text": "<@U0318JZUESX> +1",
+        "user": "U030SDYNX7V",
+        "ts": "1650605947.106159",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "dcaae4952765",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3019783298486_dcaae495276522b44a55_72.png",
+            "first_name": "Niranjan",
+            "real_name": "Niranjan Bala",
+            "display_name": "Niranjan Bala",
+            "team": "T02PFK13YLC",
+            "name": "nb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oILV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0318JZUESX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " +1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650601111.231999",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "bot_id": "B02SM1CFD7W",
+        "type": "message",
+        "text": "Just a hypothesis - maybe you need some social blanket, even if there's no financial blanket, to found a startup, considering all the risks it brings along? And usually the social privileges of caste \/ gender allow you to do that?\n\nIf you're from a marginalized community, and you're starting a business, you'd focus on profits and not growth, which most startups don't :man-shrugging: \n\nFinally, early stage employees only onboard by building strong relationships with the founders, and folks tend to gravitate to people that belong to the same social strata as them.\n\nAnd this has a snowball effect - the initial set of employees pave the way for the next, and then the next. And so on. it's a viscious cycle.\n\nOh, and one more thing - a 70% meritorious candidate from a marginalized community will add more value to your org than a 90% meritorious candidate who has been raised by and exposed to the same culture \/ way of thinking as you. The whole point of diversity and inclusion is to bring different perspectives together, and make them work in tandem.",
+        "user": "U02SXBR28G1",
+        "ts": "1650606727.357779",
+        "app_id": "ATMC26LBW",
+        "team": "T02PFK13YLC",
+        "bot_profile": {
+            "id": "B02SM1CFD7W",
+            "app_id": "ATMC26LBW",
+            "name": "Anonymous Bot",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-08\/943465232224_8aa165e0dd959de8b928_72.png"
+            },
+            "deleted": false,
+            "updated": 1641240871,
+            "team_id": "T02PFK13YLC"
+        },
+        "edited": {
+            "user": "B02SM1CFD7W",
+            "ts": "1650611733.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OJ9J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just a hypothesis - maybe you need some social blanket, even if there's no financial blanket, to found a startup, considering all the risks it brings along? And usually the social privileges of caste \/ gender allow you to do that?\n\nIf you're from a marginalized community, and you're starting a business, you'd focus on profits and not growth, which most startups don't "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-shrugging"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nFinally, early stage employees only onboard by building strong relationships with the founders, and folks tend to gravitate to people that belong to the same social strata as them.\n\nAnd this has a snowball effect - the initial set of employees pave the way for the next, and then the next. And so on. it's a viscious cycle.\n\nOh, and one more thing - a 70% meritorious candidate from a marginalized community will add more value to your org than a 90% meritorious candidate who has been raised by and exposed to the same culture \/ way of thinking as you. The whole point of diversity and inclusion is to bring different perspectives together, and make them work in tandem."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650606727.357779",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650611797.941299",
+        "reply_users": [
+            "U03996E48LB"
+        ],
+        "replies": [
+            {
+                "user": "U03996E48LB",
+                "ts": "1650611797.941299"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U03996E48LB",
+                    "U030SDYNX7V"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fb9aeff6-ba57-4978-8e20-f582d5e210c3",
+        "type": "message",
+        "text": "People not open to mentor based on caste! Wow.",
+        "user": "U02TTEFFU6B",
+        "ts": "1650607094.500129",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mX=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "People not open to mentor based on caste! Wow."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650601111.231999",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "504729d3-39c2-4ace-86ed-0d9cd2e8094e",
+        "type": "message",
+        "text": "<@U031QKGPNRK> Happy to have a debate around it but it would only make sense if your position is that of logic. If you're coming from a position of belief, without a backing logic, then it would be hard to reason through.\n\nAnswer two questions for me:\n\n1. What do you think 'diversity' means?\n2. As a business, you have a choice to hire from two candidates. One is clearly better than the other for the proposed job. Would you rather hire the lesser qualified person to balance your diversity equation? What is the business case for it? When would you stop and go the other way (i.e. merit) if at all?\n\nSorry missed answering your question:\n\n```but do you think social circumstance\/stigma or context of place of living\/upbringing and opprotunities etc has any impact on someone's merit? If it doesn't, I would respectfully disengage from conversation with you right there as I think we are in different ends of the world in this aspect.```\nOfcourse it does, but I do not think forcing yourself to hire to balance that equation is the right way to go. There are different ways to solve different problems.\n\nEither you become a social crusader and balance every possible diversity equation there is, (let's also balance basis blood types, sounds ridiculous is it? But pretty soon there would come up a group which will say they're not equally represented)\n\nor\n\nYou keep merit as your guiding light. Focus on finding the best people who can serve your customers the best regardless of their background. Sure if there is an equal merit candidate which helps me balance my diversity equation, I would go out of my way to hire them (business case: diversity brings different perspectives which may help).\n\nThe way to solve it lies in the hands of the people who feel discriminated. Regardless of who we are, we have one universal right and that is the right to vote. Vote to bring leaders who can uplift you. Sadly most people shortchange their votes for short term gains or vote basis religion and this problem doesn't change.\n\nThese are systemic problems where capitalism is not the best model to solve them. They need to be solved using public policy. That debate is entirely different. Till that point comes, you can hope to have the hiring diversity equal to the candidate pool diversity. The candidate pool diversity needs to be addressed with public policy. Don't mix the two.\n\nSince we're on this point, let me also point that diversity is always a work in progress and world will never be equal. Too much randomness for it to happen.\n\nGujratis are overrepresented in business in India (Jews do it worldwide).\n\nBengalis are overrepresented in arts and literature\n\nSouth Indian brahmins are overrepresented in ISRO scientists.\n\nWhite men run silicon valley.\n\nBalancing needs to happen at the end of the govt not at the end of the businesses. Their KPI should be to improve this diversity. Change your leaders if that's not happening.\n\n\nAlso, just quoting famous Jordan Peterson argument here. If we're trying to bring inclusivity, lets also bring inclusivity to all professions, even dangerous ones. Let's aim to get more diversity in bricklayering and soldiers where men are over-represented. You can't have all the good of diversity without owning the bad with it.\n\nYou will get a lot of kudos for being politically correct but try running a business? :)",
+        "user": "U02USELSBRT",
+        "ts": "1650607101.044479",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02USELSBRT",
+            "ts": "1650780396.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "251a1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U031QKGPNRK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Happy to have a debate around it but it would only make sense if your position is that of logic. If you're coming from a position of belief, without a backing logic, then it would be hard to reason through.\n\nAnswer two questions for me:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What do you think 'diversity' means?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "As a business, you have a choice to hire from two candidates. One is clearly better than the other for the proposed job. Would you rather hire the lesser qualified person to balance your diversity equation? What is the business case for it? When would you stop and go the other way (i.e. merit) if at all?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nSorry missed answering your question:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but do you think social circumstance\/stigma or context of place of living\/upbringing and opprotunities etc has any impact on someone's merit? If it doesn't, I would respectfully disengage from conversation with you right there as I think we are in different ends of the world in this aspect."
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nOfcourse it does, but I do not think forcing yourself to hire to balance that equation is the right way to go. There are different ways to solve different problems.\n\nEither you become a social crusader and balance every possible diversity equation there is, (let's also balance basis blood types, sounds ridiculous is it? But pretty soon there would come up a group which will say they're not equally represented)\n\nor\n\nYou keep merit as your guiding light. Focus on finding the best people who can serve your customers the best regardless of their background. Sure if there is an equal merit candidate which helps me balance my diversity equation, I would go out of my way to hire them (business case: diversity brings different perspectives which may help).\n\nThe way to solve it lies in the hands of the people who feel discriminated. Regardless of who we are, we have one universal right and that is the right to vote. Vote to bring leaders who can uplift you. Sadly most people shortchange their votes for short term gains or vote basis religion and this problem doesn't change.\n\nThese are systemic problems where capitalism is not the best model to solve them. They need to be solved using public policy. That debate is entirely different. Till that point comes, you can hope to have the hiring diversity equal to the candidate pool diversity. The candidate pool diversity needs to be addressed with public policy. Don't mix the two.\n\nSince we're on this point, let me also point that diversity is always a work in progress and world will never be equal. Too much randomness for it to happen.\n\nGujratis are overrepresented in business in India (Jews do it worldwide).\n\nBengalis are overrepresented in arts and literature\n\nSouth Indian brahmins are overrepresented in ISRO scientists.\n\nWhite men run silicon valley.\n\nBalancing needs to happen at the end of the govt not at the end of the businesses. Their KPI should be to improve this diversity. Change your leaders if that's not happening.\n\n\nAlso, just quoting famous Jordan Peterson argument here. If we're trying to bring inclusivity, lets also bring inclusivity to all professions, even dangerous ones. Let's aim to get more diversity in bricklayering and soldiers where men are over-represented. You can't have all the good of diversity without owning the bad with it.\n\nYou will get a lot of kudos for being politically correct but try running a business? :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650601111.231999",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U02UFNZS7NW",
+                    "U031BVBGHCK",
+                    "U0380S2BZ9A"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ff599e83-136d-4da2-ae02-1c1cb4372331",
+        "type": "message",
+        "text": "I typed this after reading first part of your response <@U02USELSBRT>. I see it is now edited so will read it later when I get time. Meanwhile\n\n1. not sure what that definition is contributing to the discussion here. I am hoping that most of us have the right and ability to understand diversity in their own way. For me diversity is based on context. here in the thread diversity of opinion, ability to discuss\/debate\/work\/collaborate and live with people of different background and mindsets. It’s an intent more than a end result. easier said than done\n\n2. I definitely am not proposing a solution in the hiring process where we dismiss merit or supersede it with something else. So to answer your question assuming its sincerity, I think in the current structure, I would hire the more qualified person unless am in a culture that consciously wants me to hire for diversity even if qualification is not at par with the other candidate.\n\nI have seen cultures like that but haven’t been part of them, so can’t share first hand dilemma experience more than a thought exercise.\n\nThe business case according to cultures who hire for diversity - merit\/qualification is like the IQ, IQ is an indicator of intelligence but not the be all end all of intelligence. similarly qualifications is a BIG indicator in such cultures but they score other factors like diversity (in gender\/age\/LGBTQ inclusion\/religion) which are indicators of cultivating a culture that has diversity of opinion resulting in more complementary strategic decisions\/wider impact in society (as customers also are diverse with different backgrounds - so for people to be voice of customer, it is a better indicator if hiring is also done from such backgrounds\/demographic).\n\nAgain, my intent in this thread atleast is to acknowledge the problem (which is real according to me); and not act like I have the solution.",
+        "user": "U031QKGPNRK",
+        "ts": "1650608449.467229",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U031QKGPNRK",
+            "ts": "1650608646.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mVf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I typed this after reading first part of your response "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02USELSBRT"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I see it is now edited so will read it later when I get time. Meanwhile\n\n1. not sure what that definition is contributing to the discussion here. I am hoping that most of us have the right and ability to understand diversity in their own way. For me diversity is based on context. here in the thread diversity of opinion, ability to discuss\/debate\/work\/collaborate and live with people of different background and mindsets. It’s an intent more than a end result. easier said than done\n\n2. I definitely am not proposing a solution in the hiring process where we dismiss merit or supersede it with something else. So to answer your question assuming its sincerity, I think in the current structure, I would hire the more qualified person unless am in a culture that consciously wants me to hire for diversity even if qualification is not at par with the other candidate.\n\nI have seen cultures like that but haven’t been part of them, so can’t share first hand dilemma experience more than a thought exercise.\n\nThe business case according to cultures who hire for diversity - merit\/qualification is like the IQ, IQ is an indicator of intelligence but not the be all end all of intelligence. similarly qualifications is a BIG indicator in such cultures but they score other factors like diversity (in gender\/age\/LGBTQ inclusion\/religion) which are indicators of cultivating a culture that has diversity of opinion resulting in more complementary strategic decisions\/wider impact in society (as customers also are diverse with different backgrounds - so for people to be voice of customer, it is a better indicator if hiring is also done from such backgrounds\/demographic).\n\nAgain, my intent in this thread atleast is to acknowledge the problem (which is real according to me); and not act like I have the solution."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650601111.231999",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "pray::skin-tone-5",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U03996E48LB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ad1e3fc8-de36-4190-be2e-a2c572275887",
+        "type": "message",
+        "text": "Read your extended response <@U02USELSBRT> and would agree with most if not all points as they were expressed. Thanks for answering my question as well. Gives me a sense that acknowledgment is there but as you said, forced solutions (in reactionary or short term intent) are not helping in any long term impact, maybe causing distress and exclusion as well. Will wait to hear more opinions from others if any as I educate myself.",
+        "user": "U031QKGPNRK",
+        "ts": "1650608770.829759",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XWL0M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Read your extended response "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02USELSBRT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and would agree with most if not all points as they were expressed. Thanks for answering my question as well. Gives me a sense that acknowledgment is there but as you said, forced solutions (in reactionary or short term intent) are not helping in any long term impact, maybe causing distress and exclusion as well. Will wait to hear more opinions from others if any as I educate myself."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650601111.231999",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "dart",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Sure I acknowledge there is this problem. I'm not denying it. But just acknowledging without proposing a solution is keeping us hanging. We have all been acknowledging climate change is a threat and look where it got us  :stuck_out_tongue:",
+        "files": [
+            {
+                "id": "F03CKK3TUPN",
+                "created": 1650608787,
+                "timestamp": 1650608787,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02USELSBRT",
+                "editable": false,
+                "size": 484442,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03CKK3TUPN\/image.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03CKK3TUPN\/download\/image.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CKK3TUPN-8f2da151a0\/image_64.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CKK3TUPN-8f2da151a0\/image_80.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CKK3TUPN-8f2da151a0\/image_360.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 360,
+                "thumb_360_h": 263,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CKK3TUPN-8f2da151a0\/image_480.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 480,
+                "thumb_480_h": 351,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CKK3TUPN-8f2da151a0\/image_160.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CKK3TUPN-8f2da151a0\/image_720.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720_w": 720,
+                "thumb_720_h": 527,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CKK3TUPN-8f2da151a0\/image_800.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_800_w": 800,
+                "thumb_800_h": 585,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CKK3TUPN-8f2da151a0\/image_960.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_960_w": 960,
+                "thumb_960_h": 702,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CKK3TUPN-8f2da151a0\/image_1024.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 749,
+                "original_w": 1122,
+                "original_h": 821,
+                "thumb_tiny": "AwAjADDSOcjmmEjPf86cOW6d+tOoAjyPU\/nSrgnHP50+kJwKAEwMZyfzpqsS2B0puS3A6VIF2gUAA+9179KdSMSOQM035j1IUe1ADmYDjqfQU0qzfeI+lKoVelI2c5DcelADgMUHtSAnuajiEgLbyTk8ZoAmIz1owPTpRRQAYGc45pqgYPHenU1Oh+tAC4HpS4Gc45oooA\/\/2Q==",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U02USELSBRT\/F03CKK3TUPN\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03CKK3TUPN-d375a46e1e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02USELSBRT",
+        "display_as_bot": false,
+        "ts": "1650608796.003459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dosK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure I acknowledge there is this problem. I'm not denying it. But just acknowledging without proposing a solution is keeping us hanging. We have all been acknowledging climate change is a threat and look where it got us  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "461b0a4c-bd53-4198-83d7-b9307f8a8f2b",
+        "thread_ts": "1650601111.231999",
+        "parent_user_id": "U02SXBR28G1",
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "U031QKGPNRK",
+                    "U0380S2BZ9A"
+                ],
+                "count": 2
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U02UFNZS7NW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3b050225-fecc-4e60-9520-02ed49b54805",
+        "type": "message",
+        "text": "well on a lighter note, i think the graph would have been even steeper without acknowledging climate change. And i think 15% in us dont acknowledge it even now and atleast not agreeing that it is a big threat for human existence in long term but leaving it for another thread i guess :stuck_out_tongue:",
+        "user": "U031QKGPNRK",
+        "ts": "1650609358.740829",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H3Xd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "well on a lighter note, i think the graph would have been even steeper without acknowledging climate change. And i think 15% in us dont acknowledge it even now and atleast not agreeing that it is a big threat for human existence in long term but leaving it for another thread i guess "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650601111.231999",
+        "parent_user_id": "U02SXBR28G1"
+    },
+    {
+        "client_msg_id": "ebcdf16f-d957-4c4b-bcc2-4c28aecad322",
+        "type": "message",
+        "text": "True, I shared it on a lighter note. I agree that it would help to have these COPx, the impact may not be visible on graph directly.",
+        "user": "U02USELSBRT",
+        "ts": "1650609422.290819",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DjAJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "True, I shared it on a lighter note. I agree that it would help to have these COPx, the impact may not be visible on graph directly."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650601111.231999",
+        "parent_user_id": "U02SXBR28G1"
+    }
+]

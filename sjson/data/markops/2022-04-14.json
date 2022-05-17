@@ -1,0 +1,144 @@
+[
+    {
+        "client_msg_id": "03c35a16-5fb5-4cd3-8848-a96b2a6b2ab6",
+        "type": "message",
+        "text": "I remember implementing GDPR policies in my previous role and didn’t come across any such rule. Although, we don’t collect any data from external sources.\nIntercom\/Freshchat used to provide twitter handles, nothing else.",
+        "user": "U03A397SJCF",
+        "ts": "1649921857.731389",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8350509990dc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3357545030005_8350509990dc150e9deb_72.jpg",
+            "first_name": "Anshul",
+            "real_name": "Anshul Bansal",
+            "display_name": "akbansa",
+            "team": "T02PFK13YLC",
+            "name": "bansal.anshul.94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MiU9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I remember implementing GDPR policies in my previous role and didn’t come across any such rule. Although, we don’t collect any data from external sources.\nIntercom\/Freshchat used to provide twitter handles, nothing else."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649919307.692179",
+        "parent_user_id": "U02UG3G5X8B"
+    },
+    {
+        "client_msg_id": "11938702-61ba-4515-9cee-e22dfa1921c2",
+        "type": "message",
+        "text": "How good is Marketmuse for SEO research and blog writing? anyone used it before? Looking to learn some helpful tips and tricks that have worked for you :slightly_smiling_face:",
+        "user": "U033R6MA1DY",
+        "ts": "1649925076.759519",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g20af302531e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/20af302531ec4b507d247d8c1f8403cb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Ajay",
+            "real_name": "Ajay Ramamoorthy",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "sum.teng.wong",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IZhCF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How good is Marketmuse for SEO research and blog writing? anyone used it before? Looking to learn some helpful tips and tricks that have worked for you "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649925076.759519",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1650467988.224359",
+        "reply_users": [
+            "U02V22EUXM4",
+            "U030SNYHK6Y"
+        ],
+        "replies": [
+            {
+                "user": "U02V22EUXM4",
+                "ts": "1650123592.378999"
+            },
+            {
+                "user": "U030SNYHK6Y",
+                "ts": "1650467988.224359"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b26b771b-bbc6-4412-ae23-38269d7f5fa1",
+        "type": "message",
+        "text": "Hey thanks Anshul",
+        "user": "U02UG3G5X8B",
+        "ts": "1649935448.977789",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "gb522135a10b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b522135a10bdb608ed252f960d9ff6da.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Wilson",
+            "real_name": "Wilson Lobo",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "wilsonlobo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lGKP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey thanks Anshul"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649919307.692179",
+        "parent_user_id": "U02UG3G5X8B"
+    }
+]

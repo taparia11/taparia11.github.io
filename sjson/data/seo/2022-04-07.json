@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "DE3D3FE5-5B22-480C-B332-F7A754CEF47A",
+        "type": "message",
+        "text": "Hey Jose, I can help! ",
+        "user": "U03A0H0N2LD",
+        "ts": "1649397324.477359",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5231e4af0432",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3336811246726_5231e4af04323d0b1f26_72.png",
+            "first_name": "Saswat",
+            "real_name": "Saswat Panda",
+            "display_name": "Saswat Panda",
+            "team": "T02PFK13YLC",
+            "name": "saswatpanda999",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tbu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Jose, I can help! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649267201.566719",
+        "parent_user_id": "U03AJ8BHKNC"
+    }
+]

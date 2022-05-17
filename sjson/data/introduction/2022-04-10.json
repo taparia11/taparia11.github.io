@@ -1,0 +1,514 @@
+[
+    {
+        "client_msg_id": "a0122358-061e-4cda-a58d-53dcbb7bd74d",
+        "type": "message",
+        "text": "Hey there <@U03AA8A64U9>. Welcome to s11s! :)",
+        "user": "U031JS3RF0V",
+        "ts": "1649589072.458169",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "f40b91b9cd72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-04\/3050067744806_f40b91b9cd728204ef95_72.jpg",
+            "first_name": "Surbhi",
+            "real_name": "Surbhi Saraf",
+            "display_name": "Surbhi Saraf",
+            "team": "T02PFK13YLC",
+            "name": "ihbrusurbhi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k271D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey there "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03AA8A64U9"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Welcome to s11s! :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649063332.273159",
+        "parent_user_id": "U03AA8A64U9",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U03AA8A64U9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "60106d63-48d7-4610-a6f2-d5294373b8a9",
+        "type": "message",
+        "text": "Hey <@U03847S3MJN>, welcome to s11s! :)",
+        "user": "U031JS3RF0V",
+        "ts": "1649589122.538349",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "f40b91b9cd72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-04\/3050067744806_f40b91b9cd728204ef95_72.jpg",
+            "first_name": "Surbhi",
+            "real_name": "Surbhi Saraf",
+            "display_name": "Surbhi Saraf",
+            "team": "T02PFK13YLC",
+            "name": "ihbrusurbhi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/s1a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03847S3MJN"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", welcome to s11s! :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649083224.263909",
+        "parent_user_id": "U03847S3MJN"
+    },
+    {
+        "client_msg_id": "b0510332-284a-4e78-a7a9-23c974537588",
+        "type": "message",
+        "text": "Hey there <@U03ABKDJQAD>, welcome to s11s! :)",
+        "user": "U031JS3RF0V",
+        "ts": "1649589148.063939",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "f40b91b9cd72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-04\/3050067744806_f40b91b9cd728204ef95_72.jpg",
+            "first_name": "Surbhi",
+            "real_name": "Surbhi Saraf",
+            "display_name": "Surbhi Saraf",
+            "team": "T02PFK13YLC",
+            "name": "ihbrusurbhi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VzAPX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey there "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03ABKDJQAD"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", welcome to s11s! :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649140234.214559",
+        "parent_user_id": "U03ABKDJQAD",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03ABKDJQAD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0c6bb9c5-9075-4361-9c1f-1849a45dfa7e",
+        "type": "message",
+        "text": "Hey <@U03A7KXT45S>, welcome to s11s!",
+        "user": "U031JS3RF0V",
+        "ts": "1649589173.339699",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "f40b91b9cd72",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-04\/3050067744806_f40b91b9cd728204ef95_72.jpg",
+            "first_name": "Surbhi",
+            "real_name": "Surbhi Saraf",
+            "display_name": "Surbhi Saraf",
+            "team": "T02PFK13YLC",
+            "name": "ihbrusurbhi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kFB01",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03A7KXT45S"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", welcome to s11s!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649226704.479599",
+        "parent_user_id": "U03A7KXT45S"
+    },
+    {
+        "client_msg_id": "f87bd84b-1c0b-402e-9d55-198d59c769b4",
+        "type": "message",
+        "text": "Thanks, <@U031JS3RF0V> :blush:",
+        "user": "U03A7KXT45S",
+        "ts": "1649592611.611309",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "48a968d86675",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3342503134101_48a968d8667535791add_72.png",
+            "first_name": "Shruti",
+            "real_name": "Shruti Sah",
+            "display_name": "Shruti Sah",
+            "team": "T02PFK13YLC",
+            "name": "shrutisah92",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5lGf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U031JS3RF0V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649226704.479599",
+        "parent_user_id": "U03A7KXT45S",
+        "reactions": [
+            {
+                "name": "smile",
+                "users": [
+                    "U031JS3RF0V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "917614c3-cde8-49cb-8639-8dc10d295350",
+        "type": "message",
+        "text": "Pleasure to meet you all :slightly_smiling_face:",
+        "user": "U03AQFPP9BL",
+        "ts": "1649656117.860839",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c9b2329e7c08",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-08\/3377148716193_c9b2329e7c08a95503a8_72.png",
+            "first_name": "Ankit",
+            "real_name": "Ankit Prakash",
+            "display_name": "Ankit Prakash",
+            "team": "T02PFK13YLC",
+            "name": "ankitpr89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CiR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pleasure to meet you all "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649420515.699309",
+        "parent_user_id": "U03AQFPP9BL"
+    },
+    {
+        "client_msg_id": "c71d4c72-5ccd-487d-a907-56802e328d4c",
+        "type": "message",
+        "text": "Thanks <@U02V9QUDK1Q> for the invite.",
+        "user": "U03AQFPP9BL",
+        "ts": "1649659748.047369",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c9b2329e7c08",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-08\/3377148716193_c9b2329e7c08a95503a8_72.png",
+            "first_name": "Ankit",
+            "real_name": "Ankit Prakash",
+            "display_name": "Ankit Prakash",
+            "team": "T02PFK13YLC",
+            "name": "ankitpr89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wp4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02V9QUDK1Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for the invite."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649420515.699309",
+        "parent_user_id": "U03AQFPP9BL"
+    },
+    {
+        "client_msg_id": "c5aafafe-22ab-4f83-89db-af65de0cc3a3",
+        "type": "message",
+        "text": "Hey everyone!\n\nI recently joined the Marketing team at Setu. Having done engineering, I joined YourStory straight out of college after <@U02V9QUDK1Q> was kind enough to offer me a role :stuck_out_tongue:. After, I was on the founding team of an early stage stock photo startup, and then did a couple of marketing stints across Logistics and Edtech at Lalamove and Masai School. In between, I have been consulting with some VC firms in content and brand marketing.\n\nI have worked across content marketing, brand marketing, product marketing, editorial, communications and public relations, a little bit of product and community. At Setu, I'd be owning a bunch of some of these functions as well.\n\nSuper glad to be here! :upside_down_face:",
+        "user": "U03A5S0KQMA",
+        "ts": "1649659833.505489",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "88e919ee0538",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3345884762756_88e919ee053802facac0_72.jpg",
+            "first_name": "Sampath",
+            "real_name": "Sampath Putrevu",
+            "display_name": "Sampath Putrevu",
+            "team": "T02PFK13YLC",
+            "name": "sampath",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03A5S0KQMA",
+            "ts": "1649659889.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bdf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone!\n\nI recently joined the Marketing team at Setu. Having done engineering, I joined YourStory straight out of college after "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02V9QUDK1Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " was kind enough to offer me a role "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". After, I was on the founding team of an early stage stock photo startup, and then did a couple of marketing stints across Logistics and Edtech at Lalamove and Masai School. In between, I have been consulting with some VC firms in content and brand marketing.\n\nI have worked across content marketing, brand marketing, product marketing, editorial, communications and public relations, a little bit of product and community. At Setu, I'd be owning a bunch of some of these functions as well.\n\nSuper glad to be here! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "upside_down_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649659833.505489",
+        "reply_count": 6,
+        "reply_users_count": 5,
+        "latest_reply": "1649826537.161389",
+        "reply_users": [
+            "U02UM0VU8MQ",
+            "U03A5S0KQMA",
+            "U038L2K4R08",
+            "U02PDC4883V",
+            "U03AQFPP9BL"
+        ],
+        "replies": [
+            {
+                "user": "U02UM0VU8MQ",
+                "ts": "1649661992.136069"
+            },
+            {
+                "user": "U03A5S0KQMA",
+                "ts": "1649664030.779749"
+            },
+            {
+                "user": "U038L2K4R08",
+                "ts": "1649664693.009039"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649678725.214129"
+            },
+            {
+                "user": "U03A5S0KQMA",
+                "ts": "1649679181.545689"
+            },
+            {
+                "user": "U03AQFPP9BL",
+                "ts": "1649826537.161389"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1649826537.161389",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02V9QUDK1Q",
+                    "U03AQFPP9BL",
+                    "U030ZR9D0FK",
+                    "U02UM0VU8MQ",
+                    "U031G83CGCQ",
+                    "U03ABKDJQAD",
+                    "U033RUXVCAY",
+                    "U02PDC4883V",
+                    "U03AG8MUECT",
+                    "U03A1M1L0PR",
+                    "U039L895FA4",
+                    "U03A397SJCF",
+                    "U031P3UUGN4"
+                ],
+                "count": 13
+            },
+            {
+                "name": "wave",
+                "users": [
+                    "U02V9QUDK1Q",
+                    "U02VA7QD8UB",
+                    "U03ABKDJQAD",
+                    "U0380S2BZ9A",
+                    "U02V92UN0Q2",
+                    "U0325QQQALR",
+                    "U02UJBHEQVA",
+                    "U02PDC4883V",
+                    "U03AJ8BHKNC",
+                    "U039VSWJ85V",
+                    "U02UHQYEF70",
+                    "U02URBKGVA7",
+                    "U0361UQSKGQ"
+                ],
+                "count": 13
+            },
+            {
+                "name": "raised_hands::skin-tone-5",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

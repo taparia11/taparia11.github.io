@@ -1,0 +1,372 @@
+[
+    {
+        "client_msg_id": "d3c3441f-35fb-4fe7-abb2-3810f86c1b78",
+        "type": "message",
+        "text": "Hey Everyone,\n\nSourabh Goyal this side, I help people with personal and business branding, Brand Strategy for SAAS, D2C, and Web3 companies,\nI own a Growth Marketing company called SuccessBrew and a global community called TGC Club.\n\nFeel free to connect with me on linkedin to know more about me and my work - <https:\/\/www.linkedin.com\/in\/consultsourabh\/>",
+        "user": "U031NB1ULBX",
+        "ts": "1650975922.406559",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "fdb47dcee157",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-04\/3071914684449_fdb47dcee1579d0f27b1_72.jpg",
+            "first_name": "Sourabh",
+            "real_name": "Sourabh Goyal",
+            "display_name": "Sourabh Goyal",
+            "team": "T02PFK13YLC",
+            "name": "maxoutsourabh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gMS08",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Everyone,\n\nSourabh Goyal this side, I help people with personal and business branding, Brand Strategy for SAAS, D2C, and Web3 companies,\nI own a Growth Marketing company called SuccessBrew and a global community called TGC Club.\n\nFeel free to connect with me on linkedin to know more about me and my work - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/consultsourabh\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650975922.406559",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650976110.708049",
+        "reply_users": [
+            "U02PDC6B0HH"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1650976110.708049"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ca367615-90f4-49e8-9df6-2cd8f6bc0ee7",
+        "type": "message",
+        "text": "Haven't you introduced yourself a couple of times before?",
+        "user": "U02PDC6B0HH",
+        "ts": "1650976110.708049",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7ce0a422fcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953759554663_b7ce0a422fcdabf5a771_72.jpg",
+            "first_name": "Shafique",
+            "real_name": "Shafique Gajdhar",
+            "display_name": "Shaf",
+            "team": "T02PFK13YLC",
+            "name": "shafiquegajdhar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=GT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Haven't you introduced yourself a couple of times before?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650975922.406559",
+        "parent_user_id": "U031NB1ULBX"
+    },
+    {
+        "client_msg_id": "c7b9e081-8f02-49a3-a984-bc9b1dbc5ecd",
+        "type": "message",
+        "text": "Hev Everyone :slightly_smiling_face:\nI am <https:\/\/www.linkedin.com\/in\/anjali-das\/|Anjali> and its been a couple of days since i joined this wonderful community. I work at a B2B SaaS startup called <http:\/\/Joveo.com|Joveo.com> which is in the programmatic job advertising space. I work as a Director - Revenue Operations at Joveo - a very new role that I've grown into and seem to be enjoying the challenges everyday. I come with a 7+ years of experience in marketing and demand gen and happy to pick your brains \/ help you out on all things marketing automation, sales ops and martech :slightly_smiling_face:",
+        "user": "U03CEHJRUR1",
+        "ts": "1650998542.114329",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "f104c21de83c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-21\/3422597040451_f104c21de83c3ff0fe60_72.jpg",
+            "first_name": "Anjali",
+            "real_name": "Anjali Das",
+            "display_name": "Anjali Das",
+            "team": "T02PFK13YLC",
+            "name": "anjali",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CEHJRUR1",
+            "ts": "1650998589.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tqu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hev Everyone "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI am "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/anjali-das\/",
+                                "text": "Anjali"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and its been a couple of days since i joined this wonderful community. I work at a B2B SaaS startup called "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Joveo.com",
+                                "text": "Joveo.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " which is in the programmatic job advertising space. I work as a Director - Revenue Operations at Joveo - a very new role that I've grown into and seem to be enjoying the challenges everyday. I come with a 7+ years of experience in marketing and demand gen and happy to pick your brains \/ help you out on all things marketing automation, sales ops and martech "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650998542.114329",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1651037394.043439",
+        "reply_users": [
+            "U0318JZUESX",
+            "U02TTEFFU6B",
+            "U02PDC4883V"
+        ],
+        "replies": [
+            {
+                "user": "U0318JZUESX",
+                "ts": "1651001598.333079"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1651027993.382779"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1651037394.043439"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1651037394.043439",
+        "reactions": [
+            {
+                "name": "wave::skin-tone-5",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            },
+            {
+                "name": "wave",
+                "users": [
+                    "U03AW06L9CN",
+                    "U0318JZUESX",
+                    "U02UY3EPQDA",
+                    "U03560PQ082",
+                    "U02UJBHEQVA",
+                    "U031KD0PNTX",
+                    "U02PDC4883V",
+                    "U039HVCS1LL",
+                    "U032AUA6KFV",
+                    "U02UHQYEF70",
+                    "U02UJ3N39PF",
+                    "U02UN0QV0PM"
+                ],
+                "count": 12
+            },
+            {
+                "name": "wave::skin-tone-3",
+                "users": [
+                    "U03A7KXT45S"
+                ],
+                "count": 1
+            },
+            {
+                "name": "zap",
+                "users": [
+                    "U02VD2JL8N8",
+                    "U02UHQYEF70"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e89d1f2c-4bc5-48d1-a95c-a40c30775f35",
+        "type": "message",
+        "text": "Hi Anjali. It's been forever! Good to see you here :beers:",
+        "user": "U0318JZUESX",
+        "ts": "1651001598.333079",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "63c51d4ec23b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-01\/3066368472944_63c51d4ec23bc685fdae_72.png",
+            "first_name": "Siddhartha",
+            "real_name": "Siddhartha Kathpalia",
+            "display_name": "Kattu",
+            "team": "T02PFK13YLC",
+            "name": "siddhartha.kathpalia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XaLU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Anjali. It's been forever! Good to see you here "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "beers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650998542.114329",
+        "parent_user_id": "U03CEHJRUR1",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03CEHJRUR1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "163a2153-f455-4ec1-9d9b-ae9aea8cd2c2",
+        "type": "message",
+        "text": "Hey Anjali.. welcome to the happiest place in SaaS :))",
+        "user": "U02TTEFFU6B",
+        "ts": "1651027993.382779",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "no06",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Anjali.. welcome to the happiest place in SaaS :))"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650998542.114329",
+        "parent_user_id": "U03CEHJRUR1"
+    },
+    {
+        "client_msg_id": "8ef6c71e-6589-4579-a834-2c39d51358f4",
+        "type": "message",
+        "text": "Welcome to the community Anjali!",
+        "user": "U02PDC4883V",
+        "ts": "1651037394.043439",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=ZGD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome to the community Anjali!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650998542.114329",
+        "parent_user_id": "U03CEHJRUR1"
+    }
+]

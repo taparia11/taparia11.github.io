@@ -1,0 +1,1006 @@
+[
+    {
+        "client_msg_id": "c6789e93-2fa3-4732-95f1-d27550f74817",
+        "type": "message",
+        "text": "Hello <@U0322F1V64C>, I know 2 people who are from core SaaS background and have worked with international clients too. Let me know if you are still looking for one.",
+        "user": "U032WTRNRCK",
+        "ts": "1650802115.397129",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "3f5b17027121",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-16\/3108846316902_3f5b170271215b525cb1_72.jpg",
+            "first_name": "Mayur",
+            "real_name": "Mayur Nathani",
+            "display_name": "Mayur Nathani",
+            "team": "T02PFK13YLC",
+            "name": "mayurnathani169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ipM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0322F1V64C"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I know 2 people who are from core SaaS background and have worked with international clients too. Let me know if you are still looking for one."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650615869.222849",
+        "parent_user_id": "U0322F1V64C"
+    },
+    {
+        "client_msg_id": "E8A67580-295E-4F4C-80BB-5FECD9233FC0",
+        "type": "message",
+        "text": "Hey <@U032WTRNRCK> - still looking for one content lead and one marketing manager. Someone with 3-5 years of experience who is willing to do dirty work and execute independently :) \n\nI am at <mailto:piyush@loopwork.co|piyush@loopwork.co> ",
+        "user": "U0322F1V64C",
+        "ts": "1650806370.137029",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8650dff097cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-22\/3422906858949_8650dff097cc66532680_72.jpg",
+            "first_name": "Piyush",
+            "real_name": "Piyush Jain",
+            "display_name": "Piyush Jain",
+            "team": "T02PFK13YLC",
+            "name": "piyush716",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yw5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U032WTRNRCK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - still looking for one content lead and one marketing manager. Someone with 3-5 years of experience who is willing to do dirty work and execute independently :) \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI am at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:piyush@loopwork.co",
+                                "text": "piyush@loopwork.co"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650615869.222849",
+        "parent_user_id": "U0322F1V64C"
+    },
+    {
+        "client_msg_id": "E462A7A5-D1CC-4B27-95D4-B8ED5AB7314C",
+        "type": "message",
+        "text": "Thanks so much :)",
+        "user": "U0322F1V64C",
+        "ts": "1650806381.990459",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8650dff097cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-22\/3422906858949_8650dff097cc66532680_72.jpg",
+            "first_name": "Piyush",
+            "real_name": "Piyush Jain",
+            "display_name": "Piyush Jain",
+            "team": "T02PFK13YLC",
+            "name": "piyush716",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LzGYc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks so much :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650615869.222849",
+        "parent_user_id": "U0322F1V64C"
+    },
+    {
+        "client_msg_id": "0398fb36-07c8-4630-b4e0-df87f1e63502",
+        "type": "message",
+        "text": "<@U0322F1V64C> Kindly check DM.",
+        "user": "U032WTRNRCK",
+        "ts": "1650806920.819249",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "3f5b17027121",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-16\/3108846316902_3f5b170271215b525cb1_72.jpg",
+            "first_name": "Mayur",
+            "real_name": "Mayur Nathani",
+            "display_name": "Mayur Nathani",
+            "team": "T02PFK13YLC",
+            "name": "mayurnathani169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+1l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0322F1V64C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Kindly check DM."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650615869.222849",
+        "parent_user_id": "U0322F1V64C"
+    },
+    {
+        "client_msg_id": "ECA6D437-55DC-43DE-8193-416B52AFC65B",
+        "type": "message",
+        "text": "Hey Deepan! Content in bulk I see. Have you tried prodraft? If there is one thing we flaunt, its quality at scale. I feel you should definitely consider it once :grin: ",
+        "user": "U03CDCJ6W12",
+        "ts": "1650809519.342099",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7edfcf3b60c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-20\/3416201144005_b7edfcf3b60c665cf23a_72.jpg",
+            "first_name": "Shreya",
+            "real_name": "Shreya Ananth",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "shreyaananth77",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "im6S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Deepan! Content in bulk I see. Have you tried prodraft? If there is one thing we flaunt, its quality at scale. I feel you should definitely consider it once "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650443148.814419",
+        "parent_user_id": "U02V22EUXM4"
+    },
+    {
+        "client_msg_id": "53567dcc-e8e9-4287-aaac-6177dd77fc3f",
+        "type": "message",
+        "text": "Hey Folks,\n\nI've recently joined Nova Benefits and managing employee wellness and health insurance sales for startups.\n\nWould like to connect with few startup Founders\/HRs\/CXOs to understand -\n\n1. What are the roadblock they face when planning to provide health and other wellness benefits to their employees?\n2. In case you have running policies and wellness benefits, what do you love about their services?\n3. Apart from health insurance, what proactive health and wellness benefits you would like to offer your employees?\nFolks available for discussion, please react to this post to ping you in DMs.",
+        "user": "U0310LZ3NL9",
+        "ts": "1650814070.689279",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "f417b23450be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3045819664944_f417b23450be05b1ea41_72.png",
+            "first_name": "Ankit",
+            "real_name": "Ankit Dev",
+            "display_name": "Ankit Dev",
+            "team": "T02PFK13YLC",
+            "name": "ankitmalik40",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TOsZx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Folks,\n\nI've recently joined Nova Benefits and managing employee wellness and health insurance sales for startups.\n\nWould like to connect with few startup Founders\/HRs\/CXOs to understand -\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What are the roadblock they face when planning to provide health and other wellness benefits to their employees?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "In case you have running policies and wellness benefits, what do you love about their services?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Apart from health insurance, what proactive health and wellness benefits you would like to offer your employees?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nFolks available for discussion, please react to this post to ping you in DMs."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U0310LZ3NL9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a5b3ea3e-d48f-44c8-b3f8-5d41f8af589b",
+        "type": "message",
+        "text": "Not sure of the channel so posting here:\n\nWe are expanding in a new region and I am planning to talk to customers\/prospects to understand the regional nuances\/ dynamics. Any tips, playbooks, best practices to conduct this activity? What questions\/ information will u collect...\n\n\nSome questions I have in mind are:\n• What was going on in your business that made you want to seek a solution like ours?\n• Did something specific happen to trigger your search?\n• What challenges, concerns or problems did you have before working with us?\n• What would have the impact be on your business had you not solved this problem?\n• When selecting a provider like us, what do you find important?\n• What are the most significant criteria and factors that influence your purchasing decision?\n• What kind of information are you looking for (on the provider’s website, social media, review sites)?\n• What raises red flags?\n• Did you have any doubts or reservations about choosing us?\n• \n• How do you buy software? How do you evaluate software?\n• What is the buying process\/ decision makers\/influencers?\n• How \/ Where did you hear about us?\n• Why were you looking for a software like us\n• Why did you go with us?\n• Where do you consume information \/ content?\n• What sites\/blogs\/newsletters do you read?\n• What type of format do you prefer?\n• What events\/communities do you participate in?\n• Where do you typically spend time outside work?\n",
+        "user": "U0306HUGT6C",
+        "ts": "1650816285.306369",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "67b7c6606731",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-21\/2990844434084_67b7c6606731aad40c13_72.jpg",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Mirashi",
+            "display_name": "Nikhil Mirashi",
+            "team": "T02PFK13YLC",
+            "name": "cutenik85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q0xxv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not sure of the channel so posting here:\n\nWe are expanding in a new region and I am planning to talk to customers\/prospects to understand the regional nuances\/ dynamics. Any tips, playbooks, best practices to conduct this activity? What questions\/ information will u collect...\n\n\nSome questions I have in mind are:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What was going on in your business that made you want to seek a solution like ours?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Did something specific happen to trigger your search?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What challenges, concerns or problems did you have before working with us?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What would have the impact be on your business had you not solved this problem?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "When selecting a provider like us, what do you find important?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What are the most significant criteria and factors that influence your purchasing decision?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What kind of information are you looking for (on the provider’s website, social media, review sites)?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What raises red flags?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Did you have any doubts or reservations about choosing us?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": []
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "How do you buy software? How do you evaluate software?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What is the buying process\/ decision makers\/influencers?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "How \/ Where did you hear about us?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Why were you looking for a software like us"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Why did you go with us?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Where do you consume information \/ content?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What sites\/blogs\/newsletters do you read?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What type of format do you prefer?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What events\/communities do you participate in?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Where do you typically spend time outside work?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650816285.306369",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650861704.923939",
+        "reply_users": [
+            "U02V5HU4EP2"
+        ],
+        "replies": [
+            {
+                "user": "U02V5HU4EP2",
+                "ts": "1650861704.923939"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "49e69e62-49dd-41c7-8621-22b54bb31d56",
+        "type": "message",
+        "text": "Any good freelance\/project based Visual Identity builders for brands like guidelines and adapts of guidelines yo demonstrate guidlines into execution like pitch deck, website and Brochure.",
+        "user": "U02V979LY03",
+        "ts": "1650816333.349309",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "6034ed759880",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-26\/3011299870419_6034ed759880d9ffda3e_72.jpg",
+            "first_name": "Shashank",
+            "real_name": "Shashank",
+            "display_name": "Shashank",
+            "team": "T02PFK13YLC",
+            "name": "shashankh5",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02V979LY03",
+            "ts": "1650816379.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "weu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any good freelance\/project based Visual Identity builders for brands like guidelines and adapts of guidelines yo demonstrate guidlines into execution like pitch deck, website and Brochure."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650816333.349309",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1650863688.982929",
+        "reply_users": [
+            "U02V5HU4EP2",
+            "U02V979LY03"
+        ],
+        "replies": [
+            {
+                "user": "U02V5HU4EP2",
+                "ts": "1650861558.760069"
+            },
+            {
+                "user": "U02V979LY03",
+                "ts": "1650863688.982929"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0D6403CF-495A-463C-A25F-A7E018BAF306",
+        "type": "message",
+        "text": "Sure thing. On website or any email ID? My team will share the req. <@U03CDCJ6W12> ",
+        "user": "U02V22EUXM4",
+        "ts": "1650819030.121779",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9f2cfa9248dc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-07\/3075859566289_9f2cfa9248dc9a1dae23_72.jpg",
+            "first_name": "Deepan",
+            "real_name": "Deepan Siddhu",
+            "display_name": "Deepan Siddhu",
+            "team": "T02PFK13YLC",
+            "name": "deepan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02V22EUXM4",
+            "ts": "1650819048.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8BuZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure thing. On website or any email ID? My team will share the req. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CDCJ6W12"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650443148.814419",
+        "parent_user_id": "U02V22EUXM4"
+    },
+    {
+        "client_msg_id": "17DB5C5E-8D96-49AE-8589-636413AD9382",
+        "type": "message",
+        "text": "Any SaaS product marketers out here involved in building channels or onboarding partners?",
+        "user": "U02UZ4T10PQ",
+        "ts": "1650845002.277939",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "0e693f543f3a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-22\/2977217232247_0e693f543f3a4a1d3fd3_72.jpg",
+            "first_name": "Sagnik",
+            "real_name": "Sagnik IntelliServiceAI",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "sagnik.datta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qH2OK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any SaaS product marketers out here involved in building channels or onboarding partners?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650845002.277939",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1650872849.743739",
+        "reply_users": [
+            "U02TTEFFU6B",
+            "U02PDC6B0HH"
+        ],
+        "replies": [
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1650847780.265849"
+            },
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1650872849.743739"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "87ed9586-6bea-4bdc-a37a-2cda3a51c4f7",
+        "type": "message",
+        "text": "<@U02PDC6B0HH> is.",
+        "user": "U02TTEFFU6B",
+        "ts": "1650847780.265849",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KLT2s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02PDC6B0HH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650845002.277939",
+        "parent_user_id": "U02UZ4T10PQ",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U02UZ4T10PQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "34cad3a0-1f0c-4d73-8aaf-41586898de97",
+        "type": "message",
+        "text": "Hey Shashank, someone I know works on this. Okay if I can send you the details on DM?",
+        "user": "U02V5HU4EP2",
+        "ts": "1650861558.760069",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "gb6fa30f50de",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b6fa30f50de947886fed88281c7644fe.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Shubham",
+            "real_name": "Shubham",
+            "display_name": "Shubham",
+            "team": "T02PFK13YLC",
+            "name": "shubhamgrover.sg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KRZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Shashank, someone I know works on this. Okay if I can send you the details on DM?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650816333.349309",
+        "parent_user_id": "U02V979LY03"
+    },
+    {
+        "client_msg_id": "c18dec22-63bc-4a4b-8ef3-36d371b45773",
+        "type": "message",
+        "text": "The trick is to make sure that we don't end up getting biased answers. We generally have an internal filter to make sure that all questions we ask pass the mom test.\n\nReference: <https:\/\/www.wilselby.com\/2020\/06\/the-mom-test-summary-and-insights\/|https:\/\/www.wilselby.com\/2020\/06\/the-mom-test-summary-and-insights\/>",
+        "user": "U02V5HU4EP2",
+        "ts": "1650861704.923939",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "gb6fa30f50de",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b6fa30f50de947886fed88281c7644fe.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Shubham",
+            "real_name": "Shubham",
+            "display_name": "Shubham",
+            "team": "T02PFK13YLC",
+            "name": "shubhamgrover.sg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.wilselby.com\/2020\/06\/the-mom-test-summary-and-insights\/",
+                "ts": 1591841975,
+                "thumb_url": "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/41xXPYLVw1L.jpg",
+                "thumb_width": 320,
+                "thumb_height": 500,
+                "id": 1,
+                "original_url": "https:\/\/www.wilselby.com\/2020\/06\/the-mom-test-summary-and-insights\/",
+                "fallback": "Wil Selby: The Mom Test - Summary and Insights",
+                "text": "This post include some of my key takeaways from reading the book, \"The Mom Test\" by Rob Fitzpatrick about Product Discovery and user research.",
+                "title": "The Mom Test - Summary and Insights",
+                "title_link": "https:\/\/www.wilselby.com\/2020\/06\/the-mom-test-summary-and-insights\/",
+                "service_name": "Wil Selby"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J0G1h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The trick is to make sure that we don't end up getting biased answers. We generally have an internal filter to make sure that all questions we ask pass the mom test.\n\nReference: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.wilselby.com\/2020\/06\/the-mom-test-summary-and-insights\/",
+                                "text": "https:\/\/www.wilselby.com\/2020\/06\/the-mom-test-summary-and-insights\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650816285.306369",
+        "parent_user_id": "U0306HUGT6C",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U030KTTNCRL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U030SS7KNHH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c639c6bf-be46-432a-8215-82863f08401e",
+        "type": "message",
+        "text": "Surely.",
+        "user": "U02V979LY03",
+        "ts": "1650863688.982929",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "6034ed759880",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-26\/3011299870419_6034ed759880d9ffda3e_72.jpg",
+            "first_name": "Shashank",
+            "real_name": "Shashank",
+            "display_name": "Shashank",
+            "team": "T02PFK13YLC",
+            "name": "shashankh5",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f2O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Surely."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650816333.349309",
+        "parent_user_id": "U02V979LY03"
+    },
+    {
+        "client_msg_id": "3FCC37B9-A249-4587-94ED-E7C1A91AF6FD",
+        "type": "message",
+        "text": "An email on <mailto:prodraftindia@gmail.com|prodraftindia@gmail.com> would be great! Looking forward to hearing from you!",
+        "user": "U03CDCJ6W12",
+        "ts": "1650867435.615989",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7edfcf3b60c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-20\/3416201144005_b7edfcf3b60c665cf23a_72.jpg",
+            "first_name": "Shreya",
+            "real_name": "Shreya Ananth",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "shreyaananth77",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vWA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "An email on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:prodraftindia@gmail.com",
+                                "text": "prodraftindia@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " would be great! Looking forward to hearing from you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650443148.814419",
+        "parent_user_id": "U02V22EUXM4"
+    }
+]

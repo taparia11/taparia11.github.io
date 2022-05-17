@@ -1,0 +1,102 @@
+[
+    {
+        "client_msg_id": "d7572d4e-effc-479b-af9c-9abfadad0ad3",
+        "type": "message",
+        "text": "Yeah, this was so bad.",
+        "user": "U032G5AP31U",
+        "ts": "1649416232.561789",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g3059cae39d5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3059cae39d5ef5cba41bd659d1983293.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "E.",
+            "real_name": "E. G.",
+            "display_name": "E. G.",
+            "team": "T02PFK13YLC",
+            "name": "eshna",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fJYHH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, this was so bad."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648789862.739589",
+        "parent_user_id": "U0325QQQALR"
+    },
+    {
+        "client_msg_id": "07ddbe7d-0bd5-4ea5-9bb9-7ebbf1b9f169",
+        "type": "message",
+        "text": ":wave: Hello, team!",
+        "user": "U03ANAPQ3J9",
+        "ts": "1649425500.396049",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "0e12e292c0ff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-08\/3358589415798_0e12e292c0ffbdcd84d8_72.png",
+            "first_name": "Pankaj",
+            "real_name": "Pankaj S",
+            "display_name": "Pankaj S",
+            "team": "T02PFK13YLC",
+            "name": "hellolocalmedialabs",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YCMhs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hello, team!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U02PDC4883V",
+                    "U031KD0PNTX"
+                ],
+                "count": 2
+            },
+            {
+                "name": "ghost",
+                "users": [
+                    "U030L29FSN4",
+                    "U039CLHUS2H"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

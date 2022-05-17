@@ -1,0 +1,114 @@
+[
+    {
+        "client_msg_id": "538737dd-2cd0-48cf-8680-ea5038bf6f0a",
+        "type": "message",
+        "text": "Former sales person here. \n\nPoints to have on competition\n\n• Their strengths- Markets, industries, their client's org size\/base, Fav features from customer\n• Their weaknesses - where we can pitch\n• Questions to ask: These are questions that your sales team can ask the client to ask the competition ( playing on their weaknesses)\n• Client references of companies who have switched to you from competition and reasons\n• Major differentiators as to why you're better\n• MOST IMP: Where not to pitch. \nIf you can add a second card highlighting key feature differences, say 3 between your product and competition, that would help sales pitch.",
+        "user": "U035FUA98B0",
+        "ts": "1650891934.881049",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "ee8800efced6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-14\/3228873601318_ee8800efced6141ee51d_72.jpg",
+            "first_name": "Aparajita",
+            "real_name": "Aparajita Vijayabalan",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "vijay.aparajita",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b92",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Former sales person here. \n\nPoints to have on competition\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Their strengths- Markets, industries, their client's org size\/base, Fav features from customer"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Their weaknesses - where we can pitch"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Questions to ask: These are questions that your sales team can ask the client to ask the competition ( playing on their weaknesses)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Client references of companies who have switched to you from competition and reasons"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Major differentiators as to why you're better"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "MOST IMP: Where not to pitch. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nIf you can add a second card highlighting key feature differences, say 3 between your product and competition, that would help sales pitch."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650510724.124989",
+        "parent_user_id": "U02V5Q7DUPJ"
+    }
+]

@@ -1,0 +1,1141 @@
+[
+    {
+        "client_msg_id": "4c599fab-059c-4328-9e0a-4414871b0a1b",
+        "type": "message",
+        "text": "slightly off topic but anyone following the instahyre controversy? one of the craziest things ive seen in the startup world",
+        "user": "U030N8RHURZ",
+        "ts": "1649580288.318549",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b9e697887a24",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-17\/3118359252754_b9e697887a246674f4f1_72.jpg",
+            "first_name": "Murugappan",
+            "real_name": "Murugappan",
+            "display_name": "Muru",
+            "team": "T02PFK13YLC",
+            "name": "nappagurum",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xn=V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "slightly off topic but anyone following the instahyre controversy? one of the craziest things ive seen in the startup world"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649580288.318549",
+        "reply_count": 17,
+        "reply_users_count": 9,
+        "latest_reply": "1649668098.924049",
+        "reply_users": [
+            "U02TTEFFU6B",
+            "U030SHA1S2W",
+            "U031QKGPNRK",
+            "U02PDC4883V",
+            "U03560PQ082",
+            "U02VA7QD8UB",
+            "U02U94HSBV4",
+            "U030N8RHURZ",
+            "U039L895FA4"
+        ],
+        "replies": [
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649583941.253609"
+            },
+            {
+                "user": "U030SHA1S2W",
+                "ts": "1649585233.865249"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1649585685.501269"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649587269.536049"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649587288.812539"
+            },
+            {
+                "user": "U03560PQ082",
+                "ts": "1649587616.573479"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649594894.553329"
+            },
+            {
+                "user": "U03560PQ082",
+                "ts": "1649595200.691129"
+            },
+            {
+                "user": "U02VA7QD8UB",
+                "ts": "1649646845.025119"
+            },
+            {
+                "user": "U03560PQ082",
+                "ts": "1649649048.171579"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649649517.353759"
+            },
+            {
+                "user": "U03560PQ082",
+                "ts": "1649649605.865739"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649649712.663979"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1649650900.374379"
+            },
+            {
+                "user": "U02U94HSBV4",
+                "ts": "1649658714.786979"
+            },
+            {
+                "user": "U030N8RHURZ",
+                "ts": "1649659066.473089"
+            },
+            {
+                "user": "U039L895FA4",
+                "ts": "1649668098.924049"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1649668098.924049"
+    },
+    {
+        "client_msg_id": "4de8d362-8967-4c0b-a237-b39b219a268f",
+        "type": "message",
+        "text": "Link?",
+        "user": "U02TTEFFU6B",
+        "ts": "1649583941.253609",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tJD83",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Link?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649580288.318549",
+        "parent_user_id": "U030N8RHURZ",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02UZL0FMC1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ba3f554e-f3d5-4dc5-a2e1-e50869b94e63",
+        "type": "message",
+        "text": "<https:\/\/www.linkedin.com\/posts\/anomaly2104_work-career-people-activity-6918487494673981440-EQVM?utm_source=linkedin_share&amp;utm_medium=android_app|https:\/\/www.linkedin.com\/posts\/anomaly2104_work-career-people-activity-6918487494673981440-EQVM?utm_source=linkedin_share&amp;utm_medium=android_app>",
+        "user": "U030SHA1S2W",
+        "ts": "1649585233.865249",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4854b34cf53b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-22\/3163652013408_4854b34cf53b0654333b_72.jpg",
+            "first_name": "Savijeet",
+            "real_name": "Savijeet Singh",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "savijeet-singh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/posts\/anomaly2104_work-career-people-activity-6918487494673981440-EQVM?utm_source=linkedin_share&utm_medium=android_app",
+                "image_url": "https:\/\/media-exp1.licdn.com\/dms\/image\/C4D22AQHA8JMsBD9Ubg\/feedshare-shrink_2048_1536\/0\/1649495956514?e=2147483647&v=beta&t=LEuyQdgTgaqY3C94LOHDKmAVNlOVEWMHSRmzbyV6Mqo",
+                "image_width": 447,
+                "image_height": 250,
+                "image_bytes": 33925,
+                "service_icon": "https:\/\/static-exp1.licdn.com\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/posts\/anomaly2104_work-career-people-activity-6918487494673981440-EQVM?utm_source=linkedin_share&amp;utm_medium=android_app",
+                "fallback": "Udit Agarwal on LinkedIn: #work #career #people | 267 comments",
+                "text": "I recently created a post in which I posted the screenshot of another post where the Founder and CEO of Instahyre, Aditya Rajgarhia publicly tried to blame... 267 comments on LinkedIn",
+                "title": "Udit Agarwal on LinkedIn: #work #career #people | 267 comments",
+                "title_link": "https:\/\/www.linkedin.com\/posts\/anomaly2104_work-career-people-activity-6918487494673981440-EQVM?utm_source=linkedin_share&utm_medium=android_app",
+                "service_name": "linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lKeT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/anomaly2104_work-career-people-activity-6918487494673981440-EQVM?utm_source=linkedin_share&utm_medium=android_app",
+                                "text": "https:\/\/www.linkedin.com\/posts\/anomaly2104_work-career-people-activity-6918487494673981440-EQVM?utm_source=linkedin_share&utm_medium=android_app"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649580288.318549",
+        "parent_user_id": "U030N8RHURZ"
+    },
+    {
+        "client_msg_id": "1115d516-1812-4f57-b549-c19d0c9e83d5",
+        "type": "message",
+        "text": "Looks like the founder is having quite a chilled, restful weekend",
+        "user": "U031QKGPNRK",
+        "ts": "1649585685.501269",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7qBQV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks like the founder is having quite a chilled, restful weekend"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649580288.318549",
+        "parent_user_id": "U030N8RHURZ",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U030N8RHURZ",
+                    "U03560PQ082"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "750fcc76-ed10-4d76-8222-c608e11d523e",
+        "type": "message",
+        "text": "This is blowing up on Twitter",
+        "user": "U02PDC4883V",
+        "ts": "1649587269.536049",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CjR+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is blowing up on Twitter"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649580288.318549",
+        "parent_user_id": "U030N8RHURZ"
+    },
+    {
+        "client_msg_id": "ac0cdd00-318b-4857-9c23-76206bb64153",
+        "type": "message",
+        "text": "Apparently the CEO is blacklisting folks who are posting the same",
+        "user": "U02PDC4883V",
+        "ts": "1649587288.812539",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mqdL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Apparently the CEO is blacklisting folks who are posting the same"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649580288.318549",
+        "parent_user_id": "U030N8RHURZ"
+    },
+    {
+        "client_msg_id": "ec40b2cf-4853-4a96-8b13-1c705f370502",
+        "type": "message",
+        "text": "<@U039L895FA4>",
+        "user": "U03560PQ082",
+        "ts": "1649587616.573479",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1db32098d186",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-01\/3176023965474_1db32098d186ac873a3d_72.png",
+            "first_name": "Ahaan",
+            "real_name": "Ahaan Pandit",
+            "display_name": "Ahaan Pandit",
+            "team": "T02PFK13YLC",
+            "name": "ahaan.pandit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cnc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039L895FA4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649580288.318549",
+        "parent_user_id": "U030N8RHURZ",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U039L895FA4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ce7e8e5d-c3c0-4a77-b721-8e8cc7c28cb9",
+        "type": "message",
+        "text": "First hiring a pool of people with high salary &amp; then sack them when you can't grow more!\n\nHow can this be justified?",
+        "user": "U03AHQURB98",
+        "ts": "1649589551.397349",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1e75ac50be49",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3354970724517_1e75ac50be49acccd7cf_72.jpg",
+            "first_name": "Anindya",
+            "real_name": "Anindya Chakraborty",
+            "display_name": "Anindya Chakraborty",
+            "team": "T02PFK13YLC",
+            "name": "anindya.8336010281",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gSmj7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "First hiring a pool of people with high salary & then sack them when you can't grow more!\n\nHow can this be justified?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649589551.397349",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1649649594.069439",
+        "reply_users": [
+            "U02VA7QD8UB",
+            "U02TTEFFU6B"
+        ],
+        "replies": [
+            {
+                "user": "U02VA7QD8UB",
+                "ts": "1649646940.001679"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649649594.069439"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e723fc48-9d45-4575-ba6c-4dbbef396bc5",
+        "type": "message",
+        "text": "<@U03560PQ082> i see what you did there. :joy:",
+        "user": "U02TTEFFU6B",
+        "ts": "1649594894.553329",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wzX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03560PQ082"
+                            },
+                            {
+                                "type": "text",
+                                "text": " i see what you did there. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649580288.318549",
+        "parent_user_id": "U030N8RHURZ"
+    },
+    {
+        "client_msg_id": "98961066-CE96-4394-96CE-374110D8E742",
+        "type": "message",
+        "text": ":rolling_on_the_floor_laughing: just tagging relevant people ",
+        "user": "U03560PQ082",
+        "ts": "1649595200.691129",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1db32098d186",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-01\/3176023965474_1db32098d186ac873a3d_72.png",
+            "first_name": "Ahaan",
+            "real_name": "Ahaan Pandit",
+            "display_name": "Ahaan Pandit",
+            "team": "T02PFK13YLC",
+            "name": "ahaan.pandit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O9FeD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing"
+                            },
+                            {
+                                "type": "text",
+                                "text": " just tagging relevant people "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649580288.318549",
+        "parent_user_id": "U030N8RHURZ"
+    },
+    {
+        "client_msg_id": "f79cd751-3fb2-4ee9-814f-e5cade1ae823",
+        "type": "message",
+        "text": "Man, this so makes me interview for these fools, get an offer, and then reject it a day before joining, just for the fun of it. So much inflated ego, I'm surprised this guy isn't floating around.",
+        "user": "U02VA7QD8UB",
+        "ts": "1649646845.025119",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "84e512c8a3fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2999004078388_84e512c8a3feeb8de835_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "T02PFK13YLC",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02VA7QD8UB",
+            "ts": "1649646958.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2+C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Man, this so makes me interview for these fools, get an offer, and then reject it a day before joining, just for the fun of it. So much inflated ego, I'm surprised this guy isn't floating around."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649580288.318549",
+        "parent_user_id": "U030N8RHURZ",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U030N8RHURZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4bccdba1-d412-4170-b151-c44e67d2f2a3",
+        "type": "message",
+        "text": "Unfortunately, that's life and I have faced this before. It's mostly the founders' fault as they don't move in the right direction and eventually crash and burn.",
+        "user": "U02VA7QD8UB",
+        "ts": "1649646940.001679",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "84e512c8a3fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2999004078388_84e512c8a3feeb8de835_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "T02PFK13YLC",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yk7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Unfortunately, that's life and I have faced this before. It's mostly the founders' fault as they don't move in the right direction and eventually crash and burn."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649589551.397349",
+        "parent_user_id": "U03AHQURB98",
+        "reactions": [
+            {
+                "name": "cry",
+                "users": [
+                    "U03AHQURB98"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "604c7c1d-7289-4594-826e-e365402b66cf",
+        "type": "message",
+        "text": "In the founders defence, this is a real problem. I face this day in and day out.\nOffer higher position, desired salary, all the perks and benefits they can think off + full time remote work, people still drop off on a last day.\n\nWhat are your suggestions to counter this? <@U02PDC4883V> <@U02TTEFFU6B>",
+        "user": "U03560PQ082",
+        "ts": "1649649048.171579",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1db32098d186",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-01\/3176023965474_1db32098d186ac873a3d_72.png",
+            "first_name": "Ahaan",
+            "real_name": "Ahaan Pandit",
+            "display_name": "Ahaan Pandit",
+            "team": "T02PFK13YLC",
+            "name": "ahaan.pandit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kmvrq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In the founders defence, this is a real problem. I face this day in and day out.\nOffer higher position, desired salary, all the perks and benefits they can think off + full time remote work, people still drop off on a last day.\n\nWhat are your suggestions to counter this? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02PDC4883V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02TTEFFU6B"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649580288.318549",
+        "parent_user_id": "U030N8RHURZ"
+    },
+    {
+        "client_msg_id": "2b58375b-1220-4df3-9689-df391c5013e9",
+        "type": "message",
+        "text": "It's a 2 way lane. When jobs was less, and candidates more, companies easily ghosted at the offer stage and candidates couldn't do anything.\n\nWhat we're witnessing now is just a shift in supply - demand and balance of power.\n\nPathetic step taken by the founder in this case.",
+        "user": "U02TTEFFU6B",
+        "ts": "1649649517.353759",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c=+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's a 2 way lane. When jobs was less, and candidates more, companies easily ghosted at the offer stage and candidates couldn't do anything.\n\nWhat we're witnessing now is just a shift in supply - demand and balance of power.\n\nPathetic step taken by the founder in this case."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649580288.318549",
+        "parent_user_id": "U030N8RHURZ",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02VA7QD8UB",
+                    "U030N8RHURZ",
+                    "U0325QQQALR",
+                    "U030C4GTWA3"
+                ],
+                "count": 4
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U031QKGPNRK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U030M1LS1L2",
+                    "U0325QQQALR"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "58eebb3e-6aaa-4d39-a28b-bfed4b3050c0",
+        "type": "message",
+        "text": "It's a risk you take joining a start-up. I am not saying it's justified. But if you're looking for predictablity, you're looking at the wrong place.",
+        "user": "U02TTEFFU6B",
+        "ts": "1649649594.069439",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N4ek2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's a risk you take joining a start-up. I am not saying it's justified. But if you're looking for predictablity, you're looking at the wrong place."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649589551.397349",
+        "parent_user_id": "U03AHQURB98",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U031QKGPNRK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U03AW06L9CN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "253a961f-17dd-49cc-81ff-a67df5fc0317",
+        "type": "message",
+        "text": "Well yeah. We generally wish them all the best and let them go :smile:",
+        "user": "U03560PQ082",
+        "ts": "1649649605.865739",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1db32098d186",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-01\/3176023965474_1db32098d186ac873a3d_72.png",
+            "first_name": "Ahaan",
+            "real_name": "Ahaan Pandit",
+            "display_name": "Ahaan Pandit",
+            "team": "T02PFK13YLC",
+            "name": "ahaan.pandit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BiaO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well yeah. We generally wish them all the best and let them go "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649580288.318549",
+        "parent_user_id": "U030N8RHURZ"
+    },
+    {
+        "client_msg_id": "165329d2-9754-4f14-aac8-88bda16de18a",
+        "type": "message",
+        "text": "Absolutely a headache. You can't avoid that can you? Then there are folks who join and leave on 7 days, and some in couple of weeks and some in a month.\n\nI think the best a founder can do is to have a honest chat. If it's only about money then no bad blood. Everyone has the right to price their skills the way they want it. \n\nIf it's got to do with culture and reviews, CEO(s) should look internally and see what kind of folks thrive best. \n\nGiven today's situation (less supply more demand), everyone has got to treat employee Acquisition as equivalent to customer acquisition. \n\nIf you product (culture) is broken then your customers (employees) will leave and then ones who have offered you a contract will renegade. \n \nMy thoughts. \n\nAlso what the CEO did was just a show of power. The meaning of the post was I will and I can make you unemployable. Unfortunately it's a 2 way street.",
+        "user": "U02PDC4883V",
+        "ts": "1649649712.663979",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dm7I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Absolutely a headache. You can't avoid that can you? Then there are folks who join and leave on 7 days, and some in couple of weeks and some in a month.\n\nI think the best a founder can do is to have a honest chat. If it's only about money then no bad blood. Everyone has the right to price their skills the way they want it. \n\nIf it's got to do with culture and reviews, CEO(s) should look internally and see what kind of folks thrive best. \n\nGiven today's situation (less supply more demand), everyone has got to treat employee Acquisition as equivalent to customer acquisition. \n\nIf you product (culture) is broken then your customers (employees) will leave and then ones who have offered you a contract will renegade. \n \nMy thoughts. \n\nAlso what the CEO did was just a show of power. The meaning of the post was I will and I can make you unemployable. Unfortunately it's a 2 way street."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649580288.318549",
+        "parent_user_id": "U030N8RHURZ",
+        "reactions": [
+            {
+                "name": "point_up",
+                "users": [
+                    "U030SHA1S2W",
+                    "U02VA7QD8UB",
+                    "U030N8RHURZ",
+                    "U02U9C39MAA",
+                    "U02UY3EPQDA"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a5fe4d12-02b6-46d6-a7d5-8df279c01b10",
+        "type": "message",
+        "text": "Sometimes a video says more than words for me: I was reminded of this <https:\/\/www.youtube.com\/watch?v=sOB9B_q_C-8>\n\nIf naming and shaming was the founder’s objective, he sure did achieve that",
+        "user": "U031QKGPNRK",
+        "ts": "1649650900.374379",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=sOB9B_q_C-8",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/sOB9B_q_C-8\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/sOB9B_q_C-8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=sOB9B_q_C-8",
+                "fallback": "YouTube Video: udta teer",
+                "title": "udta teer",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=sOB9B_q_C-8",
+                "author_name": "sann7540",
+                "author_link": "https:\/\/www.youtube.com\/user\/sann7540",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dZi7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sometimes a video says more than words for me: I was reminded of this "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=sOB9B_q_C-8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nIf naming and shaming was the founder’s objective, he sure did achieve that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649580288.318549",
+        "parent_user_id": "U030N8RHURZ"
+    },
+    {
+        "type": "message",
+        "text": "&gt; Aditya Rajgarhia is probably the most pious and honorable person in the entire hiring industry of India.\nthis is how cults start lol",
+        "files": [
+            {
+                "id": "F03AR3139E2",
+                "created": 1649658673,
+                "timestamp": 1649658673,
+                "name": "Screenshot 2022-04-11 at 12.01.07 PM.png",
+                "title": "Screenshot 2022-04-11 at 12.01.07 PM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02U94HSBV4",
+                "editable": false,
+                "size": 120457,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03AR3139E2\/screenshot_2022-04-11_at_12.01.07_pm.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03AR3139E2\/download\/screenshot_2022-04-11_at_12.01.07_pm.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AR3139E2-f0685e98c9\/screenshot_2022-04-11_at_12.01.07_pm_64.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AR3139E2-f0685e98c9\/screenshot_2022-04-11_at_12.01.07_pm_80.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AR3139E2-f0685e98c9\/screenshot_2022-04-11_at_12.01.07_pm_360.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 328,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AR3139E2-f0685e98c9\/screenshot_2022-04-11_at_12.01.07_pm_480.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 438,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03AR3139E2-f0685e98c9\/screenshot_2022-04-11_at_12.01.07_pm_160.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "original_w": 538,
+                "original_h": 590,
+                "thumb_tiny": "AwAwACuspRtoCcgcnPWnFF\/uj86jh+\/1A+tTbSf4x+FMQzYPSk2DsKk8v\/ppTeP+eh\/I0AN8v2FRsMMam4\/56H8jULfeNACxfe6Zqb\/gA\/Soojh\/wqUuPrSGH\/AR+lJz\/dWjf7Ub\/agQhB9AKib7xqYvxxULfeNAx0X36mx\/tH86gjIDcjNSbkxnHWgB+Pc\/nSbcjkmm5XOMc03evoKYh5UDvj61C33jTt4phOTSGf\/Z",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U02U94HSBV4\/F03AR3139E2\/screenshot_2022-04-11_at_12.01.07_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03AR3139E2-e3137b69a8",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02U94HSBV4",
+        "display_as_bot": false,
+        "ts": "1649658714.786979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yWX",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Aditya Rajgarhia",
+                                "style": {
+                                    "unlink": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " is probably the most pious and honorable person in the entire hiring industry of India."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nthis is how cults start lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "0d6270b3-2fd9-48b6-a9b4-484ab92c64d1",
+        "thread_ts": "1649580288.318549",
+        "parent_user_id": "U030N8RHURZ"
+    },
+    {
+        "client_msg_id": "bb79d55d-98db-4c00-98c6-66b4f0cb0a6b",
+        "type": "message",
+        "text": "lmaooo you can like a person and the work they're doing, and still not go to their defense even when they're in the wrong. somehow it's all or nothing for everyone these days",
+        "user": "U030N8RHURZ",
+        "ts": "1649659066.473089",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b9e697887a24",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-17\/3118359252754_b9e697887a246674f4f1_72.jpg",
+            "first_name": "Murugappan",
+            "real_name": "Murugappan",
+            "display_name": "Muru",
+            "team": "T02PFK13YLC",
+            "name": "nappagurum",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M\/hY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lmaooo you can like a person and the work they're doing, and still not go to their defense even when they're in the wrong. somehow it's all or nothing for everyone these days"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649580288.318549",
+        "parent_user_id": "U030N8RHURZ",
+        "reactions": [
+            {
+                "name": "point_up_2",
+                "users": [
+                    "U02U94HSBV4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

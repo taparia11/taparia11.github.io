@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "d4451884-fad7-43d6-98f9-5b8fa12bcee3",
+        "type": "message",
+        "text": "what's with the copywriter and who's approving this....:no_mouth:",
+        "user": "U030M1LS1L2",
+        "ts": "1649657987.334379",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "46fe0b61f0df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-27\/3014387749574_46fe0b61f0df0a7ec710_72.png",
+            "first_name": "Falguni",
+            "real_name": "Falguni Jain",
+            "display_name": "Falguni Jain",
+            "team": "T02PFK13YLC",
+            "name": "falgunijain500",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6swm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what's with the copywriter and who's approving this...."
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "no_mouth"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648789862.739589",
+        "parent_user_id": "U0325QQQALR",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U0325QQQALR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

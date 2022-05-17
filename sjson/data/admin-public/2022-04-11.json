@@ -1,0 +1,51 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649661628.765889",
+        "user": "U03AQFPP9BL",
+        "text": "<@U03AQFPP9BL> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649663461.427429",
+        "user": "U03ABKDJQAD",
+        "text": "<@U03ABKDJQAD> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649663550.998749",
+        "user": "U033RUXVCAY",
+        "text": "<@U033RUXVCAY> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649664060.327119",
+        "user": "U02V8KAHXFD",
+        "text": "<@U02V8KAHXFD> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649664717.756319",
+        "user": "U02UM0VU8MQ",
+        "text": "<@U02UM0VU8MQ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649670464.100189",
+        "user": "U03A7KXT45S",
+        "text": "<@U03A7KXT45S> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649733293.755939",
+        "user": "U02V5HU4EP2",
+        "text": "<@U02V5HU4EP2> has joined the channel"
+    }
+]

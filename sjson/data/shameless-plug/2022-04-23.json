@@ -1,0 +1,66 @@
+[
+    {
+        "client_msg_id": "5ba8b903-b433-4406-bff4-23564eae00a9",
+        "type": "message",
+        "text": "Plugging this here only to get a conversation going. I am calling out the bluff on SEO - wrote this piece here explaining why B2B cos are better off doing other things than trying to work the SEO engines.\n\n<https:\/\/twitter.com\/AZenGuy\/status\/1518120302659932160>",
+        "user": "U02UQBQQBPD",
+        "ts": "1650783357.556919",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "83e0eb641124",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-20\/2979253536098_83e0eb641124b44e8910_72.png",
+            "first_name": "Mayank",
+            "real_name": "Mayank Jain",
+            "display_name": "Mayank",
+            "team": "T02PFK13YLC",
+            "name": "mayank",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/AZenGuy\/status\/1518120302659932160",
+                "ts": 1650783060,
+                "image_url": "https:\/\/pbs.twimg.com\/media\/FRFxqnVaUAI-gX6.jpg",
+                "image_width": 1200,
+                "image_height": 1150,
+                "image_bytes": 174048,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/AZenGuy\/status\/1518120302659932160",
+                "fallback": "<https:\/\/twitter.com\/AZenGuy|@AZenGuy>: :clown_face: Sunday honesty? SEO is dead. \n\nDon't let marketers and influencers fool you. \n\nFull piece here: <https:\/\/typeshare.co\/mayank\/posts\/-N0P14Sf47vzq7wmq0XA>\n\n#ship30for30 #marketing <https:\/\/pbs.twimg.com\/media\/FRFxqnVaUAI-gX6.jpg>",
+                "text": ":clown_face: Sunday honesty? SEO is dead. \n\nDon't let marketers and influencers fool you. \n\nFull piece here: <https:\/\/typeshare.co\/mayank\/posts\/-N0P14Sf47vzq7wmq0XA>\n\n#ship30for30 #marketing <https:\/\/pbs.twimg.com\/media\/FRFxqnVaUAI-gX6.jpg>",
+                "author_name": "Mayank 🚢",
+                "author_link": "https:\/\/twitter.com\/AZenGuy\/status\/1518120302659932160",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1490361631150571521\/AqRYpdbL_normal.jpg",
+                "author_subname": "@AZenGuy",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a\/Rju",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plugging this here only to get a conversation going. I am calling out the bluff on SEO - wrote this piece here explaining why B2B cos are better off doing other things than trying to work the SEO engines.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/AZenGuy\/status\/1518120302659932160"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

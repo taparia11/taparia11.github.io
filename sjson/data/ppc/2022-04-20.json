@@ -1,0 +1,379 @@
+[
+    {
+        "client_msg_id": "eb026dad-0639-422a-a319-bdaf72643191",
+        "type": "message",
+        "text": "Hi Parth,\nDMing you.",
+        "user": "U031BVBGHCK",
+        "ts": "1650442801.814789",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5dee7ce106e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-02\/3031358466535_5dee7ce106e9da50a485_72.jpg",
+            "first_name": "chintan",
+            "real_name": "chintan bavishi",
+            "display_name": "chintan bavishi",
+            "team": "T02PFK13YLC",
+            "name": "chintanbavishi596",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "637",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Parth,\nDMing you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650431805.025709",
+        "parent_user_id": "U02URS98P9B"
+    },
+    {
+        "client_msg_id": "5349be2f-7464-44df-bcf0-d1ee1e4c02c5",
+        "type": "message",
+        "text": "Thanks, Aniruddh and Chintan.",
+        "user": "U02URS98P9B",
+        "ts": "1650443133.169559",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g520bba92d58",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/520bba92d58d6cb3dac10ecae3515971.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Parth",
+            "real_name": "Parth",
+            "display_name": "Parth Shrivastava",
+            "team": "T02PFK13YLC",
+            "name": "parthshrivastava123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0PWL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, Aniruddh and Chintan."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650431805.025709",
+        "parent_user_id": "U02URS98P9B"
+    },
+    {
+        "client_msg_id": "6c291969-6735-4464-9326-336cbe48e754",
+        "type": "message",
+        "text": "has anyone used Time Decay attribution model in GADs - need help in understanding how its useful vs last click and other models",
+        "user": "U030SDYNX7V",
+        "ts": "1650445057.356269",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "dcaae4952765",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3019783298486_dcaae495276522b44a55_72.png",
+            "first_name": "Niranjan",
+            "real_name": "Niranjan Bala",
+            "display_name": "Niranjan Bala",
+            "team": "T02PFK13YLC",
+            "name": "nb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LNK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "has anyone used Time Decay attribution model in GADs - need help in understanding how its useful vs last click and other models"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650445057.356269",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1650476838.927629",
+        "reply_users": [
+            "U02USELSBRT",
+            "U030SDYNX7V"
+        ],
+        "replies": [
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650448413.124069"
+            },
+            {
+                "user": "U030SDYNX7V",
+                "ts": "1650476730.296499"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650476838.927629"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e729a17a-c5c6-4182-b78f-28b78aa487a8",
+        "type": "message",
+        "text": "i'm not sure if anyone can help you here. it is something you need to test and see if it fits your business.\n\ntry both models for 2 weeks each and see which one has a better correlation to actual conversions.\n\nSpend X amount for 2 weeks,\n\nModel 1 = 100 conversions\nModel 2 = 90 conversions\n\nnow plot a graph of daily spends vs conversions and look at correlation line.",
+        "user": "U02USELSBRT",
+        "ts": "1650448413.124069",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TpdZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i'm not sure if anyone can help you here. it is something you need to test and see if it fits your business.\n\ntry both models for 2 weeks each and see which one has a better correlation to actual conversions.\n\nSpend X amount for 2 weeks,\n\nModel 1 = 100 conversions\nModel 2 = 90 conversions\n\nnow plot a graph of daily spends vs conversions and look at correlation line."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650445057.356269",
+        "parent_user_id": "U030SDYNX7V",
+        "reactions": [
+            {
+                "name": "point_up_2",
+                "users": [
+                    "U032MN1BESJ",
+                    "U030SDYNX7V"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "14af5623-a737-42b0-8c7e-884e4e44ba17",
+        "type": "message",
+        "text": "<@U03AHQURB98>  For LinkedIn we can directly open the competitor LinkedIn page and check the activities including the ads. Is that any specific channel you are asking for?",
+        "user": "U02UPBP2012",
+        "ts": "1650471853.898159",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g28d61a3e25d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28d61a3e25d0f567fd4e0d07425a64f2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "Lal",
+            "real_name": "Lal K George",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "laalkgeorge",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ocHG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03AHQURB98"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  For LinkedIn we can directly open the competitor LinkedIn page and check the activities including the ads. Is that any specific channel you are asking for?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649914708.794839",
+        "parent_user_id": "U03AHQURB98",
+        "reactions": [
+            {
+                "name": "verified",
+                "users": [
+                    "U03AHQURB98"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "61e77e01-83f5-403d-a079-55f398fd95cb",
+        "type": "message",
+        "text": "the two people i was hoping to get a response responded. i was not even sure how \"time decay attribution\" model worked for sure.",
+        "user": "U030SDYNX7V",
+        "ts": "1650476730.296499",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "dcaae4952765",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3019783298486_dcaae495276522b44a55_72.png",
+            "first_name": "Niranjan",
+            "real_name": "Niranjan Bala",
+            "display_name": "Niranjan Bala",
+            "team": "T02PFK13YLC",
+            "name": "nb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LqcIp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the two people i was hoping to get a response responded. i was not even sure how \"time decay attribution\" model worked for sure."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650445057.356269",
+        "parent_user_id": "U030SDYNX7V"
+    },
+    {
+        "client_msg_id": "9f13c72b-f4e1-49f1-b202-33a7b0bde96e",
+        "type": "message",
+        "text": "time decay is simply a fancy way to say that the model assigns most importance to first touch, then slightly less to second touch, even lesser to third touch and so on. whereas last touch is 100% on the last touchpoint.",
+        "user": "U02USELSBRT",
+        "ts": "1650476838.927629",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02USELSBRT",
+            "ts": "1650476851.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BvLN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "time decay is simply a fancy way to say that the model assigns most importance to first touch, then slightly less to second touch, even lesser to third touch and so on. whereas last touch is 100% on the last touchpoint."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650445057.356269",
+        "parent_user_id": "U030SDYNX7V"
+    },
+    {
+        "client_msg_id": "5eb31b57-8ebf-452e-931c-dd65aced0e45",
+        "type": "message",
+        "text": "We are using that <@U02UPBP2012>. But that's only 10! Also we're looking for a platform where we can track cross channel too!",
+        "user": "U03AHQURB98",
+        "ts": "1650507965.890369",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1e75ac50be49",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3354970724517_1e75ac50be49acccd7cf_72.jpg",
+            "first_name": "Anindya",
+            "real_name": "Anindya Chakraborty",
+            "display_name": "Anindya Chakraborty",
+            "team": "T02PFK13YLC",
+            "name": "anindya.8336010281",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aeH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We are using that "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02UPBP2012"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". But that's only 10! Also we're looking for a platform where we can track cross channel too!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649914708.794839",
+        "parent_user_id": "U03AHQURB98"
+    }
+]

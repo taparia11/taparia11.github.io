@@ -1,0 +1,224 @@
+[
+    {
+        "client_msg_id": "5582d5ac-ba4b-4089-b20c-0afe2000ffa4",
+        "type": "message",
+        "text": "Anyone participating in SHRM India next month? I need help.",
+        "user": "U02ULN6EFNV",
+        "ts": "1650536364.518019",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g2796bce497e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2796bce497e03edc08c2719052eaae8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Chirayu",
+            "real_name": "Chirayu (Leena AI)",
+            "display_name": "Chirayu",
+            "team": "T02PFK13YLC",
+            "name": "akotiya.chirayu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XjDMy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone participating in SHRM India next month? I need help."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650536364.518019",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650536712.738089",
+        "reply_users": [
+            "U02UEA78EDU"
+        ],
+        "replies": [
+            {
+                "user": "U02UEA78EDU",
+                "ts": "1650536712.738089"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9CC2575F-842E-4AEB-AE1A-2AC5519A856A",
+        "type": "message",
+        "text": "Yeah. My company.. ",
+        "user": "U02UEA78EDU",
+        "ts": "1650536712.738089",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "32f13b0017b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2966347366598_32f13b0017b5c8afd9c4_72.jpg",
+            "first_name": "Shubham",
+            "real_name": "Shubham Bhatia",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "shubhammbhatia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JTlCF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah. My company.. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650536364.518019",
+        "parent_user_id": "U02ULN6EFNV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02ULN6EFNV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b29ab1d3-db27-4f73-9427-430f34757a42",
+        "type": "message",
+        "text": "Following this thread",
+        "user": "U0363DZU3QF",
+        "ts": "1650548599.908319",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b6e781296de3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-13\/3381574854021_b6e781296de3cbc53491_72.png",
+            "first_name": "Swaroop",
+            "real_name": "Swaroop Patil",
+            "display_name": "Swaroop Patil",
+            "team": "T02PFK13YLC",
+            "name": "swaroop705",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xk1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Following this thread"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650512983.003829",
+        "parent_user_id": "U02V7TLU5HT"
+    },
+    {
+        "client_msg_id": "962C5D31-33C2-40C2-811D-72C2EFE26716",
+        "type": "message",
+        "text": "Why are you not doing it inhouse?",
+        "user": "U03AJ8BHKNC",
+        "ts": "1650597773.523329",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "2133b8282666",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-06\/3353492600340_2133b828266683f99ee6_72.png",
+            "first_name": "Doulos",
+            "real_name": "Doulos Jose",
+            "display_name": "dj",
+            "team": "T02PFK13YLC",
+            "name": "mail",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uvLo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Why are you not doing it inhouse?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650512983.003829",
+        "parent_user_id": "U02V7TLU5HT"
+    },
+    {
+        "client_msg_id": "20e26ff9-b507-41d9-a972-4fe12629776c",
+        "type": "message",
+        "text": "following",
+        "user": "U03BZJ0KK1R",
+        "ts": "1650607593.708629",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "043af8ffe832",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-19\/3431356209440_043af8ffe832522f4bd9_72.png",
+            "first_name": "kinjal",
+            "real_name": "kinjal vora",
+            "display_name": "kinjal vora",
+            "team": "T02PFK13YLC",
+            "name": "kinj28",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fvDc2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "following"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650512983.003829",
+        "parent_user_id": "U02V7TLU5HT"
+    }
+]

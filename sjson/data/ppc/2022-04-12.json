@@ -1,0 +1,290 @@
+[
+    {
+        "client_msg_id": "c6cf830f-cc9e-4d4e-9101-fa96b6f05de9",
+        "type": "message",
+        "text": "Hi folks\nCurrently researching about this, would appreciate inputs:\nWhich kind of videos have you seen doing well for top of the funnel or brand awareness ad campaigns? Context is B2B SaaS.\nAny examples of good videos you have come across that fit the bill?",
+        "user": "U032WAF0HHC",
+        "ts": "1649757513.756809",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e7d5c6d6abee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-14\/3105011799986_e7d5c6d6abeef36ad563_72.jpg",
+            "first_name": "Chinmay",
+            "real_name": "Chinmay Naik",
+            "display_name": "Chinmay Naik",
+            "team": "T02PFK13YLC",
+            "name": "chinmay",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U032WAF0HHC",
+            "ts": "1649760217.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0zGj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi folks\nCurrently researching about this, would appreciate inputs:\nWhich kind of videos have you seen doing well for top of the funnel or brand awareness ad campaigns? Context is B2B SaaS.\nAny examples of good videos you have come across that fit the bill?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649757513.756809",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1649760504.340639",
+        "reply_users": [
+            "U02USELSBRT",
+            "U031BVBGHCK",
+            "U031KD0PNTX"
+        ],
+        "replies": [
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649757995.268219"
+            },
+            {
+                "user": "U031BVBGHCK",
+                "ts": "1649759302.773289"
+            },
+            {
+                "user": "U031KD0PNTX",
+                "ts": "1649760504.340639"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ebba2e43-bcf2-410a-b521-92099138412f",
+        "type": "message",
+        "text": "any kind of education related videos is good for top of the funnel. Moz used to do these whiteboard fridays, a good example of TOF content.",
+        "user": "U02USELSBRT",
+        "ts": "1649757995.268219",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1aHG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "any kind of education related videos is good for top of the funnel. Moz used to do these whiteboard fridays, a good example of TOF content."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649757513.756809",
+        "parent_user_id": "U032WAF0HHC",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U032WAF0HHC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7aad0e05-534e-40be-9f47-dac6ed9063a3",
+        "type": "message",
+        "text": "+1 to Aniruddh.\nAlso for B2C, known faces\/influencers recommending product works well for TOF.",
+        "user": "U031BVBGHCK",
+        "ts": "1649759302.773289",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5dee7ce106e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-02\/3031358466535_5dee7ce106e9da50a485_72.jpg",
+            "first_name": "chintan",
+            "real_name": "chintan bavishi",
+            "display_name": "chintan bavishi",
+            "team": "T02PFK13YLC",
+            "name": "chintanbavishi596",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U031BVBGHCK",
+            "ts": "1649759374.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qbD2t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "+1 to Aniruddh.\nAlso for B2C, known faces\/influencers recommending product works well for TOF."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649757513.756809",
+        "parent_user_id": "U032WAF0HHC",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U032WAF0HHC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a9e1db74-cc2c-410f-8543-b8cb1cefa163",
+        "type": "message",
+        "text": "For ad campaigns, try something like what click up <https:\/\/www.youtube.com\/watch?v=A_cf3MSSV9w&amp;list=PLxRzBtka0l4ygCToDMb0ejJ4yChkeSY0X|does>. They hold attention, talks about problems and solutions in unexpected ways!",
+        "user": "U031KD0PNTX",
+        "ts": "1649760504.340639",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "d8e3a1cc6ed8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3305635315237_d8e3a1cc6ed88c5c929a_72.jpg",
+            "first_name": "Anand",
+            "real_name": "Anand",
+            "display_name": "theanand",
+            "team": "T02PFK13YLC",
+            "name": "anand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F2EE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For ad campaigns, try something like what click up "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=A_cf3MSSV9w&list=PLxRzBtka0l4ygCToDMb0ejJ4yChkeSY0X",
+                                "text": "does"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". They hold attention, talks about problems and solutions in unexpected ways!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649757513.756809",
+        "parent_user_id": "U032WAF0HHC",
+        "reactions": [
+            {
+                "name": "anatomical_heart",
+                "users": [
+                    "U02USELSBRT",
+                    "U02V75V0YBX",
+                    "U02UM0VU8MQ",
+                    "U02V22EUXM4"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1CA18E5F-4436-48B4-8F92-6D2586CE775D",
+        "type": "message",
+        "text": "Hey people, I wanted to check if there are any tools or agencies that can help with a list of Instagram businesses. Know of any? ",
+        "user": "U030L29FSN4",
+        "ts": "1649773532.008639",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "d97a45ae1d77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2989665597174_d97a45ae1d772b462a1f_72.jpg",
+            "first_name": "Rapti",
+            "real_name": "Rapti Gupta",
+            "display_name": "Rapti",
+            "team": "T02PFK13YLC",
+            "name": "amberrapti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oRHC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey people, I wanted to check if there are any tools or agencies that can help with a list of Instagram businesses. Know of any? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649773532.008639",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1649855597.536109",
+        "reply_users": [
+            "U037QSG25PG",
+            "U030L29FSN4"
+        ],
+        "replies": [
+            {
+                "user": "U037QSG25PG",
+                "ts": "1649851158.373339"
+            },
+            {
+                "user": "U030L29FSN4",
+                "ts": "1649855597.536109"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

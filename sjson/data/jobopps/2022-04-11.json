@@ -1,0 +1,530 @@
+[
+    {
+        "client_msg_id": "0ba59990-b894-4ca9-b6c9-328f3669a8ab",
+        "type": "message",
+        "text": "Location?",
+        "user": "U0362RG67F0",
+        "ts": "1649671539.857429",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "gc5e741738b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c5e741738b199ac42b19b08e2d8f065a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Nikita",
+            "real_name": "Nikita Motwani",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "nikhita.m05",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "raTI4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Location?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649309922.971029",
+        "parent_user_id": "U033R6MA1DY"
+    },
+    {
+        "client_msg_id": "4938e6f2-0b70-4ffe-9b21-777594c6392d",
+        "type": "message",
+        "text": "Folks, I'm hiring a content marketer for my team at 100ms. Here's the JD: <https:\/\/www.linkedin.com\/jobs\/view\/3013664921|https:\/\/www.linkedin.com\/jobs\/view\/3013664921>",
+        "user": "U03689EJ0U9",
+        "ts": "1649677244.529529",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "84b68ad98147",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-20\/3428091227601_84b68ad9814733d7823f_72.jpg",
+            "first_name": "Protim",
+            "real_name": "Protim Bhaumik",
+            "display_name": "Pro",
+            "team": "T02PFK13YLC",
+            "name": "protim.bhaumik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lY+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Folks, I'm hiring a content marketer for my team at 100ms. Here's the JD: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/jobs\/view\/3013664921",
+                                "text": "https:\/\/www.linkedin.com\/jobs\/view\/3013664921"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "48d4941e-db71-41db-9cf8-7e59be68ce0b",
+        "type": "message",
+        "text": "Anyone having issues with linkedin hiring. Any card i add to the account is being rejected.",
+        "user": "U038L2K4R08",
+        "ts": "1649678952.822749",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bce1208af1c8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-21\/3265436469957_bce1208af1c8b401d3db_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris John",
+            "display_name": "Chris John",
+            "team": "T02PFK13YLC",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KQKn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone having issues with linkedin hiring. Any card i add to the account is being rejected."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "AD2468CC-644C-4BC9-B68E-AEB49067F124",
+        "type": "message",
+        "text": "Guys I'm hiring for a web developer (no code devs please excuse). Knowledge of front end tech, js, html will be great. Webflow knowledge is also welcome. 4-6 yes exp. Know of anyone? If we end up hiring f your referral, I'll send you a goodie bag that'll be worth your while. ",
+        "user": "U02VBNKU9T6",
+        "ts": "1649680469.346369",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "cb0a1d3d83f2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/3008104796193_cb0a1d3d83f2e60942d4_72.jpg",
+            "first_name": "Ketan",
+            "real_name": "Ketan Pandit",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "ketan.pandit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZEG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Guys I'm hiring for a web developer (no code devs please excuse). Knowledge of front end tech, js, html will be great. Webflow knowledge is also welcome. 4-6 yes exp. Know of anyone? If we end up hiring f your referral, I'll send you a goodie bag that'll be worth your while. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "72bfd6b5-dcc0-4e65-a9b6-00e5ceb7b825",
+        "type": "message",
+        "text": "Folks, hiring for multiple roles for marketing team at <http:\/\/linkedin.com\/company\/bureauidentity|Bureau>. We're series A funded, and working in very interesting space: Risk and Fraud.\n\n1. Digital Marketing Specialist (4+ years)\n2. Demand Generation Manager (4+ years, B2B)\n3. Community Manager and Marketer (2+ years)\nAny leads would be appreciated. Please DM.\nThanks!",
+        "user": "U02URS98P9B",
+        "ts": "1649736452.896499",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g520bba92d58",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/520bba92d58d6cb3dac10ecae3515971.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Parth",
+            "real_name": "Parth",
+            "display_name": "Parth Shrivastava",
+            "team": "T02PFK13YLC",
+            "name": "parthshrivastava123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X6N1v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Folks, hiring for multiple roles for marketing team at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/linkedin.com\/company\/bureauidentity",
+                                "text": "Bureau"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". We're series A funded, and working in very interesting space: Risk and Fraud.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Digital Marketing Specialist (4+ years)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Demand Generation Manager (4+ years, B2B)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Community Manager and Marketer (2+ years)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nAny leads would be appreciated. Please DM.\nThanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649736452.896499",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1649827290.053199",
+        "reply_users": [
+            "U02V9QUDK1Q",
+            "U02URS98P9B",
+            "U031G83CGCQ"
+        ],
+        "replies": [
+            {
+                "user": "U02V9QUDK1Q",
+                "ts": "1649737864.288249"
+            },
+            {
+                "user": "U02URS98P9B",
+                "ts": "1649738739.962779"
+            },
+            {
+                "user": "U031G83CGCQ",
+                "ts": "1649819355.884099"
+            },
+            {
+                "user": "U02URS98P9B",
+                "ts": "1649827290.053199"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02V9QUDK1Q",
+                    "U031P3UUGN4",
+                    "U037UUE6TV3",
+                    "U0379TDK6NM"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "455d149c-abe1-43bc-93b4-7bc9ed1c313e",
+        "type": "message",
+        "text": "Solid founding team, and solving a BIG problem - would recommend this company :white_check_mark:",
+        "user": "U02V9QUDK1Q",
+        "ts": "1649737864.288249",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8140d54c5a70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2981230435879_8140d54c5a7085ca9412_72.jpg",
+            "first_name": "Abhash",
+            "real_name": "Abhash Kumar",
+            "display_name": "Abhash",
+            "team": "T02PFK13YLC",
+            "name": "abhash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KpE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Solid founding team, and solving a BIG problem - would recommend this company "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649736452.896499",
+        "parent_user_id": "U02URS98P9B",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02URS98P9B",
+                    "U031T1VCSM9"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3E9D161C-AF12-4385-996F-3EF64F0F234C",
+        "type": "message",
+        "text": "So kind of you, Abhash. Thanks for the shout-out.",
+        "user": "U02URS98P9B",
+        "ts": "1649738739.962779",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g520bba92d58",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/520bba92d58d6cb3dac10ecae3515971.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Parth",
+            "real_name": "Parth",
+            "display_name": "Parth Shrivastava",
+            "team": "T02PFK13YLC",
+            "name": "parthshrivastava123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v=OC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So kind of you, Abhash. Thanks for the shout-out."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649736452.896499",
+        "parent_user_id": "U02URS98P9B"
+    },
+    {
+        "client_msg_id": "22acc75b-b4cc-4859-a3af-9fd556ac2d74",
+        "type": "message",
+        "text": "Hi Everyone,\n\nEduGorilla is hiring for multiple roles in the Marketing Team (Ecommerce Marketing, Performance Marketing, Affiliate Marketing, etc.).\n\nLocation - Lucknow (On-site\/Hybrid), Full-time\n\nInterested candidates can ping me on my email.\n<mailto:Harshwardhan@edugorilla.org|Harshwardhan@edugorilla.org>",
+        "user": "U03AEBRAQ4D",
+        "ts": "1649740019.106289",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "gf508de2a8de",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f508de2a8dece1efdf2b23613bc3dc11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Harshwardhan",
+            "real_name": "Harshwardhan Chowdhry",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "harshwardhan.chowdhry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PxZ=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Everyone,\n\nEduGorilla is hiring for multiple roles in the Marketing Team (Ecommerce Marketing, Performance Marketing, Affiliate Marketing, etc.).\n\nLocation - Lucknow (On-site\/Hybrid), Full-time\n\nInterested candidates can ping me on my email.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:Harshwardhan@edugorilla.org",
+                                "text": "Harshwardhan@edugorilla.org"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4c6f5df3-78f3-48ed-9fee-21f96bf6d8cb",
+        "type": "message",
+        "text": "Hi everyone,\nWe here at <http:\/\/Zeda.io|Zeda.io> are building a platform for Product teams to enable them to build better products. We have a well established and fast growing community of Product enthusiasts called the \"<https:\/\/zeda.blog\/|ProductCafe>\". We're looking for marketing enthusiasts to help us in the following roles -\n\n1. Content Marketing Manager (2-6 years)\n2. Product Marketing Manager (2-6 years)\nYou can DM me for more details. Cheers!",
+        "user": "U032NR03DG9",
+        "ts": "1649744156.585149",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "99ea75dc1060",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-09\/3078221523714_99ea75dc10600e791270_72.png",
+            "first_name": "Kshitij",
+            "real_name": "Kshitij Sharma",
+            "display_name": "Kshitij Sharma",
+            "team": "T02PFK13YLC",
+            "name": "kshitij.sharma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7ya1O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone,\nWe here at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Zeda.io",
+                                "text": "Zeda.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": " are building a platform for Product teams to enable them to build better products. We have a well established and fast growing community of Product enthusiasts called the \""
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zeda.blog\/",
+                                "text": "ProductCafe"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\". We're looking for marketing enthusiasts to help us in the following roles -\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Content Marketing Manager (2-6 years)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Product Marketing Manager (2-6 years)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nYou can DM me for more details. Cheers!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U0379TDK6NM"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

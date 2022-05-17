@@ -1,0 +1,337 @@
+[
+    {
+        "client_msg_id": "9bb7cab7-6f1d-4713-90a2-4930865120a4",
+        "type": "message",
+        "text": "Hola, Anyone here who can recommend an agency to help with outbound Lead Gen (aka set up a discovery call) thru multi channel outbound for the below regions:\n1. North America\n2. UK\n3. Germany\n4. Israel",
+        "user": "U03B6AGE0HE",
+        "ts": "1649911291.939689",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "306c7bd13fbe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-14\/3375621829495_306c7bd13fbe2fbf40e2_72.png",
+            "first_name": "Pritesh",
+            "real_name": "Pritesh Vora",
+            "display_name": "Pritesh Vora",
+            "team": "T02PFK13YLC",
+            "name": "pritesh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03B6AGE0HE",
+            "ts": "1649911455.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4\/U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola, Anyone here who can recommend an agency to help with outbound Lead Gen (aka set up a discovery call) thru multi channel outbound for the below regions:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "North America"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "UK"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Germany"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Israel"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649911291.939689",
+        "reply_count": 13,
+        "reply_users_count": 6,
+        "latest_reply": "1650472622.013249",
+        "reply_users": [
+            "U02U9C2UTRC",
+            "U03B6AGE0HE",
+            "U03560PQ082",
+            "U030PQRLHEH",
+            "U030E27CBB3",
+            "U036NSXKBPZ"
+        ],
+        "replies": [
+            {
+                "user": "U02U9C2UTRC",
+                "ts": "1649911346.828479"
+            },
+            {
+                "user": "U03B6AGE0HE",
+                "ts": "1649911448.685889"
+            },
+            {
+                "user": "U03560PQ082",
+                "ts": "1649912285.531999"
+            },
+            {
+                "user": "U03B6AGE0HE",
+                "ts": "1649913767.404889"
+            },
+            {
+                "user": "U030PQRLHEH",
+                "ts": "1650043041.592159"
+            },
+            {
+                "user": "U03560PQ082",
+                "ts": "1650080028.702719"
+            },
+            {
+                "user": "U030PQRLHEH",
+                "ts": "1650084652.835469"
+            },
+            {
+                "user": "U030E27CBB3",
+                "ts": "1650298773.571289"
+            },
+            {
+                "user": "U03B6AGE0HE",
+                "ts": "1650304981.601999"
+            },
+            {
+                "user": "U030E27CBB3",
+                "ts": "1650336262.029419"
+            },
+            {
+                "user": "U03B6AGE0HE",
+                "ts": "1650433078.447179"
+            },
+            {
+                "user": "U036NSXKBPZ",
+                "ts": "1650459636.874689"
+            },
+            {
+                "user": "U030E27CBB3",
+                "ts": "1650472622.013249"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f18da3b6-bf86-4259-b37d-40ae44f8de0c",
+        "type": "message",
+        "text": "NA which country?",
+        "user": "U02U9C2UTRC",
+        "ts": "1649911346.828479",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bb0b302b31d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2968124554819_bb0b302b31d0bbbe0d0a_72.png",
+            "first_name": "Anurag",
+            "real_name": "Anurag Shukla",
+            "display_name": "Anurag Shukla",
+            "team": "T02PFK13YLC",
+            "name": "anurag.shukla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ineO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "NA which country?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649911291.939689",
+        "parent_user_id": "U03B6AGE0HE"
+    },
+    {
+        "client_msg_id": "c2ecce3e-b2b8-4729-a8dc-783626809244",
+        "type": "message",
+        "text": "North America",
+        "user": "U03B6AGE0HE",
+        "ts": "1649911448.685889",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "306c7bd13fbe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-14\/3375621829495_306c7bd13fbe2fbf40e2_72.png",
+            "first_name": "Pritesh",
+            "real_name": "Pritesh Vora",
+            "display_name": "Pritesh Vora",
+            "team": "T02PFK13YLC",
+            "name": "pritesh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rv=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "North America"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649911291.939689",
+        "parent_user_id": "U03B6AGE0HE"
+    },
+    {
+        "client_msg_id": "3be1f0f0-d17f-41b1-a12b-42510e54905a",
+        "type": "message",
+        "text": "Leadle. Let me know I can make an intro :slightly_smiling_face:",
+        "user": "U03560PQ082",
+        "ts": "1649912285.531999",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1db32098d186",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-01\/3176023965474_1db32098d186ac873a3d_72.png",
+            "first_name": "Ahaan",
+            "real_name": "Ahaan Pandit",
+            "display_name": "Ahaan Pandit",
+            "team": "T02PFK13YLC",
+            "name": "ahaan.pandit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03560PQ082",
+            "ts": "1649912304.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DSoc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Leadle. Let me know I can make an intro "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649911291.939689",
+        "parent_user_id": "U03B6AGE0HE",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03B6AGE0HE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0af87c06-1058-41d7-99b4-901eaf3e4e66",
+        "type": "message",
+        "text": "<@U03560PQ082> would be great. pls do. Thanks.",
+        "user": "U03B6AGE0HE",
+        "ts": "1649913767.404889",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "306c7bd13fbe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-14\/3375621829495_306c7bd13fbe2fbf40e2_72.png",
+            "first_name": "Pritesh",
+            "real_name": "Pritesh Vora",
+            "display_name": "Pritesh Vora",
+            "team": "T02PFK13YLC",
+            "name": "pritesh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n3p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03560PQ082"
+                            },
+                            {
+                                "type": "text",
+                                "text": " would be great. pls do. Thanks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649911291.939689",
+        "parent_user_id": "U03B6AGE0HE"
+    }
+]

@@ -1,0 +1,1338 @@
+[
+    {
+        "client_msg_id": "737faee0-fcae-47e4-a197-23b8443e9bb0",
+        "type": "message",
+        "text": "After trying multiple different ways like\n\nTrello + Google docs\nBasecamp\nSlack + Notion\n\nMy team feels, having a google sheet is the best way to manage the whole process.\n\nAlthough we still use multiple different options for communication, payments etc but most of the work is done through\n\nGoogle sheets + docs",
+        "user": "U033RUXVCAY",
+        "ts": "1650441817.506659",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "eecae6570a19",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-18\/3149477154304_eecae6570a19ea1b9b9d_72.jpg",
+            "first_name": "Divyank",
+            "real_name": "Divyank Jain",
+            "display_name": "Divyank Jain",
+            "team": "T02PFK13YLC",
+            "name": "divyankjn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U033RUXVCAY",
+            "ts": "1650445795.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lwkjk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "After trying multiple different ways like\n\nTrello + Google docs\nBasecamp\nSlack + Notion\n\nMy team feels, having a google sheet is the best way to manage the whole process.\n\nAlthough we still use multiple different options for communication, payments etc but most of the work is done through\n\nGoogle sheets + docs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650423179.039629",
+        "parent_user_id": "U039X1ZS1QA"
+    },
+    {
+        "client_msg_id": "60bc733a-5c6b-4919-a8d0-73d5c71321fc",
+        "type": "message",
+        "text": "Should content writers own distribution or should content distribution be owned by an independent person?",
+        "user": "U02UUCE1ASD",
+        "ts": "1650444831.369729",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8fc0ff2b8ed7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-22\/3425444312242_8fc0ff2b8ed7f97f960d_72.jpg",
+            "first_name": "Sunil",
+            "real_name": "Sunil Neurgaonkar",
+            "display_name": "Sunil",
+            "team": "T02PFK13YLC",
+            "name": "sunilneurgaonkar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ILAXv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Should content writers own distribution or should content distribution be owned by an independent person?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650444831.369729",
+        "reply_count": 12,
+        "reply_users_count": 11,
+        "latest_reply": "1650479515.264549",
+        "reply_users": [
+            "U03A5S0KQMA",
+            "U033RUXVCAY",
+            "U02USELSBRT",
+            "U02UUCE1ASD",
+            "U02U94HSBV4",
+            "U02V9MF7V19",
+            "U030KV8R8RL",
+            "U02VA7QD8UB",
+            "U032MN1BESJ",
+            "U032RT8V2M8",
+            "U030E27CBB3"
+        ],
+        "replies": [
+            {
+                "user": "U03A5S0KQMA",
+                "ts": "1650444971.435679"
+            },
+            {
+                "user": "U033RUXVCAY",
+                "ts": "1650445159.488539"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650445279.830769"
+            },
+            {
+                "user": "U02UUCE1ASD",
+                "ts": "1650445362.847119"
+            },
+            {
+                "user": "U02U94HSBV4",
+                "ts": "1650445737.014459"
+            },
+            {
+                "user": "U02V9MF7V19",
+                "ts": "1650453461.946379"
+            },
+            {
+                "user": "U030KV8R8RL",
+                "ts": "1650453760.452989"
+            },
+            {
+                "user": "U02VA7QD8UB",
+                "ts": "1650457150.086799"
+            },
+            {
+                "user": "U032MN1BESJ",
+                "ts": "1650459714.735259"
+            },
+            {
+                "user": "U032RT8V2M8",
+                "ts": "1650465458.055589"
+            },
+            {
+                "user": "U030E27CBB3",
+                "ts": "1650474205.999859"
+            },
+            {
+                "user": "U02UUCE1ASD",
+                "ts": "1650479515.264549"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "B360B42A-4E95-40A9-BD5B-219942A4FFDB",
+        "type": "message",
+        "text": "It's ideal that the writers figure this piece out themselves. They'd also know what works and what doesn't for every platform. End-to-end.",
+        "user": "U03A5S0KQMA",
+        "ts": "1650444971.435679",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "88e919ee0538",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3345884762756_88e919ee053802facac0_72.jpg",
+            "first_name": "Sampath",
+            "real_name": "Sampath Putrevu",
+            "display_name": "Sampath Putrevu",
+            "team": "T02PFK13YLC",
+            "name": "sampath",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "np9zF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's ideal that the writers figure this piece out themselves. They'd also know what works and what doesn't for every platform. End-to-end."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650444831.369729",
+        "parent_user_id": "U02UUCE1ASD"
+    },
+    {
+        "client_msg_id": "7ee5832e-cc0e-4ec2-b662-a72ee372f840",
+        "type": "message",
+        "text": "In the short run, writers can do the distribution too. But in the long run strategy, creation and distribution are separate things and need independent people to do so.\n\nA combination of someone doing two out of three is possible too.",
+        "user": "U033RUXVCAY",
+        "ts": "1650445159.488539",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "eecae6570a19",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-18\/3149477154304_eecae6570a19ea1b9b9d_72.jpg",
+            "first_name": "Divyank",
+            "real_name": "Divyank Jain",
+            "display_name": "Divyank Jain",
+            "team": "T02PFK13YLC",
+            "name": "divyankjn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3C7Y2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In the short run, writers can do the distribution too. But in the long run strategy, creation and distribution are separate things and need independent people to do so.\n\nA combination of someone doing two out of three is possible too."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650444831.369729",
+        "parent_user_id": "U02UUCE1ASD",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02UUCE1ASD",
+                    "U03AF5Y7E6S"
+                ],
+                "count": 2
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02U94HSBV4",
+                    "U038GCYAUB1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "93C94030-2506-4978-832C-DA6DD76EF9B4",
+        "type": "message",
+        "text": "Writing and distribution should be separate pieces owned by separate people. Never mix the two.",
+        "user": "U02USELSBRT",
+        "ts": "1650445279.830769",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wDTLS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Writing and distribution should be separate pieces owned by separate people. Never mix the two."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650444831.369729",
+        "parent_user_id": "U02UUCE1ASD",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U033RUXVCAY",
+                    "U02UUCE1ASD"
+                ],
+                "count": 2
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02U94HSBV4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02UFCPL84F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "60fc4258-8b4d-4206-9a46-4a50c06bc4ca",
+        "type": "message",
+        "text": "Thanks. I’m trying to settle a bet with someone and want to know what most people think about this.\n\nMy thinking it it should always be separate. Because I’m a terrible content writer but always focused on distribution. <@U02U94HSBV4> can verify haha :smile:",
+        "user": "U02UUCE1ASD",
+        "ts": "1650445362.847119",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8fc0ff2b8ed7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-22\/3425444312242_8fc0ff2b8ed7f97f960d_72.jpg",
+            "first_name": "Sunil",
+            "real_name": "Sunil Neurgaonkar",
+            "display_name": "Sunil",
+            "team": "T02PFK13YLC",
+            "name": "sunilneurgaonkar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02UUCE1ASD",
+            "ts": "1650445505.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z0urv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks. I’m trying to settle a bet with someone and want to know what most people think about this.\n\nMy thinking it it should always be separate. Because I’m a terrible content writer but always focused on distribution. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02U94HSBV4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can verify haha "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650444831.369729",
+        "parent_user_id": "U02UUCE1ASD",
+        "reactions": [
+            {
+                "name": "smile",
+                "users": [
+                    "U02U94HSBV4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "12226a2a-2c64-4316-bd51-300939b2c998",
+        "type": "message",
+        "text": "~writers~ marketers :D\n\nif you want to scale and execute faster, different owners for sure – whether the distribution sits within content marketing or with digital marketing can be an interesting convo\n\nif you’re starting from scratch and have a smaller team, you can have an overlap till you’ve experimented enough with channels, ICPs, processes, etc, but it isnt sustainable\n\nthat being said, you cant* have creators and distributors working in silos cause it will lead to finger pointing and blame games :p",
+        "user": "U02U94HSBV4",
+        "ts": "1650445737.014459",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e0f144e6826c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2991564885808_e0f144e6826cc213d921_72.jpg",
+            "first_name": "Pulkit",
+            "real_name": "Pulkit Jain",
+            "display_name": "pulkit",
+            "team": "T02PFK13YLC",
+            "name": "pulkitjain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02U94HSBV4",
+            "ts": "1650445856.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QqO=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "writers",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " marketers :D\n\nif you want to scale and execute faster, different owners for sure – whether the distribution sits within content marketing or with digital marketing can be an interesting convo\n\nif you’re starting from scratch and have a smaller team, you can have an overlap till you’ve experimented enough with channels, ICPs, processes, etc, but it isnt sustainable\n\nthat being said, you cant* have creators and distributors working in silos cause it will lead to finger pointing and blame games :p"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650444831.369729",
+        "parent_user_id": "U02UUCE1ASD",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02UUCE1ASD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e0b5de82-2f5f-4b38-8fff-1a27731ebb2f",
+        "type": "message",
+        "text": "I am using Trello + Google docs\nWorks for me.\nAlso I have seen notion work for many.",
+        "user": "U03BZJ0KK1R",
+        "ts": "1650445759.184399",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "043af8ffe832",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-19\/3431356209440_043af8ffe832522f4bd9_72.png",
+            "first_name": "kinjal",
+            "real_name": "kinjal vora",
+            "display_name": "kinjal vora",
+            "team": "T02PFK13YLC",
+            "name": "kinj28",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tuH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am using Trello + Google docs\nWorks for me.\nAlso I have seen notion work for many."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650423179.039629",
+        "parent_user_id": "U039X1ZS1QA"
+    },
+    {
+        "client_msg_id": "e16658cf-916c-4723-9034-069e8586bb1a",
+        "type": "message",
+        "text": "I think it depends on the interest level of the writer and if he's looking to transition into a role like a content marketer.\n\nTo be honest, companies need to think about promotion even before the article itself. Irrespective of whether its owning distribution, the writer needs to be in sync with the distribution strategy so that he can make changes accordingly.\n\nFor example, if you want a content piece to rank on Google, you need to identify keywords, do competitor research and more. This will help you gauge the effort required to get first page rankings.\n\nSimilarly, if you're looking to create buzz on social media, you need to identify the right audience group, check what's trending and speak to few people to get their insights. This will be very helpful in selecting the right topic.\n\nTo summarise, if content writers can own distribution, nothing like it. However, even they don't they need to be in alignment with the distribution strategy so that they can make changes to the content.\n\nThis thread might be useful.\n<https:\/\/twitter.com\/ihimanshu_gupta\/status\/1415308338783424517>",
+        "user": "U02V9MF7V19",
+        "ts": "1650453461.946379",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g896ea09bb33",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/896ea09bb337057df6b2bb91c5f02c95.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Himanshu",
+            "real_name": "Himanshu Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "blogrags",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02V9MF7V19",
+            "ts": "1650453503.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/ihimanshu_gupta\/status\/1415308338783424517",
+                "ts": 1626270777,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/ihimanshu_gupta\/status\/1415308338783424517",
+                "fallback": "<https:\/\/twitter.com\/ihimanshu_gupta|@ihimanshu_gupta>: Getting eyeballs to your content is difficult but not impossible :man-gesturing-no:. \n\nYou just need to follow a process. \n\nBelow is what I've learnt about content distribution in the past 8 years as a content marketer\/blogger. \n\nTHREAD :thread:",
+                "text": "Getting eyeballs to your content is difficult but not impossible :man-gesturing-no:. \n\nYou just need to follow a process. \n\nBelow is what I've learnt about content distribution in the past 8 years as a content marketer\/blogger. \n\nTHREAD :thread:",
+                "author_name": "Himanshu Gupta",
+                "author_link": "https:\/\/twitter.com\/ihimanshu_gupta\/status\/1415308338783424517",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1190515497193922560\/VjZk6E7M_normal.jpg",
+                "author_subname": "@ihimanshu_gupta",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jNb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think it depends on the interest level of the writer and if he's looking to transition into a role like a content marketer.\n\nTo be honest, companies need to think about promotion even before the article itself. Irrespective of whether its owning distribution, the writer needs to be in sync with the distribution strategy so that he can make changes accordingly.\n\nFor example, if you want a content piece to rank on Google, you need to identify keywords, do competitor research and more. This will help you gauge the effort required to get first page rankings.\n\nSimilarly, if you're looking to create buzz on social media, you need to identify the right audience group, check what's trending and speak to few people to get their insights. This will be very helpful in selecting the right topic.\n\nTo summarise, if content writers can own distribution, nothing like it. However, even they don't they need to be in alignment with the distribution strategy so that they can make changes to the content.\n\nThis thread might be useful.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/ihimanshu_gupta\/status\/1415308338783424517"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650444831.369729",
+        "parent_user_id": "U02UUCE1ASD",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02UUCE1ASD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "218867c3-b398-4b29-9196-3fbe9bc0c9a8",
+        "type": "message",
+        "text": "I agree with <@U02USELSBRT>. I created the resource hub for my company and we landed on creating search + filter based on topics\/keywords. We used Algolia for the search and filter mechanism.",
+        "user": "U030XB8C43Y",
+        "ts": "1650453645.568679",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "a6830c796d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-08\/3094452278656_a6830c796d901d5036a1_72.jpg",
+            "first_name": "Nupura",
+            "real_name": "Nupura",
+            "display_name": "Nupura",
+            "team": "T02PFK13YLC",
+            "name": "nupura.ughade",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+xp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02USELSBRT"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I created the resource hub for my company and we landed on creating search + filter based on topics\/keywords. We used Algolia for the search and filter mechanism."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649833212.179489",
+        "parent_user_id": "U0363DZU3QF"
+    },
+    {
+        "client_msg_id": "027AB18E-5C0B-4FE9-A0BB-BD86A4EE0C0F",
+        "type": "message",
+        "text": "Content writers write. \nContent marketers distribute but they also write. Content strategy is a cross functional collaboration with both of the above as subset. \n\nHope you win the bet and share your spoils with us all",
+        "user": "U030KV8R8RL",
+        "ts": "1650453760.452989",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1d58fa7deccd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3044063413425_1d58fa7deccd79b3b2d0_72.jpg",
+            "first_name": "Vartika",
+            "real_name": "Vartika Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "vartika.gupta1911",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3En18",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Content writers write. \nContent marketers distribute but they also write. Content strategy is a cross functional collaboration with both of the above as subset. \n\nHope you win the bet and share your spoils with us all"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650444831.369729",
+        "parent_user_id": "U02UUCE1ASD",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02UUCE1ASD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-5",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c9231bdf-0925-41a0-b888-5728401789d6",
+        "type": "message",
+        "text": "<@U030XB8C43Y> that's awesome. Mind sharing the link? I rarely see such examples in the wild.",
+        "user": "U02USELSBRT",
+        "ts": "1650455372.965969",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "21B4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U030XB8C43Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " that's awesome. Mind sharing the link? I rarely see such examples in the wild."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649833212.179489",
+        "parent_user_id": "U0363DZU3QF",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U0326BKDQP8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5683021f-274d-41ba-932d-8d2cb7ff90e6",
+        "type": "message",
+        "text": "If you’re writing it, you’re distributing unless you’re a freelance writer.",
+        "user": "U02VA7QD8UB",
+        "ts": "1650457150.086799",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "84e512c8a3fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2999004078388_84e512c8a3feeb8de835_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "T02PFK13YLC",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I7RO1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you’re writing it, you’re distributing unless you’re a freelance writer."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650444831.369729",
+        "parent_user_id": "U02UUCE1ASD"
+    },
+    {
+        "client_msg_id": "0014ad69-cfa1-4314-b94d-9e5fd85243f7",
+        "type": "message",
+        "text": "Whatever it is they need to own the business outcome ( wholly or partially depending on the org stage\/structure) \nEverything\/everybody falls in line when this is part of the content process as a whole.",
+        "user": "U032MN1BESJ",
+        "ts": "1650459714.735259",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g8a12888a77b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8a12888a77b019e4e11e0df9171feb29.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Anuj",
+            "real_name": "Anuj Adhiya",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "adhiya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kPcbH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Whatever it is they need to own the business outcome ( wholly or partially depending on the org stage\/structure) \nEverything\/everybody falls in line when this is part of the content process as a whole."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650444831.369729",
+        "parent_user_id": "U02UUCE1ASD",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02UUCE1ASD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D3A29724-7DA1-4BC0-8571-4E2E278A4F48",
+        "type": "message",
+        "text": "Content specialists and campaign specialists should manage workstreams separately but work closely together. \n\nCampaign specialists thinks about the LPs - what goes into what fold, decisions like gated vs non gated, the demand journey, distribution channels, dollar split between paid channels. \n\nContent specialists should think about the consumable asset itself (video\/whitepaper, ebook), and all the copy that will lead people to consume it. (LP content, paid search copy, banner ads copy, social posts, sociable, newsletter, promo video etc.) Some times, there would be specialised content specialists working on Long form content vs snappy promotional\nCopy. \n\nFor organic content that will be useful in ranking, content specialists may have seo expertise or collaborate with experts who can give them the right inputs on keywords. \n\nApproach might be different for smaller companies, with doublehatting, but scale requires specialisation. ",
+        "user": "U032RT8V2M8",
+        "ts": "1650465458.055589",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "94eb4b469374",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-04\/3186154120246_94eb4b4693749074fbcf_72.png",
+            "first_name": "Shaonli",
+            "real_name": "Shaonli Nath",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "nathshaonli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rfwA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Content specialists and campaign specialists should manage workstreams separately but work closely together. \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Campaign specialists thinks about the LPs - what goes into what fold, decisions like gated vs non gated, the demand journey, distribution channels, dollar split between paid channels. \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Content specialists should think about the consumable asset itself (video\/whitepaper, ebook), and all the copy that will lead people to consume it. (LP content, paid search copy, banner ads copy, social posts, sociable, newsletter, promo video etc.) Some times, there would be specialised content specialists working on Long form content vs snappy promotional\nCopy. \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "For organic content that will be useful in ranking, content specialists may have seo expertise or collaborate with experts who can give them the right inputs on keywords. \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Approach might be different for smaller companies, with doublehatting, but scale requires specialisation. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650444831.369729",
+        "parent_user_id": "U02UUCE1ASD",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02UUCE1ASD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "270EC833-CCF5-426D-9AA2-1841E0CF846B",
+        "type": "message",
+        "text": "If a writer is not in-charge of distribution and analytics, he stops caring about the outcome after a point in time. You start getting evaluated on your input (quality of content created) vs. the output (which is views, leads, organic traffic). At larger organizations, they are separate roles. But what matters in the end is that everyone is focused on output, not on individual tasks. ",
+        "user": "U030E27CBB3",
+        "ts": "1650474205.999859",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "ec5003a1e337",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/3003735647700_ec5003a1e337e1285f09_72.jpg",
+            "first_name": "Sooraj",
+            "real_name": "Sooraj Divakaran",
+            "display_name": "Sooraj",
+            "team": "T02PFK13YLC",
+            "name": "soorajdivakaran",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GXt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If a writer is not in-charge of distribution and analytics, he stops caring about the outcome after a point in time. You start getting evaluated on your input (quality of content created) vs. the output (which is views, leads, organic traffic). At larger organizations, they are separate roles. But what matters in the end is that everyone is focused on output, not on individual tasks. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650444831.369729",
+        "parent_user_id": "U02UUCE1ASD",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02UUCE1ASD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "54D6CA7D-D427-45AF-B442-C05FA277F585",
+        "type": "message",
+        "text": "You can consider using content marketing platforms like welcome or contently if you are doing this at scale. If you don't want to spend a lot of money, then notion, <http:\/\/Monday.com|Monday.com>, or Basecamp should work.",
+        "user": "U030E27CBB3",
+        "ts": "1650474408.443809",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "ec5003a1e337",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/3003735647700_ec5003a1e337e1285f09_72.jpg",
+            "first_name": "Sooraj",
+            "real_name": "Sooraj Divakaran",
+            "display_name": "Sooraj",
+            "team": "T02PFK13YLC",
+            "name": "soorajdivakaran",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DTR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can consider using content marketing platforms like welcome or contently if you are doing this at scale. If you don't want to spend a lot of money, then notion, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Monday.com",
+                                "text": "Monday.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", or Basecamp should work."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650423179.039629",
+        "parent_user_id": "U039X1ZS1QA"
+    },
+    {
+        "client_msg_id": "63E22CC3-27FC-4C9D-BF20-3EBF48948A6B",
+        "type": "message",
+        "text": "Hackerank does a great job at creating interactive reports. They always pull in 150-200 unique backlinks as a result.",
+        "user": "U030E27CBB3",
+        "ts": "1650474497.994719",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "ec5003a1e337",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/3003735647700_ec5003a1e337e1285f09_72.jpg",
+            "first_name": "Sooraj",
+            "real_name": "Sooraj Divakaran",
+            "display_name": "Sooraj",
+            "team": "T02PFK13YLC",
+            "name": "soorajdivakaran",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zac4A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hackerank does a great job at creating interactive reports. They always pull in 150-200 unique backlinks as a result."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650416314.332319",
+        "parent_user_id": "U02UGB8DERY"
+    },
+    {
+        "client_msg_id": "afd6c985-ce60-4abc-b9da-d3b85e7281d8",
+        "type": "message",
+        "text": "Great stuff <@U02UGB8DERY>!",
+        "user": "U03237TNYS3",
+        "ts": "1650476857.036039",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e252eead2a9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-10\/3109624142000_e252eead2a9f5a5a46b5_72.jpg",
+            "first_name": "Nishant",
+            "real_name": "Nishant Singh",
+            "display_name": "Nishant Singh",
+            "team": "T02PFK13YLC",
+            "name": "asknishant.singh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CEL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great stuff "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02UGB8DERY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650416314.332319",
+        "parent_user_id": "U02UGB8DERY"
+    },
+    {
+        "client_msg_id": "97456f15-674f-4d6f-9827-9121ff76214f",
+        "type": "message",
+        "text": "Thank you so much everyone for the inputs. :pray:",
+        "user": "U02UUCE1ASD",
+        "ts": "1650479515.264549",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8fc0ff2b8ed7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-22\/3425444312242_8fc0ff2b8ed7f97f960d_72.jpg",
+            "first_name": "Sunil",
+            "real_name": "Sunil Neurgaonkar",
+            "display_name": "Sunil",
+            "team": "T02PFK13YLC",
+            "name": "sunilneurgaonkar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EKx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you so much everyone for the inputs. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650444831.369729",
+        "parent_user_id": "U02UUCE1ASD"
+    },
+    {
+        "client_msg_id": "6BBC55CC-B867-4A35-A1D9-DB494276C1C3",
+        "type": "message",
+        "text": "Hey Guys! My name is Shreya Ananth and I am a content writer and marketer by profession! I am also an Entrepreneur joining hands onto my second startup Prodraft - which is a content agency! I am thrilled to be here today! Have a great day ahead!",
+        "user": "U03CDCJ6W12",
+        "ts": "1650517666.092759",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7edfcf3b60c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-20\/3416201144005_b7edfcf3b60c665cf23a_72.jpg",
+            "first_name": "Shreya",
+            "real_name": "Shreya Ananth",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "shreyaananth77",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eBt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Guys! My name is Shreya Ananth and I am a content writer and marketer by profession! I am also an Entrepreneur joining hands onto my second startup Prodraft - which is a content agency! I am thrilled to be here today! Have a great day ahead!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650517666.092759",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1650518641.832039",
+        "reply_users": [
+            "U02U6FZRHRV",
+            "U03CDCJ6W12",
+            "U039FQ2SNNN"
+        ],
+        "replies": [
+            {
+                "user": "U02U6FZRHRV",
+                "ts": "1650518398.930709"
+            },
+            {
+                "user": "U03CDCJ6W12",
+                "ts": "1650518455.461399"
+            },
+            {
+                "user": "U039FQ2SNNN",
+                "ts": "1650518641.832039"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U030SDYNX7V",
+                    "U03B77PCDNY",
+                    "U039FQ2SNNN",
+                    "U02USELSBRT"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fa5e582f-2806-4bc9-8499-232f43995d65",
+        "type": "message",
+        "text": "Hey <@U03CDCJ6W12>, welcome to s11s. It’d be great if you could post the intro in the <#C02SN04FX4K|introduction> channel.",
+        "user": "U02U6FZRHRV",
+        "ts": "1650518398.930709",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "51b651e36774",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-19\/2985809793169_51b651e367745f95ba7a_72.png",
+            "first_name": "Nilesh",
+            "real_name": "Nilesh Surana",
+            "display_name": "Nilesh",
+            "team": "T02PFK13YLC",
+            "name": "nileshsurana86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kal",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CDCJ6W12"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", welcome to s11s. It’d be great if you could post the intro in the "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C02SN04FX4K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " channel."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650517666.092759",
+        "parent_user_id": "U03CDCJ6W12"
+    },
+    {
+        "client_msg_id": "179918E4-03E9-475A-8DE8-1A38543FDB95",
+        "type": "message",
+        "text": "Got it! Thank you so much <@U02U6FZRHRV> ",
+        "user": "U03CDCJ6W12",
+        "ts": "1650518455.461399",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7edfcf3b60c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-20\/3416201144005_b7edfcf3b60c665cf23a_72.jpg",
+            "first_name": "Shreya",
+            "real_name": "Shreya Ananth",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "shreyaananth77",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xoc4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Got it! Thank you so much "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02U6FZRHRV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650517666.092759",
+        "parent_user_id": "U03CDCJ6W12"
+    },
+    {
+        "client_msg_id": "82add127-aa21-4a6a-9f18-ecb965081916",
+        "type": "message",
+        "text": "wilkommen",
+        "user": "U039FQ2SNNN",
+        "ts": "1650518641.832039",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9bb6d1a8280e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-30\/3321818966962_9bb6d1a8280e6c254c07_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rohitguptatoday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VHY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wilkommen"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650517666.092759",
+        "parent_user_id": "U03CDCJ6W12"
+    }
+]

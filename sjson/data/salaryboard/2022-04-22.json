@@ -1,0 +1,318 @@
+[
+    {
+        "client_msg_id": "31a124ce-6a65-4178-9024-d04f40e840f3",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/shehuphd\/status\/1517172820161306624|Quick reminder> to beat your impostor syndrome today and ask for more money.",
+        "user": "U02VDMMC2Q5",
+        "ts": "1650627104.062119",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f38cbf9c0b8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-22\/3423618332293_7f38cbf9c0b8f63b122f_72.jpg",
+            "first_name": "Mo",
+            "real_name": "Mo",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "mib.shehu.subs",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/shehuphd\/status\/1517172820161306624",
+                "ts": 1650557162,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/shehuphd\/status\/1517172820161306624",
+                "fallback": "<https:\/\/twitter.com\/ShehuPHD|@ShehuPHD>: 1. If you weren't worth your salary, they would've never offered it to you.\n\n2. You are always underpaid in a corporate environment, by definition. Your current package is feasible because your contribution makes them much more.\n\nNever be afraid to ask for more money.",
+                "text": "1. If you weren't worth your salary, they would've never offered it to you.\n\n2. You are always underpaid in a corporate environment, by definition. Your current package is feasible because your contribution makes them much more.\n\nNever be afraid to ask for more money.",
+                "author_name": "Dr Mo",
+                "author_link": "https:\/\/twitter.com\/ShehuPHD\/status\/1517172820161306624",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1514103373133455366\/3nW8GbIO_normal.jpg",
+                "author_subname": "@ShehuPHD",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ENrJq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/shehuphd\/status\/1517172820161306624",
+                                "text": "Quick reminder"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to beat your impostor syndrome today and ask for more money."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650627104.062119",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650690384.832369",
+        "reply_users": [
+            "U02PDC4883V"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC4883V",
+                "ts": "1650690384.832369"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1650690384.832369",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U031GENLMQ8",
+                    "U039VSWJ85V",
+                    "U03560PQ082",
+                    "U03C4NNJWGK",
+                    "U031KD0PNTX",
+                    "U030XB8C43Y",
+                    "U0325QQQALR",
+                    "U033QDFML74",
+                    "U02URS98P9B",
+                    "U030ML6FL00",
+                    "U02UZQJMP8R"
+                ],
+                "count": 11
+            }
+        ]
+    },
+    {
+        "client_msg_id": "067b284f-7913-418e-844e-51f00de3d50d",
+        "type": "message",
+        "text": "There are professional who work for enterprise companies like Infosys,TCS, IBM etc.  For longer duration like 5-9 years. \nDo these companies pay you good? \nDo these companies provide monetary and positional growth as per market standards?",
+        "user": "U02U9C2UTRC",
+        "ts": "1650690177.679099",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bb0b302b31d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2968124554819_bb0b302b31d0bbbe0d0a_72.png",
+            "first_name": "Anurag",
+            "real_name": "Anurag Shukla",
+            "display_name": "Anurag Shukla",
+            "team": "T02PFK13YLC",
+            "name": "anurag.shukla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PiU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are professional who work for enterprise companies like Infosys,TCS, IBM etc.  For longer duration like 5-9 years. \nDo these companies pay you good? \nDo these companies provide monetary and positional growth as per market standards?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650690177.679099",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1650709794.593419",
+        "reply_users": [
+            "U02VA7QD8UB",
+            "U02UZ4T10PQ",
+            "U034DCQFTA4"
+        ],
+        "replies": [
+            {
+                "user": "U02VA7QD8UB",
+                "ts": "1650690267.737729"
+            },
+            {
+                "user": "U02UZ4T10PQ",
+                "ts": "1650691590.658689"
+            },
+            {
+                "user": "U034DCQFTA4",
+                "ts": "1650708586.176599"
+            },
+            {
+                "user": "U034DCQFTA4",
+                "ts": "1650708779.441629"
+            },
+            {
+                "user": "U02UZ4T10PQ",
+                "ts": "1650709794.593419"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9c6ae78a-6e1b-4791-b3cf-58d011159d85",
+        "type": "message",
+        "text": "Nope and nope (IBM to some extent).",
+        "user": "U02VA7QD8UB",
+        "ts": "1650690267.737729",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "84e512c8a3fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2999004078388_84e512c8a3feeb8de835_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "T02PFK13YLC",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02VA7QD8UB",
+            "ts": "1650691968.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ajc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nope and nope (IBM to some extent)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650690177.679099",
+        "parent_user_id": "U02U9C2UTRC"
+    },
+    {
+        "client_msg_id": "609076f6-e838-4202-8fe7-a2e19c760722",
+        "type": "message",
+        "text": "Hey <@U02VDMMC2Q5> - this belongs in <#C0318NH5G3C|shameless-plug>",
+        "user": "U02PDC4883V",
+        "ts": "1650690384.832369",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02PDC4883V",
+            "ts": "1650690394.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wI9t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02VDMMC2Q5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - this belongs in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0318NH5G3C"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650627104.062119",
+        "parent_user_id": "U02VDMMC2Q5",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U02VDMMC2Q5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FD6E0ACD-13B7-44A2-A66E-959F7ADFE9F5",
+        "type": "message",
+        "text": "You might get surprised at times… try anyway",
+        "user": "U02UZ4T10PQ",
+        "ts": "1650691590.658689",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "0e693f543f3a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-22\/2977217232247_0e693f543f3a4a1d3fd3_72.jpg",
+            "first_name": "Sagnik",
+            "real_name": "Sagnik IntelliServiceAI",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "sagnik.datta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wY4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You might get surprised at times… try anyway"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650690177.679099",
+        "parent_user_id": "U02U9C2UTRC"
+    }
+]

@@ -1,0 +1,1934 @@
+[
+    {
+        "client_msg_id": "4e65a222-e63f-4924-9c3b-a1f8144a1419",
+        "type": "message",
+        "text": "Gong Early days Landing page vibe\n\n<https:\/\/www.wingback.com\/>",
+        "user": "U02UGB8DERY",
+        "ts": "1649833252.273549",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4cda10dd85c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2962250036230_4cda10dd85c264b66a43_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Rajvanshi",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rahulrajvanshi2501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.wingback.com\/",
+                "id": 1,
+                "original_url": "https:\/\/www.wingback.com\/",
+                "fallback": "Wingback | SaaS Growth Infrastructure (SGI) |  Tools and APIs for SaaS Pricing and Packaging",
+                "text": "Wingback provides tools and APIs for SaaS pricing and packaging. We allow you to ship any feature set of your product at any price using any pricing model with minimum engineering involvement. Don't bother your engineers with changing pricing plans, drive product-led growth, make your sales team more efficient.",
+                "title": "Wingback | SaaS Growth Infrastructure (SGI) |  Tools and APIs for SaaS Pricing and Packaging",
+                "title_link": "https:\/\/www.wingback.com\/",
+                "service_name": "wingback.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r9c5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gong Early days Landing page vibe\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.wingback.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "thumbsup_all",
+                "users": [
+                    "U02TTEFFU6B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bbbc31a3-d57e-49b8-89c6-a18092222db6",
+        "type": "message",
+        "text": "I actually listened to it quite a while back. Episode is from way back in 2020. But i will listen again anyways in coming week or so. Will share notes",
+        "user": "U031QKGPNRK",
+        "ts": "1649833505.038559",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eWdC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I actually listened to it quite a while back. Episode is from way back in 2020. But i will listen again anyways in coming week or so. Will share notes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649819133.125589",
+        "parent_user_id": "U037VSS964S"
+    },
+    {
+        "client_msg_id": "B6331456-D36A-4B39-8411-304E453039B8",
+        "type": "message",
+        "text": "Ok blocking time on my calendar for having an existential crises for the week after",
+        "user": "U02USELSBRT",
+        "ts": "1649833718.081139",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2E7OY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok blocking time on my calendar for having an existential crises for the week after"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649819133.125589",
+        "parent_user_id": "U037VSS964S",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U02PDC4883V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1e5970a4-e187-43b2-856f-9b33cf56afbf",
+        "type": "message",
+        "text": "<@U02V9QUDK1Q> this is very well documented indeed. I think as a follow-up to this, would love to see what happened with those early users. I hear that a lot of people signup in early excitement from PH but just fizzle out over time. Would it be possible to find what was their post-signup journey like? How many ended up trying the product? How many ended up purchasing? How many stuck around for more than a year? etc.",
+        "user": "U02USELSBRT",
+        "ts": "1649833878.621409",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kpAW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02V9QUDK1Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this is very well documented indeed. I think as a follow-up to this, would love to see what happened with those early users. I hear that a lot of people signup in early excitement from PH but just fizzle out over time. Would it be possible to find what was their post-signup journey like? How many ended up trying the product? How many ended up purchasing? How many stuck around for more than a year? etc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649826966.934329",
+        "parent_user_id": "U02V9QUDK1Q"
+    },
+    {
+        "client_msg_id": "e37e1bff-07c9-4f9c-94c4-7460a7e92fd9",
+        "type": "message",
+        "text": "yes, that’s what I talk about in the video - who PH is best for.\nFor us, given we had a Slack app (what’s mentioned in the playbook) - that audience and the PH audience has a huge overlap, so works for us\n\nTo your exact Q as to the numbers - I don’t have an answer",
+        "user": "U02V9QUDK1Q",
+        "ts": "1649834415.160239",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8140d54c5a70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2981230435879_8140d54c5a7085ca9412_72.jpg",
+            "first_name": "Abhash",
+            "real_name": "Abhash Kumar",
+            "display_name": "Abhash",
+            "team": "T02PFK13YLC",
+            "name": "abhash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x8crp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, that’s what I talk about in the video - who PH is best for.\nFor us, given we had a Slack app (what’s mentioned in the playbook) - that audience and the PH audience has a huge overlap, so works for us\n\nTo your exact Q as to the numbers - I don’t have an answer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649826966.934329",
+        "parent_user_id": "U02V9QUDK1Q",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a80c2ef1-1398-4a9a-ace5-e011fdb9aefc",
+        "type": "message",
+        "text": "This is very helpful <@U02V9QUDK1Q> :slightly_smiling_face:",
+        "user": "U02UFNZS7NW",
+        "ts": "1649836410.935619",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "79df0bfa30a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-11\/3365716984182_79df0bfa30a8e1910865_72.png",
+            "first_name": "Ankit",
+            "real_name": "Ankit Bishnu Dash",
+            "display_name": "ABD",
+            "team": "T02PFK13YLC",
+            "name": "ankitbishnudash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D2e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is very helpful "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02V9QUDK1Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649826966.934329",
+        "parent_user_id": "U02V9QUDK1Q",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02V9QUDK1Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "89a82eba-84af-4890-b182-55ce601f2317",
+        "type": "message",
+        "text": "The Modern &lt;insert-saas-product-category&gt;",
+        "user": "U02USELSBRT",
+        "ts": "1649838424.211869",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AvIsw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The Modern <insert-saas-product-category>"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649219762.172159",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "623dcc56-c5a4-465a-a810-bd1717b5f2a2",
+        "type": "message",
+        "text": "Can someone please help with a quick session for EMAIL NURTURING? Best practices, your learnings, etc.",
+        "user": "U030KTTNCRL",
+        "ts": "1649841355.722989",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g8ac521eac25",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8ac521eac257fa723be50bf6ef7f79f0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Vikrant",
+            "real_name": "Vikrant R Rao",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "raovikrant9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U030KTTNCRL",
+            "ts": "1649841367.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yp7H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can someone please help with a quick session for EMAIL NURTURING? Best practices, your learnings, etc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649841355.722989",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1649850404.170339",
+        "reply_users": [
+            "U02PDC4883V",
+            "U02PDC6B0HH",
+            "U030KTTNCRL",
+            "U02UY3EPQDA"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649842245.383139"
+            },
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1649843397.583119"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649843449.664029"
+            },
+            {
+                "user": "U030KTTNCRL",
+                "ts": "1649844076.693839"
+            },
+            {
+                "user": "U02UY3EPQDA",
+                "ts": "1649850404.170339"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1649850404.170339",
+        "reactions": [
+            {
+                "name": "man-raising-hand",
+                "users": [
+                    "U02ULCHDGB0",
+                    "U039FQ2SNNN",
+                    "U03560PQ082"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0afc84e6-5ead-4f5e-abe4-0a6b16aac4bc",
+        "type": "message",
+        "text": "1. Provide Value before asking anything\n2. Keep your Email Domain clean - SPF, DKIM, DMARC\n3. Keep your Email clean - minimal HTML\n4. Keep cleaning your DB \n5. Separate unengaged and engaged contacts with scoring\n6. Analyse performance over weeks (not days) for SaaS\n7. Dont worry too much about ToFU to BoFU flow - worry about Open, CTR. Abuse initially. Once you have your audience’s attention then worry about the flow\n8. Use tools (Glock Apps) to measure Inbox placement \n9. *Keep your email domain different from your main domain*",
+        "user": "U02PDC4883V",
+        "ts": "1649842245.383139",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ogX",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Provide Value before asking anything"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Keep your Email Domain clean - SPF, DKIM, DMARC"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Keep your Email clean - minimal HTML"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Keep cleaning your DB "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Separate unengaged and engaged contacts with scoring"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Analyse performance over weeks (not days) for SaaS"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Dont worry too much about ToFU to BoFU flow - worry about Open, CTR. Abuse initially. Once you have your audience’s attention then worry about the flow"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Use tools (Glock Apps) to measure Inbox placement "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Keep your email domain different from your main domain",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649841355.722989",
+        "parent_user_id": "U030KTTNCRL",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02VD2JL8N8",
+                    "U0304R87GGK",
+                    "U02U9C39MAA"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b7ef5d79-7458-4a36-9b6d-56dcdef44cbd",
+        "type": "message",
+        "text": "Brother asked for a session not bullet points from one of your many linkedin posts <@U02PDC4883V>",
+        "user": "U02PDC6B0HH",
+        "ts": "1649843397.583119",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7ce0a422fcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953759554663_b7ce0a422fcdabf5a771_72.jpg",
+            "first_name": "Shafique",
+            "real_name": "Shafique Gajdhar",
+            "display_name": "Shaf",
+            "team": "T02PFK13YLC",
+            "name": "shafiquegajdhar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6yVS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Brother asked for a session not bullet points from one of your many linkedin posts "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02PDC4883V"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649841355.722989",
+        "parent_user_id": "U030KTTNCRL"
+    },
+    {
+        "client_msg_id": "be6bf14c-333a-402f-b5bd-cdbf63ca9939",
+        "type": "message",
+        "text": ":joy: but these are my learnings!",
+        "user": "U02PDC4883V",
+        "ts": "1649843449.664029",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hrrZa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            },
+                            {
+                                "type": "text",
+                                "text": " but these are my learnings!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649841355.722989",
+        "parent_user_id": "U030KTTNCRL"
+    },
+    {
+        "client_msg_id": "dc7b63a5-88f5-45c1-8db9-1a10610a3c30",
+        "type": "message",
+        "text": "Hahahahaa.. Thanks a ton <@U02PDC4883V>! I already annoyed you enough, thought i'll look for some more volunteers!",
+        "user": "U030KTTNCRL",
+        "ts": "1649844076.693839",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g8ac521eac25",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8ac521eac257fa723be50bf6ef7f79f0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Vikrant",
+            "real_name": "Vikrant R Rao",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "raovikrant9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bMRzK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hahahahaa.. Thanks a ton "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02PDC4883V"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! I already annoyed you enough, thought i'll look for some more volunteers!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649841355.722989",
+        "parent_user_id": "U030KTTNCRL"
+    },
+    {
+        "client_msg_id": "5519f33b-0412-47dc-bb2b-1d09e9f8b662",
+        "type": "message",
+        "text": "Hey! Folks, Need help in Understanding Inbound to Qualified ratio. What is the industry standards for this? Also, looking for some guidance on Website traffic to lead conversion ratios. I would love to pick your brain and exchange ideas. Please DM me. Your evening coffee\/chai is on me. :slightly_smiling_face:",
+        "user": "U039KP64KQQ",
+        "ts": "1649845565.545859",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7703af39d1d2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-27\/3302028389394_7703af39d1d233e51565_72.png",
+            "first_name": "Gourav",
+            "real_name": "Gourav K",
+            "display_name": "Gourav K",
+            "team": "T02PFK13YLC",
+            "name": "gourav.kalbalia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xkdpK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey! Folks, Need help in Understanding Inbound to Qualified ratio. What is the industry standards for this? Also, looking for some guidance on Website traffic to lead conversion ratios. I would love to pick your brain and exchange ideas. Please DM me. Your evening coffee\/chai is on me. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649845565.545859",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1649845746.418639",
+        "reply_users": [
+            "U02USELSBRT"
+        ],
+        "replies": [
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649845746.418639"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "fcd4af52-0147-47cc-92c1-1991fda4e4da",
+        "type": "message",
+        "text": "Don't have any source handy but from what I've seen:\n\nTraffic-to-lead CVR = 2% to 5%\nLead-to-qualified = 10% to 30%\nQualified-to-sales = 25% to 50%",
+        "user": "U02USELSBRT",
+        "ts": "1649845746.418639",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DdB5y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Don't have any source handy but from what I've seen:\n\nTraffic-to-lead CVR = 2% to 5%\nLead-to-qualified = 10% to 30%\nQualified-to-sales = 25% to 50%"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649845565.545859",
+        "parent_user_id": "U039KP64KQQ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02UJBF2Y4C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "51c256ae-2da5-42ac-9c28-211ef49becde",
+        "type": "message",
+        "text": "For those who have creative B2B campaigns waiting for the spotlight, deadline is tomorrow.  <https:\/\/www.canneslions.com\/enter\/awards\/engagement\/creative-b2b-lions>",
+        "user": "U031KD0PNTX",
+        "ts": "1649848174.735199",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "d8e3a1cc6ed8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3305635315237_d8e3a1cc6ed88c5c929a_72.jpg",
+            "first_name": "Anand",
+            "real_name": "Anand",
+            "display_name": "theanand",
+            "team": "T02PFK13YLC",
+            "name": "anand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.canneslions.com\/enter\/awards\/engagement\/creative-b2b-lions",
+                "service_icon": "https:\/\/www.canneslions.com\/assets\/CannesLions2018Project\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.canneslions.com\/enter\/awards\/engagement\/creative-b2b-lions",
+                "fallback": "Creative B2B | Cannes Lions 2022",
+                "text": "International Festival of Creativity",
+                "title": "Creative B2B | Cannes Lions 2022",
+                "title_link": "https:\/\/www.canneslions.com\/enter\/awards\/engagement\/creative-b2b-lions",
+                "service_name": "canneslions.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1YRo=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For those who have creative B2B campaigns waiting for the spotlight, deadline is tomorrow.  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.canneslions.com\/enter\/awards\/engagement\/creative-b2b-lions"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649848174.735199",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1649854399.576959",
+        "reply_users": [
+            "U02USELSBRT",
+            "U031KD0PNTX"
+        ],
+        "replies": [
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649851048.736699"
+            },
+            {
+                "user": "U031KD0PNTX",
+                "ts": "1649853140.833989"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649854399.576959"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "anatomical_heart",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ad55c38e-5c0a-402e-942a-e096a541052d",
+        "type": "message",
+        "text": "+ 1\n\nMake sure you have fuss-free unsubscribe process. (no contact our awesome support) :rolling_on_the_floor_laughing:",
+        "user": "U02UY3EPQDA",
+        "ts": "1649850404.170339",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "da155664fe94",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-20\/2981844758147_da155664fe9476fbd35b_72.jpg",
+            "first_name": "sv410_",
+            "real_name": "sv410_",
+            "display_name": "sv410_",
+            "team": "T02PFK13YLC",
+            "name": "bravenuworld",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZdAO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "+ 1\n\nMake sure you have fuss-free unsubscribe process. (no contact our awesome support) "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649841355.722989",
+        "parent_user_id": "U030KTTNCRL",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U02PDC4883V",
+                    "U02PDC6B0HH",
+                    "U039HU366EQ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2d18db31-396d-4e8f-8eea-fc9a6e44428d",
+        "type": "message",
+        "text": "this is awesome, didnt  know they had a category for b2b",
+        "user": "U02USELSBRT",
+        "ts": "1649851048.736699",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iR\/P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this is awesome, didnt  know they had a category for b2b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649848174.735199",
+        "parent_user_id": "U031KD0PNTX"
+    },
+    {
+        "client_msg_id": "a79557fd-16d4-4b0d-8855-685d54e9633c",
+        "type": "message",
+        "text": "Seems new for 2022",
+        "user": "U031KD0PNTX",
+        "ts": "1649853140.833989",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "d8e3a1cc6ed8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3305635315237_d8e3a1cc6ed88c5c929a_72.jpg",
+            "first_name": "Anand",
+            "real_name": "Anand",
+            "display_name": "theanand",
+            "team": "T02PFK13YLC",
+            "name": "anand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N6s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Seems new for 2022"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649848174.735199",
+        "parent_user_id": "U031KD0PNTX"
+    },
+    {
+        "client_msg_id": "84b3240c-ced7-4123-91fa-55191b0f8efc",
+        "type": "message",
+        "text": "more pressure is always welcome :rolling_on_the_floor_laughing:",
+        "user": "U02USELSBRT",
+        "ts": "1649854399.576959",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6HlzI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "more pressure is always welcome "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649848174.735199",
+        "parent_user_id": "U031KD0PNTX"
+    },
+    {
+        "client_msg_id": "14c4a61a-5b09-4c21-b9e4-38406370ee12",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=wqn3gR1WTcA>",
+        "user": "U02USELSBRT",
+        "ts": "1649860126.679579",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=wqn3gR1WTcA",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/wqn3gR1WTcA\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/wqn3gR1WTcA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=wqn3gR1WTcA",
+                "fallback": "YouTube Video: Data Brokers: Last Week Tonight with John Oliver (HBO)",
+                "title": "Data Brokers: Last Week Tonight with John Oliver (HBO)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=wqn3gR1WTcA",
+                "author_name": "LastWeekTonight",
+                "author_link": "https:\/\/www.youtube.com\/user\/LastWeekTonight",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9f=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=wqn3gR1WTcA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649860126.679579",
+        "reply_count": 8,
+        "reply_users_count": 4,
+        "latest_reply": "1649928117.630239",
+        "reply_users": [
+            "U02USELSBRT",
+            "U02UMJJJALA",
+            "U031KD0PNTX",
+            "U0380S2BZ9A"
+        ],
+        "replies": [
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649860319.524349"
+            },
+            {
+                "user": "U02UMJJJALA",
+                "ts": "1649861811.960409"
+            },
+            {
+                "user": "U02UMJJJALA",
+                "ts": "1649861960.273089"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649862357.625979"
+            },
+            {
+                "user": "U031KD0PNTX",
+                "ts": "1649867544.721079"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649869334.851089"
+            },
+            {
+                "user": "U031KD0PNTX",
+                "ts": "1649869931.263529"
+            },
+            {
+                "user": "U0380S2BZ9A",
+                "ts": "1649928117.630239"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U02U94HSBV4",
+                    "U0380S2BZ9A"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d35669c5-e98a-4e79-8db9-e4a54768ef2f",
+        "type": "message",
+        "text": "The monster we have created!",
+        "user": "U02USELSBRT",
+        "ts": "1649860319.524349",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3H0KG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The monster we have created!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649860126.679579",
+        "parent_user_id": "U02USELSBRT"
+    },
+    {
+        "client_msg_id": "77f315b4-2b47-43cd-a5ca-b36378950165",
+        "type": "message",
+        "text": "If you are subscribed to Bob Hoffman's newsletter, he has been shouting to the clouds about this shit for a decade.",
+        "user": "U02UMJJJALA",
+        "ts": "1649861811.960409",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9b9817ebeca8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-19\/2973660754755_9b9817ebeca8c211a97a_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Nair",
+            "display_name": "Rahul Nair",
+            "team": "T02PFK13YLC",
+            "name": "rahultheinvader",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02UMJJJALA",
+            "ts": "1649862012.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oupa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you are subscribed to Bob Hoffman's newsletter, he has been shouting to the clouds about this shit for a decade."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649860126.679579",
+        "parent_user_id": "U02USELSBRT"
+    },
+    {
+        "client_msg_id": "1d24ba70-7069-4c49-a366-33d3b372b9b6",
+        "type": "message",
+        "text": "My only gripe with the piece by John Oliver is he didn't mention how massive the role of Google and Facebook has been in this entire exercise.",
+        "user": "U02UMJJJALA",
+        "ts": "1649861960.273089",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9b9817ebeca8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-19\/2973660754755_9b9817ebeca8c211a97a_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Nair",
+            "display_name": "Rahul Nair",
+            "team": "T02PFK13YLC",
+            "name": "rahultheinvader",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u\/Fsc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My only gripe with the piece by John Oliver is he didn't mention how massive the role of Google and Facebook has been in this entire exercise."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649860126.679579",
+        "parent_user_id": "U02USELSBRT"
+    },
+    {
+        "client_msg_id": "1999a979-d0c3-4d11-8471-4a50c78a0187",
+        "type": "message",
+        "text": "I guess because Google and Facebook neither buy or sell data to other parties. They use all the data they collect themselves. This piece was more on how other 3rd parties are collecting and selling data with other parties.",
+        "user": "U02USELSBRT",
+        "ts": "1649862357.625979",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9rMYt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I guess because Google and Facebook neither buy or sell data to other parties. They use all the data they collect themselves. This piece was more on how other 3rd parties are collecting and selling data with other parties."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649860126.679579",
+        "parent_user_id": "U02USELSBRT"
+    },
+    {
+        "client_msg_id": "3c5f36f0-42f0-42f6-a90a-88a72d0700f4",
+        "type": "message",
+        "text": "A friend who worked with a popular now-dead WordPress social sharing plugin said that they figured out a model - by seeing 4 urls loaded from your browser, they can pretty accurately predict which websites you would find interesting. Their data was apparently bought by the likes of big G and Fb.  They definitely buy data, doubt if they would sell.\n\nAnd any chrome\/firefox plugin can pretty much see all your browsing history and track what you type. Also, Grammarly sells your data (heard from a similarweb employee)",
+        "user": "U031KD0PNTX",
+        "ts": "1649867544.721079",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "d8e3a1cc6ed8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3305635315237_d8e3a1cc6ed88c5c929a_72.jpg",
+            "first_name": "Anand",
+            "real_name": "Anand",
+            "display_name": "theanand",
+            "team": "T02PFK13YLC",
+            "name": "anand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U031KD0PNTX",
+            "ts": "1649867559.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uwk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A friend who worked with a popular now-dead WordPress social sharing plugin said that they figured out a model - by seeing 4 urls loaded from your browser, they can pretty accurately predict which websites you would find interesting. Their data was apparently bought by the likes of big G and Fb.  They definitely buy data, doubt if they would sell.\n\nAnd any chrome\/firefox plugin can pretty much see all your browsing history and track what you type. Also, Grammarly sells your data (heard from a similarweb employee)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649860126.679579",
+        "parent_user_id": "U02USELSBRT"
+    },
+    {
+        "client_msg_id": "57272ef9-ee38-4dd0-aba8-f7b17f6e587f",
+        "type": "message",
+        "text": "Slack should practise product marketing themselves by adding some kind of measure\/meter of how active a Slack server\/channel is.",
+        "user": "U039FQ2SNNN",
+        "ts": "1649867935.932789",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9bb6d1a8280e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-30\/3321818966962_9bb6d1a8280e6c254c07_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rohitguptatoday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "URL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Slack should practise product marketing themselves by adding some kind of measure\/meter of how active a Slack server\/channel is."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649867935.932789",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1649918879.032749",
+        "reply_users": [
+            "U02TTEFFU6B",
+            "U039FQ2SNNN",
+            "U031KD0PNTX",
+            "U02PDC6B0HH"
+        ],
+        "replies": [
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649868019.299269"
+            },
+            {
+                "user": "U039FQ2SNNN",
+                "ts": "1649868087.183049"
+            },
+            {
+                "user": "U031KD0PNTX",
+                "ts": "1649868116.651609"
+            },
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1649918879.032749"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a8c746af-a9d1-421a-8df9-8c0648c51fb5",
+        "type": "message",
+        "text": "It sends reports to admins on email.",
+        "user": "U02TTEFFU6B",
+        "ts": "1649868019.299269",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iTzU7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It sends reports to admins on email."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649867935.932789",
+        "parent_user_id": "U039FQ2SNNN"
+    },
+    {
+        "client_msg_id": "a764f85e-b6c2-46a5-9858-b9e9de8fc809",
+        "type": "message",
+        "text": "Not quite the same thing",
+        "user": "U039FQ2SNNN",
+        "ts": "1649868087.183049",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9bb6d1a8280e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-30\/3321818966962_9bb6d1a8280e6c254c07_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rohitguptatoday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bAtoG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not quite the same thing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649867935.932789",
+        "parent_user_id": "U039FQ2SNNN"
+    },
+    {
+        "client_msg_id": "92b0592a-16b9-47e6-b558-6a785d3ff5d9",
+        "type": "message",
+        "text": "<https:\/\/s11s.slack.com\/stats>",
+        "user": "U031KD0PNTX",
+        "ts": "1649868116.651609",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "d8e3a1cc6ed8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3305635315237_d8e3a1cc6ed88c5c929a_72.jpg",
+            "first_name": "Anand",
+            "real_name": "Anand",
+            "display_name": "theanand",
+            "team": "T02PFK13YLC",
+            "name": "anand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kifF\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/s11s.slack.com\/stats"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649867935.932789",
+        "parent_user_id": "U039FQ2SNNN"
+    },
+    {
+        "client_msg_id": "6566b398-9480-4890-8414-ea78b4f7af60",
+        "type": "message",
+        "text": "Any solid sources? Else there are several hearsay stories on nearly any topic :)",
+        "user": "U02USELSBRT",
+        "ts": "1649869334.851089",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dB6Y3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any solid sources? Else there are several hearsay stories on nearly any topic :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649860126.679579",
+        "parent_user_id": "U02USELSBRT"
+    },
+    {
+        "client_msg_id": "c022d076-6e20-41d5-89db-4d1554545d42",
+        "type": "message",
+        "text": "totally, had included sources where possible in my comment, most of them are from first person conversations only :)",
+        "user": "U031KD0PNTX",
+        "ts": "1649869931.263529",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "d8e3a1cc6ed8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3305635315237_d8e3a1cc6ed88c5c929a_72.jpg",
+            "first_name": "Anand",
+            "real_name": "Anand",
+            "display_name": "theanand",
+            "team": "T02PFK13YLC",
+            "name": "anand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NsE=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "totally, had included sources where possible in my comment, most of them are from first person conversations only :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649860126.679579",
+        "parent_user_id": "U02USELSBRT"
+    },
+    {
+        "type": "message",
+        "text": "Tried this with one of our  LP offers and after 7 previous inconclusive A\/B experiments got a successful outcome with half the number of sessions with a radically different offer :innocent:\nfrom the OG - Seth Godin :gem:",
+        "files": [
+            {
+                "id": "F03B1MY2QBZ",
+                "created": 1649914478,
+                "timestamp": 1649914478,
+                "name": "Screenshot 2022-04-14 at 11.01.58 AM.png",
+                "title": "Screenshot 2022-04-14 at 11.01.58 AM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02V9QUDK1Q",
+                "editable": false,
+                "size": 162727,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03B1MY2QBZ\/screenshot_2022-04-14_at_11.01.58_am.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03B1MY2QBZ\/download\/screenshot_2022-04-14_at_11.01.58_am.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B1MY2QBZ-ed7bcf10b4\/screenshot_2022-04-14_at_11.01.58_am_64.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B1MY2QBZ-ed7bcf10b4\/screenshot_2022-04-14_at_11.01.58_am_80.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B1MY2QBZ-ed7bcf10b4\/screenshot_2022-04-14_at_11.01.58_am_360.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 360,
+                "thumb_360_h": 321,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B1MY2QBZ-ed7bcf10b4\/screenshot_2022-04-14_at_11.01.58_am_480.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 480,
+                "thumb_480_h": 429,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03B1MY2QBZ-ed7bcf10b4\/screenshot_2022-04-14_at_11.01.58_am_160.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "original_w": 578,
+                "original_h": 516,
+                "thumb_tiny": "AwAqADC\/IGz8sgX2IzTQJM8zqR\/u1K2c8Ug3H2\/CgCPEmB+\/XP8Au0sZZSd8isO3GKkw3qPyow3r+lABuX1FKCD0pMN6j8qUZ7mgBrDnpn8aTH+yfzpWxnkCm8f3RQA7H+z+tGCDnb+tN4\/uilDY6AUAPGe4xRTd59BSjOeQMfWgBGIB5bFHP94\/lTqKAG4P94\/lS4P94\/lS0UANwf7x\/KnCiigD\/9k=",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U02V9QUDK1Q\/F03B1MY2QBZ\/screenshot_2022-04-14_at_11.01.58_am.png",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03B1MY2QBZ-13f5ce6d62",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02V9QUDK1Q",
+        "display_as_bot": false,
+        "ts": "1649914499.063049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DjOMd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tried this with one of our  LP offers and after 7 previous inconclusive A\/B experiments got a successful outcome with half the number of sessions with a radically different offer "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "innocent"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nfrom the OG - Seth Godin "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "gem"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "263d5149-5d55-4e28-9c5d-32717d1893aa",
+        "thread_ts": "1649914499.063049",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1649942542.326569",
+        "reply_users": [
+            "U032MN1BESJ"
+        ],
+        "replies": [
+            {
+                "user": "U032MN1BESJ",
+                "ts": "1649942542.326569"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02PDC4883V",
+                    "U030M1LS1L2",
+                    "U037UUE6TV3",
+                    "U030N8RHURZ",
+                    "U02V22EUXM4",
+                    "U030SHA1S2W",
+                    "U03AVLPU08P",
+                    "U02URBKGVA7",
+                    "U02UG3E9883",
+                    "U037VSS964S",
+                    "U039HH3LP43",
+                    "U0304R87GGK"
+                ],
+                "count": 12
+            },
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U02TTEFFU6B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-5",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U031QKGPNRK",
+                    "U03A7KXT45S"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "68637be6-53d5-4007-9550-a2498b21610f",
+        "type": "message",
+        "text": "Hey guys!\nI am looking for an alternative to Socialbakers which is much cheaper\/free that has very similar features.\nCan someone help me out with this?\nThanks!",
+        "user": "U039WFY3HMK",
+        "ts": "1649918717.238969",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "2a42a3ce7d86",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-14\/3392867390660_2a42a3ce7d86b680d95e_72.jpg",
+            "first_name": "Reena",
+            "real_name": "Reena Sawant",
+            "display_name": "Reena",
+            "team": "T02PFK13YLC",
+            "name": "reenasawant15",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V\/\/nr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey guys!\nI am looking for an alternative to Socialbakers which is much cheaper\/free that has very similar features.\nCan someone help me out with this?\nThanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649918717.238969",
+        "reply_count": 9,
+        "reply_users_count": 4,
+        "latest_reply": "1649933892.625239",
+        "reply_users": [
+            "U02ULCHDGB0",
+            "U039WFY3HMK",
+            "U02USELSBRT",
+            "U0316818QSH"
+        ],
+        "replies": [
+            {
+                "user": "U02ULCHDGB0",
+                "ts": "1649920224.414419"
+            },
+            {
+                "user": "U039WFY3HMK",
+                "ts": "1649921058.311799"
+            },
+            {
+                "user": "U02ULCHDGB0",
+                "ts": "1649921485.508169"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649924102.028709"
+            },
+            {
+                "user": "U02ULCHDGB0",
+                "ts": "1649924298.001749"
+            },
+            {
+                "user": "U0316818QSH",
+                "ts": "1649926646.446759"
+            },
+            {
+                "user": "U02ULCHDGB0",
+                "ts": "1649926956.340279"
+            },
+            {
+                "user": "U039WFY3HMK",
+                "ts": "1649933785.629769"
+            },
+            {
+                "user": "U039WFY3HMK",
+                "ts": "1649933892.625239"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "fbb44b34-b1ac-43b1-a315-53430a6b360b",
+        "type": "message",
+        "text": "Why? What would you use the info for?",
+        "user": "U02PDC6B0HH",
+        "ts": "1649918879.032749",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7ce0a422fcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953759554663_b7ce0a422fcdabf5a771_72.jpg",
+            "first_name": "Shafique",
+            "real_name": "Shafique Gajdhar",
+            "display_name": "Shaf",
+            "team": "T02PFK13YLC",
+            "name": "shafiquegajdhar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dkof",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Why? What would you use the info for?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649867935.932789",
+        "parent_user_id": "U039FQ2SNNN"
+    }
+]

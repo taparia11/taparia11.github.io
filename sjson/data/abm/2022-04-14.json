@@ -1,0 +1,106 @@
+[
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Writing hooks is a very personalized process based on the campaign and your target audience. No AI tools can give you   a best hook line, but just a basic understanding of its flow and structure.\n\nHere's how you can create hooks\n1) Write a hook\n2) Peer- test among your colleagues \n3) Implement it in your strategy\n4) AB test continuously using different alteration based on the data you obtained\n\nThere is no silver bullets to master hook, it's all about implementation, readjusting and iteration.",
+        "user": "U03AGQ4LGEN",
+        "ts": "1649997740.641609",
+        "thread_ts": "1649339896.067949",
+        "root": {
+            "client_msg_id": "845d45f8-a043-4a6a-93a0-7c1a62af1eba",
+            "type": "message",
+            "text": "How do you find hooks for personalized email? \nGoogle search to find relevant content and write copy. Or use tools like lyne, warmer etc to simply the process? \nShare what went wrong and what worked. \nTIA:pray:",
+            "user": "U02UPASEMU4",
+            "ts": "1649339896.067949",
+            "team": "T02PFK13YLC",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "RXj4W",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "How do you find hooks for personalized email? \nGoogle search to find relevant content and write copy. Or use tools like lyne, warmer etc to simply the process? \nShare what went wrong and what worked. \nTIA"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "pray"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1649339896.067949",
+            "reply_count": 6,
+            "reply_users_count": 5,
+            "latest_reply": "1649997740.641609",
+            "reply_users": [
+                "U03158A1WPK",
+                "U037UUE6TV3",
+                "U035NH9AL6N",
+                "U02UZQJMP8R",
+                "U03AGQ4LGEN"
+            ],
+            "replies": [
+                {
+                    "user": "U03158A1WPK",
+                    "ts": "1649340651.203299"
+                },
+                {
+                    "user": "U037UUE6TV3",
+                    "ts": "1649344981.996549"
+                },
+                {
+                    "user": "U035NH9AL6N",
+                    "ts": "1649446514.544049"
+                },
+                {
+                    "user": "U02UZQJMP8R",
+                    "ts": "1649584837.690219"
+                },
+                {
+                    "user": "U03158A1WPK",
+                    "ts": "1649646753.666749"
+                },
+                {
+                    "user": "U03AGQ4LGEN",
+                    "ts": "1649997740.641609"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xKB5k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Writing hooks is a very personalized process based on the campaign and your target audience. No AI tools can give you   a best hook line, but just a basic understanding of its flow and structure.\n\nHere's how you can create hooks\n1) Write a hook\n2) Peer- test among your colleagues \n3) Implement it in your strategy\n4) AB test continuously using different alteration based on the data you obtained\n\nThere is no silver bullets to master hook, it's all about implementation, readjusting and iteration."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "698b3a11-29b3-4e9f-a25b-d7c3ac4af14f",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02UPASEMU4",
+                    "U039HVCS1LL"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

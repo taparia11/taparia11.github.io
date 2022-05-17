@@ -1,0 +1,848 @@
+[
+    {
+        "client_msg_id": "9c770dcf-9f78-4f92-8316-12a480bff75c",
+        "type": "message",
+        "text": "Pay to publish is a big no-no.",
+        "user": "U03AF2HBZPX",
+        "ts": "1649661976.540549",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g282e41117ee",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/282e41117eea26a162917755cabc65f2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Vikas",
+            "real_name": "Vikas Kalwani",
+            "display_name": "Vikas Kalwani",
+            "team": "T02PFK13YLC",
+            "name": "myself",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xfGB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pay to publish is a big no-no."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649653079.170199",
+        "parent_user_id": "U030KV8R8RL",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U030PQRLHEH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a495afec-f865-4cde-b817-bde9d6d24435",
+        "type": "message",
+        "text": "They have good community and members.",
+        "user": "U03AQFPP9BL",
+        "ts": "1649662736.907089",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c9b2329e7c08",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-08\/3377148716193_c9b2329e7c08a95503a8_72.png",
+            "first_name": "Ankit",
+            "real_name": "Ankit Prakash",
+            "display_name": "Ankit Prakash",
+            "team": "T02PFK13YLC",
+            "name": "ankitpr89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zXQz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "They have good community and members."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649653079.170199",
+        "parent_user_id": "U030KV8R8RL"
+    },
+    {
+        "client_msg_id": "96287464-32c6-48a3-b335-9afec5d393fb",
+        "type": "message",
+        "text": "My team have been using Closerscopy.\nUsed many different templates; but the feel of AI generated content does fill the reading soul.",
+        "user": "U03AQFPP9BL",
+        "ts": "1649662936.746909",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c9b2329e7c08",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-08\/3377148716193_c9b2329e7c08a95503a8_72.png",
+            "first_name": "Ankit",
+            "real_name": "Ankit Prakash",
+            "display_name": "Ankit Prakash",
+            "team": "T02PFK13YLC",
+            "name": "ankitpr89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cL1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My team have been using Closerscopy.\nUsed many different templates; but the feel of AI generated content does fill the reading soul."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649300074.262319",
+        "parent_user_id": "U039H3ZSRD3"
+    },
+    {
+        "client_msg_id": "b9cff92e-f5d0-46e0-bea3-005e6a00a2ee",
+        "type": "message",
+        "text": "Every second post on Linkedin today is for Hireact (at least for me). Are you guys seeing this too?\n\nIs this the beginning of Linkedin Influencer Marketing?",
+        "user": "U033RUXVCAY",
+        "ts": "1649664466.407559",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "eecae6570a19",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-18\/3149477154304_eecae6570a19ea1b9b9d_72.jpg",
+            "first_name": "Divyank",
+            "real_name": "Divyank Jain",
+            "display_name": "Divyank Jain",
+            "team": "T02PFK13YLC",
+            "name": "divyankjn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U033RUXVCAY",
+            "ts": "1649664662.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YLWM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Every second post on Linkedin today is for Hireact (at least for me). Are you guys seeing this too?\n\nIs this the beginning of Linkedin Influencer Marketing?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "226ba467-fc98-42cd-a6cc-782e783c300e",
+        "type": "message",
+        "text": "Yea, they have been doing it for a couple of months now. Annoying because i used their platform and the experience was so poor.",
+        "user": "U038L2K4R08",
+        "ts": "1649664513.417619",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "bce1208af1c8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-21\/3265436469957_bce1208af1c8b401d3db_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris John",
+            "display_name": "Chris John",
+            "team": "T02PFK13YLC",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QNFZs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yea, they have been doing it for a couple of months now. Annoying because i used their platform and the experience was so poor."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649664513.417619",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1649664788.825759",
+        "reply_users": [
+            "U02V9QUDK1Q"
+        ],
+        "replies": [
+            {
+                "user": "U02V9QUDK1Q",
+                "ts": "1649664788.825759"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4f0576c7-df93-4a6f-a405-406022309fc4",
+        "type": "message",
+        "text": "We went ahead with Yellowseed. Pretty decent.",
+        "user": "U030KV8R8RL",
+        "ts": "1649664744.830059",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1d58fa7deccd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3044063413425_1d58fa7deccd79b3b2d0_72.jpg",
+            "first_name": "Vartika",
+            "real_name": "Vartika Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "vartika.gupta1911",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4usEt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We went ahead with Yellowseed. Pretty decent."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649438212.030259",
+        "parent_user_id": "U03AJ8BHKNC",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03AJ8BHKNC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "020b0602-64d0-4ae4-985f-a155d484c0b1",
+        "type": "message",
+        "text": "Use threads to reply to a conversation please :pray::skin-tone-4:",
+        "user": "U02V9QUDK1Q",
+        "ts": "1649664788.825759",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8140d54c5a70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2981230435879_8140d54c5a7085ca9412_72.jpg",
+            "first_name": "Abhash",
+            "real_name": "Abhash Kumar",
+            "display_name": "Abhash",
+            "team": "T02PFK13YLC",
+            "name": "abhash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KtJq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Use threads to reply to a conversation please "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "skin_tone": 4
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649664513.417619",
+        "parent_user_id": "U038L2K4R08"
+    },
+    {
+        "client_msg_id": "2608caa5-75f5-46e0-bef4-47ed20c5ef32",
+        "type": "message",
+        "text": "<http:\/\/Monday.com|Monday.com> - crushing it",
+        "user": "U03AF2HBZPX",
+        "ts": "1649668920.856299",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g282e41117ee",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/282e41117eea26a162917755cabc65f2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Vikas",
+            "real_name": "Vikas Kalwani",
+            "display_name": "Vikas Kalwani",
+            "team": "T02PFK13YLC",
+            "name": "myself",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BP=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Monday.com",
+                                "text": "Monday.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - crushing it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647139589.762779",
+        "parent_user_id": "U030KV8R8RL"
+    },
+    {
+        "client_msg_id": "636d0ec6-1a83-4b25-8848-8bd8e4e57a3d",
+        "type": "message",
+        "text": "<@U030KV8R8RL> what's the pricing model with Yellowseed?\n\nContent writing and designing if you have any idea",
+        "user": "U0363DZU3QF",
+        "ts": "1649677876.705109",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b6e781296de3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-13\/3381574854021_b6e781296de3cbc53491_72.png",
+            "first_name": "Swaroop",
+            "real_name": "Swaroop Patil",
+            "display_name": "Swaroop Patil",
+            "team": "T02PFK13YLC",
+            "name": "swaroop705",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZG758",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U030KV8R8RL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " what's the pricing model with Yellowseed?\n\nContent writing and designing if you have any idea"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649438212.030259",
+        "parent_user_id": "U03AJ8BHKNC"
+    },
+    {
+        "client_msg_id": "acd9fc5b-fdf1-458e-888b-a734deaa19c4",
+        "type": "message",
+        "text": "They charge you on per word basis. Not sure if they have design capabilities.",
+        "user": "U030KV8R8RL",
+        "ts": "1649679976.160319",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1d58fa7deccd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3044063413425_1d58fa7deccd79b3b2d0_72.jpg",
+            "first_name": "Vartika",
+            "real_name": "Vartika Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "vartika.gupta1911",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FWY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "They charge you on per word basis. Not sure if they have design capabilities."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649438212.030259",
+        "parent_user_id": "U03AJ8BHKNC",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0363DZU3QF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fc392ee2-7f0f-404c-8b9d-a0dae87e688b",
+        "type": "message",
+        "text": "Never heard about them in last 8 years",
+        "user": "U0389EB28UR",
+        "ts": "1649681182.058209",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "dfd69495b969",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-21\/3268867669139_dfd69495b969b8ebd1f5_72.png",
+            "first_name": "Nitin",
+            "real_name": "Nitin Balodi",
+            "display_name": "Nitin Balodi",
+            "team": "T02PFK13YLC",
+            "name": "nitin1993flanker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Ue",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Never heard about them in last 8 years"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649653079.170199",
+        "parent_user_id": "U030KV8R8RL"
+    },
+    {
+        "client_msg_id": "40b7435c-0a74-4e00-a669-89482a34dcda",
+        "type": "message",
+        "text": "I got pitched today. Are they really bad?",
+        "user": "U0389EB28UR",
+        "ts": "1649681292.280939",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "dfd69495b969",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-21\/3268867669139_dfd69495b969b8ebd1f5_72.png",
+            "first_name": "Nitin",
+            "real_name": "Nitin Balodi",
+            "display_name": "Nitin Balodi",
+            "team": "T02PFK13YLC",
+            "name": "nitin1993flanker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oUc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I got pitched today. Are they really bad?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649438212.030259",
+        "parent_user_id": "U03AJ8BHKNC"
+    },
+    {
+        "client_msg_id": "26dc1e8b-38e2-42a2-84e4-ad20abad8652",
+        "type": "message",
+        "text": "I have been lowkey testing <http:\/\/copy.ai|copy.ai> since it was in beta for various projects. For me (as a writer), its pretty good for fleshing out a rough draft\/outline + idea generation + some hero copy here and there. I think at this point it's a great writing aid, not so much of an AI writer (yet). You will still need a fantastic editor to actually get anything usable out of it.",
+        "user": "U0306P63UMD",
+        "ts": "1649685708.451309",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "0c96c71ea47a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-11\/3373909432595_0c96c71ea47a46713e00_72.jpg",
+            "first_name": "Vishakha",
+            "real_name": "Vishakha Somani",
+            "display_name": "vishakha",
+            "team": "T02PFK13YLC",
+            "name": "so.vishakha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KYRW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have been lowkey testing "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/copy.ai",
+                                "text": "copy.ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": " since it was in beta for various projects. For me (as a writer), its pretty good for fleshing out a rough draft\/outline + idea generation + some hero copy here and there. I think at this point it's a great writing aid, not so much of an AI writer (yet). You will still need a fantastic editor to actually get anything usable out of it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649300074.262319",
+        "parent_user_id": "U039H3ZSRD3"
+    },
+    {
+        "client_msg_id": "5339D913-452A-44CA-BFFF-F9B0457544E3",
+        "type": "message",
+        "text": "Quite frankly, none of these associations are worth it. Expect CMI and B2B Marketing community (<http:\/\/b2bmarketing.net|b2bmarketing.net>) none of this associations have done anything to help the content marketing community. ",
+        "user": "U030E27CBB3",
+        "ts": "1649732149.206699",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "ec5003a1e337",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/3003735647700_ec5003a1e337e1285f09_72.jpg",
+            "first_name": "Sooraj",
+            "real_name": "Sooraj Divakaran",
+            "display_name": "Sooraj",
+            "team": "T02PFK13YLC",
+            "name": "soorajdivakaran",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FGqN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Quite frankly, none of these associations are worth it. Expect CMI and B2B Marketing community ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/b2bmarketing.net",
+                                "text": "b2bmarketing.net"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") none of this associations have done anything to help the content marketing community. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649653079.170199",
+        "parent_user_id": "U030KV8R8RL"
+    },
+    {
+        "client_msg_id": "D94E954D-0B04-4137-80DF-4186B1116334",
+        "type": "message",
+        "text": "GPT3 based tools are only good to create transactional content. Headlines, meta and product descriptions, etc. They generally lack structure and logical flow. You will ultimately have to rewrite the whole thing.",
+        "user": "U030E27CBB3",
+        "ts": "1649732300.302879",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "ec5003a1e337",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/3003735647700_ec5003a1e337e1285f09_72.jpg",
+            "first_name": "Sooraj",
+            "real_name": "Sooraj Divakaran",
+            "display_name": "Sooraj",
+            "team": "T02PFK13YLC",
+            "name": "soorajdivakaran",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5AX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "GPT3 based tools are only good to create transactional content. Headlines, meta and product descriptions, etc. They generally lack structure and logical flow. You will ultimately have to rewrite the whole thing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649300074.262319",
+        "parent_user_id": "U039H3ZSRD3"
+    },
+    {
+        "client_msg_id": "A155276E-B3B0-4DA3-9462-BC9EC4D41948",
+        "type": "message",
+        "text": "You can check Neve. Astra is good but Neve’s header builder is amazing. If you want flexibility then look at Elementor. ",
+        "user": "U030E27CBB3",
+        "ts": "1649732382.795209",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "ec5003a1e337",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/3003735647700_ec5003a1e337e1285f09_72.jpg",
+            "first_name": "Sooraj",
+            "real_name": "Sooraj Divakaran",
+            "display_name": "Sooraj",
+            "team": "T02PFK13YLC",
+            "name": "soorajdivakaran",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6k77n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can check Neve. Astra is good but Neve’s header builder is amazing. If you want flexibility then look at Elementor. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649166322.125989",
+        "parent_user_id": "U038X1FRDNE"
+    },
+    {
+        "client_msg_id": "2BF9AA0E-9005-4573-9C54-236C0471F4B2",
+        "type": "message",
+        "text": "Has anybody here used Publuu to host flipbooks? Trying it (chose it over Issuu mainly coz it also works in China) but wondering if there are better options I should be assessing? ",
+        "user": "U0361UQSKGQ",
+        "ts": "1649732772.358319",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1a645c299449",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-02\/3179324981205_1a645c299449d8e0b3e9_72.jpg",
+            "first_name": "Neha",
+            "real_name": "Neha Sharma",
+            "display_name": "Neha",
+            "team": "T02PFK13YLC",
+            "name": "neha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7LuD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Has anybody here used Publuu to host flipbooks? Trying it (chose it over Issuu mainly coz it also works in China) but wondering if there are better options I should be assessing? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02V7TLU5HT",
+                    "U030KV8R8RL",
+                    "U0306AT9H0D"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ecc28b83-2fce-4b41-a6e4-240cde8cc33c",
+        "type": "message",
+        "text": "Has anybody used Hubspot for hosting blogs\/landing pages? How was your experience?",
+        "user": "U033KD7GMDJ",
+        "ts": "1649745157.762339",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "be06fe8acb05",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-17\/3119249088114_be06fe8acb05dc9d906f_72.jpg",
+            "first_name": "Jacob",
+            "real_name": "Jacob Koshy",
+            "display_name": "Jacob Koshy",
+            "team": "T02PFK13YLC",
+            "name": "jacob.koshy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nYC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Has anybody used Hubspot for hosting blogs\/landing pages? How was your experience?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649745157.762339",
+        "reply_count": 7,
+        "reply_users_count": 7,
+        "latest_reply": "1649918980.567279",
+        "reply_users": [
+            "U02TTEFFU6B",
+            "U035UMWEXJM",
+            "U031QKGPNRK",
+            "U030KV8R8RL",
+            "U0326BKDQP8",
+            "U0389EB28UR",
+            "U033KD7GMDJ"
+        ],
+        "replies": [
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649749038.773059"
+            },
+            {
+                "user": "U035UMWEXJM",
+                "ts": "1649750433.674909"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1649750633.295449"
+            },
+            {
+                "user": "U030KV8R8RL",
+                "ts": "1649764475.219189"
+            },
+            {
+                "user": "U0326BKDQP8",
+                "ts": "1649833109.303349"
+            },
+            {
+                "user": "U0389EB28UR",
+                "ts": "1649840457.585619"
+            },
+            {
+                "user": "U033KD7GMDJ",
+                "ts": "1649918980.567279"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

@@ -1,0 +1,616 @@
+[
+    {
+        "client_msg_id": "d0ac5dbb-84d3-4bea-9a76-c9418fcf104a",
+        "type": "message",
+        "text": "Join the sales enablement collective slack channel you will get quite resources",
+        "user": "U03ACCJ4CVC",
+        "ts": "1650467618.702539",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "6b7467482751",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3352426387814_6b7467482751582a4046_72.jpg",
+            "first_name": "Sowndharrajan",
+            "real_name": "Sowndharrajan Radhakrishnan",
+            "display_name": "Sowndharrajan Radhakrishnan",
+            "team": "T02PFK13YLC",
+            "name": "sowndharrajanradhakri",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03ACCJ4CVC",
+            "ts": "1650467649.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fpUJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Join the sales enablement collective slack channel you will get quite resources"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650286594.027589",
+        "parent_user_id": "U038GCYAUB1",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U038GCYAUB1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4fe0c313-4a89-487e-af2a-283bbdb70218",
+        "type": "message",
+        "text": "Any B2B marketing boot camps, think tanks, resources, and certifications?\nIf any, please comment or DM.\nI'm trying to learn B2B marketing basics",
+        "user": "U03ACCJ4CVC",
+        "ts": "1650468285.420529",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "6b7467482751",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3352426387814_6b7467482751582a4046_72.jpg",
+            "first_name": "Sowndharrajan",
+            "real_name": "Sowndharrajan Radhakrishnan",
+            "display_name": "Sowndharrajan Radhakrishnan",
+            "team": "T02PFK13YLC",
+            "name": "sowndharrajanradhakri",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WXM6G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any B2B marketing boot camps, think tanks, resources, and certifications?\nIf any, please comment or DM.\nI'm trying to learn B2B marketing basics"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650468285.420529",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1650474609.832619",
+        "reply_users": [
+            "U02USELSBRT",
+            "U030E27CBB3"
+        ],
+        "replies": [
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650470271.392779"
+            },
+            {
+                "user": "U030E27CBB3",
+                "ts": "1650474609.832619"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U030SDYNX7V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A299EF1D-5441-48E4-838F-BCB083D2F160",
+        "type": "message",
+        "text": "This is it, buddy! Shoot whatever you wanna know",
+        "user": "U02USELSBRT",
+        "ts": "1650470271.392779",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=JVK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is it, buddy! Shoot whatever you wanna know"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650468285.420529",
+        "parent_user_id": "U03ACCJ4CVC"
+    },
+    {
+        "client_msg_id": "14613F5F-DA53-414D-BE7B-865250709EB3",
+        "type": "message",
+        "text": "You should check <http:\/\/b2bmarketing.net|b2bmarketing.net>. They have some great resources. Certifications won't help much. ",
+        "user": "U030E27CBB3",
+        "ts": "1650474609.832619",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "ec5003a1e337",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/3003735647700_ec5003a1e337e1285f09_72.jpg",
+            "first_name": "Sooraj",
+            "real_name": "Sooraj Divakaran",
+            "display_name": "Sooraj",
+            "team": "T02PFK13YLC",
+            "name": "soorajdivakaran",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dKTt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You should check "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/b2bmarketing.net",
+                                "text": "b2bmarketing.net"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". They have some great resources. Certifications won't help much. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650468285.420529",
+        "parent_user_id": "U03ACCJ4CVC"
+    },
+    {
+        "client_msg_id": "B6163C38-2843-4247-B847-795BE528C29B",
+        "type": "message",
+        "text": "So I’ve taken up the process of creating sales battle cards for my product. I have a few ideas on how to do it. But what are some of the best battlecards that you all have seen? And what are the headings (pain,benefits, etc) that a battlecard must have?",
+        "user": "U02V5Q7DUPJ",
+        "ts": "1650510724.124989",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "f5771ec4bf33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2995362345603_f5771ec4bf33479993fa_72.png",
+            "first_name": "Vijay",
+            "real_name": "Vijay Raghav",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "vraghavan009",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4jH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So I’ve taken up the process of creating sales battle cards for my product. I have a few ideas on how to do it. But what are some of the best battlecards that you all have seen? And what are the headings (pain,benefits, etc) that a battlecard must have?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650510724.124989",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1650891934.881049",
+        "reply_users": [
+            "U02USELSBRT",
+            "U02UUCE1ASD",
+            "U02V5Q6P716",
+            "U030L4PHVN2",
+            "U033DB58U9E",
+            "U035FUA98B0"
+        ],
+        "replies": [
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650513269.996549"
+            },
+            {
+                "user": "U02UUCE1ASD",
+                "ts": "1650514980.594139"
+            },
+            {
+                "user": "U02V5Q6P716",
+                "ts": "1650515137.057129"
+            },
+            {
+                "user": "U030L4PHVN2",
+                "ts": "1650517080.740849"
+            },
+            {
+                "user": "U033DB58U9E",
+                "ts": "1650532819.252979"
+            },
+            {
+                "user": "U035FUA98B0",
+                "ts": "1650891934.881049"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "C760BD38-FEA9-4CC1-9347-C6FB79D29EA0",
+        "type": "message",
+        "text": "<@U03AZM473KM> ",
+        "user": "U02USELSBRT",
+        "ts": "1650513269.996549",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OCA2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03AZM473KM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650510724.124989",
+        "parent_user_id": "U02V5Q7DUPJ"
+    },
+    {
+        "client_msg_id": "edcc5a2d-e292-495e-8a96-977fe7a6cc76",
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/document\/d\/1-Onij888iGxciARRfDMDLYRB6RTWsxcwMH7xRGBZcF4\/edit#heading=h.ppfnnlr7gza3>",
+        "user": "U02UUCE1ASD",
+        "ts": "1650514980.594139",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8fc0ff2b8ed7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-22\/3425444312242_8fc0ff2b8ed7f97f960d_72.jpg",
+            "first_name": "Sunil",
+            "real_name": "Sunil Neurgaonkar",
+            "display_name": "Sunil",
+            "team": "T02PFK13YLC",
+            "name": "sunilneurgaonkar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t2qHf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1-Onij888iGxciARRfDMDLYRB6RTWsxcwMH7xRGBZcF4\/edit#heading=h.ppfnnlr7gza3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650510724.124989",
+        "parent_user_id": "U02V5Q7DUPJ",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02V75V0YBX",
+                    "U0309B5AYTB",
+                    "U0380S2BZ9A",
+                    "U0388Q37SDC",
+                    "U039HH3LP43"
+                ],
+                "count": 5
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U02V5Q7DUPJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4f148fde-389b-4981-805f-32f2447b58b5",
+        "type": "message",
+        "text": "*Good to have*\n• A brief overview of their company (year founded, their team size, positioning etc) to get a bird's eye view \n• Their products and pricing \n• Strengths\n• Weaknesses\n• Potential landmines \n• Approach to market \n• Key feature comparison\n• Objection handling for sales reps \n• Customers \nHope this helps",
+        "user": "U02V5Q6P716",
+        "ts": "1650515137.057129",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "2b363e44f8ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-14\/3390925287155_2b363e44f8ec9b71d4bc_72.jpg",
+            "first_name": "Sushmitha",
+            "real_name": "Sushmitha",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "saisushmitha999",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02V5Q6P716",
+            "ts": "1650515218.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g5Gu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good to have\n",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "A brief overview of their company (year founded, their team size, positioning etc) to get a bird's eye view "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Their products and pricing "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Strengths"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Weaknesses"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Potential landmines "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Approach to market "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Key feature comparison"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Objection handling for sales reps "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Customers "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hope this helps"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650510724.124989",
+        "parent_user_id": "U02V5Q7DUPJ",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02V5Q7DUPJ",
+                    "U039HH3LP43"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1de34266-51ce-46b0-bc2b-27591c668441",
+        "type": "message",
+        "text": "Crayon is a leader in competitive intelligence. <https:\/\/www.crayon.co\/success\/battlecard-templates>",
+        "user": "U030L4PHVN2",
+        "ts": "1650517080.740849",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "d167b32b77b6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-29\/3012208037127_d167b32b77b6bd735b7a_72.png",
+            "first_name": "Anand",
+            "real_name": "Anand Vatsya",
+            "display_name": "Anand",
+            "team": "T02PFK13YLC",
+            "name": "anandvatsya1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.crayon.co\/success\/battlecard-templates",
+                "service_icon": "https:\/\/www.crayon.co\/hubfs\/Icon_4C_ForWHITEbg.png",
+                "id": 1,
+                "original_url": "https:\/\/www.crayon.co\/success\/battlecard-templates",
+                "fallback": "Battlecard Templates That Win Competitive Deals",
+                "text": "Use these sales battlecard templates to help your sellers compete like they mean it.",
+                "title": "Battlecard Templates That Win Competitive Deals",
+                "title_link": "https:\/\/www.crayon.co\/success\/battlecard-templates",
+                "service_name": "crayon.co"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZgzlH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Crayon is a leader in competitive intelligence. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.crayon.co\/success\/battlecard-templates"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650510724.124989",
+        "parent_user_id": "U02V5Q7DUPJ",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02V5Q7DUPJ",
+                    "U039HH3LP43"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "client_msg_id": "9bfe2e60-7a48-43b9-9755-3f93cc27dc7f",
+        "type": "message",
+        "text": "Has anyone here read Founder Brand by David Gerhardt? <https:\/\/www.amazon.in\/Founder-Brand-Story-Competitive-Advantage-ebook\/dp\/B09PMHFJLK>\n\nwanting to see if it is worth my 1 audible book a month credit :slightly_smiling_face:",
+        "user": "U031QKGPNRK",
+        "ts": "1649739000.522329",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KEn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Has anyone here read Founder Brand by David Gerhardt? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.in\/Founder-Brand-Story-Competitive-Advantage-ebook\/dp\/B09PMHFJLK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nwanting to see if it is worth my 1 audible book a month credit "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649739000.522329",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1649818078.256019",
+        "reply_users": [
+            "U02TTEFFU6B",
+            "U031QKGPNRK",
+            "U02VBNKU9T6"
+        ],
+        "replies": [
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649739474.517019"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1649741140.485999"
+            },
+            {
+                "user": "U02VBNKU9T6",
+                "ts": "1649776243.518479"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649779816.694549"
+            },
+            {
+                "user": "U02VBNKU9T6",
+                "ts": "1649815040.737579"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649818078.256019"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9e31a024-24f4-4c74-8d08-a06aab077704",
+        "type": "message",
+        "text": "Yes it is. Not earth-shattering. But a valuable reminder of stuff you need to do to build a B2B founder brand.\n\nSurprisingly actionable and almost no-fluff.",
+        "user": "U02TTEFFU6B",
+        "ts": "1649739474.517019",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pIf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes it is. Not earth-shattering. But a valuable reminder of stuff you need to do to build a B2B founder brand.\n\nSurprisingly actionable and almost no-fluff."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649739000.522329",
+        "parent_user_id": "U031QKGPNRK",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U031QKGPNRK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "554f43b6-1c51-4b59-8c14-5a20cc2737e3",
+        "type": "message",
+        "text": "I like reminders every now and then. Thanks <@U02TTEFFU6B>",
+        "user": "U031QKGPNRK",
+        "ts": "1649741140.485999",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QK1A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I like reminders every now and then. Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02TTEFFU6B"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649739000.522329",
+        "parent_user_id": "U031QKGPNRK"
+    }
+]

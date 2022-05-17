@@ -1,0 +1,120 @@
+[
+    {
+        "client_msg_id": "6F2E8D0A-A3B8-454F-8906-40D833AFD42C",
+        "type": "message",
+        "text": "Anyone has The Cold Effect by Andrew Chen?  Would like to get it for 15 days? ",
+        "user": "U030KV8R8RL",
+        "ts": "1650784780.713519",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1d58fa7deccd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3044063413425_1d58fa7deccd79b3b2d0_72.jpg",
+            "first_name": "Vartika",
+            "real_name": "Vartika Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "vartika.gupta1911",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U030KV8R8RL",
+            "ts": "1650784829.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/iKc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone has The Cold Effect by Andrew Chen?  Would like to get it for 15 days? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "56b42846-872a-472c-9c2b-95e1ed71c760",
+        "type": "message",
+        "text": "Hello folks. Anyone in this group with the experience of running a book club?\n\nI was thinking of having a 15\/30 days sprint where each one of us picks a book (can be any theme) and highlight athe gist of the book?\n\nAlso we can have an inventory so we exchange",
+        "user": "U02PDC4883V",
+        "ts": "1650863289.480359",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c5PI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello folks. Anyone in this group with the experience of running a book club?\n\nI was thinking of having a 15\/30 days sprint where each one of us picks a book (can be any theme) and highlight athe gist of the book?\n\nAlso we can have an inventory so we exchange"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ce476f53-2188-4876-b25e-77dae1829a4b",
+        "type": "message",
+        "text": "Thoughts?",
+        "user": "U02PDC4883V",
+        "ts": "1650863306.063999",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2FdR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thoughts?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

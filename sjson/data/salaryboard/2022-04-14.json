@@ -1,0 +1,1253 @@
+[
+    {
+        "client_msg_id": "71444cb8-0775-4473-a459-795b7c590052",
+        "type": "message",
+        "text": "I have seen 10-100% appraisals being given based on impact and dependence.",
+        "user": "U02ULN6EFNV",
+        "ts": "1649919642.520709",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g2796bce497e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2796bce497e03edc08c2719052eaae8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Chirayu",
+            "real_name": "Chirayu (Leena AI)",
+            "display_name": "Chirayu",
+            "team": "T02PFK13YLC",
+            "name": "akotiya.chirayu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Y92E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have seen 10-100% appraisals being given based on impact and dependence."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649748441.634489",
+        "parent_user_id": "U03AHQURB98"
+    },
+    {
+        "client_msg_id": "489f2b41-3aad-4038-92c7-6f779b0fe69a",
+        "type": "message",
+        "text": "at bootstrapped cos, Chirayu?",
+        "user": "U02V9QUDK1Q",
+        "ts": "1649919702.228089",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8140d54c5a70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2981230435879_8140d54c5a7085ca9412_72.jpg",
+            "first_name": "Abhash",
+            "real_name": "Abhash Kumar",
+            "display_name": "Abhash",
+            "team": "T02PFK13YLC",
+            "name": "abhash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fmlib",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "at bootstrapped cos, Chirayu?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649748441.634489",
+        "parent_user_id": "U03AHQURB98"
+    },
+    {
+        "client_msg_id": "cee847fb-4f43-4e0c-aff2-e75aaa90c74f",
+        "type": "message",
+        "text": "base should be quite low for 100%, I guess",
+        "user": "U02V9QUDK1Q",
+        "ts": "1649919749.697169",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8140d54c5a70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2981230435879_8140d54c5a7085ca9412_72.jpg",
+            "first_name": "Abhash",
+            "real_name": "Abhash Kumar",
+            "display_name": "Abhash",
+            "team": "T02PFK13YLC",
+            "name": "abhash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=h2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "base should be quite low for 100%, I guess"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649748441.634489",
+        "parent_user_id": "U03AHQURB98"
+    },
+    {
+        "client_msg_id": "87b863b1-4028-4a70-b6cb-f7edcad4e196",
+        "type": "message",
+        "text": "yes, base around 20lpa ~",
+        "user": "U02ULN6EFNV",
+        "ts": "1649919883.818759",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g2796bce497e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2796bce497e03edc08c2719052eaae8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Chirayu",
+            "real_name": "Chirayu (Leena AI)",
+            "display_name": "Chirayu",
+            "team": "T02PFK13YLC",
+            "name": "akotiya.chirayu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fiqr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, base around 20lpa ~"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649748441.634489",
+        "parent_user_id": "U03AHQURB98"
+    },
+    {
+        "client_msg_id": "c0a07ff3-0bcf-41a0-b7f7-60fb308f2f21",
+        "type": "message",
+        "text": "that’s not low at all - I don’t think an early-stage bootstrapped startup will be able to do a 100% on 20lpa\nneed VC $$ to do this",
+        "user": "U02V9QUDK1Q",
+        "ts": "1649919951.267989",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8140d54c5a70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2981230435879_8140d54c5a7085ca9412_72.jpg",
+            "first_name": "Abhash",
+            "real_name": "Abhash Kumar",
+            "display_name": "Abhash",
+            "team": "T02PFK13YLC",
+            "name": "abhash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3qLAP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that’s not low at all - I don’t think an early-stage bootstrapped startup will be able to do a 100% on 20lpa\nneed VC $$ to do this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649748441.634489",
+        "parent_user_id": "U03AHQURB98"
+    },
+    {
+        "client_msg_id": "d19f084c-4250-4ca4-b4c4-495d7ea9da8c",
+        "type": "message",
+        "text": "20lpa for bootstrapped company!! \n\nThat's huge:)",
+        "user": "U03AHQURB98",
+        "ts": "1649920159.752189",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1e75ac50be49",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3354970724517_1e75ac50be49acccd7cf_72.jpg",
+            "first_name": "Anindya",
+            "real_name": "Anindya Chakraborty",
+            "display_name": "Anindya Chakraborty",
+            "team": "T02PFK13YLC",
+            "name": "anindya.8336010281",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UUP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "20lpa for bootstrapped company!! \n\nThat's huge:)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649748441.634489",
+        "parent_user_id": "U03AHQURB98"
+    },
+    {
+        "client_msg_id": "9AF142F3-3172-4864-BD30-2CC672132EFD",
+        "type": "message",
+        "text": "100% on 20lpa is unheard of. We have been working at the wrong places I guess. ",
+        "user": "U02U6FZRHRV",
+        "ts": "1649920265.158479",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "51b651e36774",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-19\/2985809793169_51b651e367745f95ba7a_72.png",
+            "first_name": "Nilesh",
+            "real_name": "Nilesh Surana",
+            "display_name": "Nilesh",
+            "team": "T02PFK13YLC",
+            "name": "nileshsurana86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4xBjS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "100% on 20lpa is unheard of. We have been working at the wrong places I guess. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649748441.634489",
+        "parent_user_id": "U03AHQURB98"
+    },
+    {
+        "client_msg_id": "773de4b3-6f0e-42f3-8fcd-7e81a3812a34",
+        "type": "message",
+        "text": "Haha, that's for sure. It's just appraisal, not company switch also. \n\nMaybe <@U02ULN6EFNV> is talking from USD perspective!",
+        "user": "U03AHQURB98",
+        "ts": "1649920337.236999",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1e75ac50be49",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3354970724517_1e75ac50be49acccd7cf_72.jpg",
+            "first_name": "Anindya",
+            "real_name": "Anindya Chakraborty",
+            "display_name": "Anindya Chakraborty",
+            "team": "T02PFK13YLC",
+            "name": "anindya.8336010281",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MiB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Haha, that's for sure. It's just appraisal, not company switch also. \n\nMaybe "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02ULN6EFNV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is talking from USD perspective!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649748441.634489",
+        "parent_user_id": "U03AHQURB98"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Well, Basecamp’s bootstrapped and was offering $126,000 for a content marketing role + benefits.",
+        "user": "U030KV8R8RL",
+        "ts": "1649920443.168149",
+        "thread_ts": "1649748441.634489",
+        "root": {
+            "client_msg_id": "f537a39a-0efa-4d39-af98-1ddb85cf4bb2",
+            "type": "message",
+            "text": "What can be the appraisal percentage in an early stage bootstrapped startup?",
+            "user": "U03AHQURB98",
+            "ts": "1649748441.634489",
+            "team": "T02PFK13YLC",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "VK\/",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "What can be the appraisal percentage in an early stage bootstrapped startup?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1649748441.634489",
+            "reply_count": 28,
+            "reply_users_count": 9,
+            "latest_reply": "1649921890.019629",
+            "reply_users": [
+                "U02U6FZRHRV",
+                "U02V9QUDK1Q",
+                "U03AHQURB98",
+                "U02USELSBRT",
+                "U030KV8R8RL",
+                "U02ULN6EFNV",
+                "U02UY3EPQDA",
+                "U031QKGPNRK",
+                "U02PDC4883V"
+            ],
+            "replies": [
+                {
+                    "user": "U02U6FZRHRV",
+                    "ts": "1649748575.583679"
+                },
+                {
+                    "user": "U02V9QUDK1Q",
+                    "ts": "1649748614.428679"
+                },
+                {
+                    "user": "U03AHQURB98",
+                    "ts": "1649749004.032239"
+                },
+                {
+                    "user": "U02USELSBRT",
+                    "ts": "1649750014.849569"
+                },
+                {
+                    "user": "U030KV8R8RL",
+                    "ts": "1649763192.719809"
+                },
+                {
+                    "user": "U02USELSBRT",
+                    "ts": "1649767781.534959"
+                },
+                {
+                    "user": "U02USELSBRT",
+                    "ts": "1649767804.685569"
+                },
+                {
+                    "user": "U02ULN6EFNV",
+                    "ts": "1649919642.520709"
+                },
+                {
+                    "user": "U02V9QUDK1Q",
+                    "ts": "1649919702.228089"
+                },
+                {
+                    "user": "U02V9QUDK1Q",
+                    "ts": "1649919749.697169"
+                },
+                {
+                    "user": "U02ULN6EFNV",
+                    "ts": "1649919883.818759"
+                },
+                {
+                    "user": "U02V9QUDK1Q",
+                    "ts": "1649919951.267989"
+                },
+                {
+                    "user": "U03AHQURB98",
+                    "ts": "1649920159.752189"
+                },
+                {
+                    "user": "U02U6FZRHRV",
+                    "ts": "1649920265.158479"
+                },
+                {
+                    "user": "U03AHQURB98",
+                    "ts": "1649920337.236999"
+                },
+                {
+                    "user": "U030KV8R8RL",
+                    "ts": "1649920443.168149"
+                },
+                {
+                    "user": "U02V9QUDK1Q",
+                    "ts": "1649920485.096219"
+                },
+                {
+                    "user": "U02UY3EPQDA",
+                    "ts": "1649921002.733739"
+                },
+                {
+                    "user": "U031QKGPNRK",
+                    "ts": "1649921095.220409"
+                },
+                {
+                    "user": "U02V9QUDK1Q",
+                    "ts": "1649921136.095499"
+                },
+                {
+                    "user": "U03AHQURB98",
+                    "ts": "1649921201.409169"
+                },
+                {
+                    "user": "U02UY3EPQDA",
+                    "ts": "1649921246.917179"
+                },
+                {
+                    "user": "U031QKGPNRK",
+                    "ts": "1649921366.028199"
+                },
+                {
+                    "user": "U031QKGPNRK",
+                    "ts": "1649921402.994569"
+                },
+                {
+                    "user": "U02PDC4883V",
+                    "ts": "1649921419.123359"
+                },
+                {
+                    "user": "U02PDC4883V",
+                    "ts": "1649921613.385429"
+                },
+                {
+                    "user": "U02PDC4883V",
+                    "ts": "1649921760.436569"
+                },
+                {
+                    "user": "U02UY3EPQDA",
+                    "ts": "1649921890.019629"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1649921890.019629"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A0RFA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well, Basecamp’s bootstrapped and was offering $126,000 for a content marketing role + benefits."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "BF15FF16-0424-4A22-91AB-7675EE272DD5",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U033MGAAL1K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a3c4856a-8e85-4612-9bc1-427c36d92b99",
+        "type": "message",
+        "text": "^out of context for this conversation, no?",
+        "user": "U02V9QUDK1Q",
+        "ts": "1649920485.096219",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8140d54c5a70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2981230435879_8140d54c5a7085ca9412_72.jpg",
+            "first_name": "Abhash",
+            "real_name": "Abhash Kumar",
+            "display_name": "Abhash",
+            "team": "T02PFK13YLC",
+            "name": "abhash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mDM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "^out of context for this conversation, no?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649748441.634489",
+        "parent_user_id": "U03AHQURB98",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U03AHQURB98",
+                    "U03208N6E2G"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "25d73817-b2a0-4049-8f2e-5ca7ed275a37",
+        "type": "message",
+        "text": "One of the biggest misconceptions I see always, is bootstrapped can’t afford.  This is totally a wrong and baseless assumption.\n\nBeing bootstrapped ==! Affordability!  MailChimp (now acquired by Intuit) is bootstrapped.  Zoho Corp is still a bootstrapped.\n\nBootstrapped only means no external funding.  The funding for payroll etc can still come for founders and or even revenue.  So, can’t assume on the affordability purely based on whether or no funded.",
+        "user": "U02UY3EPQDA",
+        "ts": "1649921002.733739",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "da155664fe94",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-20\/2981844758147_da155664fe9476fbd35b_72.jpg",
+            "first_name": "sv410_",
+            "real_name": "sv410_",
+            "display_name": "sv410_",
+            "team": "T02PFK13YLC",
+            "name": "bravenuworld",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+xr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "One of the biggest misconceptions I see always, is bootstrapped can’t afford.  This is totally a wrong and baseless assumption.\n\nBeing bootstrapped ==! Affordability!  MailChimp (now acquired by Intuit) is bootstrapped.  Zoho Corp is still a bootstrapped.\n\nBootstrapped only means no external funding.  The funding for payroll etc can still come for founders and or even revenue.  So, can’t assume on the affordability purely based on whether or no funded."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649748441.634489",
+        "parent_user_id": "U03AHQURB98",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U030M1LS1L2",
+                    "U02ULN6EFNV",
+                    "U030RPQ64KS"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02ULN6EFNV",
+                    "U030RPQ64KS"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4fda2cea-7638-4d20-acb8-011f518b54d9",
+        "type": "message",
+        "text": "Well i thought it was understood that bootstrapped and very early stage is what people meant here when they said they can't afford. The examples quoted above for high hikes are bootstrapped companies in either later stages or post pm fit stages. But happy to learn if my assumption is wrong",
+        "user": "U031QKGPNRK",
+        "ts": "1649921095.220409",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Bl5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well i thought it was understood that bootstrapped and very early stage is what people meant here when they said they can't afford. The examples quoted above for high hikes are bootstrapped companies in either later stages or post pm fit stages. But happy to learn if my assumption is wrong"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649748441.634489",
+        "parent_user_id": "U03AHQURB98",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02V9QUDK1Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "76dceeba-c00d-4ff3-a296-0c72c0d4c195",
+        "type": "message",
+        "text": "What can be the appraisal percentage in an *early stage bootstrapped startup?*",
+        "user": "U02V9QUDK1Q",
+        "ts": "1649921136.095499",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8140d54c5a70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2981230435879_8140d54c5a7085ca9412_72.jpg",
+            "first_name": "Abhash",
+            "real_name": "Abhash Kumar",
+            "display_name": "Abhash",
+            "team": "T02PFK13YLC",
+            "name": "abhash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NrP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What can be the appraisal percentage in an "
+                            },
+                            {
+                                "type": "text",
+                                "text": "early stage bootstrapped startup?",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649748441.634489",
+        "parent_user_id": "U03AHQURB98",
+        "reactions": [
+            {
+                "name": "trophy",
+                "users": [
+                    "U031QKGPNRK",
+                    "U02ULN6EFNV"
+                ],
+                "count": 2
+            },
+            {
+                "name": "smile",
+                "users": [
+                    "U031QKGPNRK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "verified",
+                "users": [
+                    "U03AHQURB98"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4a5ae3b0-2a85-417d-ad29-5b47570d3350",
+        "type": "message",
+        "text": "Right ... I asked about early stage bootstrapped ... Like 7 month old company :sweat_smile:",
+        "user": "U03AHQURB98",
+        "ts": "1649921201.409169",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1e75ac50be49",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3354970724517_1e75ac50be49acccd7cf_72.jpg",
+            "first_name": "Anindya",
+            "real_name": "Anindya Chakraborty",
+            "display_name": "Anindya Chakraborty",
+            "team": "T02PFK13YLC",
+            "name": "anindya.8336010281",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k4x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Right ... I asked about early stage bootstrapped ... Like 7 month old company "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649748441.634489",
+        "parent_user_id": "U03AHQURB98"
+    },
+    {
+        "client_msg_id": "a1eb31a9-abb2-4b3d-b24d-ced775fd92a2",
+        "type": "message",
+        "text": "To make the assumptions right the qualification should be based on the revenue stage (or even growth stage).  And not whether or not a company is funded.  This a more clear way of determining the ‘affordability’ in terms of talent market.",
+        "user": "U02UY3EPQDA",
+        "ts": "1649921246.917179",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "da155664fe94",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-20\/2981844758147_da155664fe9476fbd35b_72.jpg",
+            "first_name": "sv410_",
+            "real_name": "sv410_",
+            "display_name": "sv410_",
+            "team": "T02PFK13YLC",
+            "name": "bravenuworld",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JfKm8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To make the assumptions right the qualification should be based on the revenue stage (or even growth stage).  And not whether or not a company is funded.  This a more clear way of determining the ‘affordability’ in terms of talent market."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649748441.634489",
+        "parent_user_id": "U03AHQURB98",
+        "reactions": [
+            {
+                "name": "yes",
+                "users": [
+                    "U02ULN6EFNV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cf5fad46-d050-48ed-b4d6-7712d9e9b18f",
+        "type": "message",
+        "text": "Clause pe clause pe clause pe clause. Me lord....",
+        "user": "U031QKGPNRK",
+        "ts": "1649921366.028199",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e1f6542b167e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3120754762183_e1f6542b167e03616b20_72.jpg",
+            "first_name": "Tejaswi",
+            "real_name": "Tejaswi Raghurama",
+            "display_name": "Tej",
+            "team": "T02PFK13YLC",
+            "name": "tejaswiraghurama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qfsk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Clause pe clause pe clause pe clause. Me lord...."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649748441.634489",
+        "parent_user_id": "U03AHQURB98",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U02ULN6EFNV",
+                    "U02USELSBRT"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03BGLQDBFC",
+                "created": 1649921399,
+                "timestamp": 1649921399,
+                "name": "14tareekh-pe-tareekh.jpg",
+                "title": "14tareekh-pe-tareekh.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U031QKGPNRK",
+                "editable": false,
+                "size": 19613,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03BGLQDBFC\/14tareekh-pe-tareekh.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03BGLQDBFC\/download\/14tareekh-pe-tareekh.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BGLQDBFC-9744c68e1b\/14tareekh-pe-tareekh_64.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BGLQDBFC-9744c68e1b\/14tareekh-pe-tareekh_80.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BGLQDBFC-9744c68e1b\/14tareekh-pe-tareekh_360.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 360,
+                "thumb_360_h": 264,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BGLQDBFC-9744c68e1b\/14tareekh-pe-tareekh_480.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 480,
+                "thumb_480_h": 351,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BGLQDBFC-9744c68e1b\/14tareekh-pe-tareekh_160.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "original_w": 500,
+                "original_h": 366,
+                "thumb_tiny": "AwAjADAt7Rlj8yQ49FFThF7x5+u6mRTJOQcKGI5Bx1p7LgYwM55yM\/0oAa8SEcJt5681XuLYxsWb5k28Edj71aAB4+XA65wP6VWuJDIpijUsc5YikBAwQDO1gPrUYG2QYOalPAOR7c0x0ZCpK4BAxQUEeQcdxUkc7oSS2MdMVAjgsc9T3qTaB05yKQiV52lcFwAccnPBpnm+VuZcEtjHtUbfLgmoi2TTQMvwIJVEkgyxOaryzt5rFTx0qeKTbbZHZTVEmmIdAfmIp85I24NMg+8fpTp\/4aXUfQhooopiJ0J+yP8AUVCamT\/j1f8A3hUJoA\/\/2Q==",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U031QKGPNRK\/F03BGLQDBFC\/14tareekh-pe-tareekh.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03BGLQDBFC-f3f8c40f7e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U031QKGPNRK",
+        "display_as_bot": false,
+        "ts": "1649921402.994569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MIHz4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "369ab31d-7ea9-41df-bd3f-9e4d274f21de",
+        "thread_ts": "1649748441.634489",
+        "parent_user_id": "U03AHQURB98"
+    },
+    {
+        "client_msg_id": "73cc7352-266e-4511-b5a1-03e0916facb1",
+        "type": "message",
+        "text": "^Appraisal ki tareek",
+        "user": "U02PDC4883V",
+        "ts": "1649921419.123359",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "noo5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "^Appraisal ki tareek"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649748441.634489",
+        "parent_user_id": "U03AHQURB98",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U031QKGPNRK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "16687311-dc05-4d5c-961b-47a5f148d4b3",
+        "type": "message",
+        "text": "I can only imagine Sunny Deol going for an appraisal.\nFirst plead: Tarkeeh par tarkeeh. Ab to kuch de do\nThen frustrated: Yeh dhai kilo ka haath jab uthhtaa hai na Manager, toh insaan uthhtaa nahin.... Uthh jaata hai...",
+        "user": "U02PDC4883V",
+        "ts": "1649921613.385429",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IO5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can only imagine Sunny Deol going for an appraisal.\nFirst plead: Tarkeeh par tarkeeh. Ab to kuch de do\nThen frustrated: Yeh dhai kilo ka haath jab uthhtaa hai na Manager, toh insaan uthhtaa nahin.... Uthh jaata hai..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649748441.634489",
+        "parent_user_id": "U03AHQURB98"
+    },
+    {
+        "type": "message",
+        "text": "Shahrukh buttering his manager\nTujhe Dekha to jaana",
+        "files": [
+            {
+                "id": "F03BK23563E",
+                "created": 1649921753,
+                "timestamp": 1649921753,
+                "name": "tujhe-dekha.jpeg",
+                "title": "tujhe-dekha.jpeg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U02PDC4883V",
+                "editable": false,
+                "size": 22492,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03BK23563E\/tujhe-dekha.jpeg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03BK23563E\/download\/tujhe-dekha.jpeg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BK23563E-80acefbed8\/tujhe-dekha_64.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BK23563E-80acefbed8\/tujhe-dekha_80.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BK23563E-80acefbed8\/tujhe-dekha_360.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 360,
+                "thumb_360_h": 157,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BK23563E-80acefbed8\/tujhe-dekha_480.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 480,
+                "thumb_480_h": 209,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03BK23563E-80acefbed8\/tujhe-dekha_160.jpg?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "original_w": 604,
+                "original_h": 263,
+                "thumb_tiny": "AwAUADC4KWoJ8mFipIIGRVaGV4UywJ3dBnilzoLD7mecXGyHoAO3WrqklQSMEiqUcZlmMkjAnGSF7UsEsiqNzZUev8qXOO2hZmcxplRk\/wAqrfaXVsEg0TOjAOHIbHQd6gZDkFRgHnn+VNskuliEJBqB0DKrHqDgVM3+rP0qNv8AVD6j+VcsSmNxslwvAxmhgCu8gZApW\/13\/Af8aD\/qj9P61YAkKecG5z161Z69QKiT\/WD6f0FS\/wCFZybuM\/\/Z",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U02PDC4883V\/F03BK23563E\/tujhe-dekha.jpeg",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03BK23563E-1ab361a0a6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02PDC4883V",
+        "display_as_bot": false,
+        "ts": "1649921760.436569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VHgZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Shahrukh buttering his manager\nTujhe Dekha to jaana"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U02PDC4883V",
+            "ts": "1649921772.000000"
+        },
+        "client_msg_id": "e9d8c419-1e86-4c7b-ac56-37c4492b035f",
+        "thread_ts": "1649748441.634489",
+        "parent_user_id": "U03AHQURB98"
+    },
+    {
+        "client_msg_id": "a7a0318e-dd8f-4472-a255-7b4a02750e06",
+        "type": "message",
+        "text": "Percentage is (of appraisal) should be the same as the any industry standard.  (usually 15 - 50% for a base of 20LPA).\n\nNow, a bootstrapped startup may choose to give some of it usually in terms of further ESOPs and or a combination of revenue based bonus (or trigger based even future funding rounds) to fill the deficit.\n\nThe point it, whether or not bootstrapped — talent market is open in nature.  A bootstrapped founders usually always work a combination of things under their control to propose an offer to retain a talent.\n\nThe finer detail for the OP is to see how well he believes in the idea and what the future looks like for the company’s success.  So, the decision is less about the percentage and more about future bets (which I personally believe that in early stage, pre-revenue, employees should be considered as founding teams and should have an equity no less than 3%).",
+        "user": "U02UY3EPQDA",
+        "ts": "1649921890.019629",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "da155664fe94",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-20\/2981844758147_da155664fe9476fbd35b_72.jpg",
+            "first_name": "sv410_",
+            "real_name": "sv410_",
+            "display_name": "sv410_",
+            "team": "T02PFK13YLC",
+            "name": "bravenuworld",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "faOT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Percentage is (of appraisal) should be the same as the any industry standard.  (usually 15 - 50% for a base of 20LPA).\n\nNow, a bootstrapped startup may choose to give some of it usually in terms of further ESOPs and or a combination of revenue based bonus (or trigger based even future funding rounds) to fill the deficit.\n\nThe point it, whether or not bootstrapped — talent market is open in nature.  A bootstrapped founders usually always work a combination of things under their control to propose an offer to retain a talent.\n\nThe finer detail for the OP is to see how well he believes in the idea and what the future looks like for the company’s success.  So, the decision is less about the percentage and more about future bets (which I personally believe that in early stage, pre-revenue, employees should be considered as founding teams and should have an equity no less than 3%)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649748441.634489",
+        "parent_user_id": "U03AHQURB98"
+    },
+    {
+        "client_msg_id": "760dfec8-656a-445f-a29f-1478fe378efa",
+        "type": "message",
+        "text": "What's a good %age of Esops wrt overall CTC? \n\nI have seen start-ups offer 10-50% of total salary as a ESOP component. Especially in early and series A-B funded startups. Eg. a 60 lac package with 30 as base + variable and 30 lac wort ESOPs. \nAs a candidate how do you decide whether it's a good offer considering min 4 year vesting period and you usually don't know the financials of a private company?",
+        "user": "U030SHA1S2W",
+        "ts": "1649923112.865299",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4854b34cf53b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-22\/3163652013408_4854b34cf53b0654333b_72.jpg",
+            "first_name": "Savijeet",
+            "real_name": "Savijeet Singh",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "savijeet-singh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rPXd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What's a good %age of Esops wrt overall CTC? \n\nI have seen start-ups offer 10-50% of total salary as a ESOP component. Especially in early and series A-B funded startups. Eg. a 60 lac package with 30 as base + variable and 30 lac wort ESOPs. \nAs a candidate how do you decide whether it's a good offer considering min 4 year vesting period and you usually don't know the financials of a private company?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649923112.865299",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1649925874.372819",
+        "reply_users": [
+            "U02PDC6B0HH"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC6B0HH",
+                "ts": "1649925874.372819"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "cb09ec11-69de-4af2-8044-170109162b9b",
+        "type": "message",
+        "text": "Anything between 30%-50% of total CTC.",
+        "user": "U02PDC6B0HH",
+        "ts": "1649925874.372819",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7ce0a422fcd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2953759554663_b7ce0a422fcdabf5a771_72.jpg",
+            "first_name": "Shafique",
+            "real_name": "Shafique Gajdhar",
+            "display_name": "Shaf",
+            "team": "T02PFK13YLC",
+            "name": "shafiquegajdhar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3O1x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anything between 30%-50% of total CTC."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649923112.865299",
+        "parent_user_id": "U030SHA1S2W"
+    }
+]

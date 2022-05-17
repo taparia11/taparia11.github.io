@@ -1,0 +1,95 @@
+[
+    {
+        "client_msg_id": "035b2d08-faa8-4959-845a-6a707f7d87a9",
+        "type": "message",
+        "text": "We're managing that for a couple of our clients. I'll be happy to answer any questions you may have.\n\nMy profile: <http:\/\/linkedin.com\/in\/ishaan-shakunt|linkedin.com\/in\/ishaan-shakunt>",
+        "user": "U0316K76612",
+        "ts": "1650706861.772699",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "3d8cd7ed21c1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-02\/3067243283408_3d8cd7ed21c19b96a8fb_72.png",
+            "first_name": "Ishaan",
+            "real_name": "Ishaan Shakunt",
+            "display_name": "Ishaan Shakunt",
+            "team": "T02PFK13YLC",
+            "name": "ishaan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8CrXa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We're managing that for a couple of our clients. I'll be happy to answer any questions you may have.\n\nMy profile: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/linkedin.com\/in\/ishaan-shakunt",
+                                "text": "linkedin.com\/in\/ishaan-shakunt"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650591559.454509",
+        "parent_user_id": "U02V5J4HB1P"
+    },
+    {
+        "client_msg_id": "5a0b0958-e7ed-4a7b-a199-344f91f4d201",
+        "type": "message",
+        "text": "Nice! How did you verify the traffic quality?",
+        "user": "U0316K76612",
+        "ts": "1650706950.501089",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "3d8cd7ed21c1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-02\/3067243283408_3d8cd7ed21c19b96a8fb_72.png",
+            "first_name": "Ishaan",
+            "real_name": "Ishaan Shakunt",
+            "display_name": "Ishaan Shakunt",
+            "team": "T02PFK13YLC",
+            "name": "ishaan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a2dS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice! How did you verify the traffic quality?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650611507.974679",
+        "parent_user_id": "U031KD0PNTX"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1650783078.674339",
+        "user": "U03C8SYJGCF",
+        "text": "<@U03C8SYJGCF> has joined the channel",
+        "inviter": "U03DD6EGPKJ"
+    }
+]

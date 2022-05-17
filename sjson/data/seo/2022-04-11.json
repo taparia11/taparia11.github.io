@@ -1,0 +1,562 @@
+[
+    {
+        "client_msg_id": "348e8020-9398-42f1-9285-272b0f4daf6d",
+        "type": "message",
+        "text": "If you couldn’t attend Brighton SEO like me, here are the *<https:\/\/docs.google.com\/spreadsheets\/d\/1kIAEtyhqedesbA_YxP-QBMwZmuiyw0HSHC6Nl4SoE6s\/htmlview#gid=408787110|slide decks>*. Enjoy! :v:",
+        "user": "U02VA7QD8UB",
+        "ts": "1649681801.686159",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "84e512c8a3fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2999004078388_84e512c8a3feeb8de835_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "T02PFK13YLC",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yItla",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you couldn’t attend Brighton SEO like me, here are the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1kIAEtyhqedesbA_YxP-QBMwZmuiyw0HSHC6Nl4SoE6s\/htmlview#gid=408787110",
+                                "text": "slide decks",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Enjoy! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "v"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649681801.686159",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1649765816.199459",
+        "reply_users": [
+            "U030KSSTADU"
+        ],
+        "replies": [
+            {
+                "user": "U030KSSTADU",
+                "ts": "1649765816.199459"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U02U94HSBV4",
+                    "U039FQ2SNNN",
+                    "U03AF2HBZPX",
+                    "U02VAPDACUQ",
+                    "U03560PQ082",
+                    "U02PDC6B0HH",
+                    "U030SDYNX7V",
+                    "U03014JNGMQ"
+                ],
+                "count": 8
+            },
+            {
+                "name": "star-struck",
+                "users": [
+                    "U0325QQQALR",
+                    "U03AF2HBZPX",
+                    "U03560PQ082",
+                    "U031YH4D36U",
+                    "U030KSSTADU"
+                ],
+                "count": 5
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U031BFZ006T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4416EE25-035D-4027-A633-571CC448AAE5",
+        "type": "message",
+        "text": "Hola everyone!\nCan anyone suggest good resource to learn mapping user journey in GA. We want to understand of the total visitors only X% is getting converted to MQL. Want to understand where are the drops happening till the completion of the goal(book a demo). What is the path that is taken by the user",
+        "user": "U03AUT302TU",
+        "ts": "1649690203.476349",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "13440c8f3f00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368921022210_13440c8f3f00727979cd_72.png",
+            "first_name": "Swagata",
+            "real_name": "Swagata Kumar",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "swagata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vMjE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola everyone!\nCan anyone suggest good resource to learn mapping user journey in GA. We want to understand of the total visitors only X% is getting converted to MQL. Want to understand where are the drops happening till the completion of the goal(book a demo). What is the path that is taken by the user"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649690203.476349",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1649739411.046079",
+        "reply_users": [
+            "U03A397SJCF",
+            "U03AUT302TU"
+        ],
+        "replies": [
+            {
+                "user": "U03A397SJCF",
+                "ts": "1649697605.285919"
+            },
+            {
+                "user": "U03AUT302TU",
+                "ts": "1649725277.479349"
+            },
+            {
+                "user": "U03A397SJCF",
+                "ts": "1649734414.484079"
+            },
+            {
+                "user": "U03AUT302TU",
+                "ts": "1649734721.360029"
+            },
+            {
+                "user": "U03A397SJCF",
+                "ts": "1649734774.559329"
+            },
+            {
+                "user": "U03AUT302TU",
+                "ts": "1649736053.330979"
+            },
+            {
+                "user": "U03A397SJCF",
+                "ts": "1649739411.046079"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4ad7c13f-4f35-44b0-996c-f6b70d07875e",
+        "type": "message",
+        "text": "<@U03AUT302TU>\n*What is MQL for you?*\nI am assuming to `book a demo`, if that’s correct, I want to learn more about how the demo booking happens? I think these can be ideal workflows:\n\n1. lands on a page -&gt; clicking CTA -&gt; booking page -&gt; fill the info -&gt; success page\n2. lands on a page -&gt; clicking CTA -&gt; booking page -&gt; fill the info -&gt; show success message on the same page (same URL)\n3. lands on a page -&gt; clicking CTA -&gt; fill the info (same as landing) -&gt; success page\n4. lands on a page -&gt; clicking CTA -&gt; fill the info (same as landing) -&gt; show success message on the same page (same URL)\nLet me your workflow, I can share more details based on that.",
+        "user": "U03A397SJCF",
+        "ts": "1649697605.285919",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8350509990dc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3357545030005_8350509990dc150e9deb_72.jpg",
+            "first_name": "Anshul",
+            "real_name": "Anshul Bansal",
+            "display_name": "akbansa",
+            "team": "T02PFK13YLC",
+            "name": "bansal.anshul.94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KzTTk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03AUT302TU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "What is MQL for you?",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI am assuming to "
+                            },
+                            {
+                                "type": "text",
+                                "text": "book a demo",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", if that’s correct, I want to learn more about how the demo booking happens? I think these can be ideal workflows:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "lands on a page -> clicking CTA -> booking page -> fill the info -> success page"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "lands on a page -> clicking CTA -> booking page -> fill the info -> show success message on the same page (same URL)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "lands on a page -> clicking CTA -> fill the info (same as landing) -> success page"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "lands on a page -> clicking CTA -> fill the info (same as landing) -> show success message on the same page (same URL)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nLet me your workflow, I can share more details based on that."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649690203.476349",
+        "parent_user_id": "U03AUT302TU"
+    },
+    {
+        "client_msg_id": "3C0A7CED-075C-4F72-8A07-850151E292E1",
+        "type": "message",
+        "text": "It’s more of number 4. Land on any page, click CTA. Submit the info in the demo form and get success message there itself. Yes , you’re right , our MQL is Book a demo",
+        "user": "U03AUT302TU",
+        "ts": "1649725277.479349",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "13440c8f3f00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368921022210_13440c8f3f00727979cd_72.png",
+            "first_name": "Swagata",
+            "real_name": "Swagata Kumar",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "swagata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9ceuA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It’s more of number 4. Land on any page, click CTA. Submit the info in the demo form and get success message there itself. Yes , you’re right , our MQL is Book a demo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649690203.476349",
+        "parent_user_id": "U03AUT302TU"
+    },
+    {
+        "client_msg_id": "c7561384-4f9b-4425-b27e-caa3c7216f53",
+        "type": "message",
+        "text": "Got it.\n\nHere is the deal, you can simply find pageloads in GA, but you need to log the CTA clicked and once the form is submitted, send another event.\n\nYou can now create a funnel and see the MQL conversion\n\nI am curious if you’re using any other tool apart from GA?",
+        "user": "U03A397SJCF",
+        "ts": "1649734414.484079",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8350509990dc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3357545030005_8350509990dc150e9deb_72.jpg",
+            "first_name": "Anshul",
+            "real_name": "Anshul Bansal",
+            "display_name": "akbansa",
+            "team": "T02PFK13YLC",
+            "name": "bansal.anshul.94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BO\/Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Got it.\n\nHere is the deal, you can simply find pageloads in GA, but you need to log the CTA clicked and once the form is submitted, send another event.\n\nYou can now create a funnel and see the MQL conversion\n\nI am curious if you’re using any other tool apart from GA?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649690203.476349",
+        "parent_user_id": "U03AUT302TU"
+    },
+    {
+        "client_msg_id": "33152757-30FC-45EA-8E81-ABB7D40B2BB5",
+        "type": "message",
+        "text": "Not yet. <@U03A397SJCF>  Can you pls help me set up this? Thing is we have 5x our website visitors. Our MQL also have increased but the percentage is low. We are hovering at around 1% conversion rate which is very low. This is where I need help",
+        "user": "U03AUT302TU",
+        "ts": "1649734721.360029",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "13440c8f3f00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368921022210_13440c8f3f00727979cd_72.png",
+            "first_name": "Swagata",
+            "real_name": "Swagata Kumar",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "swagata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03AUT302TU",
+            "ts": "1649734748.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k=5JP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not yet. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03A397SJCF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  Can you pls help me set up this? Thing is we have 5x our website visitors. Our MQL also have increased but the percentage is low. We are hovering at around 1% conversion rate which is very low. This is where I need help"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649690203.476349",
+        "parent_user_id": "U03AUT302TU"
+    },
+    {
+        "client_msg_id": "a73ee49f-2547-4ac7-8409-c75271445f5e",
+        "type": "message",
+        "text": "Setup the funnel or new tool?",
+        "user": "U03A397SJCF",
+        "ts": "1649734774.559329",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8350509990dc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3357545030005_8350509990dc150e9deb_72.jpg",
+            "first_name": "Anshul",
+            "real_name": "Anshul Bansal",
+            "display_name": "akbansa",
+            "team": "T02PFK13YLC",
+            "name": "bansal.anshul.94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z8hO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Setup the funnel or new tool?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649690203.476349",
+        "parent_user_id": "U03AUT302TU"
+    },
+    {
+        "client_msg_id": "F97AFCAF-3666-4EC6-AF1A-9D14E3AD92D2",
+        "type": "message",
+        "text": "In fact both. Few tools I have identified but it would be better if you could guide me ",
+        "user": "U03AUT302TU",
+        "ts": "1649736053.330979",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "13440c8f3f00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368921022210_13440c8f3f00727979cd_72.png",
+            "first_name": "Swagata",
+            "real_name": "Swagata Kumar",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "swagata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DnSKy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In fact both. Few tools I have identified but it would be better if you could guide me "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649690203.476349",
+        "parent_user_id": "U03AUT302TU"
+    },
+    {
+        "client_msg_id": "7eb5f548-a498-49f7-b520-06c535c7f05c",
+        "type": "message",
+        "text": "Sure <@U03AUT302TU>, Dm me, will see how I can help\/",
+        "user": "U03A397SJCF",
+        "ts": "1649739411.046079",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "8350509990dc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3357545030005_8350509990dc150e9deb_72.jpg",
+            "first_name": "Anshul",
+            "real_name": "Anshul Bansal",
+            "display_name": "akbansa",
+            "team": "T02PFK13YLC",
+            "name": "bansal.anshul.94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m7x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03AUT302TU"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Dm me, will see how I can help\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649690203.476349",
+        "parent_user_id": "U03AUT302TU"
+    }
+]

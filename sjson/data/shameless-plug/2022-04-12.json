@@ -1,0 +1,286 @@
+[
+    {
+        "client_msg_id": "7a46ce3a-1093-4026-9c04-d4f8a732be3d",
+        "type": "message",
+        "text": "We had a cofounder of this community, <@U02PDC6B0HH>, on our show at Salespanel. He discussed with us the challenges of product marketing and how the role changes from company to company.\n\nHere's the link to the episode and more details: <https:\/\/salespanel.io\/podcasts\/identity-crisis-in-product-marketing\/> *There are no ads or lead magnets.*\n\nPS: We also had <@U02PDC4883V> on the show and are going to launch that episode soon. :smile:",
+        "user": "U036NSXKBPZ",
+        "ts": "1649760878.779189",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "fb6b2eb740c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-06\/3350153326259_fb6b2eb740c9a0d703c2_72.jpg",
+            "first_name": "Nilangan",
+            "real_name": "Nilangan Ray",
+            "display_name": "Nilangan Ray",
+            "team": "T02PFK13YLC",
+            "name": "nilanganray",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YKWF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We had a cofounder of this community, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02PDC6B0HH"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", on our show at Salespanel. He discussed with us the challenges of product marketing and how the role changes from company to company.\n\nHere's the link to the episode and more details: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/salespanel.io\/podcasts\/identity-crisis-in-product-marketing\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "There are no ads or lead magnets.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nPS: We also had "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02PDC4883V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on the show and are going to launch that episode soon. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649760878.779189",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1649783880.167909",
+        "reply_users": [
+            "U02TTEFFU6B"
+        ],
+        "replies": [
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649783880.167909"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1649783880.167909",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02PDC4883V",
+                    "U030SDYNX7V",
+                    "U039L895FA4"
+                ],
+                "count": 3
+            },
+            {
+                "name": "bowtie",
+                "users": [
+                    "U02TTEFFU6B",
+                    "U037UUE6TV3"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "73242a47-7eaa-4cc1-958b-559f8776b8b3",
+        "type": "message",
+        "text": "Hi all. Shamelessly plugging another Growth Chat at Mailmodo. However, this isn’t just for the sake of getting more registrations but also to let you know about this event, in case you’d interested in joining and taking learnings from. Here’s what we’re going to talk about in this chat with Trevor Sookraj, on 20th April:\n\n1. What to look for in your 1st growth hire\n2. The importance of testing hypotheses + customer profiling\n3. How the growth function should work at an early stage\n4. Channel Market Fit VS Product Market Fit - what most startups get wrong\nYou can register here: <https:\/\/www.mailmodo.com\/events\/trevor-sookraj\/>",
+        "user": "U0390GQBHN2",
+        "ts": "1649771930.961469",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b458b48f2ad2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3325833584641_b458b48f2ad214b8f26e_72.jpg",
+            "first_name": "Mansi",
+            "real_name": "Mansi Peswani",
+            "display_name": "Mansi Peswani",
+            "team": "T02PFK13YLC",
+            "name": "mansi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.mailmodo.com\/events\/trevor-sookraj\/",
+                "ts": 1649671771,
+                "image_url": "https:\/\/res.cloudinary.com\/mailmodo\/image\/upload\/v1649683580\/strapi\/Slide_16_9_11_2_1a95241094.png",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 430734,
+                "service_icon": "https:\/\/www.mailmodo.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.mailmodo.com\/events\/trevor-sookraj\/",
+                "fallback": "Mailmodo: Building Growth Teams at Startups | Mailmodo",
+                "title": "Building Growth Teams at Startups | Mailmodo",
+                "title_link": "https:\/\/www.mailmodo.com\/events\/trevor-sookraj\/",
+                "service_name": "Mailmodo"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hk8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all. Shamelessly plugging another Growth Chat at Mailmodo. However, this isn’t just for the sake of getting more registrations but also to let you know about this event, in case you’d interested in joining and taking learnings from. Here’s what we’re going to talk about in this chat with Trevor Sookraj, on 20th April:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What to look for in your 1st growth hire"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The importance of testing hypotheses + customer profiling"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "How the growth function should work at an early stage"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Channel Market Fit VS Product Market Fit - what most startups get wrong"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nYou can register here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.mailmodo.com\/events\/trevor-sookraj\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U037UUE6TV3",
+                    "U031G83CGCQ",
+                    "U02V2SRR9J9"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7dce922e-edc0-40c3-b276-2fb62129861d",
+        "type": "message",
+        "text": "This was really nice. The entire bit about s11s was so good to hear.",
+        "user": "U02TTEFFU6B",
+        "ts": "1649783880.167909",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "As6UA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This was really nice. The entire bit about s11s was so good to hear."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649760878.779189",
+        "parent_user_id": "U036NSXKBPZ",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U036NSXKBPZ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

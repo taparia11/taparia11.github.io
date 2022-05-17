@@ -1,0 +1,1510 @@
+[
+    {
+        "client_msg_id": "81e2b22b-0911-49bf-a716-cf57f6cbc088",
+        "type": "message",
+        "text": "`Ask`\nHow do you define a goal for a blog post? What are the non-vanity metrics one should chase?\nDo you look at historical data to define this?\nWhat timeline should I mention? Quarter-monthly-week?\nShould it be a number or %%?\n\n`Context`\nWe're writing this thought leadership post with downloadable assets on it and wanted to avoid \"views\" as a Goal.",
+        "user": "U030KV8R8RL",
+        "ts": "1651045749.453469",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1d58fa7deccd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3044063413425_1d58fa7deccd79b3b2d0_72.jpg",
+            "first_name": "Vartika",
+            "real_name": "Vartika Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "vartika.gupta1911",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8kk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ask",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nHow do you define a goal for a blog post? What are the non-vanity metrics one should chase?\nDo you look at historical data to define this?\nWhat timeline should I mention? Quarter-monthly-week?\nShould it be a number or %%?\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Context",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nWe're writing this thought leadership post with downloadable assets on it and wanted to avoid \"views\" as a Goal."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651045749.453469",
+        "reply_count": 11,
+        "reply_users_count": 3,
+        "latest_reply": "1651050853.916849",
+        "reply_users": [
+            "U02USELSBRT",
+            "U030KV8R8RL",
+            "U02U94HSBV4"
+        ],
+        "replies": [
+            {
+                "user": "U02USELSBRT",
+                "ts": "1651045962.371699"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1651045974.953239"
+            },
+            {
+                "user": "U030KV8R8RL",
+                "ts": "1651046101.880639"
+            },
+            {
+                "user": "U030KV8R8RL",
+                "ts": "1651046139.369049"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1651046171.738199"
+            },
+            {
+                "user": "U030KV8R8RL",
+                "ts": "1651046295.081009"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1651046352.629009"
+            },
+            {
+                "user": "U030KV8R8RL",
+                "ts": "1651046412.597259"
+            },
+            {
+                "user": "U030KV8R8RL",
+                "ts": "1651047286.396679"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1651047288.102799"
+            },
+            {
+                "user": "U02U94HSBV4",
+                "ts": "1651050853.916849"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U031G83CGCQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ee1525ca-a66b-4b9a-82d0-29e08f2af513",
+        "type": "message",
+        "text": "instead of deciding you need a blog and then coming up with a goal for it, you ideally start with a goal and then figure out how a blog post will get you there, no?",
+        "user": "U02USELSBRT",
+        "ts": "1651045962.371699",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/9+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "instead of deciding you need a blog and then coming up with a goal for it, you ideally start with a goal and then figure out how a blog post will get you there, no?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651045749.453469",
+        "parent_user_id": "U030KV8R8RL"
+    },
+    {
+        "client_msg_id": "f32e1cdd-67fd-4b04-b2ff-5a6d21a39cef",
+        "type": "message",
+        "text": "aka why did you decide to write the blog post?",
+        "user": "U02USELSBRT",
+        "ts": "1651045974.953239",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eGDG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "aka why did you decide to write the blog post?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651045749.453469",
+        "parent_user_id": "U030KV8R8RL"
+    },
+    {
+        "client_msg_id": "7231ad9e-4c61-4589-b88a-71c0ab53d9ae",
+        "type": "message",
+        "text": "Because it's an awareness\/education piece. Don't want to dilute audience experience by gating it\/or creating an ebook. It does have a downloadable checklist, if they wish to explore further.",
+        "user": "U030KV8R8RL",
+        "ts": "1651046101.880639",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1d58fa7deccd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3044063413425_1d58fa7deccd79b3b2d0_72.jpg",
+            "first_name": "Vartika",
+            "real_name": "Vartika Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "vartika.gupta1911",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rxoiJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Because it's an awareness\/education piece. Don't want to dilute audience experience by gating it\/or creating an ebook. It does have a downloadable checklist, if they wish to explore further."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651045749.453469",
+        "parent_user_id": "U030KV8R8RL"
+    },
+    {
+        "client_msg_id": "9760ce91-b732-40fa-b1b7-55ff128e93e8",
+        "type": "message",
+        "text": "Part of pre-product launch efforts.",
+        "user": "U030KV8R8RL",
+        "ts": "1651046139.369049",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1d58fa7deccd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3044063413425_1d58fa7deccd79b3b2d0_72.jpg",
+            "first_name": "Vartika",
+            "real_name": "Vartika Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "vartika.gupta1911",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=2wsk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Part of pre-product launch efforts."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651045749.453469",
+        "parent_user_id": "U030KV8R8RL"
+    },
+    {
+        "client_msg_id": "b2db30c7-6655-448b-a223-215b79604346",
+        "type": "message",
+        "text": "how do you know you have made them aware or educated them?",
+        "user": "U02USELSBRT",
+        "ts": "1651046171.738199",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A95b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "how do you know you have made them aware or educated them?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651045749.453469",
+        "parent_user_id": "U030KV8R8RL"
+    },
+    {
+        "client_msg_id": "2ff9521f-c1f9-466c-83bd-58d27aee270d",
+        "type": "message",
+        "text": "Can you elaborate?",
+        "user": "U030KV8R8RL",
+        "ts": "1651046295.081009",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1d58fa7deccd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3044063413425_1d58fa7deccd79b3b2d0_72.jpg",
+            "first_name": "Vartika",
+            "real_name": "Vartika Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "vartika.gupta1911",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hTAv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can you elaborate?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651045749.453469",
+        "parent_user_id": "U030KV8R8RL"
+    },
+    {
+        "client_msg_id": "985bdcdb-743d-479e-bea4-35950b51a225",
+        "type": "message",
+        "text": "you mentioned you wanted to use this blog post as a way to make \"them\" (aka your audience) aware and educate them?\n\nat what point would you know you have succeeded in that goal from your blog piece?",
+        "user": "U02USELSBRT",
+        "ts": "1651046352.629009",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DRf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you mentioned you wanted to use this blog post as a way to make \"them\" (aka your audience) aware and educate them?\n\nat what point would you know you have succeeded in that goal from your blog piece?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651045749.453469",
+        "parent_user_id": "U030KV8R8RL"
+    },
+    {
+        "client_msg_id": "7ed7cc92-af98-40a3-aff9-6538357523af",
+        "type": "message",
+        "text": "Wait I'm calling you :stuck_out_tongue:",
+        "user": "U030KV8R8RL",
+        "ts": "1651046412.597259",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1d58fa7deccd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3044063413425_1d58fa7deccd79b3b2d0_72.jpg",
+            "first_name": "Vartika",
+            "real_name": "Vartika Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "vartika.gupta1911",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wUpOt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wait I'm calling you "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651045749.453469",
+        "parent_user_id": "U030KV8R8RL"
+    },
+    {
+        "client_msg_id": "f72205e6-f27a-42d2-b3a2-0b734d989c13",
+        "type": "message",
+        "text": "Thanks <@U02USELSBRT> for getting on the call and clarifying :smile: For those interested:\n1. _Are you really educating the audience?_ \n• _Identify scroll rate:_\n• _Explicit feedback(tool: HotJar, Clarity): Just asking them if they found it useful_\n• _Implicit feedback: Where are they dropping off in the heat map_\n2. _Time spent\/Bounce Rate via GA (approx. &gt;30s)_\n3. _Download asset conversion rate_\n",
+        "user": "U030KV8R8RL",
+        "ts": "1651047286.396679",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1d58fa7deccd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3044063413425_1d58fa7deccd79b3b2d0_72.jpg",
+            "first_name": "Vartika",
+            "real_name": "Vartika Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "vartika.gupta1911",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LTj5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02USELSBRT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for getting on the call and clarifying "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": " For those interested:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Are you really educating the audience? ",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Identify scroll rate:",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Explicit feedback(tool: HotJar, Clarity): Just asking them if they found it useful",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Implicit feedback: Where are they dropping off in the heat map",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Time spent\/Bounce Rate via GA (approx. >30s)",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Download asset conversion rate",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651045749.453469",
+        "parent_user_id": "U030KV8R8RL",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b698d206-08de-4303-8f7e-ff9eba222263",
+        "type": "message",
+        "text": "As discussed,\n\n• use clearbit reveal to understand if the right audience is visiting your blog posts\n• use an interest metric like scroll rate (25, 50, 75, 100)\n• for people who have either spent 30 seconds or scrolled till 50%, use an explicit feedback survey as  a metric to understand if people have benefitted or not (for example, \"did you find this blog post useful? yes\/no\")\n• for the same audience use checklist download conversion rate as a final metric",
+        "user": "U02USELSBRT",
+        "ts": "1651047288.102799",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IIbQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As discussed,\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "use clearbit reveal to understand if the right audience is visiting your blog posts"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "use an interest metric like scroll rate (25, 50, 75, 100)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "for people who have either spent 30 seconds or scrolled till 50%, use an explicit feedback survey as  a metric to understand if people have benefitted or not (for example, \"did you find this blog post useful? yes\/no\")"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "for the same audience use checklist download conversion rate as a final metric"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651045749.453469",
+        "parent_user_id": "U030KV8R8RL",
+        "reactions": [
+            {
+                "name": "trophy",
+                "users": [
+                    "U02V22EUXM4",
+                    "U02V9A0470S",
+                    "U02UM0SR45Q"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0af6fe50-1349-40b9-a0a5-414092db3f5c",
+        "type": "message",
+        "text": "you can also consider engagement by accounts in your crown jewel list\/focus list\/bucket list as an important metric, especially if it is an education piece aimed at your ICPs in this list\n\nwe generally track this number via Hubspot\/SF\n\nif you have google studio or any BI tool set up that captures info from HS\/SF\/Demandbase and GA, then you can also map the avg time spent, scroll data, and other pages visited in one dashboard",
+        "user": "U02U94HSBV4",
+        "ts": "1651050853.916849",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e0f144e6826c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2991564885808_e0f144e6826cc213d921_72.jpg",
+            "first_name": "Pulkit",
+            "real_name": "Pulkit Jain",
+            "display_name": "pulkit",
+            "team": "T02PFK13YLC",
+            "name": "pulkitjain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tI7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you can also consider engagement by accounts in your crown jewel list\/focus list\/bucket list as an important metric, especially if it is an education piece aimed at your ICPs in this list\n\nwe generally track this number via Hubspot\/SF\n\nif you have google studio or any BI tool set up that captures info from HS\/SF\/Demandbase and GA, then you can also map the avg time spent, scroll data, and other pages visited in one dashboard"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651045749.453469",
+        "parent_user_id": "U030KV8R8RL"
+    },
+    {
+        "client_msg_id": "D8AFA4AB-0419-4102-AFC7-FD97BC9376B2",
+        "type": "message",
+        "text": "Hi everyone :) \n\nWe are looking for a content marketing agency experienced in the B2B SaaS industry to work with Haptik for our upcoming projects related to website - <https:\/\/www.haptik.ai\/|https:\/\/www.haptik.ai\/>\n\nPlease recommend if you have any leads. Thanks ",
+        "user": "U03CVUGP1FW",
+        "ts": "1651057061.409679",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c36416a464bf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-25\/3437968916292_c36416a464bfcb9f6c9e_72.png",
+            "first_name": "Parousia",
+            "real_name": "Parousia Khan",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "parousia.khan.99",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.haptik.ai\/",
+                "service_icon": "https:\/\/www.haptik.ai\/hubfs\/haptik-favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.haptik.ai\/",
+                "fallback": "Haptik - Driving the World’s Transition to AI Powered Conversations",
+                "text": "Build Intelligent Virtual Assistants with Haptik's Enterprise CX Platform. Amplify engagement, increase conversions and deliver delightful customer support",
+                "title": "Haptik - Driving the World’s Transition to AI Powered Conversations",
+                "title_link": "https:\/\/www.haptik.ai\/",
+                "service_name": "haptik.ai"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a6fk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone :) \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "We are looking for a content marketing agency experienced in the B2B SaaS industry to work with Haptik for our upcoming projects related to website - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.haptik.ai\/",
+                                "text": "https:\/\/www.haptik.ai\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPlease recommend if you have any leads. Thanks "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651057061.409679",
+        "reply_count": 7,
+        "reply_users_count": 5,
+        "latest_reply": "1651128118.278129",
+        "reply_users": [
+            "U0316K76612",
+            "U03CVUGP1FW",
+            "U033R6MA1DY",
+            "U03AF2HBZPX",
+            "U039HVCS1LL"
+        ],
+        "replies": [
+            {
+                "user": "U0316K76612",
+                "ts": "1651060202.412589"
+            },
+            {
+                "user": "U03CVUGP1FW",
+                "ts": "1651061651.592519"
+            },
+            {
+                "user": "U033R6MA1DY",
+                "ts": "1651063070.495059"
+            },
+            {
+                "user": "U033R6MA1DY",
+                "ts": "1651063183.295939"
+            },
+            {
+                "user": "U03CVUGP1FW",
+                "ts": "1651068857.358489"
+            },
+            {
+                "user": "U03AF2HBZPX",
+                "ts": "1651083415.999349"
+            },
+            {
+                "user": "U039HVCS1LL",
+                "ts": "1651128118.278129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U033RUXVCAY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6a229c8b-de82-4841-ab36-46c5152a0a5a",
+        "type": "message",
+        "text": "Haptik is a great company to work with as an agency. :raised_hands:",
+        "user": "U0316K76612",
+        "ts": "1651060202.412589",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "3d8cd7ed21c1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-02\/3067243283408_3d8cd7ed21c19b96a8fb_72.png",
+            "first_name": "Ishaan",
+            "real_name": "Ishaan Shakunt",
+            "display_name": "Ishaan Shakunt",
+            "team": "T02PFK13YLC",
+            "name": "ishaan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eK7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Haptik is a great company to work with as an agency. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651057061.409679",
+        "parent_user_id": "U03CVUGP1FW"
+    },
+    {
+        "client_msg_id": "8AB0F39A-DB49-4D72-ADF1-6B3AD9687816",
+        "type": "message",
+        "text": "Thanks Ishaan, appreciate it :) ",
+        "user": "U03CVUGP1FW",
+        "ts": "1651061651.592519",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c36416a464bf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-25\/3437968916292_c36416a464bfcb9f6c9e_72.png",
+            "first_name": "Parousia",
+            "real_name": "Parousia Khan",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "parousia.khan.99",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vcE6o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Ishaan, appreciate it :) "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651057061.409679",
+        "parent_user_id": "U03CVUGP1FW"
+    },
+    {
+        "client_msg_id": "60eb3389-e832-4cf4-b224-2af627e70af4",
+        "type": "message",
+        "text": "We too have been looking for an agency for our webinar and tofu flywheel.  <https:\/\/wittypen.com\/|https:\/\/wittypen.com\/> has been the most popular referral we've had. They worked with freshworks.  \n\nDo let me know if you find anyone better!",
+        "user": "U033R6MA1DY",
+        "ts": "1651063070.495059",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g20af302531e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/20af302531ec4b507d247d8c1f8403cb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Ajay",
+            "real_name": "Ajay Ramamoorthy",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "sum.teng.wong",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/wittypen.com\/",
+                "image_url": "https:\/\/wittypen.com\/img\/seo-cover.jpg",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 48002,
+                "service_icon": "https:\/\/wittypen.com\/img\/favicons\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/wittypen.com\/",
+                "fallback": "Best Content Writing Services in India | Content Marketing Platform | WittyPen",
+                "text": "WittyPen - India's #1 Content Writing and Content Marketing Platform for online businesses. Get content writing services from professional writers to boost your SEO rankings. Sign up now!",
+                "title": "Best Content Writing Services in India | Content Marketing Platform | WittyPen",
+                "title_link": "https:\/\/wittypen.com\/",
+                "service_name": "wittypen.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=F42z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We too have been looking for an agency for our webinar and tofu flywheel.  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/wittypen.com\/",
+                                "text": "https:\/\/wittypen.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has been the most popular referral we've had. They worked with freshworks.  \n\nDo let me know if you find anyone better!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651057061.409679",
+        "parent_user_id": "U03CVUGP1FW"
+    },
+    {
+        "client_msg_id": "4761d831-1292-491f-bffe-672a6ff50eb2",
+        "type": "message",
+        "text": "Sorry just seeing it's web development. \n\nWe work with <https:\/\/www.beetlebeetle.com\/|https:\/\/www.beetlebeetle.com\/>",
+        "user": "U033R6MA1DY",
+        "ts": "1651063183.295939",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g20af302531e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/20af302531ec4b507d247d8c1f8403cb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Ajay",
+            "real_name": "Ajay Ramamoorthy",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "sum.teng.wong",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.beetlebeetle.com\/",
+                "image_url": "https:\/\/assets.website-files.com\/610ab799649740ebc8d85e49\/62336f0459c0cb8dbbec3c2d_open.png",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 149311,
+                "id": 1,
+                "original_url": "https:\/\/www.beetlebeetle.com\/",
+                "fallback": "B2B SaaS Website Revamp Agency | Beetle Beetle",
+                "text": "We write, design and build high-converting websites for B2B SaaS products.",
+                "title": "B2B SaaS Website Revamp Agency | Beetle Beetle",
+                "title_link": "https:\/\/www.beetlebeetle.com\/",
+                "service_name": "beetlebeetle.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w7CfJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry just seeing it's web development. \n\nWe work with "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.beetlebeetle.com\/",
+                                "text": "https:\/\/www.beetlebeetle.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651057061.409679",
+        "parent_user_id": "U03CVUGP1FW"
+    },
+    {
+        "client_msg_id": "2244CA40-B3E0-4C0B-AA78-FC6AD09C3033",
+        "type": "message",
+        "text": "Thanks for the recommendations :raised_hands: ",
+        "user": "U03CVUGP1FW",
+        "ts": "1651068857.358489",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c36416a464bf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-25\/3437968916292_c36416a464bfcb9f6c9e_72.png",
+            "first_name": "Parousia",
+            "real_name": "Parousia Khan",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "parousia.khan.99",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "86mm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the recommendations "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651057061.409679",
+        "parent_user_id": "U03CVUGP1FW"
+    },
+    {
+        "client_msg_id": "00a69c1a-29ba-411f-a673-199bfdc4dcff",
+        "type": "message",
+        "text": "<@U03CVUGP1FW> - check out <http:\/\/Codeless.io|Codeless.io>, our company's sister company. A little pricey but it keeps folks at Monday and ActiveCampaign super happy.",
+        "user": "U03AF2HBZPX",
+        "ts": "1651083415.999349",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g282e41117ee",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/282e41117eea26a162917755cabc65f2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Vikas",
+            "real_name": "Vikas Kalwani",
+            "display_name": "Vikas Kalwani",
+            "team": "T02PFK13YLC",
+            "name": "myself",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wh1zI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CVUGP1FW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - check out "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Codeless.io",
+                                "text": "Codeless.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", our company's sister company. A little pricey but it keeps folks at Monday and ActiveCampaign super happy."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651057061.409679",
+        "parent_user_id": "U03CVUGP1FW"
+    },
+    {
+        "client_msg_id": "81ff214a-0ac7-431c-bdfc-49be3823cb61",
+        "type": "message",
+        "text": "Hello Folks, any suggestion on a WordPress theme for the Personal Branding website. I want to include (blogs, podcasts, newsletters) in it. Any theme on which a nontechnical person can work and implement. Thanks.",
+        "user": "U02UZKPQ7K3",
+        "ts": "1651120950.199239",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e2f8b1b84c5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-20\/3268579515108_e2f8b1b84c5e83cafe50_72.jpg",
+            "first_name": "Deepak",
+            "real_name": "Deepak Ruchandani",
+            "display_name": "Deepak Ruchandani",
+            "team": "T02PFK13YLC",
+            "name": "deepakruchandani01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E4g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Folks, any suggestion on a WordPress theme for the Personal Branding website. I want to include (blogs, podcasts, newsletters) in it. Any theme on which a nontechnical person can work and implement. Thanks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651120950.199239",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1651130444.054029",
+        "reply_users": [
+            "U02VA7QD8UB",
+            "U030SDYNX7V",
+            "U031KD0PNTX"
+        ],
+        "replies": [
+            {
+                "user": "U02VA7QD8UB",
+                "ts": "1651121007.604249"
+            },
+            {
+                "user": "U030SDYNX7V",
+                "ts": "1651121981.767969"
+            },
+            {
+                "user": "U031KD0PNTX",
+                "ts": "1651130444.054029"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "64ce2c4d-9d55-4c0e-89fb-5af71173b89d",
+        "type": "message",
+        "text": "Astra should be simple enough.",
+        "user": "U02VA7QD8UB",
+        "ts": "1651121007.604249",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "84e512c8a3fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2999004078388_84e512c8a3feeb8de835_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "T02PFK13YLC",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fRj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Astra should be simple enough."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651120950.199239",
+        "parent_user_id": "U02UZKPQ7K3",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02UZKPQ7K3",
+                    "U030SDYNX7V",
+                    "U031KD0PNTX"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "453417e1-d72b-4b81-911b-64862615bb40",
+        "type": "message",
+        "text": "Any website designer\/ creator here? Or anyone who can provide reference or connect me with someone good at it",
+        "user": "U02UZKPQ7K3",
+        "ts": "1651121364.239249",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "e2f8b1b84c5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-20\/3268579515108_e2f8b1b84c5e83cafe50_72.jpg",
+            "first_name": "Deepak",
+            "real_name": "Deepak Ruchandani",
+            "display_name": "Deepak Ruchandani",
+            "team": "T02PFK13YLC",
+            "name": "deepakruchandani01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02UZKPQ7K3",
+            "ts": "1651121445.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wXVP2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any website designer\/ creator here? Or anyone who can provide reference or connect me with someone good at it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U033RUXVCAY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f4ac430b-3113-4b19-be8e-325963ab597d",
+        "type": "message",
+        "text": "i am currently evaluating <https:\/\/wordpress.org\/themes\/neve\/> <https:\/\/wordpress.org\/themes\/the-minimal\/> <https:\/\/wordpress.org\/themes\/spacious\/>",
+        "user": "U030SDYNX7V",
+        "ts": "1651121981.767969",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "dcaae4952765",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3019783298486_dcaae495276522b44a55_72.png",
+            "first_name": "Niranjan",
+            "real_name": "Niranjan Bala",
+            "display_name": "Niranjan Bala",
+            "team": "T02PFK13YLC",
+            "name": "nb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/wordpress.org\/themes\/neve\/",
+                "image_url": "https:\/\/i0.wp.com\/themes.svn.wordpress.org\/neve\/3.2.3\/screenshot.png",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 295797,
+                "service_icon": "https:\/\/s.w.org\/images\/wmark.png",
+                "id": 1,
+                "original_url": "https:\/\/wordpress.org\/themes\/neve\/",
+                "fallback": "WordPress.org: Neve",
+                "text": "Neve is a super fast, easily customizable, multi-purpose theme. It’s perfect for blogs, small business, startups, agencies, firms, e-commerce shops (WooCommerce storefront) as well as personal portfolio sites and most types of projects. A fully AMP optimized and responsive theme, Neve will load in mere seconds and adapt perfectly on any viewing device. While it is lightweight and has a minimalist design, the theme is highly extendable, it has a highly SEO optimized code, resulting in top rankings in Google search results. Neve works perfectly with Gutenberg and the most popular page builders (Elementor, Brizy, Beaver Builder, Visual Composer, SiteOrigin, Divi). Neve is also WooCommerce ready, responsive, RTL &amp; translation ready. Look no further. Neve is the perfect theme for you!",
+                "title": "Neve",
+                "title_link": "https:\/\/wordpress.org\/themes\/neve\/",
+                "service_name": "WordPress.org"
+            },
+            {
+                "from_url": "https:\/\/wordpress.org\/themes\/the-minimal\/",
+                "image_url": "https:\/\/i0.wp.com\/themes.svn.wordpress.org\/the-minimal\/1.2.5\/screenshot.png",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 315035,
+                "service_icon": "https:\/\/s.w.org\/images\/wmark.png",
+                "id": 2,
+                "original_url": "https:\/\/wordpress.org\/themes\/the-minimal\/",
+                "fallback": "WordPress.org: The Minimal",
+                "text": "The Minimal is a fresh, clean and a minimalist WordPress theme designed for a blog or a magazine. The large featured slider with advance slider options makes this theme a great choice for photography, travel, food, fashion, travel, lifestyle, sports or any other awesome blog. The clean typography and spacious white layout make it great to share your stories. The three footer widget areas offer plenty of space for any secondary information, and striking typography makes the content look stunning. The Theme has a built-in Recent Posts widget, Popular Post widget, Social Links widget and Author widget. It features full width page option, two menus, SEO friendly structure, custom logo support and social media links. The Minimal supports all types of post format like links, aside, quotes, galleries, image, audio, video, status and chat. The theme is responsive and scales beautifully with various screen sizes while maintaining the text readability and image quality. The theme is also translation ready. Check the demo at <https:\/\/rarathemes.com\/previews\/?theme=the-minimal>, documentation at <https:\/\/docs.rarathemes.com\/docs\/the-minimal\/>, and get support at <https:\/\/rarathemes.com\/support-ticket\/>.",
+                "title": "The Minimal",
+                "title_link": "https:\/\/wordpress.org\/themes\/the-minimal\/",
+                "service_name": "WordPress.org"
+            },
+            {
+                "from_url": "https:\/\/wordpress.org\/themes\/spacious\/",
+                "image_url": "https:\/\/i0.wp.com\/themes.svn.wordpress.org\/spacious\/1.9.4\/screenshot.jpg",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 103211,
+                "service_icon": "https:\/\/s.w.org\/images\/wmark.png",
+                "id": 3,
+                "original_url": "https:\/\/wordpress.org\/themes\/spacious\/",
+                "fallback": "WordPress.org: Spacious",
+                "text": "Spacious is an incredibly spacious multipurpose responsive theme coded &amp; designed with a lot of care and love. You can use it for your business, portfolio, blogging or any type of site. It has 4 page layouts, 2 page templates, 4 blog display types, 13 widgets areas, 5 custom widgets focusing on business template, awesome slider, primary color option to match your logo &amp; website, boxed &amp; wide layout, light &amp; dark color skin, translation ready and many more. You can get free support in <https:\/\/themegrill.com\/contact\/> and check the demo at <https:\/\/themegrilldemos.com\/spacious\/>.",
+                "title": "Spacious",
+                "title_link": "https:\/\/wordpress.org\/themes\/spacious\/",
+                "service_name": "WordPress.org"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hvq5f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i am currently evaluating "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/wordpress.org\/themes\/neve\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/wordpress.org\/themes\/the-minimal\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/wordpress.org\/themes\/spacious\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651120950.199239",
+        "parent_user_id": "U02UZKPQ7K3",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02UZKPQ7K3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "73c11151-75ad-478a-b3d8-3582172e959c",
+        "type": "message",
+        "text": "<@U03CVUGP1FW> - I lead iScribblers, a B2B and SaaS content marketing and writing agency. We work with some kickass SaaS companies like SpotDraft, Revnue, Keyhole, Unlock OKR and Ventuno. Would love to know more about your requirements and be of assistance.",
+        "user": "U039HVCS1LL",
+        "ts": "1651128118.278129",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "155d15175e73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-30\/3307059602135_155d15175e73e1b8f169_72.jpg",
+            "first_name": "Priyanka",
+            "real_name": "Priyanka Desai",
+            "display_name": "Priyanka Desai",
+            "team": "T02PFK13YLC",
+            "name": "priyanka261990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MnNo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CVUGP1FW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I lead iScribblers, a B2B and SaaS content marketing and writing agency. We work with some kickass SaaS companies like SpotDraft, Revnue, Keyhole, Unlock OKR and Ventuno. Would love to know more about your requirements and be of assistance."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651057061.409679",
+        "parent_user_id": "U03CVUGP1FW"
+    }
+]

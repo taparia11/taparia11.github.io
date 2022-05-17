@@ -1,0 +1,621 @@
+[
+    {
+        "client_msg_id": "8cbb80b3-34cc-432b-b84d-f41e1f273b55",
+        "type": "message",
+        "text": "Hi Ratnakar",
+        "user": "U02TTEFFU6B",
+        "ts": "1649401332.219619",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yhets",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Ratnakar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649399614.259219",
+        "parent_user_id": "U03AG8MUECT",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03AG8MUECT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c20e9fe8-5315-4526-a1bc-132723596ac7",
+        "type": "message",
+        "text": "Hey <@U02TTEFFU6B> &amp; <@U039FQ2SNNN>,\n\nGlad to connect :slightly_smiling_face:",
+        "user": "U03AG8MUECT",
+        "ts": "1649401478.929839",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4fdac4d7a543",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-06\/3353413068949_4fdac4d7a543ccd5c10e_72.jpg",
+            "first_name": "Ratnakar",
+            "real_name": "Ratnakar Shukla",
+            "display_name": "Ratnakar Shukla",
+            "team": "T02PFK13YLC",
+            "name": "shukla.ratnakar7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6lX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02TTEFFU6B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " & "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U039FQ2SNNN"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\n\nGlad to connect "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649399614.259219",
+        "parent_user_id": "U03AG8MUECT"
+    },
+    {
+        "client_msg_id": "ac6fafd9-7e56-4865-8494-890b5428b3cc",
+        "type": "message",
+        "text": "Hi Ratnakar! Welcome to the community!",
+        "user": "U02PDC4883V",
+        "ts": "1649403011.989779",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UZyoT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Ratnakar! Welcome to the community!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649399614.259219",
+        "parent_user_id": "U03AG8MUECT",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03AG8MUECT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "04180f48-e9f3-43e1-bd96-5f751eff0b3c",
+        "type": "message",
+        "text": "Thanks, Siddharth :slightly_smiling_face:",
+        "user": "U03AG8MUECT",
+        "ts": "1649404380.375839",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4fdac4d7a543",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-06\/3353413068949_4fdac4d7a543ccd5c10e_72.jpg",
+            "first_name": "Ratnakar",
+            "real_name": "Ratnakar Shukla",
+            "display_name": "Ratnakar Shukla",
+            "team": "T02PFK13YLC",
+            "name": "shukla.ratnakar7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WmVOw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, Siddharth "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649399614.259219",
+        "parent_user_id": "U03AG8MUECT"
+    },
+    {
+        "client_msg_id": "15d49155-14bb-4176-bc40-98fbab6bfb87",
+        "type": "message",
+        "text": "Hey mates, this is Ankit Prakash, Founder of Aritic and EasySendy.\n\nWe run #b2b #SaaS #MarTech #Web3 into US, EU and ANZ markets.\n\nI'm active out here to learn and help community s11s to grow.\n\nPS: Mr. Obama, Sujan Patel &amp; several leaders follow me for insights on my <http:\/\/t.co|t.co> :slightly_smiling_face:\nBe like Obama!",
+        "user": "U03AQFPP9BL",
+        "ts": "1649420515.699309",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c9b2329e7c08",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-08\/3377148716193_c9b2329e7c08a95503a8_72.png",
+            "first_name": "Ankit",
+            "real_name": "Ankit Prakash",
+            "display_name": "Ankit Prakash",
+            "team": "T02PFK13YLC",
+            "name": "ankitpr89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lEglK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey mates, this is Ankit Prakash, Founder of Aritic and EasySendy.\n\nWe run #b2b #SaaS #MarTech #Web3 into US, EU and ANZ markets.\n\nI'm active out here to learn and help community s11s to grow.\n\nPS: Mr. Obama, Sujan Patel & several leaders follow me for insights on my "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/t.co",
+                                "text": "t.co"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nBe like Obama!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649420515.699309",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1649659748.047369",
+        "reply_users": [
+            "U0362R42317",
+            "U02PDC4883V",
+            "U039FQ2SNNN",
+            "U03AQFPP9BL"
+        ],
+        "replies": [
+            {
+                "user": "U0362R42317",
+                "ts": "1649421065.465339"
+            },
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649426735.559869"
+            },
+            {
+                "user": "U039FQ2SNNN",
+                "ts": "1649428575.231289"
+            },
+            {
+                "user": "U03AQFPP9BL",
+                "ts": "1649656117.860839"
+            },
+            {
+                "user": "U03AQFPP9BL",
+                "ts": "1649659748.047369"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1649659748.047369",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U02UHQYEF70",
+                    "U02V92UN0Q2",
+                    "U02PDC4883V",
+                    "U03B79HSV7S",
+                    "U03AG8MUECT",
+                    "U03560PQ082",
+                    "U02V7TLU5HT",
+                    "U02UJBHEQVA",
+                    "U030EAA4YA2",
+                    "U0380S2BZ9A",
+                    "U0361UQSKGQ",
+                    "U031P3UUGN4"
+                ],
+                "count": 12
+            },
+            {
+                "name": "zap",
+                "users": [
+                    "U02VD2JL8N8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6d3a073d-9a41-4f6d-98cd-6ca94852cd60",
+        "type": "message",
+        "text": "I think this one qualifies for <#C0318NH5G3C|shameless-plug> :stuck_out_tongue: Kidding, welcome to the community Ankit! :blush:",
+        "user": "U0362R42317",
+        "ts": "1649421065.465339",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b29d31fcb2d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-04\/3194263235186_b29d31fcb2d64526ad21_72.jpg",
+            "first_name": "Mehul",
+            "real_name": "Mehul Kanodia",
+            "display_name": "Mehul",
+            "team": "T02PFK13YLC",
+            "name": "kanodiamehul17",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sQm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think this one qualifies for "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0318NH5G3C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Kidding, welcome to the community Ankit! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649420515.699309",
+        "parent_user_id": "U03AQFPP9BL",
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "U03AQFPP9BL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5d8ce354-7648-436e-94c2-6a159a2aacc2",
+        "type": "message",
+        "text": "Welcome Ankit!",
+        "user": "U02PDC4883V",
+        "ts": "1649426735.559869",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SpN0I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome Ankit!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649420515.699309",
+        "parent_user_id": "U03AQFPP9BL",
+        "reactions": [
+            {
+                "name": "handshake",
+                "users": [
+                    "U03AQFPP9BL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b491bcc4-2fa5-4d70-a537-14c466ed063e",
+        "type": "message",
+        "text": "Hi Ankit",
+        "user": "U039FQ2SNNN",
+        "ts": "1649428575.231289",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9bb6d1a8280e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-30\/3321818966962_9bb6d1a8280e6c254c07_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rohitguptatoday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R23+B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Ankit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649420515.699309",
+        "parent_user_id": "U03AQFPP9BL",
+        "reactions": [
+            {
+                "name": "handshake",
+                "users": [
+                    "U03AQFPP9BL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "db80a4bd-963f-4684-b10e-a406c7da0e77",
+        "type": "message",
+        "text": "Hello Everyone,\n\nGood Evening!!\n\nI am the Director for Sales &amp; Partnerships at Jamsfy Technologies &amp; Auditzy Technologies. \n\nBelow are our website links -\n\n<http:\/\/www.auditzy.com\/|www.auditzy.com\/> <http:\/\/www.jamsfy.com|www.jamsfy.com> \n\nThanks,\nAniket",
+        "user": "U03B4FAM9FT",
+        "ts": "1649432189.915279",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g02b49edec6e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/02b49edec6ea1d6d81d54fe2084497e7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Aniket",
+            "real_name": "Aniket Lade",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "aniket389",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03B4FAM9FT",
+            "ts": "1649432207.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dgJr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Everyone,\n\nGood Evening!!\n\nI am the Director for Sales & Partnerships at Jamsfy Technologies & Auditzy Technologies. \n\nBelow are our website links -\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.auditzy.com\/",
+                                "text": "www.auditzy.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.jamsfy.com",
+                                "text": "www.jamsfy.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nThanks,\nAniket"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649432189.915279",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1649436375.419179",
+        "reply_users": [
+            "U02PDC4883V"
+        ],
+        "replies": [
+            {
+                "user": "U02PDC4883V",
+                "ts": "1649436375.419179"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1649436375.419179",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03AQFPP9BL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "baaf01c4-fd9c-4f23-88dc-8593a1e0f001",
+        "type": "message",
+        "text": "Welcome <@U03B4FAM9FT> to the community!",
+        "user": "U02PDC4883V",
+        "ts": "1649436375.419179",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "7f8b5a081dc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3344749242369_7f8b5a081dc38fb32f5a_72.jpg",
+            "first_name": "Siddharth",
+            "real_name": "Siddharth Sharma",
+            "display_name": "Sid",
+            "team": "T02PFK13YLC",
+            "name": "siddharth.sharma.85",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fw32P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03B4FAM9FT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to the community!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649432189.915279",
+        "parent_user_id": "U03B4FAM9FT"
+    }
+]

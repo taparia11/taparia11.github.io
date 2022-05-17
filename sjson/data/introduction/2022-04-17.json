@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "d301a26c-57a0-4b14-bab1-c6c95498d85f",
+        "type": "message",
+        "text": "Hey Chirag! Good to see you here too. Thanks",
+        "user": "U03AVLPU08P",
+        "ts": "1650185762.926229",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "ceb4da095481",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-14\/3383641176646_ceb4da0954815f587d8f_72.jpg",
+            "first_name": "Rajan",
+            "real_name": "Rajan Singh",
+            "display_name": "Rajan Singh",
+            "team": "T02PFK13YLC",
+            "name": "iamrajan990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j2C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Chirag! Good to see you here too. Thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649913432.681119",
+        "parent_user_id": "U03AVLPU08P"
+    }
+]

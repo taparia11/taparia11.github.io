@@ -1,0 +1,691 @@
+[
+    {
+        "client_msg_id": "b957840a-d11c-4534-b4d8-8672f318628e",
+        "type": "message",
+        "text": "Preferably Chennai, but we're okay with remote. <@U0362RG67F0>",
+        "user": "U033R6MA1DY",
+        "ts": "1649856429.578829",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g20af302531e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/20af302531ec4b507d247d8c1f8403cb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Ajay",
+            "real_name": "Ajay Ramamoorthy",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "sum.teng.wong",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fSy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Preferably Chennai, but we're okay with remote. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0362RG67F0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649309922.971029",
+        "parent_user_id": "U033R6MA1DY"
+    },
+    {
+        "client_msg_id": "418f845d-07cb-49d3-9f03-421ce8208f90",
+        "type": "message",
+        "text": "I have a pretty smart BCom guy with accounting experience, looking for a job in start-ups.\n\nHe can do everything a CA can and is preparing for CFA in the parallel.\n\nLet me know if your company is hiring. \n\nOne of the most inspirational life stories I have heard is his. Helping him out.",
+        "user": "U02TTEFFU6B",
+        "ts": "1649859033.519009",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dI4aH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have a pretty smart BCom guy with accounting experience, looking for a job in start-ups.\n\nHe can do everything a CA can and is preparing for CFA in the parallel.\n\nLet me know if your company is hiring. \n\nOne of the most inspirational life stories I have heard is his. Helping him out."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649859033.519009",
+        "reply_count": 8,
+        "reply_users_count": 4,
+        "latest_reply": "1650119662.433749",
+        "reply_users": [
+            "U02ULCHDGB0",
+            "U02TTEFFU6B",
+            "U02USELSBRT",
+            "U03560PQ082"
+        ],
+        "replies": [
+            {
+                "user": "U02ULCHDGB0",
+                "ts": "1649866619.592169"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649866759.802239"
+            },
+            {
+                "user": "U02ULCHDGB0",
+                "ts": "1649866971.326009"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1649910585.072079"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1649910955.975719"
+            },
+            {
+                "user": "U02ULCHDGB0",
+                "ts": "1649911058.290619"
+            },
+            {
+                "user": "U03560PQ082",
+                "ts": "1649912516.609569"
+            },
+            {
+                "user": "U02TTEFFU6B",
+                "ts": "1650119662.433749"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7fcf5d28-9201-493d-9554-c82448b1ca6c",
+        "type": "message",
+        "text": "Hi Rohit, Is he based out of Bangalore? In that case you may ask him to send his resume to me. We have been looking for someone into accounting.",
+        "user": "U02ULCHDGB0",
+        "ts": "1649866619.592169",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "0d19402d4d9e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-20\/3416613047252_0d19402d4d9e357ac3e2_72.jpg",
+            "first_name": "Nrusingha",
+            "real_name": "Nrusingha Sahoo",
+            "display_name": "Nrusingha",
+            "team": "T02PFK13YLC",
+            "name": "sahoo.nrusingha87",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZUx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Rohit, Is he based out of Bangalore? In that case you may ask him to send his resume to me. We have been looking for someone into accounting."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649859033.519009",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "efb58e21-8e41-4814-bfb4-5fbc41034945",
+        "type": "message",
+        "text": "Wanting to shift to Bangalore. Will pass on the resume.",
+        "user": "U02TTEFFU6B",
+        "ts": "1649866759.802239",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CKF7U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wanting to shift to Bangalore. Will pass on the resume."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649859033.519009",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "b05a8b2f-65ed-4a91-bffe-713750a2a0c4",
+        "type": "message",
+        "text": "Sure",
+        "user": "U02ULCHDGB0",
+        "ts": "1649866971.326009",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "0d19402d4d9e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-20\/3416613047252_0d19402d4d9e357ac3e2_72.jpg",
+            "first_name": "Nrusingha",
+            "real_name": "Nrusingha Sahoo",
+            "display_name": "Nrusingha",
+            "team": "T02PFK13YLC",
+            "name": "sahoo.nrusingha87",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UikM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649859033.519009",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "FC5D14D9-8054-472B-9E04-864C8CAF50CC",
+        "type": "message",
+        "text": "Edufund is looking for a Head of Marketing. Pay: 17- 25 LPA \nLink: <https:\/\/angel.co\/company\/edufundindia\/jobs\/972289-head-of-marketing|https:\/\/angel.co\/company\/edufundindia\/jobs\/972289-head-of-marketing> \n\nYou can also reach out directly if you’re interested :) ",
+        "user": "U030KV8R8RL",
+        "ts": "1649908775.632849",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1d58fa7deccd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3044063413425_1d58fa7deccd79b3b2d0_72.jpg",
+            "first_name": "Vartika",
+            "real_name": "Vartika Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "vartika.gupta1911",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/angel.co\/company\/edufundindia\/jobs\/972289-head-of-marketing",
+                "thumb_url": "https:\/\/photos.angel.co\/startups\/i\/7432858-8debb5779054209581e36218d1c9f056-thumb_jpg.jpg?buster=1586534700",
+                "thumb_width": 100,
+                "thumb_height": 100,
+                "id": 1,
+                "original_url": "https:\/\/angel.co\/company\/edufundindia\/jobs\/972289-head-of-marketing",
+                "fallback": "AngelList: Head of Marketing at EduFund • Bengaluru • Mumbai • Remote (Work from Home)",
+                "text": "EduFund is hiring a Head of Marketing in Bengaluru and Mumbai - Apply now on AngelList! We are looking for an experienced and self-driven person to head our...",
+                "title": "Head of Marketing at EduFund • Bengaluru • Mumbai • Remote (Work from Home)",
+                "title_link": "https:\/\/angel.co\/company\/edufundindia\/jobs\/972289-head-of-marketing",
+                "service_name": "AngelList"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jeLNY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Edufund is looking for a Head of Marketing. Pay: 17- 25 LPA \nLink: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/angel.co\/company\/edufundindia\/jobs\/972289-head-of-marketing",
+                                "text": "https:\/\/angel.co\/company\/edufundindia\/jobs\/972289-head-of-marketing"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nYou can also reach out directly if you’re interested :) "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eye",
+                "users": [
+                    "U0379TDK6NM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DCB2FCB4-30A7-4C97-BBFB-58A0C8C6D843",
+        "type": "message",
+        "text": "How pretty are we talking?",
+        "user": "U02USELSBRT",
+        "ts": "1649910585.072079",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H8yiS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How pretty are we talking?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649859033.519009",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "3d7b7d9d-a482-4626-a8ff-1096ef552344",
+        "type": "message",
+        "text": "not talking without the comma for sure.",
+        "user": "U02TTEFFU6B",
+        "ts": "1649910955.975719",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b7d10347f3c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3175731610529_b7d10347f3c43b062eac_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Srivastav",
+            "display_name": "rohit",
+            "team": "T02PFK13YLC",
+            "name": "rohitkmsrivastav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EnUjA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "not talking without the comma for sure."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649859033.519009",
+        "parent_user_id": "U02TTEFFU6B",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6c5206fd-85f8-4ac6-bd46-42d0543bcd41",
+        "type": "message",
+        "text": "Ha ha..",
+        "user": "U02ULCHDGB0",
+        "ts": "1649911058.290619",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "0d19402d4d9e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-20\/3416613047252_0d19402d4d9e357ac3e2_72.jpg",
+            "first_name": "Nrusingha",
+            "real_name": "Nrusingha Sahoo",
+            "display_name": "Nrusingha",
+            "team": "T02PFK13YLC",
+            "name": "sahoo.nrusingha87",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tx=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ha ha.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649859033.519009",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "e61ff5bc-c4e5-4a2e-8166-6d38297fcc06",
+        "type": "message",
+        "text": "Please send it across to me as well :slightly_smiling_face:",
+        "user": "U03560PQ082",
+        "ts": "1649912516.609569",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1db32098d186",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-01\/3176023965474_1db32098d186ac873a3d_72.png",
+            "first_name": "Ahaan",
+            "real_name": "Ahaan Pandit",
+            "display_name": "Ahaan Pandit",
+            "team": "T02PFK13YLC",
+            "name": "ahaan.pandit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+RR6R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please send it across to me as well "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649859033.519009",
+        "parent_user_id": "U02TTEFFU6B"
+    },
+    {
+        "client_msg_id": "fa1cbc8e-9b22-4a0f-9b8a-6a41950def87",
+        "type": "message",
+        "text": "Sharing a very special opportunity. <https:\/\/www.linkedin.com\/in\/mohit-tiwari8\/|Mohit> is a dear dear friend, working on a his life’s mission to create <https:\/\/www.symmetry-systems.com|Symmetry-Systems>. They have single handedly managed to create a new data security category.  Mohit is looking for a product marketer who would get excited by going deep into customer stories and their product use-cases, and sharing that with the world. They are well funded (Series A) and the team is spread across US and India. Don’t have a JD but if this interests you, ping me and I’ll connect.",
+        "user": "U032AUA6KFV",
+        "ts": "1649918251.743289",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9189c1943921",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-17\/3239483991639_9189c1943921bc90d5d9_72.jpg",
+            "first_name": "Sumit",
+            "real_name": "Sumit",
+            "display_name": "Sumit",
+            "team": "T02PFK13YLC",
+            "name": "sumitsuman.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zmYq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sharing a very special opportunity. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/mohit-tiwari8\/",
+                                "text": "Mohit"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is a dear dear friend, working on a his life’s mission to create "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.symmetry-systems.com",
+                                "text": "Symmetry-Systems"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". They have single handedly managed to create a new data security category.  Mohit is looking for a product marketer who would get excited by going deep into customer stories and their product use-cases, and sharing that with the world. They are well funded (Series A) and the team is spread across US and India. Don’t have a JD but if this interests you, ping me and I’ll connect."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649918251.743289",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1649918309.849289",
+        "reply_users": [
+            "U032AUA6KFV"
+        ],
+        "replies": [
+            {
+                "user": "U032AUA6KFV",
+                "ts": "1649918309.849289"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eye",
+                "users": [
+                    "U0379TDK6NM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b9f2afe1-efa4-4782-94c7-0fb52164e4cb",
+        "type": "message",
+        "text": "Also, being a prof, he is keen that this person enjoys writing a lot",
+        "user": "U032AUA6KFV",
+        "ts": "1649918309.849289",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9189c1943921",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-17\/3239483991639_9189c1943921bc90d5d9_72.jpg",
+            "first_name": "Sumit",
+            "real_name": "Sumit",
+            "display_name": "Sumit",
+            "team": "T02PFK13YLC",
+            "name": "sumitsuman.pro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TPUf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, being a prof, he is keen that this person enjoys writing a lot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649918251.743289",
+        "parent_user_id": "U032AUA6KFV"
+    },
+    {
+        "client_msg_id": "09ec2398-574e-4992-b7a7-954123ee5614",
+        "type": "message",
+        "text": "Hey Guys, I’m looking for a Content Agency that can handle high velocity and volume of content reqs. The segment is e-commerce. Please feel free to recommend the agencies you have worked with! Thanks in advance!",
+        "user": "U02V5RTEAA1",
+        "ts": "1649918353.086179",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "ce001370eae7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-23\/2988116860390_ce001370eae774c724d4_72.png",
+            "first_name": "Gautham",
+            "real_name": "Gautham Ramakrishnan",
+            "display_name": "Gautham Ramakrishnan",
+            "team": "T02PFK13YLC",
+            "name": "gautham211991",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QCy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Guys, I’m looking for a Content Agency that can handle high velocity and volume of content reqs. The segment is e-commerce. Please feel free to recommend the agencies you have worked with! Thanks in advance!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649918353.086179",
+        "reply_count": 6,
+        "reply_users_count": 5,
+        "latest_reply": "1650518709.409979",
+        "reply_users": [
+            "U0389S5NBH7",
+            "U02V5RTEAA1",
+            "U031KD0PNTX",
+            "U030E27CBB3",
+            "U03CDCJ6W12"
+        ],
+        "replies": [
+            {
+                "user": "U0389S5NBH7",
+                "ts": "1649921947.284539"
+            },
+            {
+                "user": "U02V5RTEAA1",
+                "ts": "1649927551.511459"
+            },
+            {
+                "user": "U031KD0PNTX",
+                "ts": "1649939265.653109"
+            },
+            {
+                "user": "U02V5RTEAA1",
+                "ts": "1649940300.732949"
+            },
+            {
+                "user": "U030E27CBB3",
+                "ts": "1650472834.921609"
+            },
+            {
+                "user": "U03CDCJ6W12",
+                "ts": "1650518709.409979"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

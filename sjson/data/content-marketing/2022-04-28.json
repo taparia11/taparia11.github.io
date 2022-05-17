@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "b6258f8b-98e0-49e2-9e9b-5d49255bb6cb",
+        "type": "message",
+        "text": "Astra is probably the easiest to pick up. You can check Hello theme from elementor as well. If on a budget, you can also use the default theme on WordPress and build out your layout with gutenberg blocks.",
+        "user": "U031KD0PNTX",
+        "ts": "1651130444.054029",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "d8e3a1cc6ed8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3305635315237_d8e3a1cc6ed88c5c929a_72.jpg",
+            "first_name": "Anand",
+            "real_name": "Anand",
+            "display_name": "theanand",
+            "team": "T02PFK13YLC",
+            "name": "anand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=cZL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Astra is probably the easiest to pick up. You can check Hello theme from elementor as well. If on a budget, you can also use the default theme on WordPress and build out your layout with gutenberg blocks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651120950.199239",
+        "parent_user_id": "U02UZKPQ7K3",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02UZKPQ7K3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

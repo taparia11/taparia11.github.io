@@ -1,0 +1,49 @@
+[
+    {
+        "client_msg_id": "bcf24f26-c968-4973-9b39-938a39b4e572",
+        "type": "message",
+        "text": "Hey Folks,\nWe are working on a Martech product line which will be using tokenomics to bring engagement with the end customers and engaged users for the brand\/ product\/ platform\/ service.\nThis platform will have community, events and other engagement tools to drive engagement among the customers and users.\nIf you are open to discuss about this platform; let's connect.",
+        "user": "U03AQFPP9BL",
+        "ts": "1650532572.571769",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "c9b2329e7c08",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-08\/3377148716193_c9b2329e7c08a95503a8_72.png",
+            "first_name": "Ankit",
+            "real_name": "Ankit Prakash",
+            "display_name": "Ankit Prakash",
+            "team": "T02PFK13YLC",
+            "name": "ankitpr89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C=M0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Folks,\nWe are working on a Martech product line which will be using tokenomics to bring engagement with the end customers and engaged users for the brand\/ product\/ platform\/ service.\nThis platform will have community, events and other engagement tools to drive engagement among the customers and users.\nIf you are open to discuss about this platform; let's connect."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03C4NNJWGK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

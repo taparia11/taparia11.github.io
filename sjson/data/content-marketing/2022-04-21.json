@@ -1,0 +1,1805 @@
+[
+    {
+        "client_msg_id": "1a04a671-ddb7-403e-88b5-c6d9d8832e24",
+        "type": "message",
+        "text": "Sure <@U02USELSBRT> here you go <https:\/\/www.chargebee.com\/resources\/|https:\/\/www.chargebee.com\/resources\/>",
+        "user": "U030XB8C43Y",
+        "ts": "1650526248.280519",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "a6830c796d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-08\/3094452278656_a6830c796d901d5036a1_72.jpg",
+            "first_name": "Nupura",
+            "real_name": "Nupura",
+            "display_name": "Nupura",
+            "team": "T02PFK13YLC",
+            "name": "nupura.ughade",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.chargebee.com\/resources\/",
+                "thumb_url": "https:\/\/www.chargebee.com\/static\/resources\/og\/learning-hub\/learning-hub.png",
+                "thumb_width": 1200,
+                "thumb_height": 627,
+                "service_icon": "https:\/\/www.chargebee.com\/static\/resources\/brand\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.chargebee.com\/resources\/",
+                "fallback": "Chargebee: Choose the Best Subscription Management Software for your SaaS | Chargebee",
+                "text": "Chargebee's subscription management software provides flexible &amp; comprehensive set of features to handle subscriptions for your biz . Used by over 2000 SaaS companies.",
+                "title": "Choose the Best Subscription Management Software for your SaaS | Chargebee",
+                "title_link": "https:\/\/www.chargebee.com\/resources\/",
+                "service_name": "Chargebee"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f1JCx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02USELSBRT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " here you go "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.chargebee.com\/resources\/",
+                                "text": "https:\/\/www.chargebee.com\/resources\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649833212.179489",
+        "parent_user_id": "U0363DZU3QF",
+        "reactions": [
+            {
+                "name": "dart",
+                "users": [
+                    "U02USELSBRT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "38ddf3a8-eb53-492d-b61d-fe20cc4ef25b",
+        "type": "message",
+        "text": "Folks, I have a question. Do you think there's any merit in exploring quora as a content channel when my audience is primarily based out of US \/ Europe?",
+        "user": "U030N8RHURZ",
+        "ts": "1650542308.447089",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b9e697887a24",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-17\/3118359252754_b9e697887a246674f4f1_72.jpg",
+            "first_name": "Murugappan",
+            "real_name": "Murugappan",
+            "display_name": "Muru",
+            "team": "T02PFK13YLC",
+            "name": "nappagurum",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ga4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Folks, I have a question. Do you think there's any merit in exploring quora as a content channel when my audience is primarily based out of US \/ Europe?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650542308.447089",
+        "reply_count": 17,
+        "reply_users_count": 7,
+        "latest_reply": "1650620889.759989",
+        "reply_users": [
+            "U039FQ2SNNN",
+            "U030N8RHURZ",
+            "U02USELSBRT",
+            "U031KD0PNTX",
+            "U03C4NNJWGK",
+            "U02ULN6EFNV",
+            "U031QKGPNRK"
+        ],
+        "replies": [
+            {
+                "user": "U039FQ2SNNN",
+                "ts": "1650542352.064779"
+            },
+            {
+                "user": "U030N8RHURZ",
+                "ts": "1650542546.354739"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650542925.743939"
+            },
+            {
+                "user": "U031KD0PNTX",
+                "ts": "1650543609.825109"
+            },
+            {
+                "user": "U03C4NNJWGK",
+                "ts": "1650550352.324259"
+            },
+            {
+                "user": "U02ULN6EFNV",
+                "ts": "1650550914.894479"
+            },
+            {
+                "user": "U030N8RHURZ",
+                "ts": "1650555273.847609"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1650619751.690529"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1650620036.434429"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650620098.593019"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1650620341.754949"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1650620386.669909"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1650620458.021849"
+            },
+            {
+                "user": "U030N8RHURZ",
+                "ts": "1650620549.306379"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650620710.082019"
+            },
+            {
+                "user": "U031QKGPNRK",
+                "ts": "1650620852.376639"
+            },
+            {
+                "user": "U02USELSBRT",
+                "ts": "1650620889.759989"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "52278ED2-E427-4109-8A2F-15A46A71F0E3",
+        "type": "message",
+        "text": "Huge potential for conversions. High trust factor in the West and globally.",
+        "user": "U039FQ2SNNN",
+        "ts": "1650542352.064779",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9bb6d1a8280e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-30\/3321818966962_9bb6d1a8280e6c254c07_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rohitguptatoday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CQ=YD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Huge potential for conversions. High trust factor in the West and globally."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650542308.447089",
+        "parent_user_id": "U030N8RHURZ"
+    },
+    {
+        "client_msg_id": "28761c9d-50d6-4d48-b794-09e2399e53c9",
+        "type": "message",
+        "text": "Ah, okay. Asked because the last time I used quora it was flooded with answers that started with \"as someone who graduated from IIT-K...\" :sweat_smile:\n\nWas curious if it's an Indian bubble. Thanks for the insight, <@U039FQ2SNNN>. Helpful!",
+        "user": "U030N8RHURZ",
+        "ts": "1650542546.354739",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b9e697887a24",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-17\/3118359252754_b9e697887a246674f4f1_72.jpg",
+            "first_name": "Murugappan",
+            "real_name": "Murugappan",
+            "display_name": "Muru",
+            "team": "T02PFK13YLC",
+            "name": "nappagurum",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l5JcM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, okay. Asked because the last time I used quora it was flooded with answers that started with \"as someone who graduated from IIT-K...\" "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nWas curious if it's an Indian bubble. Thanks for the insight, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U039FQ2SNNN"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Helpful!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650542308.447089",
+        "parent_user_id": "U030N8RHURZ",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U02USELSBRT",
+                    "U031KD0PNTX",
+                    "U03A5S0KQMA"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9f6d57d7-7cd4-4cf4-bc8e-ac911d564668",
+        "type": "message",
+        "text": "Quora used to be cool but now it is a wasteland. Speaking as someone who graduated from IIT-G :smile:",
+        "user": "U02USELSBRT",
+        "ts": "1650542925.743939",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "28419f6dbb3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-03\/3337842180676_28419f6dbb3b0f51b715_72.jpg",
+            "first_name": "Aniruddh",
+            "real_name": "Aniruddh Jain",
+            "display_name": "Aniruddh Jain",
+            "team": "T02PFK13YLC",
+            "name": "link2ani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02USELSBRT",
+            "ts": "1650542962.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e4PZD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Quora used to be cool but now it is a wasteland. Speaking as someone who graduated from IIT-G "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650542308.447089",
+        "parent_user_id": "U030N8RHURZ",
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "U030N8RHURZ",
+                    "U030SDYNX7V",
+                    "U02UMB0T7BM",
+                    "U03834B6CS0"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0d61a40e-9b2a-4b9c-932b-e099102c2419",
+        "type": "message",
+        "text": "Quora gets a lot of traffic from organic search. So, you can use semrush and pull out the top 10 results for all your primary, secondary and informational blog keywords and see if quora ranks for any of them. If they do, then run ads against the specific question or do promoted answers which is a better format.\n\nOr just have someone write the answers with a lot of value and get the whole team to upvote it. If you are taking the organic route, do not add links or the answer gets collapsed.",
+        "user": "U031KD0PNTX",
+        "ts": "1650543609.825109",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "d8e3a1cc6ed8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3305635315237_d8e3a1cc6ed88c5c929a_72.jpg",
+            "first_name": "Anand",
+            "real_name": "Anand",
+            "display_name": "theanand",
+            "team": "T02PFK13YLC",
+            "name": "anand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U031KD0PNTX",
+            "ts": "1650543876.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+cs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Quora gets a lot of traffic from organic search. So, you can use semrush and pull out the top 10 results for all your primary, secondary and informational blog keywords and see if quora ranks for any of them. If they do, then run ads against the specific question or do promoted answers which is a better format.\n\nOr just have someone write the answers with a lot of value and get the whole team to upvote it. If you are taking the organic route, do not add links or the answer gets collapsed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650542308.447089",
+        "parent_user_id": "U030N8RHURZ",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U030N8RHURZ",
+                    "U0309B5AYTB",
+                    "U02PDC4883V"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "06d5a7bc-fea7-4758-90f6-047606f34292",
+        "type": "message",
+        "text": "Hey <@U030N8RHURZ>, I have published an eBook on Quora marketing 1.5 years back. So I can tell you some of the insights.\n\nDo this:\n\n1. Type some of your primary keywords on Quora.\n2. Note down some of the top questions.\n3. Check almost 6-7 answers of all those questions.\n4. See if any non-indians have answered it in majority.\n5. If not, you will not get much traction from west.\nPrimarily, Quora used to get a lot of traffic from US\/UK, now its quite ruined by marketers trying to sell and promote in every answer.\n\nYou can try answering high followed questions with less answers to get more eyes and see how it goes.\n\nBut surely worthy to try.\n\nAnother approach I would suggest is, translate your answer in french and try writing in Quora french. You can get some good views there.\n\nLet me know if you have any queries.",
+        "user": "U03C4NNJWGK",
+        "ts": "1650550352.324259",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "552a262ea031",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-19\/3436512969744_552a262ea031d186cba3_72.jpg",
+            "first_name": "Tejas",
+            "real_name": "Tejas Rane",
+            "display_name": "Tejas Rane",
+            "team": "T02PFK13YLC",
+            "name": "tejas3732",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5t4M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U030N8RHURZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I have published an eBook on Quora marketing 1.5 years back. So I can tell you some of the insights.\n\nDo this:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Type some of your primary keywords on Quora."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Note down some of the top questions."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Check almost 6-7 answers of all those questions."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "See if any non-indians have answered it in majority."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "If not, you will not get much traction from west."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nPrimarily, Quora used to get a lot of traffic from US\/UK, now its quite ruined by marketers trying to sell and promote in every answer.\n\nYou can try answering high followed questions with less answers to get more eyes and see how it goes.\n\nBut surely worthy to try.\n\nAnother approach I would suggest is, translate your answer in french and try writing in Quora french. You can get some good views there.\n\nLet me know if you have any queries."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650542308.447089",
+        "parent_user_id": "U030N8RHURZ",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U030N8RHURZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "18E6E02E-59B8-4947-873F-507D2606E2B2",
+        "type": "message",
+        "text": "<@U031QKGPNRK> is a pro at it. ",
+        "user": "U02ULN6EFNV",
+        "ts": "1650550914.894479",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "g2796bce497e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2796bce497e03edc08c2719052eaae8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Chirayu",
+            "real_name": "Chirayu (Leena AI)",
+            "display_name": "Chirayu",
+            "team": "T02PFK13YLC",
+            "name": "akotiya.chirayu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uXBO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U031QKGPNRK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is a pro at it. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650542308.447089",
+        "parent_user_id": "U030N8RHURZ",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U030N8RHURZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03CDNR1Y2X",
+                "created": 1650553186,
+                "timestamp": 1650553186,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02USELSBRT",
+                "editable": false,
+                "size": 815097,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03CDNR1Y2X\/image.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02PFK13YLC-F03CDNR1Y2X\/download\/image.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CDNR1Y2X-b34a7cb301\/image_64.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CDNR1Y2X-b34a7cb301\/image_80.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CDNR1Y2X-b34a7cb301\/image_360.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_360_w": 351,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CDNR1Y2X-b34a7cb301\/image_480.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_480_w": 468,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CDNR1Y2X-b34a7cb301\/image_160.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CDNR1Y2X-b34a7cb301\/image_720.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_720_w": 702,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CDNR1Y2X-b34a7cb301\/image_800.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_800_w": 800,
+                "thumb_800_h": 821,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CDNR1Y2X-b34a7cb301\/image_960.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_960_w": 936,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T02PFK13YLC-F03CDNR1Y2X-b34a7cb301\/image_1024.png?t=xoxe-2797647134692-3452469245875-3454814664708-b54abbb12a5da309dc8adac2d99f55ac",
+                "thumb_1024_w": 998,
+                "thumb_1024_h": 1024,
+                "original_w": 1008,
+                "original_h": 1034,
+                "thumb_tiny": "AwAwAC6ioJ6An6U8oynBHOM1bs9uwcAf1p9xAzsHVgMLjBFNVNbCcNLlEA56U2NGdgqjJPSnbicCkRivIOCCMVpJkpC7SCQQcjg0bT6GnSSlyHwAWGTgUwsSeaad0JqzFhn8vg9Ksidp\/wB3GeSOpqntHr+lKF54bH4VlyX1L5ug54nicBxjPQ+tMB4xT2cuQXcsQMc0iKAwJPAOelU02hJ2YjH5UHfFJmpJX86TccD6CmbR6\/pTSdgb1JIuYpPXimhskAAdaIyBDJk4PGPemLncKdybEwgYLnrimbiaYXdhgsSKB1qY36lO3QVQD\/EB9aU4HQ5pmDSkEdapMVj\/2Q==",
+                "permalink": "https:\/\/s11s.slack.com\/files\/U02USELSBRT\/F03CDNR1Y2X\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T02PFK13YLC-F03CDNR1Y2X-0f8bb6ddc8",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02USELSBRT",
+        "display_as_bot": false,
+        "ts": "1650553195.038989",
+        "client_msg_id": "1168d221-bf24-4e7f-870d-c354897847b2",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U030SHA1S2W",
+                    "U039VSWJ85V"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U0325QQQALR",
+                    "U033QDFML74",
+                    "U039MLMNSQH",
+                    "U0380S2BZ9A"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "63dbd7e2-353c-43f4-8bfe-5c664ccae19e",
+        "type": "message",
+        "text": "Super helpful, <@U03C4NNJWGK> and <@U031KD0PNTX>, i shall come back with more questions shortly :)",
+        "user": "U030N8RHURZ",
+        "ts": "1650555273.847609",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "b9e697887a24",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-17\/3118359252754_b9e697887a246674f4f1_72.jpg",
+            "first_name": "Murugappan",
+            "real_name": "Murugappan",
+            "display_name": "Muru",
+            "team": "T02PFK13YLC",
+            "name": "nappagurum",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w2Lz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Super helpful, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03C4NNJWGK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U031KD0PNTX"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", i shall come back with more questions shortly :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650542308.447089",
+        "parent_user_id": "U030N8RHURZ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03C4NNJWGK",
+                    "U031KD0PNTX"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dd91e287-c300-4a62-a96a-9265639c5e8d",
+        "type": "message",
+        "text": "For someone who wants to revise few things\n\n<https:\/\/contentmarketinginstitute.com\/articles\/content-marketing-basics?_mc=em_DailyAlert_VIP_42122_ContentMarketingBasics&amp;utm_medium=email&amp;utm_source=eloqua&amp;utm_campaign=DailyAlert_VIP_42122_ContentMarketingBasics|https:\/\/contentmarketinginstitute.com\/articles\/content-marketing-basics?_mc=em_DailyAlert_V[…]m_campaign=DailyAlert_VIP_42122_ContentMarketingBasics>\n\nA good read :slightly_smiling_face:",
+        "user": "U033RUXVCAY",
+        "ts": "1650561700.497509",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "eecae6570a19",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-18\/3149477154304_eecae6570a19ea1b9b9d_72.jpg",
+            "first_name": "Divyank",
+            "real_name": "Divyank Jain",
+            "display_name": "Divyank Jain",
+            "team": "T02PFK13YLC",
+            "name": "divyankjn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/contentmarketinginstitute.com\/articles\/content-marketing-basics?_mc=em_DailyAlert_VIP_42122_ContentMarketingBasics&utm_medium=email&utm_source=eloqua&utm_campaign=DailyAlert_VIP_42122_ContentMarketingBasics",
+                "image_url": "https:\/\/contentmarketinginstitute.com\/wp-content\/uploads\/2022\/04\/content-marketing-basics-jumpstart-content-practice.png",
+                "image_width": 454,
+                "image_height": 250,
+                "image_bytes": 61272,
+                "service_icon": "https:\/\/contentmarketinginstitute.com\/wp-content\/themes\/cmi\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/contentmarketinginstitute.com\/articles\/content-marketing-basics?_mc=em_DailyAlert_VIP_42122_ContentMarketingBasics&amp;utm_medium=email&amp;utm_source=eloqua&amp;utm_campaign=DailyAlert_VIP_42122_ContentMarketingBasics",
+                "fallback": "Content Marketing Institute: Content Marketing Basics: A Get-Started Guide",
+                "text": "Learn or revisit content marketing fundamentals with this guide to the best resources on the core elements of a successful practice – Content Marketing Institute",
+                "title": "Content Marketing Basics: A Get-Started Guide",
+                "title_link": "https:\/\/contentmarketinginstitute.com\/articles\/content-marketing-basics?_mc=em_DailyAlert_VIP_42122_ContentMarketingBasics&utm_medium=email&utm_source=eloqua&utm_campaign=DailyAlert_VIP_42122_ContentMarketingBasics",
+                "service_name": "Content Marketing Institute"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BEG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For someone who wants to revise few things\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/contentmarketinginstitute.com\/articles\/content-marketing-basics?_mc=em_DailyAlert_VIP_42122_ContentMarketingBasics&utm_medium=email&utm_source=eloqua&utm_campaign=DailyAlert_VIP_42122_ContentMarketingBasics",
+                                "text": "https:\/\/contentmarketinginstitute.com\/articles\/content-marketing-basics?_mc=em_DailyAlert_V[…]m_campaign=DailyAlert_VIP_42122_ContentMarketingBasics"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nA good read "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "66fc19a6-c366-4a8c-a97e-74942b27422e",
+        "type": "message",
+        "text": "Not sure if this has already been asked, but what is the career path of a content marketer in SaaS? Is it worth picking this as a niche and scaling up to like director levels or should one take a more generalist approach in SaaS marketing?",
+        "user": "U030XB8C43Y",
+        "ts": "1650599664.617489",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "a6830c796d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-08\/3094452278656_a6830c796d901d5036a1_72.jpg",
+            "first_name": "Nupura",
+            "real_name": "Nupura",
+            "display_name": "Nupura",
+            "team": "T02PFK13YLC",
+            "name": "nupura.ughade",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qUt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not sure if this has already been asked, but what is the career path of a content marketer in SaaS? Is it worth picking this as a niche and scaling up to like director levels or should one take a more generalist approach in SaaS marketing?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650599664.617489",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1650619628.742249",
+        "reply_users": [
+            "U039FQ2SNNN",
+            "U03A2UNJJDD",
+            "U03158A1WPK",
+            "U033ASE526S"
+        ],
+        "replies": [
+            {
+                "user": "U039FQ2SNNN",
+                "ts": "1650600674.391279"
+            },
+            {
+                "user": "U03A2UNJJDD",
+                "ts": "1650600879.044249"
+            },
+            {
+                "user": "U03158A1WPK",
+                "ts": "1650602559.137209"
+            },
+            {
+                "user": "U033ASE526S",
+                "ts": "1650619521.006409"
+            },
+            {
+                "user": "U033ASE526S",
+                "ts": "1650619628.742249"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c2a79336-2968-4abe-8c14-51c82cbfa953",
+        "type": "message",
+        "text": "Any recommendations on \"Pricing Page\",  examples of SaaS pricing pages which work well, how do you measure good Pricing page etc.",
+        "user": "U03158A1WPK",
+        "ts": "1650600586.771889",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5837aa37daee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3029573541474_5837aa37daee415bd34b_72.jpg",
+            "first_name": "Srikrishna",
+            "real_name": "Srikrishna Factors.ai",
+            "display_name": "Srikrishna Factors.ai",
+            "team": "T02PFK13YLC",
+            "name": "srikrishna",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kdDP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any recommendations on \"Pricing Page\",  examples of SaaS pricing pages which work well, how do you measure good Pricing page etc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650600586.771889",
+        "reply_count": 8,
+        "reply_users_count": 3,
+        "latest_reply": "1650635876.817939",
+        "reply_users": [
+            "U02UGB8DERY",
+            "U03158A1WPK",
+            "U039HH3LP43"
+        ],
+        "replies": [
+            {
+                "user": "U02UGB8DERY",
+                "ts": "1650600650.939859"
+            },
+            {
+                "user": "U02UGB8DERY",
+                "ts": "1650600692.834589"
+            },
+            {
+                "user": "U02UGB8DERY",
+                "ts": "1650600712.996219"
+            },
+            {
+                "user": "U02UGB8DERY",
+                "ts": "1650600902.506929"
+            },
+            {
+                "user": "U03158A1WPK",
+                "ts": "1650602588.543939"
+            },
+            {
+                "user": "U039HH3LP43",
+                "ts": "1650610777.237769"
+            },
+            {
+                "user": "U02UGB8DERY",
+                "ts": "1650611951.151479"
+            },
+            {
+                "user": "U03158A1WPK",
+                "ts": "1650635876.817939"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "abd24a9e-cb71-44d0-b3be-498689f3b96b",
+        "type": "message",
+        "text": "Have you looked at profitwell content for this?\n\n<https:\/\/www.profitwell.com\/recur\/all\/pricing-page-examples>\n\n<https:\/\/www.profitwell.com\/recur\/all\/saas-pricing>",
+        "user": "U02UGB8DERY",
+        "ts": "1650600650.939859",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4cda10dd85c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2962250036230_4cda10dd85c264b66a43_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Rajvanshi",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rahulrajvanshi2501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.profitwell.com\/recur\/all\/pricing-page-examples",
+                "image_url": "https:\/\/www.profitwell.com\/hubfs\/blob-561.png#keepProtocol",
+                "image_width": 350,
+                "image_height": 250,
+                "image_bytes": 36557,
+                "service_icon": "https:\/\/www.profitwell.com\/hs-fs\/hub\/120299\/file-2506145294-png\/pi_glyph.png",
+                "id": 1,
+                "original_url": "https:\/\/www.profitwell.com\/recur\/all\/pricing-page-examples",
+                "fallback": "Pricing Page Guide: What the Best 5 Pricing Pages Get Right [2020]",
+                "text": "One of the most important and often overlooked elements of your SaaS website is your pricing page. Don't slap together your pricing page at the last moment.",
+                "title": "Pricing Page Guide: What the Best 5 Pricing Pages Get Right [2020]",
+                "title_link": "https:\/\/www.profitwell.com\/recur\/all\/pricing-page-examples",
+                "service_name": "profitwell.com"
+            },
+            {
+                "from_url": "https:\/\/www.profitwell.com\/recur\/all\/saas-pricing",
+                "service_icon": "https:\/\/www.profitwell.com\/hs-fs\/hub\/120299\/file-2506145294-png\/pi_glyph.png",
+                "id": 2,
+                "original_url": "https:\/\/www.profitwell.com\/recur\/all\/saas-pricing",
+                "fallback": "A SaaS pricing guide: SaaS pricing models, strategies, &amp; examples",
+                "text": "Every SaaS company is different, but almost every single one makes a mistake that puts the company in jeopardy. It doesn't understand its SaaS pricing.",
+                "title": "A SaaS pricing guide: SaaS pricing models, strategies, &amp; examples",
+                "title_link": "https:\/\/www.profitwell.com\/recur\/all\/saas-pricing",
+                "service_name": "profitwell.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=dI0X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Have you looked at profitwell content for this?\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.profitwell.com\/recur\/all\/pricing-page-examples"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.profitwell.com\/recur\/all\/saas-pricing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650600586.771889",
+        "parent_user_id": "U03158A1WPK"
+    },
+    {
+        "client_msg_id": "95ac2157-a27a-4423-8fab-c9e84bec9eb3",
+        "type": "message",
+        "text": "Not sure if it’s for everyone but it depends totally on you. I began in marketing and in content and moved into inside sales which I really enjoyed and was able to see the true value of content. You could also make the move to CRO depending on how the company is structured.",
+        "user": "U039FQ2SNNN",
+        "ts": "1650600674.391279",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9bb6d1a8280e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-30\/3321818966962_9bb6d1a8280e6c254c07_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rohitguptatoday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ooti",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not sure if it’s for everyone but it depends totally on you. I began in marketing and in content and moved into inside sales which I really enjoyed and was able to see the true value of content. You could also make the move to CRO depending on how the company is structured."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650599664.617489",
+        "parent_user_id": "U030XB8C43Y",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U030XB8C43Y"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e050df52-625e-4185-b2ec-8b8009eb120b",
+        "type": "message",
+        "text": "<https:\/\/www.valueships.com\/post\/why-you-shouldnt-do-a-b-price-testing>",
+        "user": "U02UGB8DERY",
+        "ts": "1650600692.834589",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4cda10dd85c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2962250036230_4cda10dd85c264b66a43_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Rajvanshi",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rahulrajvanshi2501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.valueships.com\/post\/why-you-shouldnt-do-a-b-price-testing",
+                "image_url": "https:\/\/uploads-ssl.webflow.com\/5fafd074e878e83d43714920\/606d765e699d4fd07c279227_shutterstock_1335305078.jpg",
+                "image_width": 407,
+                "image_height": 250,
+                "image_bytes": 1907715,
+                "id": 1,
+                "original_url": "https:\/\/www.valueships.com\/post\/why-you-shouldnt-do-a-b-price-testing",
+                "fallback": "Why you shouldn’t do A\/B price testing?",
+                "text": "A\/B testing, as much as it works great for comparing landing pages or CTA (Call to Action) buttons, is not suitable for testing the pricing. And by \"not good\", I mean terrible to your business.",
+                "title": "Why you shouldn’t do A\/B price testing?",
+                "title_link": "https:\/\/www.valueships.com\/post\/why-you-shouldnt-do-a-b-price-testing",
+                "service_name": "valueships.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q=ReM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.valueships.com\/post\/why-you-shouldnt-do-a-b-price-testing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650600586.771889",
+        "parent_user_id": "U03158A1WPK",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039HH3LP43"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4a8483bb-e302-4457-9cec-a34a810c69b0",
+        "type": "message",
+        "text": "<https:\/\/www.lennyrachitsky.com\/p\/saas-pricing-strategy>",
+        "user": "U02UGB8DERY",
+        "ts": "1650600712.996219",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4cda10dd85c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2962250036230_4cda10dd85c264b66a43_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Rajvanshi",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rahulrajvanshi2501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.lennyrachitsky.com\/p\/saas-pricing-strategy",
+                "image_url": "https:\/\/cdn.substack.com\/image\/fetch\/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep\/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F971baee8-62bc-4007-8a62-b2179faef927_1600x900.png",
+                "image_width": 445,
+                "image_height": 250,
+                "image_bytes": 43741,
+                "service_icon": "https:\/\/bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com\/public\/images\/c7cde267-8f9e-47fa-9aef-5be03bad95ed\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.lennyrachitsky.com\/p\/saas-pricing-strategy",
+                "fallback": "Pricing your SaaS product",
+                "text": "Guest post by Patrick Campbell, CEO of ProfitWell",
+                "title": "Pricing your SaaS product",
+                "title_link": "https:\/\/www.lennyrachitsky.com\/p\/saas-pricing-strategy",
+                "service_name": "lennysnewsletter.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zkWjo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.lennyrachitsky.com\/p\/saas-pricing-strategy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650600586.771889",
+        "parent_user_id": "U03158A1WPK"
+    },
+    {
+        "client_msg_id": "fca20204-160d-42ec-9389-e3011973451f",
+        "type": "message",
+        "text": "Content - Seo - Marketing Analytics - Website manager - CRO - Growth Marketer - Head of Growth - AVP - VP - Director of growth- CMO",
+        "user": "U03A2UNJJDD",
+        "ts": "1650600879.044249",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "91a4f79ca4fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3342983706615_91a4f79ca4fe220decc9_72.jpg",
+            "first_name": "Chirag",
+            "real_name": "Chirag Parmar",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "chiragparmar.marketin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Nbp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Content - Seo - Marketing Analytics - Website manager - CRO - Growth Marketer - Head of Growth - AVP - VP - Director of growth- CMO"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650599664.617489",
+        "parent_user_id": "U030XB8C43Y",
+        "reactions": [
+            {
+                "name": "bulb",
+                "users": [
+                    "U030XB8C43Y"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dede9b86-2ab8-4447-86a9-2d65ff15dada",
+        "type": "message",
+        "text": "<https:\/\/www.profitwell.com\/recur\/pricing-page-teardown>",
+        "user": "U02UGB8DERY",
+        "ts": "1650600902.506929",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "4cda10dd85c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-18\/2962250036230_4cda10dd85c264b66a43_72.jpg",
+            "first_name": "Rahul",
+            "real_name": "Rahul Rajvanshi",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rahulrajvanshi2501",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.profitwell.com\/recur\/pricing-page-teardown",
+                "image_url": "https:\/\/www.profitwell.com\/hubfs\/PPT_Hubspot_Featured-Image_v1.png#keepProtocol",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 1954949,
+                "service_icon": "https:\/\/www.profitwell.com\/hs-fs\/hub\/120299\/file-2506145294-png\/pi_glyph.png",
+                "id": 1,
+                "original_url": "https:\/\/www.profitwell.com\/recur\/pricing-page-teardown",
+                "fallback": "Pricing Page Teardown | ProfitWell",
+                "text": "A weekly show where ProfitWell breaks down strategies and insights on how subscription companies from all corners of the market can win with monetization.",
+                "title": "Pricing Page Teardown | ProfitWell",
+                "title_link": "https:\/\/www.profitwell.com\/recur\/pricing-page-teardown",
+                "service_name": "profitwell.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MmS9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.profitwell.com\/recur\/pricing-page-teardown"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650600586.771889",
+        "parent_user_id": "U03158A1WPK"
+    },
+    {
+        "client_msg_id": "d1204285-ef3b-41e6-948c-fea5148c03e0",
+        "type": "message",
+        "text": "From what I have seen, you should figure out what you are enjoying the most, whether it is sales, product, marketing (product marketing, content, perf\/brand\/comms, field marketing). The basics are you need to write well, be data driven and importantly curious as an internal skill. Depending on what you enjoy the most, the career gets verticalized.\n\nSimple paths : From Content , you can easily move to manage the Content Team or Product Marketing\/Product team. From Content can also move to SEO and Perf Marketing. Having said this, at junior level Sales\/Product\/Marketing career paths are all open.",
+        "user": "U03158A1WPK",
+        "ts": "1650602559.137209",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5837aa37daee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3029573541474_5837aa37daee415bd34b_72.jpg",
+            "first_name": "Srikrishna",
+            "real_name": "Srikrishna Factors.ai",
+            "display_name": "Srikrishna Factors.ai",
+            "team": "T02PFK13YLC",
+            "name": "srikrishna",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pe64V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "From what I have seen, you should figure out what you are enjoying the most, whether it is sales, product, marketing (product marketing, content, perf\/brand\/comms, field marketing). The basics are you need to write well, be data driven and importantly curious as an internal skill. Depending on what you enjoy the most, the career gets verticalized.\n\nSimple paths : From Content , you can easily move to manage the Content Team or Product Marketing\/Product team. From Content can also move to SEO and Perf Marketing. Having said this, at junior level Sales\/Product\/Marketing career paths are all open."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650599664.617489",
+        "parent_user_id": "U030XB8C43Y",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U030XB8C43Y",
+                    "U030ZR9D0FK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d0971b33-51ee-49c4-bf65-6cd6a056ddd6",
+        "type": "message",
+        "text": "wow, thanks a lot <@U02UGB8DERY>",
+        "user": "U03158A1WPK",
+        "ts": "1650602588.543939",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5837aa37daee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3029573541474_5837aa37daee415bd34b_72.jpg",
+            "first_name": "Srikrishna",
+            "real_name": "Srikrishna Factors.ai",
+            "display_name": "Srikrishna Factors.ai",
+            "team": "T02PFK13YLC",
+            "name": "srikrishna",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "20\/U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wow, thanks a lot "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02UGB8DERY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650600586.771889",
+        "parent_user_id": "U03158A1WPK"
+    },
+    {
+        "client_msg_id": "71f470ff-1e97-4adc-a4d9-ae83a07fb790",
+        "type": "message",
+        "text": "Any freelance content writers reference? I am looking for some one to help me at <http:\/\/Dyte.io|Dyte.io>",
+        "user": "U02VBQCQ7EG",
+        "ts": "1650607146.944009",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "fa5eb8510b89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2995555726371_fa5eb8510b89c7a7a37d_72.jpg",
+            "first_name": "Karthick",
+            "real_name": "Karthick Raajha",
+            "display_name": "Karthick Raajha",
+            "team": "T02PFK13YLC",
+            "name": "kraajha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02VBQCQ7EG",
+            "ts": "1650607157.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9X6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any freelance content writers reference? I am looking for some one to help me at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Dyte.io",
+                                "text": "Dyte.io"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650607146.944009",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1650619041.000689",
+        "reply_users": [
+            "U031AUATXA4",
+            "U02VBQCQ7EG"
+        ],
+        "replies": [
+            {
+                "user": "U031AUATXA4",
+                "ts": "1650607184.501099"
+            },
+            {
+                "user": "U02VBQCQ7EG",
+                "ts": "1650607217.578199"
+            },
+            {
+                "user": "U031AUATXA4",
+                "ts": "1650619041.000689"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "bd914da3-07bd-4c3d-80a7-d180e2ffd462",
+        "type": "message",
+        "text": "You might want to give more context regarding the type of writing expected.",
+        "user": "U031AUATXA4",
+        "ts": "1650607184.501099",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "5603c9dbfdce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-27\/3023528015140_5603c9dbfdce937bc3fb_72.jpg",
+            "first_name": "Disha",
+            "real_name": "Disha Parekh",
+            "display_name": "Disha",
+            "team": "T02PFK13YLC",
+            "name": "disha.parekh50",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w6ag",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You might want to give more context regarding the type of writing expected."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650607146.944009",
+        "parent_user_id": "U02VBQCQ7EG"
+    },
+    {
+        "client_msg_id": "4497f7f3-f8ef-4d37-96e7-2ba8d9e5fbce",
+        "type": "message",
+        "text": "Blogs mostly to start with.",
+        "user": "U02VBQCQ7EG",
+        "ts": "1650607217.578199",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "fa5eb8510b89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-24\/2995555726371_fa5eb8510b89c7a7a37d_72.jpg",
+            "first_name": "Karthick",
+            "real_name": "Karthick Raajha",
+            "display_name": "Karthick Raajha",
+            "team": "T02PFK13YLC",
+            "name": "kraajha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5f\/k7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Blogs mostly to start with."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650607146.944009",
+        "parent_user_id": "U02VBQCQ7EG"
+    },
+    {
+        "client_msg_id": "b1993913-2634-4316-aea8-95c3e301819c",
+        "type": "message",
+        "text": "Any reviews of <http:\/\/Peppercontent.io|Peppercontent.io>?",
+        "user": "U03BZJ0KK1R",
+        "ts": "1650607574.875169",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "043af8ffe832",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-19\/3431356209440_043af8ffe832522f4bd9_72.png",
+            "first_name": "kinjal",
+            "real_name": "kinjal vora",
+            "display_name": "kinjal vora",
+            "team": "T02PFK13YLC",
+            "name": "kinj28",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bbW7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any reviews of "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Peppercontent.io",
+                                "text": "Peppercontent.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650607574.875169",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650607627.741509",
+        "reply_users": [
+            "U039FQ2SNNN"
+        ],
+        "replies": [
+            {
+                "user": "U039FQ2SNNN",
+                "ts": "1650607627.741509"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "3fc7e513-5c2a-420e-b5ef-4b9434af6a7c",
+        "type": "message",
+        "text": "thread - <https:\/\/s11s.slack.com\/archives\/C02UJ1ED951\/p1649146472890289>",
+        "user": "U039FQ2SNNN",
+        "ts": "1650607627.741509",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "9bb6d1a8280e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-30\/3321818966962_9bb6d1a8280e6c254c07_72.jpg",
+            "first_name": "Rohit",
+            "real_name": "Rohit Gupta",
+            "display_name": "",
+            "team": "T02PFK13YLC",
+            "name": "rohitguptatoday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/s11s.slack.com\/archives\/C02UJ1ED951\/p1649146472890289",
+                "ts": "1649146472.890289",
+                "author_id": "U02VBNKU9T6",
+                "channel_team": "T02PFK13YLC",
+                "channel_id": "C02UJ1ED951",
+                "channel_name": "content-marketing",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T02PFK13YLC",
+                        "channel": "C02UJ1ED951",
+                        "ts": "1649146472.890289",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "DbC=",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Folks, how has your experience with Pepper content been? For me, it's not been very good. Two assignments, and so much back and forth. Writers not sticking to the brief, very fluffy and overall drab. Just wanted to check if it's just me, or if anyone has had similar mis-experiences. "
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/s11s.slack.com\/archives\/C02UJ1ED951\/p1649146472890289",
+                "fallback": "[April 5th, 2022 1:14 AM] ketan.pandit: Folks, how has your experience with Pepper content been? For me, it's not been very good. Two assignments, and so much back and forth. Writers not sticking to the brief, very fluffy and overall drab. Just wanted to check if it's just me, or if anyone has had similar mis-experiences.",
+                "text": "Folks, how has your experience with Pepper content been? For me, it's not been very good. Two assignments, and so much back and forth. Writers not sticking to the brief, very fluffy and overall drab. Just wanted to check if it's just me, or if anyone has had similar mis-experiences.",
+                "author_name": "Ketan Pandit",
+                "author_link": "https:\/\/s11s.slack.com\/team\/U02VBNKU9T6",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2022-01-24\/3008104796193_cb0a1d3d83f2e60942d4_48.jpg",
+                "author_subname": "Ketan Pandit",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Thread in #content-marketing"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L+5Q2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thread - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/s11s.slack.com\/archives\/C02UJ1ED951\/p1649146472890289"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650607574.875169",
+        "parent_user_id": "U03BZJ0KK1R"
+    },
+    {
+        "client_msg_id": "18944203-fbc2-4e5f-9507-f21615a4e659",
+        "type": "message",
+        "text": "I was going through <https:\/\/chartmogul.com\/blog\/saas-pricing-pages-2017\/|this> a few months back. Found it helpful then.",
+        "user": "U039HH3LP43",
+        "ts": "1650610777.237769",
+        "team": "T02PFK13YLC",
+        "user_team": "T02PFK13YLC",
+        "source_team": "T02PFK13YLC",
+        "user_profile": {
+            "avatar_hash": "1144b026b649",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-31\/3336199201073_1144b026b6497d778b90_72.jpg",
+            "first_name": "Adarsh",
+            "real_name": "Adarsh Srivastava",
+            "display_name": "Adarsh Srivastava",
+            "team": "T02PFK13YLC",
+            "name": "ray.realchamp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/chartmogul.com\/blog\/saas-pricing-pages-2017\/",
+                "ts": 1500540111,
+                "image_url": "https:\/\/chartmogul.com\/blog\/wp-content\/uploads\/2017\/07\/pricing-collage-1024x427.jpg",
+                "image_width": 600,
+                "image_height": 250,
+                "image_bytes": 70556,
+                "service_icon": "https:\/\/chartmogul.com\/blog\/wp-content\/uploads\/2018\/06\/favicon-96x96.png",
+                "id": 1,
+                "original_url": "https:\/\/chartmogul.com\/blog\/saas-pricing-pages-2017\/",
+                "fallback": "ChartMogul: B2B SaaS pricing pages in 2017: Lessons from 100+ top businesses",
+                "text": "We analyzed over 100 B2B SaaS Pricing pages to look at the trends, standards and innovation in one of the most important parts of any SaaS website. See the full-length screenshots, take a look at the data and browse through our findings!",
+                "title": "B2B SaaS pricing pages in 2017: Lessons from 100+ top businesses",
+                "title_link": "https:\/\/chartmogul.com\/blog\/saas-pricing-pages-2017\/",
+                "service_name": "ChartMogul",
+                "fields": [
+                    {
+                        "value": "Ed Shelley",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "19 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NcG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was going through "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chartmogul.com\/blog\/saas-pricing-pages-2017\/",
+                                "text": "this"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a few months back. Found it helpful then."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650600586.771889",
+        "parent_user_id": "U03158A1WPK"
+    }
+]
